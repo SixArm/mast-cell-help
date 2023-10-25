@@ -2,7 +2,7 @@
 
 Mast cell activation syndrome (MCAS) notes about references, diagnostics, treatments.
 
-Ask your doctor, nurse, or other medical provider about these notes.
+Ask your doctor, nurse, or healthcare provider about these notes.
 
 
 ## References
@@ -14,18 +14,43 @@ Introductions:
 - [Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity](https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615)
 
 
-Recent medical journal articles:
+Medical journal articles that are summarizing:
+
+- [Diagnosis of mast cell activation syndrome: a global “consensus-2”](https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html)
+
+
+Medical journal articles that are innovating:
 
 - [Mast Cell Activation Disease and Microbiotic Interactions - By Afrin et al.](https://www.clinicaltherapeutics.com/article/S0149-2918(15)00074-0/fulltext)
 
 - [Commensal bacteria directly suppress in vitro degranulation of mast cells in a MyD88-independent manner - By Kasakura et al.](https://www.tandfonline.com/doi/full/10.1080/09168451.2014.930327)
 
-	
-Glossary:
 
-- Rx: prescripion
+Medical chart notation:
+
+- dx: diagnosis
+
+- hx: history
+
+- px: patient
+
+- rx: prescripion
+
+- sx: symptom
+
+- tx: treatment
+
+
+Medical abbreviations:
+
+- CT: computerized tomography
+
+- MC: mast cell
+
+- MCAS: Mast Cell Activation Syndrome
 
 - OTC: over the counter
+
 
 
 ## Diagnostics
@@ -41,7 +66,7 @@ Nose-throat testing can be done by an ear-nose-throat (ENT) specialist or simila
 
 If testing turns up acid issues:
 
-- [ ] Rx antacid, such as Famotidine, a.k.a. brand name Pepcid.
+- [ ] Rx antacid, such as famotidine (a.k.a. brand name Pepcid).
 
   - In addition to decreasing acid, famotidine is a histamine-2 blocker (H2 blocker).
 
@@ -68,111 +93,31 @@ Aim for comprehensive testing of GI toxins:
 ## Treatments
 
 
-### Supplements
+Healthy nutrition:
 
-Supplements for typical daily mornings:
+* [Foods](foods/)
 
-- [ ] Multivitamin
-
-- [ ] Vitamin C
-
-- [ ] Glucothione
-
-- [ ] Quercetin
-
-- [ ] Turmeric
-
-
-### Histamine symptom management
-
-Medications:
-
-- [ ] Daily montelukast (Rx).
-
-- [ ] Daily morning & evening H1 + H2 oral antihistamines (OTC).
-
-- [ ] Daily morning & evening nasal sprays.
-
-
-### Low-histamine low-salicylic diet
-
-- [ ] Cruciferous vegetables such as broccoli and kale.
-
-- [ ] Red peppers and orange peppers; not other peppers.
-
-- [ ] Onions.
-
-- [ ] Garlic.
-
-- [ ] Golden delicious apples; not other apples.
-
-- [ ] Hemp milk.
-
-- [ ] Flax seeds and chia seeds.
-
-- [ ] Olive oil and coconut oil.
-
-- [ ] Dried legumes: chickpeas, black beans, kidney beans.
-
-
-Egg yolks
-
-### Allergy foods to avoid
-
-The United States Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA) identifies eight foods as major food allergens:
-
-Allergen foods include:
-
-- celery
-
-- cereal grains that contain gluten, such as wheat, barley, and oats
-
-- crustaceans, such as prawns, crabs and lobsters
-
-- eggs
-
-- fish
-
-- lupin
-
-- milk
-
-- molluscs, such as mussels and oysters
-
-- mustard
-
-- peanuts
-
-- sesame
-
-- soybeans
-
-- sulphur dioxide and sulphites
-
-- tree nuts
-
-Especially aim to avoid these kinds of foods until after you have allergy test results:
-
-- [ ] Dairy, such as milk, cream, butter, cheese, yogurt, ice cream, etc.
-
-  - Dairy is found in many foods, such as whey products, casien products, etc.
-
-  - Aim for food that is labeled "Dairy Free" or "DF".
-
-- [ ] Gluten, such as wheat, barley, and oats.
-
-  - Gluten is found in many kinds of breads, pastas, beers, etc. 
-
-  - Aim for food that is labeled "Gluten Free" or "GF".
-
-- [ ] Nuts, such as peanuts and tree nuts.
+* [Supplements](supplements/)
 
 
 References:
 
-- [What is a low-histamine diet?](https://www.verywellhealth.com/what-is-a-low-histamine-diet-4694529)
+* [The Impact of Food Histamine Intake on Asthma Activity: A Pilot Study](https://www.mdpi.com/2072-6643/12/11/3402)
 
-- [Salicylate sensitivity](https://aimcenterpm.com/salicylate-sensitivity/)
+
+### Histamine symptom management
+
+Daily medications:
+
+- [ ] Montelukast (a.k.a. brand name Singulair) (Rx)
+
+- [ ] Morning & evening H1 + H2 oral antihistamines (OTC)
+
+- [ ] Morning & evening nasal sprays
+
+Also:
+
+- [ ] Adrenaline (a.ka. epinephrine) emergency auto-injector (a.k.a. brand name EpiPen)
 
 
 ### Anti-fungal herbal agents

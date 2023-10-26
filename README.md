@@ -4,6 +4,10 @@ Mast cell activation syndrome (MCAS) notes about references, diagnostics, treatm
 
 Ask your doctor, nurse, or healthcare provider about these notes.
 
+Feedback welcome via GitHub issues or email to joel@joelparkerhenderson.com.
+
+[Glossary](glossary/)
+
 
 ## References
 
@@ -24,33 +28,6 @@ Medical journal articles that are innovating:
 - [Mast Cell Activation Disease and Microbiotic Interactions - By Afrin et al.](https://www.clinicaltherapeutics.com/article/S0149-2918(15)00074-0/fulltext)
 
 - [Commensal bacteria directly suppress in vitro degranulation of mast cells in a MyD88-independent manner - By Kasakura et al.](https://www.tandfonline.com/doi/full/10.1080/09168451.2014.930327)
-
-
-Medical chart notation:
-
-- dx: diagnosis
-
-- hx: history
-
-- px: patient
-
-- rx: prescripion
-
-- sx: symptom
-
-- tx: treatment
-
-
-Medical abbreviations:
-
-- CT: computerized tomography
-
-- MC: mast cell
-
-- MCAS: Mast Cell Activation Syndrome
-
-- OTC: over the counter
-
 
 
 ## Diagnostics

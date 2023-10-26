@@ -1,4 +1,4 @@
-# Mast cell activation syndrome (MACS) treatments
+# Mast Cell Activation Syndrome treatments
 
 The treatment of Mast Cell Activation Syndrome (MCAS) typically focuses on relieving symptoms and preventing the inappropriate activation of mast cells. The approach to treatment may involve a combination of strategies, and it is highly individualized, as the severity and specific symptoms of MCAS can vary widely among individuals. 
 

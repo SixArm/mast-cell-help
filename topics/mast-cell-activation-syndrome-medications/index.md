@@ -1,6 +1,6 @@
-# MACS treatments: medications
+# Mast Cell Activation Syndrome (MCAS) medications
 
-MACS treatments can use medications such as:
+ Mast Cell Activation Syndrome (MCAS) treatments can use medications such as:
 
 * Antihistamines: Non-sedating, second-generation antihistamines like cetirizine (Zyrtec), loratadine (Claritin), or fexofenadine (Allegra) are commonly used to block the effects of histamine and manage symptoms such as itching, flushing, and hives.
 

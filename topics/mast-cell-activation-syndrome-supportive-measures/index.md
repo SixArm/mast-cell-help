@@ -1,6 +1,6 @@
-# MCAS treatment supportive measures
+# Mast Cell Activation Syndrome supportive measures
 
-MCAS treatment supportive measures include:
+Mast Cell Activation Syndrome (MCAS) treatments can use supportive measures such as:
 
 * Stress Management: Stress can exacerbate MCAS symptoms. Stress reduction techniques, such as mindfulness, relaxation, and therapy, can be helpful.
   

@@ -1,4 +1,4 @@
-#  Mast cell
+# Mast Cell
 
 A mast cell is a type of white blood cell that is an essential part of the immune system. These specialized cells are found in various tissues throughout the body, especially in areas that are in close contact with the external environment, such as the skin, respiratory and gastrointestinal tracts, and blood vessels. Mast cells play a significant role in the body's response to potential threats and immune reactions.
 

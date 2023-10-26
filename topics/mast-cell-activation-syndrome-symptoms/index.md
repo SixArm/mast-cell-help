@@ -1,4 +1,4 @@
-# Mast Cell Activation Syndrome (MCAS) symptoms
+# Mast Cell Activation Syndrome symptoms
 
 Mast Cell Activation Syndrome (MCAS) is a condition characterized by the inappropriate activation of mast cells, which are immune cells that play a role in the body's allergic and inflammatory responses. MCAS can lead to a wide range of symptoms that can affect various organ systems. These symptoms can vary from person to person and may be mild or severe.
 

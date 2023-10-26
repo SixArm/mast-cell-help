@@ -1,6 +1,16 @@
 # TODO
 
-Sympoms:
+Is there a cure?
+
+Current research areas
+
+Rheumatoid arthritis
+
+Chronic inflammation
+
+Rhinitis
+
+Symptoms:
 
 * hypotension
 * tachycardia

@@ -6,7 +6,7 @@ Supplements for typical mornings:
 
 * [ ] Vitamin C
 
-* [ ] Glucothione
+* [ ] Glutathione
 
 * [ ] Quercetin
 

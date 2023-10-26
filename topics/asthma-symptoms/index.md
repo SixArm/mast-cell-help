@@ -1,0 +1,35 @@
+# Asthma symptoms
+
+Asthma symptoms can vary from person to person and can range from mild to severe. They are typically episodic, with periods of symptom flare-ups (asthma attacks) and times of improved lung function. 
+
+* Coughing: A persistent cough, often worse at night or early in the morning, is a hallmark symptom of asthma. The cough may be dry or produce mucus.
+
+* Wheezing: Wheezing is a high-pitched whistling sound that occurs when you breathe, particularly during exhalation. It is caused by the narrowing of the airways and the movement of air through constricted passages.
+
+* Shortness of Breath: People with asthma may experience a sensation of breathlessness, as if they can't get enough air. This is often associated with chest tightness.
+
+* Chest Tightness: Asthma can cause a feeling of pressure or tightness in the chest. It may be described as a heavy or squeezing sensation.
+
+* Increased Mucus Production: Asthma can lead to increased mucus production in the airways, which can contribute to coughing and difficulty breathing.
+
+* Nighttime Changes: Asthma symptoms often worsen at night or in the early morning hours. This is known as "nocturnal asthma." Nighttime symptoms can disrupt sleep and lead to daytime fatigue.
+
+* Responses to Medication: A hallmark of asthma is that its symptoms often respond to bronchodilator medications, like albuterol. If your symptoms improve after using a bronchodilator, it can be an indication of asthma.
+
+Asthma symptoms may be triggered or worsened by various factors, including:
+
+* Allergens (e.g., pollen, dust mites, pet dander)
+
+* Respiratory infections (e.g., colds and flu)
+
+* Irritants (e.g., smoke, air pollution, strong odors)
+
+* Exercise (exercise-induced bronchoconstriction)
+
+* Stress and strong emotions
+
+* Exposure to cold air
+
+* Occupational exposures (e.g., workplace chemicals or allergens)
+
+It's important to remember that asthma symptoms can be well-controlled with appropriate treatment. If you experience any of these symptoms, especially if they are recurrent or interfere with your daily activities, it's important to seek medical evaluation. Early diagnosis and proper management can help individuals with asthma lead active and healthy lives with minimal symptoms and reduce the risk of asthma attacks. If you or someone you know is experiencing severe asthma symptoms, including extreme shortness of breath, and symptoms that don't respond to rescue inhalers, seek immediate medical attention. This may indicate a severe asthma exacerbation.

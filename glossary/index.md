@@ -4,17 +4,19 @@ Glossary of terminology that can help with these topics…
 
 Medical chart notation:
 
-* dx: diagnosis
+* pt: patient
 
 * hx: history
-
-* px: patient
-
-* rx: prescription
 
 * sx: symptom
 
 * tx: treatment
+
+* dx: diagnosis
+
+* rx: prescription
+
+* px: prognosis
 
 
 Scientific units of measurement:
@@ -66,13 +68,17 @@ Medical terminology:
 
 * ER: Emergency Room
   
+* HAT: hereditary alpha-tryptasemia
+
 * IM: intra-muscular
 
 * IV: intravenous
     
 * MC: mast cell
 
-* MCAS: Mast Cell Activation Syndrome
+* MCA: mast cell activation
+
+* MCAS: mast cell activation syndrome
   
 * OTC: over the counter
 

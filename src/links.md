@@ -14,6 +14,14 @@
 * [Antihistamine](antihistamine)
 * [Diamine oxidase](diamine-oxidase)
 
+### [Histamine intolerance](histamine-intolerance)
+
+* [Symptoms](histamine-intolerance-symptoms)
+* [Dietary triggers](histamine-intolerance-dietary-triggers)
+* [Diagnosis](histamine-intolerance-diagnosis)
+* [Severity](histamine-intolerance-severity)
+* [Treatments](histamine-intolerance-treatments)
+
 ### [Anaphylaxis](anaphylaxis)
 
 * [Symptoms](anaphylaxis-symptoms)
@@ -29,17 +37,24 @@
 * [Severity](asthma-severity)
 * [Treatments](asthma-treatments)
 
-### [Histamine intolerance](histamine-intolerance)
+### [Hypertryptasemia](hypertryptasemia)
 
-* [Symptoms](histamine-intolerance-symptoms)
-* [Dietary triggers](histamine-intolerance-dietary-triggers)
-* [Diagnosis](histamine-intolerance-diagnosis)
-* [Severity](histamine-intolerance-severity)
-* [Treatments](histamine-intolerance-treatments)
+### [Dysautonomia](hypotension)
+
+### [Dysautonomia](dysautonomia)
+
+### [Bronchiospasm](bronchiospasm)
+
+### [Bradycardia](bradycardia)
+
+### [Presyncope](presyncope)
 
 ### [Elimination diet](elimination-diet)
 
 * [Food diary](food-diary)
+* [Electrolytes](electrolytes)
+
+### [Corticosteroids](corticosteroids)
 
 ### [Low-histamine diet](low-histamine-diet)
 
@@ -99,4 +114,3 @@
 * [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
 * [Never Bet Against Occam - By Lawrence Afrin](never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](the-4-phase-histamine-reset-plan-by-becky-campbell)
-  

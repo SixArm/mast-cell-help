@@ -11,137 +11,137 @@ Mast cell activation syndrome (MCAS) Guide: this book explains one topic per pag
 
 ## Contents
 
-Mast cell activation syndrome (MACS)
+### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
 
-* Symptoms
-* Diagnosis
-* Severity
-* Treatments
-* Medications
-* Dietary modifications
-* Supportive measures
+* [Symptoms](topics/mast-cell-activation-syndrome-symptoms)
+* [Diagnosis](topics/mast-cell-activation-syndrome-diagnosis)
+* [Severity](topics/mast-cell-activation-syndrome-severity)
+* [Treatments](topics/mast-cell-activation-syndrome-treatments)
+* [Medications](topics/mast-cell-activation-syndrome-medications)
+* [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications)
+* [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures)
 
-Inflammation
+### [Inflammation](topics/inflammation)
 
-* Histamine
-* Antihistamine
-* Diamine oxidase
+* [Histamine](topics/histamine)
+* [Antihistamine](topics/antihistamine)
+* [Diamine oxidase](topics/diamine-oxidase)
 
-Histamine intolerance
+### [Histamine intolerance](topics/histamine-intolerance)
 
-* Symptoms
-* Dietary triggers
-* Diagnosis
-* Severity
-* Treatments
+* [Symptoms](topics/histamine-intolerance-symptoms)
+* [Dietary triggers](topics/histamine-intolerance-dietary-triggers)
+* [Diagnosis](topics/histamine-intolerance-diagnosis)
+* [Severity](topics/histamine-intolerance-severity)
+* [Treatments](topics/histamine-intolerance-treatments)
 
-Anaphylaxis
+### [Anaphylaxis](topics/anaphylaxis)
 
-* Symptoms
-* Diagnosis
-* Severity
-* Treatments
-* Emergency protocol
+* [Symptoms](topics/anaphylaxis-symptoms)
+* [Diagnosis](topics/anaphylaxis-diagnosis)
+* [Severity](topics/anaphylaxis-severity)
+* [Treatments](topics/anaphylaxis-treatments)
+* [Emergency protocol](topics/anaphylaxis-emergency-protocol)
 
-Asthma
+### [Asthma](topics/asthma)
 
-* Symptoms
-* Diagnosis
-* Severity
-* Treatments
+* [Symptoms](topics/asthma-symptoms)
+* [Diagnosis](topics/asthma-diagnosis)
+* [Severity](topics/asthma-severity)
+* [Treatments](topics/asthma-treatments)
 
-Allergies
+### Allergies
 
-* Allergy
-* Allergic reaction
+* [Allergy](topics/allergy)
+* [Allergic reaction](topics/allergic-reaction)
 
-Mastocytosis
+### [Mastocytosis](topics/mastocytosis)
 
-* Cutaneous mastocytosis
-* Systemic mastocytosis
+* [Cutaneous mastocytosis](topics/cutaneous-mastocytosis)
+* [Systemic mastocytosis](topics/systemic-mastocytosis)
 
-Blood cells
+### [Blood cells](topics/blood-cells)
 
-* Mast cell
-* White blood cell (WBC)
-* Red blood cell (RBC)
-* Platelet
+* [Mast cell](topics/mast-cell)
+* [White blood cell (WBC)](topics/white-blood-cell)
+* [Red blood cell (RBC)](topics/red-blood-cell)
+* [Platelet](topics/platelet)
   
-Dysautonomia
+### [Dysautonomia](topics/dysautonomia)
 
-Hypertryptasemia
+### [Hypertryptasemia](topics/hypertryptasemia)
 
-Hypotension
+### [Hypotension](topics/hypotension)
 
-Bradycardia
+### [Bradycardia](topics/bradycardia)
 
-Bronchiospasm
+### [Bronchiospasm](topics/bronchiospasm)
 
-Presyncope
+### [Presyncope](topics/presyncope)
 
-Bronchodilators
+### [Bronchodilators](topics/bronchodilators)
 
-Corticosteroids
+### [Corticosteroids](topics/corticosteroids)
 
-Electrolytes
+### [Electrolytes](topics/electrolytes)
 
-Elimination diet
+### [Elimination diet](topics/elimination-diet)
 
-* Food diary
+* [Food diary](topics/food-diary)
 
-Low-histamine diet
+### [Low-histamine diet](topics/low-histamine-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-histamine-diet-foods-to-choose)
+* [Foods to avoid](topics/low-histamine-diet-foods-to-avoid)
 
-Low-allergen diet
+### [Low-allergen diet](topics/low-allergen-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-allergen-diet-foods-to-choose)
+* [Foods to avoid](topics/low-allergen-diet-foods-to-avoid)
 
-Low-oxalate diet
+### [Low-oxalate diet](topics/low-oxalate-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-oxalate-diet-foods-to-choose)
+* [Foods to avoid](topics/low-oxalate-diet-foods-to-avoid)
 
-Low-lectin diet
+### [Low-lectin diet](topics/low-lectin-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-lectin-diet-foods-to-choose)
+* [Foods to avoid](topics/low-lectin-diet-foods-to-avoid)
 
-Low-FODMAP diet
+### [Low-FODMAP diet](topics/low-fodmap-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-fodmap-diet-foods-to-choose)
+* [Foods to avoid](topics/low-fodmap-diet-foods-to-avoid)
 
-Low-salicylate diet
+### [Low-salicylate diet](topics/low-salicylate-diet)
 
-* Foods to choose
-* Foods to avoid
+* [Foods to choose](topics/low-salicylate-diet-foods-to-choose)
+* [Foods to avoid](topics/low-salicylate-diet-foods-to-avoid)
 
-Dietary supplements
+### [Dietary supplements](topics/dietary-supplements)
 
-* Multivitamin
-* Diamine oxidase
-* Vitamin C
-* Omega-3
-* Quercetin
-* Glutathione
-* Turmeric
-* B vitamins
-* Calcium
-* Copper
-* Zinc
+* [Multivitamin](topics/multivitamin)
+* [Diamine oxidase](topics/diamine-oxidase-dietary-supplement)
+* [Vitamin C](topics/vitamin-c)
+* [Omega-3](topics/omega-3)
+* [Quercetin](topics/quercetin)
+* [Glutathione](topics/glutathione)
+* [Turmeric](topics/turmeric)
+* [B vitamins](topics/b-vitamins)
+* [Calcium](topics/calcium)
+* [Copper](topics/copper)
+* [Zinc](topics/zinc)
 
-Bile acid sequestrants
+### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
-* Cholestyramine
-* Colesevelam (a.k.a. Welchol)
-* Activated charcoal
+* [Cholestyramine](topics/cholestyramine)
+* [Colesevelam (a.k.a. Welchol)](topics/colesevelam)
+* [Activated charcoal](topics/activated-charcoal)
 
-Books
+### [Books](topics/books)
 
-* Mast Cells United - By Amber Walker
-* Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten
-* Never Bet Against Occam - By Lawrence Afrin
-* The 4-Phase Histamine Reset Plan - By Becky Campbell
+* [Mast Cells United - By Amber Walker](topics/mast-cells-united-by-amber-walker)
+* [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
+* [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
+* [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)

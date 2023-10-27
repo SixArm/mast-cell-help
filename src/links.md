@@ -55,14 +55,21 @@
 * [Platelet](platelet)
   
 ### [Dysautonomia](dysautonomia)
+
 ### [Hypertryptasemia](hypertryptasemia)
+
 ### [Hypotension](hypotension)
+
 ### [Bradycardia](bradycardia)
+
 ### [Bronchiospasm](bronchiospasm)
+
 ### [Presyncope](presyncope)
 
 ### [Bronchodilators](bronchodilators)
+
 ### [Corticosteroids](corticosteroids)
+
 ### [Electrolytes](electrolytes)
 
 ### [Elimination diet](elimination-diet)

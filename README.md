@@ -4,13 +4,10 @@
 
 Mast cell activation syndrome (MCAS) Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free e-book [EPUB](mast-cell-activation-syndrome-guide.epub) or [PDF](software-programming-guide.pdf) or [PDF](mast-cell-activation-syndrome-guide.pdf).
+* Download the free e-book file [EPUB](mast-cell-activation-syndrome-guide.epub) or [PDF](software-programming-guide.pdf).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
-* For contributions and donations [PayPal me](https://paypal.me/joelparkerhenderson].
-  [Glossary](glossary/)
-
-
+* For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson)
 
 ## Contents
 

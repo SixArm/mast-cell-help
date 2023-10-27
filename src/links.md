@@ -37,24 +37,37 @@
 * [Severity](asthma-severity)
 * [Treatments](asthma-treatments)
 
-### [Hypertryptasemia](hypertryptasemia)
+### Allergies
 
-### [Dysautonomia](hypotension)
+* [Allergy](allergy)
+* [Allergic reaction](allergic-reaction)
 
+### [Mastocytosis](mastocytosis)
+
+* [Cutaneous mastocytosis](cutaneous-mastocytosis)
+* [Systemic mastocytosis](systemic-mastocytosis)
+
+### [Blood cells](blood-cells)
+
+* [Mast cell](mast-cell)
+* [White blood cell (WBC)](white-blood-cell)
+* [Red blood cell (RBC)](red-blood-cell)
+* [Platelet](platelet)
+  
 ### [Dysautonomia](dysautonomia)
-
-### [Bronchiospasm](bronchiospasm)
-
+### [Hypertryptasemia](hypertryptasemia)
+### [Hypotension](hypotension)
 ### [Bradycardia](bradycardia)
-
+### [Bronchiospasm](bronchiospasm)
 ### [Presyncope](presyncope)
+
+### [Bronchodilators](bronchodilators)
+### [Corticosteroids](corticosteroids)
+### [Electrolytes](electrolytes)
 
 ### [Elimination diet](elimination-diet)
 
 * [Food diary](food-diary)
-* [Electrolytes](electrolytes)
-
-### [Corticosteroids](corticosteroids)
 
 ### [Low-histamine diet](low-histamine-diet)
 
@@ -66,27 +79,25 @@
 * [Foods to choose](low-allergen-diet-foods-to-choose)
 * [Foods to avoid](low-allergen-diet-foods-to-avoid)
 
+### [Low-oxalate diet](low-oxalate-diet)
+
+* [Foods to choose](low-oxalate-diet-foods-to-choose)
+* [Foods to avoid](low-oxalate-diet-foods-to-avoid)
+
+### [Low-lectin diet](low-lectin-diet)
+
+* [Foods to choose](low-lectin-diet-foods-to-choose)
+* [Foods to avoid](low-lectin-diet-foods-to-avoid)
+
+### [Low-FODMAP diet](low-fodmap-diet)
+
+* [Foods to choose](low-fodmap-diet-foods-to-choose)
+* [Foods to avoid](low-fodmap-diet-foods-to-avoid)
+
 ### [Low-salicylate diet](low-salicylate-diet)
 
 * [Foods to choose](low-salicylate-diet-foods-to-choose)
 * [Foods to avoid](low-salicylate-diet-foods-to-avoid)
-
-### [Blood cells](blood-cells)
-
-* [Mast cell](mast-cell)
-* [White blood cell (WBC)](white-blood-cell)
-* [Red blood cell (RBC)](red-blood-cell)
-* [Platelet](platelet)
-  
-### [Mastocytosis](mastocytosis)
-
-* [Cutaneous mastocytosis](cutaneous-mastocytosis)
-* [Systemic mastocytosis](systemic-mastocytosis)
-
-### Allergies
-
-* [Allergy](allergy)
-* [Allergic reaction](allergic-reaction)
 
 ### [Dietary supplements](dietary-supplements)
 

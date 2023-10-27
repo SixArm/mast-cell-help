@@ -1,4 +1,6 @@
-# Mast cell activation syndrome (MCAS) 
+# Mast Cell Activation Syndrome Guide
+
+<img src="README.jpg" alt="splash" style="width: 100%;"/>
 
 Mast cell activation syndrome (MCAS) notes about references, diagnostics, treatments.
 

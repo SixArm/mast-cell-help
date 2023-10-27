@@ -13,7 +13,7 @@ build.md:
 	book-binder start.yml links.md build.md ${top}/topics
 
 ${key}.epub:
-	~/git/sixarm/pandoc-from-markdown-to-pdf/pandoc-from-markdown-to-epub build.md -o ${key}.epub
+	pandoc-from-markdown-to-epub build.md -o ${key}.epub
 
 ${key}.pdf:
 	pandoc-from-markdown-to-pdf build.md -o ${key}.pdf

@@ -11,4 +11,6 @@ listings-no-page-break: false
 disable-header-and-footer: false
 subparagraph: true
 lang: "en-US"
+css: "epub.css"
+rights: "© 2023 Joel Parker Henderson. All rights reserved."
 ---

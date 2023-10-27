@@ -2,139 +2,149 @@
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Mast cell activation syndrome (MCAS) notes about references, diagnostics, treatments.
+Mast cell activation syndrome (MCAS) Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-Ask your doctor, nurse, or healthcare provider about these notes.
+* Download the free e-book [EPUB](mast-cell-activation-syndrome-guide.epub) or [PDF](software-programming-guide.pdf) or [PDF](mast-cell-activation-syndrome-guide.pdf).
+* Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
+* For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
+* For contributions and donations [PayPal me](https://paypal.me/joelparkerhenderson].
+  [Glossary](glossary/)
 
-Feedback welcome via GitHub issues or email to joel@joelparkerhenderson.com.
 
-[Glossary](glossary/)
 
+## Contents
 
-## References
+Mast cell activation syndrome (MACS)
 
-Introductions:
+* Symptoms
+* Diagnosis
+* Severity
+* Treatments
+* Medications
+* Dietary modifications
+* Supportive measures
 
-- [Root Causes & Treatment of Mast Cell Disease](https://www.ifm.org/news-insights/root-causes-treatment-of-mast-cell-disease/)
+Inflammation
 
-- [Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity](https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615)
+* Histamine
+* Antihistamine
+* Diamine oxidase
 
+Histamine intolerance
 
-Medical journal articles that are summarizing:
+* Symptoms
+* Dietary triggers
+* Diagnosis
+* Severity
+* Treatments
 
-- [Diagnosis of mast cell activation syndrome: a global “consensus-2”](https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html)
+Anaphylaxis
 
+* Symptoms
+* Diagnosis
+* Severity
+* Treatments
+* Emergency protocol
 
-Medical journal articles that are innovating:
+Asthma
 
-- [Mast Cell Activation Disease and Microbiotic Interactions - By Afrin et al.](https://www.clinicaltherapeutics.com/article/S0149-2918(15)00074-0/fulltext)
+* Symptoms
+* Diagnosis
+* Severity
+* Treatments
 
-- [Commensal bacteria directly suppress in vitro degranulation of mast cells in a MyD88-independent manner - By Kasakura et al.](https://www.tandfonline.com/doi/full/10.1080/09168451.2014.930327)
+Allergies
 
+* Allergy
+* Allergic reaction
 
-## Diagnostics
+Mastocytosis
 
+* Cutaneous mastocytosis
+* Systemic mastocytosis
 
-### Nose-throat scope
+Blood cells
 
-Nose-throat testing can be done by an ear-nose-throat (ENT) specialist or similar head-neck specialist:
+* Mast cell
+* White blood cell (WBC)
+* Red blood cell (RBC)
+* Platelet
+  
+Dysautonomia
 
-- [ ] Test for GIRD, acid reflux, structural abnormalities, etc. 
+Hypertryptasemia
 
-  - Typically this can be done by using a nose-throat scope during a routine office visit.
+Hypotension
 
-If testing turns up acid issues:
+Bradycardia
 
-- [ ] Rx antacid, such as famotidine (a.k.a. brand name Pepcid).
+Bronchiospasm
 
-  - In addition to decreasing acid, famotidine is a histamine-2 blocker (H2 blocker).
+Presyncope
 
-If testing turns up structural anomalies:
+Bronchodilators
 
-- [ ] Do a head-neck CT scan with contrast. 
+Corticosteroids
 
-  - This is to rule out problems such as throat cancer.
+Electrolytes
 
+Elimination diet
 
-### Gut tox screen
+* Food diary
 
-Gut toxin screening by an internal medicine specialist or similar immunology specialist.
+Low-histamine diet
 
-Aim for comprehensive testing of GI toxins:
+* Foods to choose
+* Foods to avoid
 
-- [ ] Test for mycotoxins in urine. 
+Low-allergen diet
 
-  - A comprehensive test includes 40+ items. 
+* Foods to choose
+* Foods to avoid
 
-  - A company that offers this testing is [Mosaic DX](https://mosaicdx.com)
+Low-oxalate diet
 
+* Foods to choose
+* Foods to avoid
 
-## Treatments
+Low-lectin diet
 
+* Foods to choose
+* Foods to avoid
 
-Healthy nutrition:
+Low-FODMAP diet
 
-* [Foods](foods/)
+* Foods to choose
+* Foods to avoid
 
-* [Supplements](supplements/)
+Low-salicylate diet
 
+* Foods to choose
+* Foods to avoid
 
-References:
+Dietary supplements
 
-* [The Impact of Food Histamine Intake on Asthma Activity: A Pilot Study](https://www.mdpi.com/2072-6643/12/11/3402)
+* Multivitamin
+* Diamine oxidase
+* Vitamin C
+* Omega-3
+* Quercetin
+* Glutathione
+* Turmeric
+* B vitamins
+* Calcium
+* Copper
+* Zinc
 
+Bile acid sequestrants
 
-### Histamine symptom management
+* Cholestyramine
+* Colesevelam (a.k.a. Welchol)
+* Activated charcoal
 
-Daily medications:
+Books
 
-- [ ] Montelukast (a.k.a. brand name Singulair) (Rx)
-
-- [ ] Morning & evening H1 + H2 oral antihistamines (OTC)
-
-- [ ] Morning & evening nasal sprays
-
-Also:
-
-- [ ] Adrenaline (a.ka. epinephrine) emergency auto-injector (a.k.a. brand name EpiPen)
-
-
-### Anti-fungal herbal agents
-
-[5 Herbal Agents for Antifungal Therapy](https://mosaicdx.com/resource/5-herbal-agents-for-antifungal-therapy/)
-
-- [ ] Goldenseal a.k.a. Hydrastis canadensis
-
-- [ ] Black Walnut a.k.a. Juglans nigra
-
-- [ ] Echinacea a.k.a. Echinacea purpurea
-
-- [ ] Grapefruit seed extract
-
-- [ ] Garlic a.k.a. Allium sativum
-
-
-## Allergy testing
-
-Allergy testing a.k.a. histamine-response testing can be done by an allergy specialist or similar immunology specialist.
-
-- [ ] Do comprehensive skin prick panels for flora, fauna, chemicals, etc.
-
-  - This includes 400+ items. 
-
-  - This is more comprehensive and more accurate than typical allergy blood tests.
-
-  - This is best done after a week or so without taking any antihistamines, because antihistimes tend to interfere with the skin prick testing.
-
-
-## Gut cleanse
-
-Gut bile cleaning via bile acid sequestrants.
-
-- [ ] Cholestyramine (Rx) is a popular choice.
-
-- [ ] Colesevelam (a.k.a. Welchol) (Rx) is a similar choice, and may be better-tolerated.
-
-- [ ] Activated charcoal (OTC) is a similar choice, and may be stronger and faster.
-
-Estimate 2-4 weeks to feel results.
+* Mast Cells United - By Amber Walker
+* Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten
+* Never Bet Against Occam - By Lawrence Afrin
+* The 4-Phase Histamine Reset Plan - By Becky Campbell

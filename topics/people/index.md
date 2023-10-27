@@ -45,3 +45,77 @@ People who are especially involved with mast cell activation syndrome and its di
 * Martina Wengenroth at Institute of Neuroradiology, University Hospital Lübeck, Lübeck, Germany
 * Mark Westaway at Westaway Medical, Brisbane, Queensland, Australia
 * Shijun Cindy Xi at Section of Allergy and Immunology, Keck School of Medicine, University of Southern California, Los Angeles, CA, US
+
+
+## People with contact information
+
+Lawrence B. Afrin, MD
+* Armonk Integrative Medicine
+* 3010 Westchester Avenue, Suite 404, Purchase, NY 10577, US 
+* Phone: +1-914-730-7390
+* Fax: +1-914-730-7391
+* E-mail: drafrin@armonkmed.com.
+
+Mary B. Ackerley
+* My Passion 4 Health, Tucson, AZ, US
+* E-mail: lucid@dakotacom.net
+
+Linda S. Bluestein
+* Department of Anesthesiology, Medical College of Wisconsin, Wausau, WI, US 
+* Email: lindabluestein@yahoo.com
+
+Joseph H. Brewer
+* Plaza Infectious Disease, Kansas City, MO, US 
+* Email: jbrewer@plazamedicine.com
+
+Jill B. Brook
+* Alaska Internal Medicine and Pediatrics, Anchorage, AK, US 
+* Email: jillbrook@msn.com
+
+Ariana D. Buchanan
+* Peachtree Allergy and Asthma, Atlanta, GA, US 
+* Email: abuchananmd@aol.com 
+
+Theodore M. Lee
+* Peachtree Allergy and Asthma, Atlanta, GA, US 
+* Email: drtedlee@peachtreeallergyclinic.com
+
+Jill R. Cuni
+* Division of Pediatrics, Beaver Medical Group, Banning, CA, US 
+* Email: jcuni@epiclp.com
+
+William P. Davey
+* Department of Dermatology, University of Kentucky, Lexington, KY, US 
+* Email: wpdavey@gmail.com
+
+Tania T. Dempsey
+* Armonk Integrative Medicine, Purchase, NY, US
+* Email: drdempsey@armonkmed.com
+
+Shanda R. Dorff
+* Complex Cares, LLC, Shoreview, MN, US
+* Email: drdorff@complexcaresmn.com
+
+Martin S. Dubravec: 
+* Allergy and Asthma Specialists of Cadillac, Cadillac, MI, US 
+* Email: biosp3@sbcglobal.net
+
+Alena G. Guggenheim
+* Comprehensive Pain Center, Oregon Health and Science University, Portland, OR, US
+* Email: alena.guggenheim@gmail.com
+
+Kimberly J. Hindman
+* Healing Dragon, Portland, OR, US
+* Email: khindman@healingdragon.net
+
+Bruce Hoffman
+* Hoffman Centre for Integrative and Functional Medicine, Calgary, Alberta, Canada,
+* Email: brucehoffman@hoffmancentre.ca
+
+David L. Kaufman
+* Center for Complex Diseases, Mountain View, CA, US 
+* Email: david@centerforcomplexdiseases.com
+
+Stephanie J. Kratzer
+* CHI Health St. Elizabeth, Lincoln, NE, US
+* Email: skratzer@stez.org

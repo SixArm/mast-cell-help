@@ -1,6 +1,6 @@
 # Anaphylaxis symptoms
 
-Anaphylaxis is a severe and potentially life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylactic reactions involve multiple systems in the body and can have a wide range of symptoms. The symptoms of anaphylaxis can vary from person to person, but they often include a combination of the following.
+Anaphylaxis is a severe and potentially life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly and may involve multiple systems in the body. Anaphylaxis is a medical emergency, and prompt treatment is crucial to prevent severe complications or death.
 
 Skin Symptoms:
 
@@ -52,4 +52,3 @@ General Symptoms:
 
 * Weakness or collapse
 
-It's important to note that anaphylaxis can progress rapidly and may involve multiple systems in the body. In some cases, the symptoms may be more subtle, especially at the beginning of an allergic reaction. Anaphylaxis is a medical emergency, and prompt treatment is crucial to prevent severe complications or death.

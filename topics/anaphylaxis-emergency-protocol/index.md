@@ -1,26 +1,16 @@
-# Anaphylaxis emergency protocol
+# Anaphylaxis emergency treatment
 
-TODO
+Anaphylaxis emergency treatment for a patient, or healthcare provider, in a pre-hospital setting:
 
-Anaphylaxis grades:
+1. If symptoms are severe, or worsening quickly, then use emergency adrenaline auto-injector (a.k.a. brand name EpiPen) and go immediately to emergency room.
 
-* Grade 1: hives, rash, itching, swelling of mouth/throat.
+2. Avoid triggers: remove trigger or remove self from triggers.
 
-* Grade 2: any above plus hypotension, tachycardia, dyspnea, presyncope, GI distress (including but not limited to pain, nausea, vomiting, diarrhea)
-
-* Grade 3: any of the above, plus profound hypotension, bradycardia or tachycardia, confusion, cardiovascular collapse, bronchiospasm, hypoxia (SaO2 < 92%).
-
-* Grade 4: cardiac arrest
-
-Anaphylaxis treatment in a pre-hospital setting, for patient, or care-giver, or IHSS provider, for grade 1 & 2:
-
-* Avoid triggers: remove trigger or remove self from triggers.
-
-* Administer extra doses of H1 and H2 blockers: such as ranitident/cimetidine + fexofenadine/hydroxyzine/diphenhydramine.
+3. Administer extra doses of H1 and H2 blockers: such as ranitident/cimetidine + fexofenadine/hydroxyzine/diphenhydramine.
   
-* Administer corticosteroids because these may prevent prolonged anaphylaxis treatment.
+4. Administer corticosteroids because these may prevent prolonged anaphylaxis treatment.
 
-* Treatment specific to primary receptors involved in reactions
+5. Treatment specific to primary receptors involved in reactions
   
   * H1 reactions (skin and repiratory: mucous overpdocution, asthma, throuat tightening, skin itching):
 
@@ -45,30 +35,3 @@ Anaphylaxis treatment in a pre-hospital setting, for patient, or care-giver, or 
     * Reduce likelihood of secondary injury: rest, do not drive, do not operate heavy machinery
 
     * Reduce triggers as much as possible: retreat to safe room or mobile ienvironmental containment unit; lay down; breathe clean, fresh, trigger-free air.
-
-If not responsive to above, use emergency adrenaline auto-injector (a.k.a. brand name EpiPen) and go immediately to emergency room.
-
-###
-
-Anaphylaxis treatment in a hospital setting for physicians:
-
-* Administer adrenaline (a.k.a. epinepherine) if patient suspects anaphylaxis.
-
-  * Administer adrenaline intramuscularly (IM) (Vasctus Lateralis muscle). Concentration is 1:10000 (1mg/1ml) solution - 0.3mg. May repeat in 15 minutes if needed.
-
-  * Prefer preservative-free adrenaline (e.g. epinephrine).
-
-  * Because of the risk of potentially lethal arrythmias, epinephrine should be administered IV only in profoundly hypotensive patients or patients in cardio/resperitory arrest who have failed to respond to IV volume replacement and several injected doses of epinephrine.
-
-* Administer oxygen.
-
-* Start large bore IV access.
-
-* If hypotensive, then administer IV fluids.
-
-* If wheezing is present, then consider inhaled or nebulized bronchodilators
-Search instead for bronchodialotors (e.g. albuterol).
-  
-* Administer H1 and H2 blockers as supportive therapy. Prefer IV administration. Include diphenhydramine as an H1 blocker, given 25mg-50mg (or hydroxyzine/fexofenadine), and 1mg/kg; given very slow IV diluted in normal saline over 2-5 minutes. H2 antagonist, Ranitidine/Cimetidein, IV, should also be given.
-
-* Administer corticosteroids (e.g. prednisone) because they may prevent prolonged anaphylaxis.

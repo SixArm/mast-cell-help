@@ -15,21 +15,3 @@ Asthma symptoms can vary from person to person and can range from mild to severe
 * Nighttime Changes: Asthma symptoms often worsen at night or in the early morning hours. This is known as "nocturnal asthma." Nighttime symptoms can disrupt sleep and lead to daytime fatigue.
 
 * Responses to Medication: A hallmark of asthma is that its symptoms often respond to bronchodilator medications, like albuterol. If your symptoms improve after using a bronchodilator, it can be an indication of asthma.
-
-Asthma symptoms may be triggered or worsened by various factors, including:
-
-* Allergens (e.g., pollen, dust mites, pet dander)
-
-* Respiratory infections (e.g., colds and flu)
-
-* Irritants (e.g., smoke, air pollution, strong odors)
-
-* Exercise (exercise-induced bronchoconstriction)
-
-* Stress and strong emotions
-
-* Exposure to cold air
-
-* Occupational exposures (e.g., workplace chemicals or allergens)
-
-It's important to remember that asthma symptoms can be well-controlled with appropriate treatment. If you experience any of these symptoms, especially if they are recurrent or interfere with your daily activities, it's important to seek medical evaluation. Early diagnosis and proper management can help individuals with asthma lead active and healthy lives with minimal symptoms and reduce the risk of asthma attacks. If you or someone you know is experiencing severe asthma symptoms, including extreme shortness of breath, and symptoms that don't respond to rescue inhalers, seek immediate medical attention. This may indicate a severe asthma exacerbation.

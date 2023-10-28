@@ -14,9 +14,9 @@ Causes of Inflammation:
 
 * Injuries: Physical trauma, burns, and tissue damage can cause acute inflammation.
 
-* Autoimmune Disorders: In autoimmune diseases, the immune system mistakenly attacks healthy tissues, leading to chronic inflammation.
+* Autoimmune Disorders: the immune system mistakenly attacks healthy tissues, leading to chronic inflammation.
 
-* Lifestyle Factors: Unhealthy diets, smoking, excessive alcohol consumption, and lack of exercise can contribute to chronic inflammation.
+* Lifestyle: Unhealthy diets, smoking, excessive alcohol consumption, and lack of exercise can contribute to inflammation.
 
 * Environmental Factors: Pollution and exposure to toxins can also promote inflammation.
 

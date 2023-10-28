@@ -1,5 +1,4 @@
 # TODO
-  
 
 [Glossary](glossary/)
 
@@ -31,7 +30,7 @@ Medical journal articles that are innovating:
 
 Nose-throat testing can be done by an ear-nose-throat (ENT) specialist or similar head-neck specialist:
 
-- [ ] Test for GIRD, acid reflux, structural abnormalities, etc. 
+- [ ] Test for GERD, acid reflux, structural abnormalities, etc. 
 
   - Typically this can be done by using a nose-throat scope during a routine office visit.
 

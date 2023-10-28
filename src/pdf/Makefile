@@ -1,7 +1,7 @@
 top = $(shell git rev-parse --show-toplevel)
 key = $(shell basename ${top})
 
-all: build.md ${key}.pdf
+all: tmp/build.md tmp/${key}.pdf
 
 new: clean all
 
@@ -9,8 +9,8 @@ new: clean all
 clean:
 	rm -f build.md ${key}.pdf
 
-build.md:
-	book-binder start.yml "${top}/src/links.md" "build.md" "${top}/topics"
+tmp/build.md:
+	book-binder start.yml "${top}/src/links.md" "tmp/build.md" "${top}/topics"
 
-${key}.pdf:
-	pandoc-from-markdown-to-pdf "build.md" -o "${key}.pdf"
+tmp/${key}.pdf:
+	pandoc-from-markdown-to-pdf "tmp/build.md" -o "tmp/${key}.pdf"

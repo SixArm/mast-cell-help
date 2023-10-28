@@ -7,6 +7,9 @@
 * [Medications](mast-cell-activation-syndrome-medications)
 * [Dietary modifications](mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](mast-cell-activation-syndrome-supportive-measures)
+* [What doctors and providers can help?](doctors-and-providers-can-help)
+* [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
+* [Support groups](support-groups)
 
 ### [Inflammation](inflammation)
 
@@ -28,11 +31,16 @@
 * [Diagnosis](anaphylaxis-diagnosis)
 * [Severity](anaphylaxis-severity)
 * [Treatments](anaphylaxis-treatments)
-* [Emergency protocol](anaphylaxis-emergency-protocol)
+
+### [Anaphylaxis emergency protocol](anaphylaxis-emergency-protocol)
+
+* [Anaphylaxis emergency hospital treatment](anaphylaxis-emergency-hospital-treatment)
+* [Anaphylaxis emergency grades](anaphylaxis-emergency-grades)
 
 ### [Asthma](asthma)
 
 * [Symptoms](asthma-symptoms)
+* [Triggers](asthma-triggers)
 * [Diagnosis](asthma-diagnosis)
 * [Severity](asthma-severity)
 * [Treatments](asthma-treatments)
@@ -132,3 +140,6 @@
 * [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
 * [Never Bet Against Occam - By Lawrence Afrin](never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](the-4-phase-histamine-reset-plan-by-becky-campbell)
+
+
+### [Links](links)

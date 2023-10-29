@@ -1,6 +1,6 @@
 # Low-allergen diet: foods to avoid
 
-For a low-allergen diet, here are foods to avoid or limit:
+For a low-allergen diet, here are items to avoid or limit:
 
 * Foods known to be common allergens, often referred to as the "big eight".  These include milk, eggs, peanuts, tree nuts, soy, wheat, fish, and shellfish.
 

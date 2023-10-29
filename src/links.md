@@ -1,3 +1,5 @@
+### [Introduction](introduction)
+
 ### [Mast cell activation syndrome (MACS)](mast-cell-activation-syndrome)
 
 * [Symptoms](mast-cell-activation-syndrome-symptoms)
@@ -7,87 +9,30 @@
 * [Medications](mast-cell-activation-syndrome-medications)
 * [Dietary modifications](mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](mast-cell-activation-syndrome-supportive-measures)
+
+### ???
+
 * [What doctors and providers can help?](what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
 * [Support groups](support-groups)
 
-### [Inflammation](inflammation)
+### [Alternative therapies](alternative-therapies)
 
-* [Histamine](histamine)
-* [Antihistamine](antihistamine)
-* [Diamine oxidase](diamine-oxidase)
+* [Functional medicine](functional-medicine)
+* [Traditional Chinese Medicine (TCM)](traditional-chinese-medicine)
+* [Acupuncture](acupuncture)
+* [Stress Management](stress-management)
+* [Sleep hygiene](sleep-hygiene)
+* [The SHINE protocol](the-shine-protocol)
+* [Dynamic Neural Retraining System (DNRS)](dynamic-neural-retraining-system)
+* [Buteyko breathing method](buteyko-breathing-method)
+* [Food diary](food-diary)
 
-### [Histamine intolerance](histamine-intolerance)
-
-* [Symptoms](histamine-intolerance-symptoms)
-* [Dietary triggers](histamine-intolerance-dietary-triggers)
-* [Diagnosis](histamine-intolerance-diagnosis)
-* [Severity](histamine-intolerance-severity)
-* [Treatments](histamine-intolerance-treatments)
-
-### [Anaphylaxis](anaphylaxis)
-
-* [Symptoms](anaphylaxis-symptoms)
-* [Diagnosis](anaphylaxis-diagnosis)
-* [Severity](anaphylaxis-severity)
-* [Treatments](anaphylaxis-treatments)
-
-### [Anaphylaxis emergency treatment](anaphylaxis-emergency-treatment)
-
-* [Anaphylaxis emergency room](anaphylaxis-emergency-room)
-* [Anaphylaxis emergency grades](anaphylaxis-emergency-grades)
-
-### [Asthma](asthma)
-
-* [Symptoms](asthma-symptoms)
-* [Triggers](asthma-triggers)
-* [Diagnosis](asthma-diagnosis)
-* [Severity](asthma-severity)
-* [Treatments](asthma-treatments)
-
-### [Allergies](allergies)
-
-* [Allergic reaction](allergic-reaction)
-
-### [Mastocytosis](mastocytosis)
-
-* [Cutaneous mastocytosis](cutaneous-mastocytosis)
-* [Systemic mastocytosis](systemic-mastocytosis)
-
-### [Blood cells](blood-cells)
-
-* [Mast cell](mast-cell)
-* [White blood cell (WBC)](white-blood-cell)
-* [Red blood cell (RBC)](red-blood-cell)
-* [Platelet](platelet)
-  
-### [Dysautonomia](dysautonomia)
-
-### [Ehlers Danlos syndrome](ehlers-danlos-syndrome)
-
-### [Hypertryptasemia](hypertryptasemia)
-
-### [Hypotension](hypotension)
-
-* [Hypotension causes](hypotension-causes)
-
-### [Bradycardia](bradycardia)
-
-### [Bronchiospasm](bronchiospasm)
-
-* [Bronchiospasm treatment](bronchiospasm-treatment)
-
-### [Presyncope](presyncope)
-
-### [Bronchodilators](bronchodilators)
-
-### [Corticosteroids](corticosteroids)
-
-### [Electrolytes](electrolytes)
 
 ### [Elimination diet](elimination-diet)
 
-* [Food diary](food-diary)
+* [Foods to choose](elimination-diet-foods-to-choose)
+* [Foods to avoid](elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](low-histamine-diet)
 
@@ -132,12 +77,131 @@
 * [Calcium](calcium)
 * [Copper](copper)
 * [Zinc](zinc)
+* [Electrolytes](electrolytes)
+* [Butterbur](butterbur)
+* [Stinging nettle](stinging-nettle)
+
+### [Blood cells](blood-cells)
+
+* [Mast cell](mast-cell)
+* [White blood cell (WBC)](white-blood-cell)
+* [Red blood cell (RBC)](red-blood-cell)
+* [Platelet](platelet)
+
+### [Inflammation](inflammation)
+
+* [Histamine](histamine)
+* [Antihistamine](antihistamine)
+* [Diamine oxidase](diamine-oxidase)
+
+
+## Conditions
+
+
+### [Histamine intolerance](histamine-intolerance)
+
+* [Symptoms](histamine-intolerance-symptoms)
+* [Dietary triggers](histamine-intolerance-dietary-triggers)
+* [Diagnosis](histamine-intolerance-diagnosis)
+* [Severity](histamine-intolerance-severity)
+* [Treatments](histamine-intolerance-treatments)
+
+### [Anaphylaxis](anaphylaxis)
+
+* [Symptoms](anaphylaxis-symptoms)
+* [Diagnosis](anaphylaxis-diagnosis)
+* [Severity](anaphylaxis-severity)
+* [Treatments](anaphylaxis-treatments)
+
+### [Anaphylaxis emergency treatment](anaphylaxis-emergency-treatment)
+
+* [Anaphylaxis emergency room](anaphylaxis-emergency-room)
+* [Anaphylaxis emergency grades](anaphylaxis-emergency-grades)
+
+### [Asthma](asthma)
+
+* [Symptoms](asthma-symptoms)
+* [Triggers](asthma-triggers)
+* [Diagnosis](asthma-diagnosis)
+* [Severity](asthma-severity)
+* [Treatments](asthma-treatments)
+* [Lifestyle management](asthma-lifestyle-management)
+
+### [Allergies](allergies)
+
+* [Allergic reaction](allergic-reaction)
+
+### [Mastocytosis](mastocytosis)
+
+* [Cutaneous mastocytosis](cutaneous-mastocytosis)
+* [Systemic mastocytosis](systemic-mastocytosis)
+
+### [Burning mouth syndrome (BMS)](burning-mouth-syndrome)
+
+### [Dysautonomia](dysautonomia)
+
+### [Ehlers Danlos syndrome](ehlers-danlos-syndrome)
+
+### [Ferroptosis](ferroptosis)
+
+### [Gastroesophageal Reflux Disease (GERD)](gastroesophageal-reflux-disease)
+
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](postural-orthostatic-tachycardia-syndrome)
+
+### [Sulfur intolerance](sulfur-intolerance)
+
+### [Lyme disease](lyme-disease)
+
+### [Toxin-exposure](toxin-exposure)
+
+
+## Symptoms
+
+
+### [Hypertryptasemia](hypertryptasemia)
+
+### [Hypotension](hypotension)
+
+* [Hypotension causes](hypotension-causes)
+
+### [Bradycardia](bradycardia)
+
+### [Bronchiospasm](bronchiospasm)
+
+* [Bronchiospasm treatment](bronchiospasm-treatment)
+
+### [Presyncope](presyncope)
+
+
+## Treatment types
+
+### [Bronchodilators](bronchodilators)
+
+### [Corticosteroids](corticosteroids)
 
 ### [Bile acid sequestrants](bile-acid-sequestrants)
 
 * [Cholestyramine](cholestyramine)
 * [Colesevelam (a.k.a. Welchol)](colesevelam)
 * [Activated charcoal](activated-charcoal)
+
+### [Immunotherapy](immunotherapy)
+
+### [Aryl hydrocarbon receptors (AhR)](aryl-hydrocarbon-receptors)
+
+### ??
+
+* [Genetic mutation](genetic-genetic)
+* [Genetic polymorphisms](genetic-polymorphisms)
+
+
+## More
+
+
+### [Videos](videos)
+
+* [Understanding Mast Cell Activation Disorders - By NIAID](understanding-mast-cell-activation-disorders-by-niaid)
+
 
 ### [Books](books)
 
@@ -146,7 +210,8 @@
 * [Never Bet Against Occam - By Lawrence Afrin](never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](the-4-phase-histamine-reset-plan-by-becky-campbell)
 
+### [Conclusion](conclusion)
 
-### [Links](links)
-
-* [Mastiechef](mastiechef)
+* [About the editor](about-the-editor)
+* [About the AI](about-the-ai)
+* [About the ebook](about-the-ebook-pdf)

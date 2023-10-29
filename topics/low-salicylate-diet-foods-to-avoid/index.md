@@ -1,6 +1,6 @@
 # Low-salicylate diet: foods to avoid
 
-For a low-salicylate diet, here are foods to avoid or limit:
+For a low-salicylate diet, here are items to avoid or limit:
 
 * High-salicylate fruits and vegetables.
 

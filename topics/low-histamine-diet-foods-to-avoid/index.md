@@ -1,6 +1,6 @@
 # Low-histamine diet: foods to avoid
 
-For a low-histamine diet, here are foods to avoid or limit:
+For a low-histamine diet, here are items to avoid or limit:
 
 * Fermented Foods: These are among the highest histamine-containing foods. Examples include aged cheeses, sauerkraut, yogurt, and kombucha.
 

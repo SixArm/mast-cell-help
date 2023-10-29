@@ -1,5 +1,15 @@
 # TODO
 
+aryl hydrocarbon receptors
+
+allergy drops
+
+
+<h3>Mold Toxicity and MCAS Special Considerations: Salicylates, Oxalates and Sulfur Intolerance</h3>
+
+<li>Foundational information on Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia</li>
+
+
 [Glossary](glossary/)
 
 ## References
@@ -138,15 +148,10 @@ Estimate 2-4 weeks to feel results.
 * [Heparin](heparin)
 * [KIT-D816X](kit-d816x)
 
-Alternative medicine
-* [Functional medicine](functional-medicine)
-* [Traditional Chinese Medicine (TCM)](traditional-chinese-medicine)
-
 * [Mast Cell Activation Syndrome diagnosis consensus-2 criteria](mast-cell-activation-syndrome-diagnosis-consensus-2-criteria)
 
 Dysautonomia
 
-Ehlers Danlos syndrome
 Postural Orthostatic Tachycardia Syndrome 
 
 Allergy testing
@@ -160,11 +165,18 @@ prognosis
 
 low-dose imatinib
 
+Hypercoagulability & microclots
+  
+beta-blockers
+fludrocortisone
+
 idiopathic
 
 Unfortunately, just as had been seen with his trials on beta blockers, SSRIs, and anti-epileptics, he proved resistant to antihistamines, ketotifen, oral and otic cromolyn, quercetin, imatinib, and montelukast – but doxepin, at a relatively stiff dose of 50 mg twice
 
 twice-daily loratadine, famotidine, celecoxib, and quercetin, she has become completely functional again,
+
+neurokinesiology
 
 Is there a cure?
 

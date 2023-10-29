@@ -1,4 +1,4 @@
-# Stinging Nettle
+# Stinging nettle
 
 Stinging nettle (Urtica dioica) is a herbaceous plant that is native to Europe, Asia, North Africa, and North America. It has a long history of use in traditional medicine and is known for its stinging hairs or trichomes that can cause skin irritation upon contact. Despite its "stinging" properties, stinging nettle has a variety of health benefits and is used in herbal remedies, teas, and dietary supplements.
 

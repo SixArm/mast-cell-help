@@ -7,7 +7,7 @@
 * [Medications](mast-cell-activation-syndrome-medications)
 * [Dietary modifications](mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](mast-cell-activation-syndrome-supportive-measures)
-* [What doctors and providers can help?](doctors-and-providers-can-help)
+* [What doctors and providers can help?](what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
 * [Support groups](support-groups)
 
@@ -32,9 +32,9 @@
 * [Severity](anaphylaxis-severity)
 * [Treatments](anaphylaxis-treatments)
 
-### [Anaphylaxis emergency protocol](anaphylaxis-emergency-protocol)
+### [Anaphylaxis emergency treatment](anaphylaxis-emergency-treatment)
 
-* [Anaphylaxis emergency hospital treatment](anaphylaxis-emergency-hospital-treatment)
+* [Anaphylaxis emergency room](anaphylaxis-emergency-room)
 * [Anaphylaxis emergency grades](anaphylaxis-emergency-grades)
 
 ### [Asthma](asthma)
@@ -45,9 +45,8 @@
 * [Severity](asthma-severity)
 * [Treatments](asthma-treatments)
 
-### Allergies
+### [Allergies](allergies)
 
-* [Allergy](allergy)
 * [Allergic reaction](allergic-reaction)
 
 ### [Mastocytosis](mastocytosis)
@@ -64,13 +63,19 @@
   
 ### [Dysautonomia](dysautonomia)
 
+### [Ehlers Danlos syndrome](ehlers-danlos-syndrome)
+
 ### [Hypertryptasemia](hypertryptasemia)
 
 ### [Hypotension](hypotension)
 
+* [Hypotension causes](hypotension-causes)
+
 ### [Bradycardia](bradycardia)
 
 ### [Bronchiospasm](bronchiospasm)
+
+* [Bronchiospasm treatment](bronchiospasm-treatment)
 
 ### [Presyncope](presyncope)
 
@@ -143,3 +148,5 @@
 
 
 ### [Links](links)
+
+* [Mastiechef](mastiechef)

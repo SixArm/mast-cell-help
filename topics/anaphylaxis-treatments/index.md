@@ -2,9 +2,9 @@
 
 Anaphylaxis is a severe and life-threatening allergic reaction that requires immediate medical attention. If you or someone you are with is experiencing anaphylaxis, follow these steps for treatment:
 
-* Call 911 or Seek Emergency Medical Help: Anaphylaxis is a medical emergency, and it requires immediate attention from healthcare professionals. Call 911 or get to the nearest emergency room as quickly as possible. It's essential to have medical assistance on the way.
+* Seek Emergency Help: Call an ambulance or get to the nearest emergency room as quickly as possible. It's essential to have medical assistance on the way.
 
-* Use an Adrenalin (a.k.a. Epinephrine) Auto-Injector: If the person experiencing anaphylaxis has been prescribed an adrenalin auto-injector (such as an EpiPen), use it immediately as directed. Adrenalin is the most important and effective treatment for anaphylaxis. Inject the adrenalin into the thigh muscle and hold it there for several seconds before removing the auto-injector. This is safe and effective in reversing the life-threatening effects of anaphylaxis.
+* Use an Adrenalin (a.k.a. Epinephrine) Auto-Injector: If the person experiencing anaphylaxis has been prescribed an adrenalin auto-injector (such as an EpiPen), use it immediately as directed. Inject the adrenalin into the thigh muscle and hold it there for several seconds before removing the auto-injector. Adrenalin is the most important and effective treatment for anaphylaxis.
 
 * Anaphylaxis can worsen rapidly, so seeking immediate medical help is crucial. Even if symptoms improve after using an adrenalin auto-injector, it's important to get professional medical evaluation and follow-up care.
 
@@ -12,4 +12,4 @@ Anaphylaxis is a severe and life-threatening allergic reaction that requires imm
 
 * Monitor the Person: Stay with the person and keep them calm. Monitor their vital signs, such as pulse and breathing. Be prepared to provide CPR if necessary.
 
-* Be Ready for Additional Treatment: Once in the emergency room, healthcare professionals will continue treatment. This may include administering antihistamines to reduce allergic symptoms, corticosteroids to address inflammation, and intravenous fluids to stabilize blood pressure and manage symptoms. The individual will be closely monitored during and after treatment.
+* Be Ready for Additional Treatment: Once in the emergency room, healthcare professionals will continue treatment. This may include administering antihistamines to reduce allergic symptoms, corticosteroids to address inflammation, and intravenous fluids to stabilize blood pressure and manage symptoms.

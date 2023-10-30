@@ -11,6 +11,8 @@ Mast cell activation syndrome (MCAS) Guide: this book explains one topic per pag
 
 ## Contents
 
+<b>WORK IN PROGRESS #1 + REQUEST FOR COMMENTS</b>
+
 ### [Introduction](topics/introduction)
 
 * [What are mast cells?](topics/what-are-mast-cells)

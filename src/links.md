@@ -1,5 +1,11 @@
 ### [Introduction](introduction)
 
+* [What are mast cells?](what-are-mast-cells)
+* [Where are mast cells?](where-are-mast-cells)
+* [What doctors and providers can help?](what-doctors-and-providers-can-help)
+* [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
+* [Support groups](support-groups)
+
 ### [Mast cell activation syndrome (MACS)](mast-cell-activation-syndrome)
 
 * [Symptoms](mast-cell-activation-syndrome-symptoms)
@@ -9,12 +15,7 @@
 * [Medications](mast-cell-activation-syndrome-medications)
 * [Dietary modifications](mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](mast-cell-activation-syndrome-supportive-measures)
-
-### ???
-
-* [What doctors and providers can help?](what-doctors-and-providers-can-help)
-* [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
-* [Support groups](support-groups)
+* [Differential diagnoses](mast-cell-activation-syndrome-differential-diagnoses)
 
 ### [Alternative therapies](alternative-therapies)
 
@@ -27,7 +28,6 @@
 * [Dynamic Neural Retraining System (DNRS)](dynamic-neural-retraining-system)
 * [Buteyko breathing method](buteyko-breathing-method)
 * [Food diary](food-diary)
-
 
 ### [Elimination diet](elimination-diet)
 
@@ -81,18 +81,25 @@
 * [Butterbur](butterbur)
 * [Stinging nettle](stinging-nettle)
 
-### [Blood cells](blood-cells)
+### [Circulatory system](circulatory-system)
 
-* [Mast cell](mast-cell)
+* [Blood cells](blood-cells)
 * [White blood cell (WBC)](white-blood-cell)
 * [Red blood cell (RBC)](red-blood-cell)
 * [Platelet](platelet)
+
+### [Lymphatic system]
+
+* [Lymph](lymph)
 
 ### [Inflammation](inflammation)
 
 * [Histamine](histamine)
 * [Antihistamine](antihistamine)
+* [Antihistamine types](antihistamine-types)
 * [Diamine oxidase](diamine-oxidase)
+* [Tryptase](tryptase)
+* [Heparin](heparin)
 
 
 ## Conditions
@@ -129,7 +136,10 @@
 
 ### [Allergies](allergies)
 
+* [Allergy types](allergy-types)
 * [Allergic reaction](allergic-reaction)
+* [Allergy drops (a.k.a. sublingual immunotherapy)](allergy-drops)
+* [Allergy shots (a.k.a. subcutaneous immunotherapy)](allergy-shots)
 
 ### [Mastocytosis](mastocytosis)
 
@@ -189,10 +199,12 @@
 
 ### [Aryl hydrocarbon receptors (AhR)](aryl-hydrocarbon-receptors)
 
-### ??
+### [Mast cell genetics](mast-cell-genetics)
 
 * [Genetic mutation](genetic-genetic)
 * [Genetic polymorphisms](genetic-polymorphisms)
+* [Hereditary Alpha-Tryptasemia (HαT)](hereditary-alpha-tryptasemia)
+* [KIT-D816X](kit-d816x)
 
 
 ## More

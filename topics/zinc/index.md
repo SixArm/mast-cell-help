@@ -17,7 +17,7 @@ The recommended dietary allowance for zinc varies depending on age, sex, and lif
 * Immune System Support: Zinc is known to be essential for the proper functioning of the immune system. It is involved in the development and function of immune cells.
 
 * Wound Healing: Zinc plays a role in tissue repair and wound healing.
-  
+
 * Enzyme Function: Many enzymes in the body require zinc as a cofactor to facilitate various chemical reactions.
 
 * DNA Synthesis: Zinc is involved in DNA synthesis and cell division.

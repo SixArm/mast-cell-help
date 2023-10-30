@@ -1,6 +1,6 @@
 # Hypertryptasemia
 
-Hypertryptasemia refers to the presence of abnormally high levels of tryptase in the blood. Tryptase is an enzyme that is primarily released from mast cells, which are involved in the immune response. 
+Hypertryptasemia refers to the presence of abnormally high levels of tryptase in the blood. Tryptase is an enzyme that is primarily released from mast cells, which are involved in the immune response.
 
 There are several potential reasons for hypertryptasemia, including:
 
@@ -10,7 +10,7 @@ There are several potential reasons for hypertryptasemia, including:
 
 * Other Conditions: Some other medical conditions, such as chronic myeloid leukemia (CML) and certain types of blood disorders, may also lead to elevated tryptase levels.
 
-Hypertryptasemia is typically diagnosed through blood tests that measure tryptase levels. 
+Hypertryptasemia is typically diagnosed through blood tests that measure tryptase levels.
 
 Treatment examples:
 

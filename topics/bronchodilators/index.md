@@ -1,8 +1,8 @@
-# Bronchodilators 
+# Bronchodilators
 
-Bronchodilators are a class of medications used to open up the airways in the lungs by relaxing and widening the bronchial tubes. They are primarily used in the treatment of respiratory conditions characterized by narrowed or constricted airways, such as asthma, chronic obstructive pulmonary disease (COPD), and bronchitis. 
+Bronchodilators are a class of medications used to open up the airways in the lungs by relaxing and widening the bronchial tubes. They are primarily used in the treatment of respiratory conditions characterized by narrowed or constricted airways, such as asthma, chronic obstructive pulmonary disease (COPD), and bronchitis.
 
-These medications help relieve symptoms like shortness of breath, wheezing, and chest tightness in individuals with obstructive airway diseases, allowing them to breathe more comfortably and effectively. 
+These medications help relieve symptoms like shortness of breath, wheezing, and chest tightness in individuals with obstructive airway diseases, allowing them to breathe more comfortably and effectively.
 
 Bronchodilators can be administered through various methods, including inhalers, nebulizers, and oral medications.
 

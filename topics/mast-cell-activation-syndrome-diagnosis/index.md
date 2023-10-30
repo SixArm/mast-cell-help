@@ -1,6 +1,6 @@
 # Mast Cell Activation Syndrome diagnosis
 
-The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because the symptoms can overlap with many other medical conditions, and there is no single definitive test to diagnose it. MCAS is typically diagnosed through a combination of clinical evaluation, laboratory tests, and sometimes specialized assessments. 
+The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because the symptoms can overlap with many other medical conditions, and there is no single definitive test to diagnose it. MCAS is typically diagnosed through a combination of clinical evaluation, laboratory tests, and sometimes specialized assessments.
 
 Clinical Evaluation:
 
@@ -10,11 +10,11 @@ Clinical Evaluation:
 
 * Triggers: Identifying any specific triggers or exacerbating factors for your symptoms, such as exposure to certain foods, environmental factors, medications, or stress, can help in diagnosis.
 
-Physical Examination: 
+Physical Examination:
 
 * A physical examination can help identify any physical signs that may be associated with MCAS, such as skin changes, swelling, or other visible symptoms.
 
-Laboratory Tests: 
+Laboratory Tests:
 
 * Serum Tryptase: Tryptase is a mediator released by mast cells. A baseline serum tryptase level and, in some cases, a peak level during or shortly after a suspected episode can be measured. Elevated tryptase levels may suggest MCAS, but normal levels do not rule it out.
 
@@ -24,15 +24,15 @@ Laboratory Tests:
 
 * Other Mast Cell Mediators: Testing for other mast cell mediators, such as prostaglandin D2, leukotrienes, or histamine-releasing factors, can be considered.
 
-Response to Treatment: 
+Response to Treatment:
 
 * In some cases, the response to treatment with antihistamines or mast cell stabilizers may be used as a diagnostic tool. If symptoms improve with treatment, it suggests the presence of mast cell activation.
 
-Exclusion of Other Conditions: 
+Exclusion of Other Conditions:
 
 * Since MCAS symptoms can overlap with other medical conditions, it's essential to rule out other possible diagnoses through appropriate testing and evaluations.
 
-Specialized Testing: 
+Specialized Testing:
 
 * In some cases, additional specialized tests or procedures, such as bone marrow biopsies or genetic testing for specific mast cell disorders, may be considered.
 

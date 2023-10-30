@@ -1,12 +1,5 @@
 # TODO
 
-aryl hydrocarbon receptors
-
-allergy drops
-
-
-<h3>Mold Toxicity and MCAS Special Considerations: Salicylates, Oxalates and Sulfur Intolerance</h3>
-
 <li>Foundational information on Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia</li>
 
 
@@ -17,9 +10,6 @@ allergy drops
 Introductions:
 
 - [Root Causes & Treatment of Mast Cell Disease](https://www.ifm.org/news-insights/root-causes-treatment-of-mast-cell-disease/)
-
-- [Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity](https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615)
-
 
 Medical journal articles that are summarizing:
 
@@ -40,7 +30,7 @@ Medical journal articles that are innovating:
 
 Nose-throat testing can be done by an ear-nose-throat (ENT) specialist or similar head-neck specialist:
 
-- [ ] Test for GERD, acid reflux, structural abnormalities, etc. 
+- [ ] Test for GERD, acid reflux, structural abnormalities, etc.
 
   - Typically this can be done by using a nose-throat scope during a routine office visit.
 
@@ -52,7 +42,7 @@ If testing turns up acid issues:
 
 If testing turns up structural anomalies:
 
-- [ ] Do a head-neck CT scan with contrast. 
+- [ ] Do a head-neck CT scan with contrast.
 
   - This is to rule out problems such as throat cancer.
 
@@ -63,9 +53,9 @@ Gut toxin screening by an internal medicine specialist or similar immunology spe
 
 Aim for comprehensive testing of GI toxins:
 
-- [ ] Test for mycotoxins in urine. 
+- [ ] Test for mycotoxins in urine.
 
-  - A comprehensive test includes 40+ items. 
+  - A comprehensive test includes 40+ items.
 
   - A company that offers this testing is [Mosaic DX](https://mosaicdx.com)
 
@@ -121,7 +111,7 @@ Allergy testing a.k.a. histamine-response testing can be done by an allergy spec
 
 - [ ] Do comprehensive skin prick panels for flora, fauna, chemicals, etc.
 
-  - This includes 400+ items. 
+  - This includes 400+ items.
 
   - This is more comprehensive and more accurate than typical allergy blood tests.
 
@@ -142,23 +132,17 @@ Estimate 2-4 weeks to feel results.
 
 ###
 
-  tryptase
-  
-  
-* [Heparin](heparin)
-* [KIT-D816X](kit-d816x)
-
 * [Mast Cell Activation Syndrome diagnosis consensus-2 criteria](mast-cell-activation-syndrome-diagnosis-consensus-2-criteria)
 
 Dysautonomia
 
-Postural Orthostatic Tachycardia Syndrome 
+Postural Orthostatic Tachycardia Syndrome
 
 Allergy testing
 * skin prick testing
 * blood testing
 * elimination testing
-  
+
 prognosis
 
 “Dercum’s disease”
@@ -166,7 +150,7 @@ prognosis
 low-dose imatinib
 
 Hypercoagulability & microclots
-  
+
 beta-blockers
 fludrocortisone
 
@@ -194,12 +178,10 @@ Research now suggests an elevated plasma heparin level likely is the single most
 
 KIT-D816X mutational analysis
 
-primary (i.e. clonal) MCAS proven by the presently very limited range of laboratory testing routinely available for proving such [KIT-D816X mutational analysis, and flow cytometry seeking co-expression on the surfaces of MCs of CD117 (the extracellular domain of transmembrane tyrosine kinase KIT, the dominant MC regulatory element) together with CD25 (the alpha chain of the interleukin-2 receptor, dominantly expressed by T-cells) and/or CD2 (ordinarily a surface adhesion molecule restricted to T/NK-lymphocytes)], and (2) far more common patients with “idiopathic” MCAS, which preliminary research [15], [16], [17] strongly suggests is almost always driven by one (largely MC-restricted, largely somatic) mutational profile or another among a very large menagerie of such profiles in KIT and other MC regulatory elements. 
-
-Differential diagnoses for MCAS have been considered in the literature (e.g. [20], [34]); a few such considerations include diabetes mellitus, porphyria, sarcoidosis, thyroid disorders, Fabry disease, Helicobacter pylori gastritis, infectious and inflammatory bowel and skin and genitourinary tract diseases, celiac disease, lactose/sucrose/fructose intolerance, amyloidosis, intestinal adhesions/volvulus/obstruction, hepatitis, cholecystitis, median arcuate ligament syndrome, neuroendocrine cancers (carcinoid, pheochromocytoma, etc.), pancreatic endocrine tumors, food/environmental allergy, asthma, allergic rhinitis, eosinophilic esophagitis/enteritis, other hypereosinophilic and hyper-IgE syndromes, immunodeficiencies, autoinflammatory syndromes, hereditary angioedema, vasculitis, hypermobility syndromes, lymphoma, myeloproliferative neoplasms, autism, anxiety/panic, depression, psychosomatism, conversion disorder, and Munchausen’s syndrome.
+primary (i.e. clonal) MCAS proven by the presently very limited range of laboratory testing routinely available for proving such [KIT-D816X mutational analysis, and flow cytometry seeking co-expression on the surfaces of MCs of CD117 (the extracellular domain of transmembrane tyrosine kinase KIT, the dominant MC regulatory element) together with CD25 (the alpha chain of the interleukin-2 receptor, dominantly expressed by T-cells) and/or CD2 (ordinarily a surface adhesion molecule restricted to T/NK-lymphocytes)], and (2) far more common patients with “idiopathic” MCAS, which preliminary research [15], [16], [17] strongly suggests is almost always driven by one (largely MC-restricted, largely somatic) mutational profile or another among a very large menagerie of such profiles in KIT and other MC regulatory elements.
 
 
-Comorbidities;
+Comorbidities:
 
 * myalgic encephalitis/chronic fatigue syndrome (ME/CFS)
 * fibromyalgia
@@ -235,7 +217,7 @@ Symptoms:
 * depression
 * arrythmia
 * cardiac arrest
-* respiratory arrest 
+* respiratory arrest
 
 Medications:
 

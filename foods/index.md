@@ -94,7 +94,7 @@
 
 * Packaged and processed foods: Snacks, ready-made grains, cookies, sweets
 
-* Food additives, preservatives, and food coloring 
+* Food additives, preservatives, and food coloring
 
 * Licorice
 
@@ -105,7 +105,7 @@
 
 ### Foods to avoid because of allergens
 
-The United States Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA) identifies eight foods as major food allergens: 
+The United States Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA) identifies eight foods as major food allergens:
 
 * milk
 
@@ -152,7 +152,7 @@ Aim to avoid these broad categories of foods until after you have your allergy t
 
 * [ ] Gluten, such as wheat, barley, and oats.
 
-  - Gluten is found in many kinds of breads, pastas, beers, etc. 
+  - Gluten is found in many kinds of breads, pastas, beers, etc.
 
   - Aim for food that is labeled "Gluten Free" or "GF".
 

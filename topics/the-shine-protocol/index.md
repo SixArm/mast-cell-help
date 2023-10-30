@@ -1,6 +1,6 @@
-# The SHINE protocol 
+# The SHINE protocol
 
-The SHINE protocol is an acronym that stands for Sleep, Hormones, Infections, Nutrition, and Exercise. It is an approach to addressing and improving the health of individuals who are experiencing conditions like Chronic Fatigue Syndrome (CFS) or Myalgic Encephalomyelitis (ME). This protocol, developed by Dr. Jacob Teitelbaum, is designed to address multiple factors that can contribute to these chronic and often debilitating conditions. 
+The SHINE protocol is an acronym that stands for Sleep, Hormones, Infections, Nutrition, and Exercise. It is an approach to addressing and improving the health of individuals who are experiencing conditions like Chronic Fatigue Syndrome (CFS) or Myalgic Encephalomyelitis (ME). This protocol, developed by Dr. Jacob Teitelbaum, is designed to address multiple factors that can contribute to these chronic and often debilitating conditions.
 
 Here's an overview of each component…
 

@@ -13,4 +13,4 @@ tmp/build.md:
 	book-binder start.yml "${top}/src/links.md" "tmp/build.md" "${top}/topics"
 
 tmp/${key}.epub:
-	pandoc-from-markdown-to-pdf "tmp/build.md" -o "tmp/${key}.epub"
+	pandoc-from-markdown-to-epub "tmp/build.md" -o "tmp/${key}.epub"

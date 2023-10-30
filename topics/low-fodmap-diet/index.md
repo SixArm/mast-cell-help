@@ -2,11 +2,11 @@
 
 A low-FODMAP diet is a dietary approach designed to manage and alleviate gastrointestinal symptoms, particularly in individuals with irritable bowel syndrome (IBS) and certain other digestive conditions. FODMAP is an acronym that stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols, which are types of carbohydrates that can be poorly absorbed in the small intestine. When these carbohydrates reach the colon, they can be fermented by gut bacteria, leading to gas production and gastrointestinal discomfort in some people.
 
-The low-FODMAP diet aims to reduce the intake of foods that are high in FODMAPs and then systematically reintroduce them to identify which specific FODMAPs trigger symptoms in an individual. 
+The low-FODMAP diet aims to reduce the intake of foods that are high in FODMAPs and then systematically reintroduce them to identify which specific FODMAPs trigger symptoms in an individual.
 
 Key phases…
 
-1. Elimination Phase: During this phase, high-FODMAP foods are restricted for a period of 2 to 6 weeks to allow the gastrointestinal system to settle and symptoms to improve. Foods to avoid or limit during this phase include: 
+1. Elimination Phase: During this phase, high-FODMAP foods are restricted for a period of 2 to 6 weeks to allow the gastrointestinal system to settle and symptoms to improve. Foods to avoid or limit during this phase include:
 
     * Oligosaccharides: Found in foods like wheat, rye, onions, garlic, and legumes.
 

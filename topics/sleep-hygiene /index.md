@@ -1,6 +1,6 @@
-# Sleep hygiene 
+# Sleep hygiene
 
-Sleep hygiene refers to a set of practices and habits that promote good sleep quality and help individuals achieve restful and rejuvenating sleep. Following these practices can improve your overall sleep patterns, reduce the risk of sleep disturbances, and contribute to better physical and mental health. 
+Sleep hygiene refers to a set of practices and habits that promote good sleep quality and help individuals achieve restful and rejuvenating sleep. Following these practices can improve your overall sleep patterns, reduce the risk of sleep disturbances, and contribute to better physical and mental health.
 
 Some key principles…
 

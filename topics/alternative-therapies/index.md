@@ -1,6 +1,6 @@
 # Alternative therapies
 
-The primary treatment for MCAS involves medications like antihistamines and stabilizers. Some individuals also explore complementary and alternative therapies to help manage their symptoms. It's essential to discuss these options with a healthcare provider and integrate them into a comprehensive treatment plan. 
+The primary treatment for MCAS involves medications like antihistamines and stabilizers. Some individuals also explore complementary and alternative therapies to help manage their symptoms. It's essential to discuss these options with a healthcare provider and integrate them into a comprehensive treatment plan.
 
 Here are some alternative therapies…
 

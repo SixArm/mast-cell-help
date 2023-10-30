@@ -13,4 +13,3 @@ Key steps…
 * Exercise and Physical Activity: Regular physical activity can help improve lung function and overall health. Work with your healthcare provider to develop a plan for exercise-induced asthma.
 
 * Stress Management: Managing stress through relaxation techniques, mindfulness, and other stress-reduction methods can help control asthma symptoms.
-  

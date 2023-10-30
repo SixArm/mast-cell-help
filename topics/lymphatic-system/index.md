@@ -1,6 +1,6 @@
 # Lymphatic system
 
-The lymphatic system is a network of tissues, organs, and vessels that play a vital role in maintaining fluid balance, filtering harmful substances, and supporting the body's immune function. It complements the circulatory system (blood vessels) and is responsible for the circulation of lymph, a clear, colorless fluid that contains white blood cells, known as lymphocytes, and other immune cells. 
+The lymphatic system is a network of tissues, organs, and vessels that play a vital role in maintaining fluid balance, filtering harmful substances, and supporting the body's immune function. It complements the circulatory system (blood vessels) and is responsible for the circulation of lymph, a clear, colorless fluid that contains white blood cells, known as lymphocytes, and other immune cells.
 
 The lymphatic system works in close coordination with the circulatory system and the immune system to help protect the body from infections and maintain overall health. It serves as a crucial part of the body's defense against diseases and plays a role in maintaining the body's internal balance.
 

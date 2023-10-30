@@ -23,8 +23,8 @@ Symptoms of bradycardia can vary and may include:
 * Dizziness
 * Fatigue
 * Weakness
-* Fainting (syncope), 
-* Shortness of breath, and 
+* Fainting (syncope),
+* Shortness of breath, and
 * Chest pain
 
 Treatment for bradycardia depends on the cause, the severity of symptoms, and the individual's overall health. Some potential interventions may include:

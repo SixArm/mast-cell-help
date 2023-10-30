@@ -1,6 +1,6 @@
 # Allergies
 
-Allergies are exaggerated or hypersensitive immune responses to substances that are typically harmless to most people. These substances, known as allergens, can trigger an immune reaction in individuals who are allergic to them. Individuals with allergies can work with healthcare professionals to manage their condition effectively, understand their triggers, and have a plan in place to address allergic reactions when they occur. 
+Allergies are exaggerated or hypersensitive immune responses to substances that are typically harmless to most people. These substances, known as allergens, can trigger an immune reaction in individuals who are allergic to them. Individuals with allergies can work with healthcare professionals to manage their condition effectively, understand their triggers, and have a plan in place to address allergic reactions when they occur.
 
 Key points…
 

@@ -1,6 +1,6 @@
-# Anaphylaxis 
+# Anaphylaxis
 
-Anaphylaxis is a severe, life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can affect multiple systems in the body and can lead to a sudden drop in blood pressure and airway constriction, making it difficult to breathe. 
+Anaphylaxis is a severe, life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can affect multiple systems in the body and can lead to a sudden drop in blood pressure and airway constriction, making it difficult to breathe.
 
 If you or someone you are with is experiencing symptoms of anaphylaxis, seek emergency medical help immediately. Anaphylaxis can be fatal.
 

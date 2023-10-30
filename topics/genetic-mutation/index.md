@@ -1,10 +1,10 @@
 # Genetic mutation
 
-A genetic mutation is an alteration in the DNA sequence of an organism's genome. These mutations can occur naturally or as a result of external factors. These mutations can lead to a wide range of effects, from no discernible impact to significant changes in an organism's traits and characteristics. 
+A genetic mutation is an alteration in the DNA sequence of an organism's genome. These mutations can occur naturally or as a result of external factors. These mutations can lead to a wide range of effects, from no discernible impact to significant changes in an organism's traits and characteristics.
 
 Genetic mutations are a fundamental driver of evolution and are central to the understanding of genetics and inherited traits.
 
-Genetic testing can identify mutations associated with genetic disorders and provide valuable information for healthcare, reproductive planning, and personalized medicine. 
+Genetic testing can identify mutations associated with genetic disorders and provide valuable information for healthcare, reproductive planning, and personalized medicine.
 
 Types of Mutations:
 

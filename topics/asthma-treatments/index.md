@@ -20,19 +20,19 @@ Quick-Relief (Rescue) Medications:
 
 * Ipratropium Bromide: This medication can also help relax the airways and is used in combination with SABAs for acute symptom relief.
 
-Combination Medications: 
+Combination Medications:
 
 * Some medications combine both a long-acting beta-agonist and an inhaled corticosteroid. These combination inhalers can simplify treatment and improve adherence.
 
-Biologics: 
+Biologics:
 
 * In severe asthma cases, biologic medications may be considered. These are targeted therapies that aim to address specific inflammatory pathways. Examples include omalizumab, mepolizumab, reslizumab, and benralizumab.
 
-Asthma Action Plan: 
+Asthma Action Plan:
 
 * This is a personalized written plan developed with your healthcare provider. It outlines how to manage your asthma on a daily basis, including when and how to take medications, and what steps to follow if your symptoms worsen or you experience an asthma attack.
 
-Regular Follow-Up: 
+Regular Follow-Up:
 
 * Periodic check-ups with your healthcare provider are essential to monitor your asthma control, adjust treatment as needed, and review your asthma action plan.
 

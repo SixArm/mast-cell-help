@@ -16,4 +16,4 @@ Electrolytes are essential minerals or ions that have an electric charge and pla
 
 * Phosphate (HPO4^2- and H2PO4^-): Phosphate is vital for bone health, energy metabolism, and the formation of DNA and RNA.
 
-These electrolytes are essential for various bodily functions, and maintaining the right balance of these ions is crucial for overall health. 
+These electrolytes are essential for various bodily functions, and maintaining the right balance of these ions is crucial for overall health.

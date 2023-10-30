@@ -1,6 +1,6 @@
 # Anaphylaxis severity
 
-Anaphylaxis is a severe and potentially life-threatening allergic reaction. Severity of anaphylaxis can escalate rapidly, and the presentation can vary from person to person. 
+Anaphylaxis is a severe and potentially life-threatening allergic reaction. Severity of anaphylaxis can escalate rapidly, and the presentation can vary from person to person.
 
 Here's a general description of anaphylaxis severity…
 

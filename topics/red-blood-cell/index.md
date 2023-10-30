@@ -6,7 +6,7 @@ Abnormalities in red blood cell production or function can lead to various medic
 
 Key aspects…
 
-* Shape and Structure: Red blood cells are small, flexible, and biconcave in shape, which provides a large surface area for the exchange of gases and allows them to pass through tiny capillaries. 
+* Shape and Structure: Red blood cells are small, flexible, and biconcave in shape, which provides a large surface area for the exchange of gases and allows them to pass through tiny capillaries.
 
 * Hemoglobin: Hemoglobin is the protein that gives red blood cells their red color. It binds to oxygen in the lungs to form oxyhemoglobin and releases oxygen in the body's tissues. Hemoglobin also helps carry some carbon dioxide back to the lungs for exhalation.
 

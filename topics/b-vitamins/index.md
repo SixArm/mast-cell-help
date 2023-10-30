@@ -1,6 +1,6 @@
-# B-vitamins 
+# B-vitamins
 
-B-vitamins are a group of water-soluble vitamins that play essential roles in various bodily functions, including energy metabolism, brain health, and the formation of red blood cells. While it's best to obtain these vitamins from a balanced diet, there are situations where dietary supplements may be recommended by a healthcare provider. 
+B-vitamins are a group of water-soluble vitamins that play essential roles in various bodily functions, including energy metabolism, brain health, and the formation of red blood cells. While it's best to obtain these vitamins from a balanced diet, there are situations where dietary supplements may be recommended by a healthcare provider.
 
 Here's an overview of the B-vitamins and their dietary supplements…
 

@@ -1,6 +1,6 @@
 # Buteyko breathing method
 
-The Buteyko Breathing Method is a set of breathing techniques and exercises developed by Dr. Konstantin Buteyko. It is designed to address various health issues, particularly those related to breathing difficulties and respiratory conditions, by teaching individuals how to modify their breathing patterns. 
+The Buteyko Breathing Method is a set of breathing techniques and exercises developed by Dr. Konstantin Buteyko. It is designed to address various health issues, particularly those related to breathing difficulties and respiratory conditions, by teaching individuals how to modify their breathing patterns.
 
 The Buteyko Breathing Method is believed to help by improving respiratory efficiency and helping individuals breathe in a way that supports better oxygenation of tissues and overall health. It also aims to reduce over-breathing, which can lead to chronic hyperventilation and associated health issues.
 

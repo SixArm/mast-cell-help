@@ -5,7 +5,7 @@
 * Antihistamines: Non-sedating, second-generation antihistamines like cetirizine (Zyrtec), loratadine (Claritin), or fexofenadine (Allegra) are commonly used to block the effects of histamine and manage symptoms such as itching, flushing, and hives.
 
 * Mast Cell Stabilizers: Medications like cromolyn sodium (Gastrocrom) or ketotifen (Zaditor) can help stabilize mast cells and reduce their reactivity.
-        
+
 * Leukotriene Modifiers: Montelukast (Singulair) is a leukotriene receptor antagonist that may be prescribed to manage respiratory and other symptoms.
 
 * Proton Pump Inhibitors (PPIs): PPIs like omeprazole (Prilosec) can help manage gastrointestinal symptoms by reducing stomach acid production.

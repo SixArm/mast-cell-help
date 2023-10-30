@@ -1,6 +1,6 @@
 # Genetic polymorphisms
 
-Genetic polymorphisms, also known as genetic variations or genetic variants, are differences in the DNA sequence among individuals in a population. These variations can involve a single nucleotide change (single nucleotide polymorphisms or SNPs), larger insertions of DNA segments or deletions of them, or even structural changes in chromosomes. 
+Genetic polymorphisms, also known as genetic variations or genetic variants, are differences in the DNA sequence among individuals in a population. These variations can involve a single nucleotide change (single nucleotide polymorphisms or SNPs), larger insertions of DNA segments or deletions of them, or even structural changes in chromosomes.
 
 Genetic polymorphisms are a fundamental aspect of human genetics and are of great interest in fields like genetics, genomics, and personalized medicine. They contribute to the diversity of traits and susceptibilities among individuals and populations.
 

@@ -1,6 +1,6 @@
 # Calcium
 
-Calcium is an essential mineral that plays a crucial role in various physiological functions in the body, including bone health, muscle function, nerve transmission, and blood clotting. Calcium supplements are sometimes used to ensure an adequate intake, especially in individuals who may have difficulty meeting their calcium needs through their diet. 
+Calcium is an essential mineral that plays a crucial role in various physiological functions in the body, including bone health, muscle function, nerve transmission, and blood clotting. Calcium supplements are sometimes used to ensure an adequate intake, especially in individuals who may have difficulty meeting their calcium needs through their diet.
 
 Hey points:
 

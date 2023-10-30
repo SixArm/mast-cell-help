@@ -1,6 +1,6 @@
 # Food diary
 
-A food diary, also known as a food journal or food log, is a record of the foods and beverages you consume throughout the day. It's a valuable tool for tracking your dietary habits, calorie intake, and nutritional choices. 
+A food diary, also known as a food journal or food log, is a record of the foods and beverages you consume throughout the day. It's a valuable tool for tracking your dietary habits, calorie intake, and nutritional choices.
 
 Keeping a food diary can provide insights into your eating patterns, help you make more informed food choices, and assist with health and wellness goals.
 

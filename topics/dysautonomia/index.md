@@ -1,6 +1,6 @@
 # Dysautonomia
 
-Dysautonomia, also known as autonomic nervous system dysfunction or autonomic neuropathy, is a broad term used to describe a group of medical conditions that involve abnormalities or malfunctions of the autonomic nervous system (ANS). 
+Dysautonomia, also known as autonomic nervous system dysfunction or autonomic neuropathy, is a broad term used to describe a group of medical conditions that involve abnormalities or malfunctions of the autonomic nervous system (ANS).
 
 The ANS is responsible for regulating various involuntary bodily functions, including heart rate, blood pressure, digestion, temperature control, and the body's response to stress. When the autonomic nervous system doesn't function properly, it can lead to a wide range of symptoms and health issues.
 

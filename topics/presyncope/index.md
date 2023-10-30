@@ -1,6 +1,6 @@
 # Presyncope
 
-Presyncope is a medical term used to describe the feeling of lightheadedness, dizziness, or faintness that can occur when a person is on the verge of losing consciousness. If someone experiences presyncope, it's essential to take it seriously, because fainting can result in injury, and in some cases, it may be a sign of an underlying medical condition that requires treatment. 
+Presyncope is a medical term used to describe the feeling of lightheadedness, dizziness, or faintness that can occur when a person is on the verge of losing consciousness. If someone experiences presyncope, it's essential to take it seriously, because fainting can result in injury, and in some cases, it may be a sign of an underlying medical condition that requires treatment.
 
 Common symptoms:
 

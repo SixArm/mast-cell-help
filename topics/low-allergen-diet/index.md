@@ -1,6 +1,6 @@
 # Low-allergen diet
 
-A low-allergen diet, often referred to as a hypoallergenic diet, is a dietary approach that aims to reduce or eliminate foods and ingredients that commonly trigger allergic reactions or food sensitivities. This type of diet is typically used to manage or diagnose food allergies, food intolerances, or conditions like eosinophilic esophagitis, atopic dermatitis, and irritable bowel syndrome. A low-allergen diet focuses on minimizing exposure to known allergenic or highly allergenic foods. 
+A low-allergen diet, often referred to as a hypoallergenic diet, is a dietary approach that aims to reduce or eliminate foods and ingredients that commonly trigger allergic reactions or food sensitivities. This type of diet is typically used to manage or diagnose food allergies, food intolerances, or conditions like eosinophilic esophagitis, atopic dermatitis, and irritable bowel syndrome. A low-allergen diet focuses on minimizing exposure to known allergenic or highly allergenic foods.
 
 * Foods to choose: most fresh fruits, fresh vegetables, fresh meats, non-dairy milk, gluten-free grains, most herbs and spices, and most cooking oils.
 

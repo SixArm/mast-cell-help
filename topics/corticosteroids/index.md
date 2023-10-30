@@ -1,13 +1,13 @@
 # Corticosteroids
 
-Corticosteroids, often referred to simply as steroids, are a class of synthetic drugs that mimic the natural corticosteroid hormones produced by the adrenal glands. These medications have a wide range of medical uses and are commonly prescribed for their anti-inflammatory and immunosuppressive properties. 
+Corticosteroids, often referred to simply as steroids, are a class of synthetic drugs that mimic the natural corticosteroid hormones produced by the adrenal glands. These medications have a wide range of medical uses and are commonly prescribed for their anti-inflammatory and immunosuppressive properties.
 
 Corticosteroids can be categorized into two main types:
 
-* Glucocorticoids are the primary type of corticosteroids used in medicine. They have anti-inflammatory and immunosuppressive effects, making them valuable in the treatment of various medical conditions. 
- One of the most well-known mineralocorticoids is aldosterone. 
+* Glucocorticoids are the primary type of corticosteroids used in medicine. They have anti-inflammatory and immunosuppressive effects, making them valuable in the treatment of various medical conditions.
+ One of the most well-known mineralocorticoids is aldosterone.
 
-* Mineralocorticoids primarily regulate electrolyte and fluid balance in the body. Medications that mimic mineralocorticoid effects are used in the management of conditions like adrenal insufficiency. One of the most well-known mineralocorticoids is aldosterone. 
+* Mineralocorticoids primarily regulate electrolyte and fluid balance in the body. Medications that mimic mineralocorticoid effects are used in the management of conditions like adrenal insufficiency. One of the most well-known mineralocorticoids is aldosterone.
 
 Some common glucocorticoid medications include:
 

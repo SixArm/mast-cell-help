@@ -1,6 +1,6 @@
 # Blood cells
 
-Blood is composed of various types of cells that serve different functions in the body. The three main types of blood cells are red blood cells (erythrocytes), white blood cells (leukocytes), and platelets (thrombocytes). 
+Blood is composed of various types of cells that serve different functions in the body. The three main types of blood cells are red blood cells (erythrocytes), white blood cells (leukocytes), and platelets (thrombocytes).
 
 The main types of blood cells:
 

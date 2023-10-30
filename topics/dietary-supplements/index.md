@@ -1,6 +1,6 @@
-# Dietary supplements 
+# Dietary supplements
 
-Dietary supplements are products designed to provide nutrients that may be missing or insufficient in a person's diet. They can include vitamins, minerals, amino acids, herbs, enzymes, and various other substances. Dietary supplements are typically available in various forms, such as pills, capsules, powders, liquids, and even gummies. 
+Dietary supplements are products designed to provide nutrients that may be missing or insufficient in a person's diet. They can include vitamins, minerals, amino acids, herbs, enzymes, and various other substances. Dietary supplements are typically available in various forms, such as pills, capsules, powders, liquids, and even gummies.
 
 Here's an overview of dietary supplements:
 
@@ -29,11 +29,11 @@ It's important to note that dietary supplements are not intended to replace a ba
 Here are some important considerations when using dietary supplements:
 
 * Consult a healthcare provider before starting any new supplement, especially if you have medical conditions or are taking medications.
-  
+
 * Be aware of potential interactions between supplements and medications you are already taking.
- 
+
 * Follow recommended dosages and avoid exceeding them, as excessive intake of certain vitamins and minerals can be harmful.
-    
+
 * Choose reputable and well-established brands to ensure the quality and safety of the supplement.
 
 * Supplements are not regulated as strictly as prescription medications, so it's essential to use caution and do your research.

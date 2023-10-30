@@ -1,6 +1,6 @@
 # Histamine intolerance
 
-Histamine intolerance is a condition in which an individual experiences a variety of symptoms in response to the consumption of foods or other substances that contain histamine or trigger the release of histamine in the body. 
+Histamine intolerance is a condition in which an individual experiences a variety of symptoms in response to the consumption of foods or other substances that contain histamine or trigger the release of histamine in the body.
 
 Histamine intolerance can be caused by various factors. It may result from a deficiency or dysfunction of the enzyme diamine oxidase (DAO), which is responsible for breaking down histamine in the digestive system. Other factors that can contribute to histamine intolerance include genetic predisposition, certain medical conditions, and the use of medications that interfere with histamine metabolism.
 

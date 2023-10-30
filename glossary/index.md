@@ -27,14 +27,14 @@ Scientific units of measurement:
 
 * s: second (time)
 
-* m: metre (length), kilogram (kg, mass), 
+* m: metre (length), kilogram (kg, mass),
 
 * A: ampere (electric current),
 
 * K: kelvin (temperature)
-  
+
 * mole: mole (amount of substance)
-  
+
 * cd: candela (luminous intensity)
 
 
@@ -58,7 +58,7 @@ Medical imaging:
 * CT: computerized tomography
 
 * MRI: magnetic resonance imaging
-  
+
 * PET: positron emission tomography
 
 
@@ -67,19 +67,19 @@ Medical terminology:
 * ED: Emergency Department
 
 * ER: Emergency Room
-  
+
 * HAT: hereditary alpha-tryptasemia
 
 * IM: intra-muscular
 
 * IV: intravenous
-    
+
 * MC: mast cell
 
 * MCA: mast cell activation
 
 * MCAS: mast cell activation syndrome
-  
+
 * OTC: over the counter
 
 * RBC: red blood cell

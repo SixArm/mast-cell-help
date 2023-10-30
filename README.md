@@ -66,7 +66,7 @@ Mast cell activation syndrome (MCAS) Guide: this book explains one topic per pag
 * [White blood cell (WBC)](topics/white-blood-cell)
 * [Red blood cell (RBC)](topics/red-blood-cell)
 * [Platelet](topics/platelet)
-  
+
 ### [Dysautonomia](topics/dysautonomia)
 
 ### [Hypertryptasemia](topics/hypertryptasemia)

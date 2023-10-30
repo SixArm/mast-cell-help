@@ -1,6 +1,6 @@
 # Elimination diet
 
-An elimination diet is a dietary approach used to identify and eliminate specific foods or food groups that may be causing adverse reactions or symptoms in an individual. It is often employed to pinpoint and manage food allergies, food sensitivities, or other adverse reactions to certain foods. 
+An elimination diet is a dietary approach used to identify and eliminate specific foods or food groups that may be causing adverse reactions or symptoms in an individual. It is often employed to pinpoint and manage food allergies, food sensitivities, or other adverse reactions to certain foods.
 
 An elimination diet should be carried out under the guidance of a healthcare professional or registered dietitian, as it can be challenging to implement effectively. They can help create a tailored plan, monitor progress, and ensure that the diet remains balanced and nutritious. Additionally, healthcare providers may recommend allergy testing or other diagnostic tests to assist in the process.
 

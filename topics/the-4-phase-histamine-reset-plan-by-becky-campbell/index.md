@@ -1,6 +1,6 @@
 # The 4-Phase Histamine Reset Plan - By Becky Campbell
 
-The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More 
+The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More
 
 By Dr. Becky Campbell (Author)
 

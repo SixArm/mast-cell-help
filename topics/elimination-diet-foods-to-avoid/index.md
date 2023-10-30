@@ -4,17 +4,17 @@ For a low-histamine diet, here are items to avoid or limit.
 
 Foods:
 
-* Citrus 
-* Dairy Products 
-* Eggs 
+* Citrus
+* Dairy Products
+* Eggs
 * Gluten (barley, oats, rye, wheat)
-* Soy 
-* Peanuts 
-* Shellfish 
-* Tree Nuts 
-* Beef products 
-* Corn 
-  
+* Soy
+* Peanuts
+* Shellfish
+* Tree Nuts
+* Beef products
+* Corn
+
 Compounds (additives, both artificial and natural):
 
 * Antioxidants (butylated hydroxyanisole and hydroxytoluene)

@@ -1,6 +1,6 @@
 # What is this book?
 
-Mast Cell Activation Syndrome Guide is a book that brings together topic summaries for 100+ medical concepts about Mast Cell Activation Syndrome (MCAS), its symptoms, diagnosis, treatment, and related areas. 
+Mast Cell Activation Syndrome Guide is a book that brings together topic summaries for 100+ medical concepts about Mast Cell Activation Syndrome (MCAS), its symptoms, diagnosis, treatment, and related areas.
 
 This guide is similar to a glossary, or a primer, or a specific encyclopedia. The guide is intended for quick easy learning and sharing.
 

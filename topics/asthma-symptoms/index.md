@@ -1,6 +1,6 @@
 # Asthma symptoms
 
-Asthma symptoms can vary from person to person and can range from mild to severe. They are typically episodic, with periods of symptom flare-ups (asthma attacks) and times of improved lung function. 
+Asthma symptoms can vary from person to person and can range from mild to severe. They are typically episodic, with periods of symptom flare-ups (asthma attacks) and times of improved lung function.
 
 * Coughing: A persistent cough, often worse at night or early in the morning, is a hallmark symptom of asthma. The cough may be dry or produce mucus.
 

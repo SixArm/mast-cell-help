@@ -2,8 +2,8 @@
 
 The diagnosis of asthma typically involves a combination of medical history, physical examination, and various diagnostic tests.
 
-Medical History: Your healthcare provider will take a detailed medical history, including information about your symptoms and factors that affect your breathing difficulties. 
-  
+Medical History: Your healthcare provider will take a detailed medical history, including information about your symptoms and factors that affect your breathing difficulties.
+
 Physical Examination: Your healthcare provider will assess your lung function and look for signs of asthma, such as wheezing or prolonged exhalation.
 
 Rule Out Other Conditions: Your healthcare provider will rule out other medical conditions that can cause similar symptoms, such as chronic obstructive pulmonary disease (COPD), allergic bronchopulmonary aspergillosis, or cardiac conditions that affect breathing.

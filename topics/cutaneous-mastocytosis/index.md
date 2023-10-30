@@ -1,6 +1,6 @@
 # Cutaneous mastocytosis
 
-Cutaneous mastocytosis primarily affects the skin and is more common in children. 
+Cutaneous mastocytosis primarily affects the skin and is more common in children.
 
 Cutaneous mastocytosis includes conditions such as:
 

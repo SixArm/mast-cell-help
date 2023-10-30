@@ -1,6 +1,6 @@
 # Bile acid sequestrants
 
-Bile acid sequestrants, also known as bile acid-binding resins or simply bile sequestrants, are a class of medications primarily used to lower high levels of cholesterol in the blood. They work by binding to bile acids in the intestines, which reduces the reabsorption of bile acids and cholesterol, ultimately leading to lower levels of LDL (low-density lipoprotein) cholesterol in the bloodstream. 
+Bile acid sequestrants, also known as bile acid-binding resins or simply bile sequestrants, are a class of medications primarily used to lower high levels of cholesterol in the blood. They work by binding to bile acids in the intestines, which reduces the reabsorption of bile acids and cholesterol, ultimately leading to lower levels of LDL (low-density lipoprotein) cholesterol in the bloodstream.
 
 Key points:
 

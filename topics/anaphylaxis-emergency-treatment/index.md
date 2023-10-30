@@ -7,7 +7,7 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 2. Avoid triggers: remove trigger or remove self from triggers.
 
 3. Administer extra doses of H1 and H2 blockers: such as ranitident/cimetidine + fexofenadine/hydroxyzine/diphenhydramine.
-  
+
 4. Administer corticosteroids because these may prevent prolonged anaphylaxis treatment.
 
 5. Treat H1 reactions (skin and repiratory: mucous overpdocution, asthma, throuat tightening, skin itching):
@@ -21,7 +21,7 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 6. Treat H2 reactions (GI and cardiac: sudden diarrhea, gas, bloating, vomiting, nausea, low blodd pressure, heart palpitations, difficulty breathing, feels like you may pass out):
 
     * Stop H2 reaction: activated charcoal, cholestyramine, bland food to soak up the irritant and prevent new reactions
-  
+
     * Nausea: sea bands
 
     * Cardiac symptoms, including low blood pressure: electrolytes and fluids, lay down, assess severity

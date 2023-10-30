@@ -1,6 +1,6 @@
 # Electrolyte imbalance
 
-It's important to maintain a proper balance of electrolytes in the body to support normal bodily functions. Electrolyte imbalance can often be treated by adjusting the diet, using supplements, or addressing underlying medical conditions. 
+It's important to maintain a proper balance of electrolytes in the body to support normal bodily functions. Electrolyte imbalance can often be treated by adjusting the diet, using supplements, or addressing underlying medical conditions.
 
 Electrolyte imbalance names and symptoms:
 

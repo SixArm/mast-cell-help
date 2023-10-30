@@ -30,7 +30,7 @@ Healthcare Help:
 * [Paula McCreary, Medical Herbalist](https://paulamccrearyherbalist.co.uk/)
 * [Paul Jemalian, MD](https://stanfordhealthcare.org/doctors/j/paul-jemelian.html)
 * [Lawrence Afrin, MD](https://aimcenterpm.com/dr-lawrence-afrin/)
-  
+
 University Help:
 
 * [Berkeley](https://berkeley.edu)

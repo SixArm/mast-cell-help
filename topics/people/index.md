@@ -51,7 +51,7 @@ People who are especially involved with mast cell activation syndrome and its di
 
 Lawrence B. Afrin, MD
 * Armonk Integrative Medicine
-* 3010 Westchester Avenue, Suite 404, Purchase, NY 10577, US 
+* 3010 Westchester Avenue, Suite 404, Purchase, NY 10577, US
 * Phone: +1-914-730-7390
 * Fax: +1-914-730-7391
 * E-mail: drafrin@armonkmed.com.
@@ -61,31 +61,31 @@ Mary B. Ackerley
 * E-mail: lucid@dakotacom.net
 
 Linda S. Bluestein
-* Department of Anesthesiology, Medical College of Wisconsin, Wausau, WI, US 
+* Department of Anesthesiology, Medical College of Wisconsin, Wausau, WI, US
 * Email: lindabluestein@yahoo.com
 
 Joseph H. Brewer
-* Plaza Infectious Disease, Kansas City, MO, US 
+* Plaza Infectious Disease, Kansas City, MO, US
 * Email: jbrewer@plazamedicine.com
 
 Jill B. Brook
-* Alaska Internal Medicine and Pediatrics, Anchorage, AK, US 
+* Alaska Internal Medicine and Pediatrics, Anchorage, AK, US
 * Email: jillbrook@msn.com
 
 Ariana D. Buchanan
-* Peachtree Allergy and Asthma, Atlanta, GA, US 
-* Email: abuchananmd@aol.com 
+* Peachtree Allergy and Asthma, Atlanta, GA, US
+* Email: abuchananmd@aol.com
 
 Theodore M. Lee
-* Peachtree Allergy and Asthma, Atlanta, GA, US 
+* Peachtree Allergy and Asthma, Atlanta, GA, US
 * Email: drtedlee@peachtreeallergyclinic.com
 
 Jill R. Cuni
-* Division of Pediatrics, Beaver Medical Group, Banning, CA, US 
+* Division of Pediatrics, Beaver Medical Group, Banning, CA, US
 * Email: jcuni@epiclp.com
 
 William P. Davey
-* Department of Dermatology, University of Kentucky, Lexington, KY, US 
+* Department of Dermatology, University of Kentucky, Lexington, KY, US
 * Email: wpdavey@gmail.com
 
 Tania T. Dempsey
@@ -96,8 +96,8 @@ Shanda R. Dorff
 * Complex Cares, LLC, Shoreview, MN, US
 * Email: drdorff@complexcaresmn.com
 
-Martin S. Dubravec: 
-* Allergy and Asthma Specialists of Cadillac, Cadillac, MI, US 
+Martin S. Dubravec:
+* Allergy and Asthma Specialists of Cadillac, Cadillac, MI, US
 * Email: biosp3@sbcglobal.net
 
 Alena G. Guggenheim
@@ -113,7 +113,7 @@ Bruce Hoffman
 * Email: brucehoffman@hoffmancentre.ca
 
 David L. Kaufman
-* Center for Complex Diseases, Mountain View, CA, US 
+* Center for Complex Diseases, Mountain View, CA, US
 * Email: david@centerforcomplexdiseases.com
 
 Stephanie J. Kratzer

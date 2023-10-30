@@ -103,7 +103,7 @@ Mast cell activation syndrome (MCAS) Guide: this book explains one topic per pag
 * [Red blood cell (RBC)](topics/red-blood-cell)
 * [Platelet](topics/platelet)
 
-### [Lymphatic system]
+### [Lymphatic system](lymphatic-system)
 
 * [Lymph](topics/lymph)
 

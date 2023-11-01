@@ -1,6 +1,6 @@
 # Conclusion
 
-Thank you for reading this Mast Cell Activation Syndrome Guide. I hope it can be helpful to you and your health.
+Thank you for reading this Mast Cell Help guidebook. I hope it can be helpful to you and your health.
 
 Your feedback and suggestions are very much appreciated. Your feedback will help the guide improve and evolve.
 
@@ -8,7 +8,7 @@ Your feedback and suggestions are very much appreciated. Your feedback will help
 
 The repository URL is:
 
-<https://github.com/sixarm/mast-cell-activation-syndrome-guide>
+<https://github.com/sixarm/mast-cell-help>
 
 You can open any issue you like on the repository. For example, you can use the issue link to ask any question, suggest any improvement, point out any error, and the like.
 

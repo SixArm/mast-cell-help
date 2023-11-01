@@ -1,8 +1,8 @@
 # What is this book?
 
-Mast Cell Activation Syndrome Guide is a book that brings together topic summaries for 100+ medical concepts about Mast Cell Activation Syndrome (MCAS), its symptoms, diagnosis, treatment, and related areas.
+Mast Cell Help is a guide book. It brings together topic summaries for 100+ medical concepts about mast cell symptoms, conditions, and treatments. This includes information about Mast Cell Activation Syndrome (MCAS), the immune system, histamines and anti-histamines, and many related medical areas.
 
-This guide is similar to a glossary, or a primer, or a specific encyclopedia. The guide is intended for quick easy learning and sharing.
+This guide book is similar to a glossary, or a primer, or a specific encyclopedia. The guide is intended for quick easy learning and sharing.
 
 ## Why am I creating this?
 
@@ -24,7 +24,7 @@ If you're interested in a comprehensive cover-to-cover book, you may want to try
 
 ## Who is this for?
 
-People should read this guide if they want to learn quickly about Mast Cell Activation Syndrome Guide, and how to diagnose it and treat it.
+People should read this guide if they want to learn quickly about Mast Cell Help, and how to diagnose it and treat it.
 
 ### For patients
 

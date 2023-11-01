@@ -3,6 +3,7 @@ key = $(shell basename ${top})
 
 midput="tmp/midput.md"
 output="tmp/${key}.pdf"
+pandoc="pandoc-from-markdown-to-pdf"
 
 all: ${midput} ${output}
 
@@ -16,4 +17,4 @@ ${midput}:
 	book-binder start.yml "../links.md" ${midput} "${top}/topics"
 
 ${output}:
-	pandoc-from-markdown-to-pdf ${midput} -o ${output}
+	${pandoc} ${midput} -o ${output}

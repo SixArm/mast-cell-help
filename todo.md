@@ -1,7 +1,12 @@
 # TODO
 
+complementary and alternative therapies (CAM)
+
 <li>Foundational information on Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia</li>
 
+lymph
+lymph nodes
+lymph vessels
 
 [Glossary](glossary/)
 

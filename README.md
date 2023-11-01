@@ -1,17 +1,17 @@
-# Mast Cell Activation Syndrome Guide
+# Mast Cell Help
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Mast cell activation syndrome (MCAS) Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
+Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and related symptoms, diagnoses, treatments, medications, conditions, and supportive measures. This guide explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free e-book file [EPUB](mast-cell-activation-syndrome-guide-wip-1.epub) or [PDF](mast-cell-activation-syndrome-guide-wip-1.pdf).
+* Download the free e-book file [EPUB](mast-cell-help-draft-2.epub) or [PDF](mast-cell-help-draft-2.pdf).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 * For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson)
 
 ## Contents
 
-<b>WORK IN PROGRESS #1 + REQUEST FOR COMMENTS</b>
+<b>WORK IN PROGRESS - VERSION 2 - REQUEST FOR COMMENTS</b>
 
 ### [Introduction](topics/introduction)
 

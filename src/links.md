@@ -4,6 +4,7 @@
 * [Where are mast cells?](where-are-mast-cells)
 * [What doctors and providers can help?](what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
+* [Multisystem disease](multisystem-disease)
 * [Support groups](support-groups)
 
 ### [Mast cell activation syndrome (MACS)](mast-cell-activation-syndrome)
@@ -20,6 +21,7 @@
 ### [Alternative therapies](alternative-therapies)
 
 * [Functional medicine](functional-medicine)
+* [Integrative medicine](integrative-medicine)
 * [Traditional Chinese Medicine (TCM)](traditional-chinese-medicine)
 * [Acupuncture](acupuncture)
 * [Stress Management](stress-management)
@@ -162,7 +164,11 @@
 
 ### [Lyme disease](lyme-disease)
 
+### [Rheumatoid arthritis (RA)](rheumatoid-arthritis)
+
 ### [Toxin-exposure](toxin-exposure)
+
+### [Antiphospholipid syndrome (APS)](antiphospholipid-syndrome)
 
 
 ## Symptoms

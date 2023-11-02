@@ -6,11 +6,11 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 
 2. Avoid triggers: remove trigger or remove self from triggers.
 
-3. Administer extra doses of H1 and H2 blockers: such as ranitident/cimetidine + fexofenadine/hydroxyzine/diphenhydramine.
+3. Administer extra doses of H1 and H2 blockers: such as ranitidine/cimetidine + fexofenadine/hydroxyzine/diphenhydramine.
 
 4. Administer corticosteroids because these may prevent prolonged anaphylaxis treatment.
 
-5. Treat H1 reactions (skin and repiratory: mucous overpdocution, asthma, throuat tightening, skin itching):
+5. Treat H1 reactions (skin and respiratory: mucous overproduction, asthma, throat tightening, skin itching):
 
     * Stop asthma attack: albuterol sulfate, cromolyn sodium nebulized and/or inhaled
 
@@ -18,7 +18,7 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 
     * Clean up mucus: guaifenesin
 
-6. Treat H2 reactions (GI and cardiac: sudden diarrhea, gas, bloating, vomiting, nausea, low blodd pressure, heart palpitations, difficulty breathing, feels like you may pass out):
+6. Treat H2 reactions (GI and cardiac: sudden diarrhea, gas, bloating, vomiting, nausea, low blood pressure, heart palpitations, difficulty breathing, feels like you may pass out):
 
     * Stop H2 reaction: activated charcoal, cholestyramine, bland food to soak up the irritant and prevent new reactions
 
@@ -30,4 +30,4 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 
     * Reduce likelihood of secondary injury: rest, do not drive, do not operate heavy machinery
 
-    * Reduce triggers as much as possible: retreat to safe room or mobile ienvironmental containment unit; lay down; breathe clean, fresh, trigger-free air.
+    * Reduce triggers as much as possible: retreat to safe room or mobile environmental containment unit; lay down; breathe clean, fresh, trigger-free air.

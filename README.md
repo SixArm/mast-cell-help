@@ -4,14 +4,14 @@
 
 Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and related symptoms, diagnoses, treatments, medications, conditions, and supportive measures. This guide explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free e-book file [EPUB](mast-cell-help-draft-2.epub) or [PDF](mast-cell-help-draft-2.pdf).
+* Download the free e-book file [EPUB](mast-cell-help.epub) or [PDF](mast-cell-help.pdf).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 * For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson)
 
 ## Contents
 
-<b>WORK IN PROGRESS - VERSION 2 - REQUEST FOR COMMENTS</b>
+<b>WORK IN PROGRESS - REQUEST FOR COMMENTS</b>
 
 ### [Introduction](topics/introduction)
 
@@ -19,6 +19,7 @@ Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and relat
 * [Where are mast cells?](topics/where-are-mast-cells)
 * [What doctors and providers can help?](topics/what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider)
+* [Multisystem disease](topics/multisystem-disease)
 * [Support groups](topics/support-groups)
 
 ### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
@@ -35,6 +36,7 @@ Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and relat
 ### [Alternative therapies](topics/alternative-therapies)
 
 * [Functional medicine](topics/functional-medicine)
+* [Integrative medicine](topics/integrative-medicine)
 * [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine)
 * [Acupuncture](topics/acupuncture)
 * [Stress Management](topics/stress-management)
@@ -103,7 +105,7 @@ Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and relat
 * [Red blood cell (RBC)](topics/red-blood-cell)
 * [Platelet](topics/platelet)
 
-### [Lymphatic system](lymphatic-system)
+### [Lymphatic system]
 
 * [Lymph](topics/lymph)
 
@@ -177,7 +179,11 @@ Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and relat
 
 ### [Lyme disease](topics/lyme-disease)
 
+### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis)
+
 ### [Toxin-exposure](topics/toxin-exposure)
+
+### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
 
 
 ## Symptoms

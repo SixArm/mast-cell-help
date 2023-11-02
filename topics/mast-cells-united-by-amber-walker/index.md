@@ -1,4 +1,4 @@
-# Mast Cells United
+# Mast Cells United - By Amber Walker
 
 Mast Cells United: A Holistic Approach to Mast Cell Activation Syndrome
 

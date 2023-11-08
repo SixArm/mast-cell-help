@@ -31,5 +31,3 @@ Some key principles…
 * Use the Bed Only for Sleep and Intimacy: Avoid using your bed for activities like watching TV, working, or using electronic devices. This helps train your brain to associate the bed with sleep.
 
 * Seek Professional Help When Needed: If you have persistent sleep problems, consider consulting a healthcare provider or sleep specialist for a proper evaluation and treatment.
-
-Remember that everyone's sleep needs and patterns are different, so it's essential to tailor your sleep hygiene practices to your individual preferences and requirements. Consistently practicing good sleep hygiene can significantly improve your sleep quality and overall well-being.

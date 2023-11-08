@@ -1,6 +1,6 @@
-# N-acetylcysteine (NAC)
+# N-acetyl cysteine (NAC)
 
-N-acetylcysteine (NAC) is a dietary supplement that is a form of the amino acid cysteine. It is commonly used as a medication and as a supplement for various purposes due to its potential health benefits. NAC is known for its antioxidant properties and its role in supporting several bodily functions.
+N-acetyl cysteine (NAC) is a dietary supplement that is a form of the amino acid cysteine. It is commonly used as a medication and as a supplement for various purposes due to its potential health benefits. NAC is known for its antioxidant properties and its role in supporting several bodily functions.
 
 NAC is generally considered safe when used at recommended doses, but it can cause side effects in some individuals, such as gastrointestinal symptoms or allergic reactions. It may also interact with certain medications, so it's important to consult with a healthcare professional before using NAC as a supplement, especially if you have underlying health conditions or are taking medications.
 

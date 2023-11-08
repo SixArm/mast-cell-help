@@ -6,7 +6,7 @@
 * thyroid disorders
 * Fabry disease
 * Helicobacter pylori gastritis
-* infectious and inflammatory bowel and skin and genitourinary tract diseases
+* infectious/inflammatory bowel/skin/genitourinary diseases
 * celiac disease
 * lactose/sucrose/fructose intolerance
 * amyloidosis
@@ -15,10 +15,11 @@
 * median arcuate ligament syndrome
 * neuroendocrine cancers (carcinoid, pheochromocytoma, etc.)
 * pancreatic endocrine tumors
-* food/environmental allergy
+* food/environmental/chemical allergy
 * asthma
 * allergic rhinitis
-* eosinophilic esophagitis/enteritis, other hypereosinophilic and hyper-IgE syndromes,
+* eosinophilic esophagitis/enteritis
+* hypereosinophilic and hyper-IgE syndromes
 * immunodeficiencies
 * autoinflammatory syndromes
 * hereditary angioedema
@@ -26,9 +27,4 @@
 * hypermobility syndromes
 * lymphoma
 * myeloproliferative neoplasms
-* autism
-* anxiety/panic
-* depression
-* psychosomatism
-* conversion disorder
-* Munchausen’s syndrome
+* mental health diagnoses, such autism, anxiety/panic, depression, psychosomatism, conversion disorder, Munchausen’s syndrome.

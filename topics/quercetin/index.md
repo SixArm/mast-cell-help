@@ -19,5 +19,3 @@ Key points:
 * Immune support: It can enhance immune function and may have antiviral properties.
 
 * Cognitive health: Some research indicates that quercetin may help protect against age-related cognitive decline.
-
-Quercetin is a natural compound with promising potential health benefits, but more research is needed to confirm its efficacy in specific health conditions. As with any dietary or supplement-related decisions, it's advisable to seek guidance from a healthcare provider to determine the most appropriate use for your individual health needs and circumstances.

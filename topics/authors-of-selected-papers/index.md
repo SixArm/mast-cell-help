@@ -11,10 +11,14 @@
 
   * Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of Vienna, Austria
 
+  * Email: peter.valent@meduniwien.ac.at
+
 * Cem Akin
 
   * Division of Allergy and Clinical Immunology, University of Michigan, Ann Arbor, Michigan, USA
 
+  * Email: cemakin@umich.edu
+  
 * Karin Hartmann
 
   * Division of Allergy, Department of Dermatology, University Hospital Basel and University of Basel, Switzerland

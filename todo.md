@@ -1,6 +1,6 @@
 # TODO
 
-complementary and alternative therapies (CAM)
+complementary and alternative medicine (CAM)
 
 <li>Foundational information on Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia</li>
 

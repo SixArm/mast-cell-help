@@ -6,6 +6,7 @@
 * [How to find a doctor or provider?](how-to-find-a-doctor-or-provider)
 * [Multisystem disease](multisystem-disease)
 * [Support groups](support-groups)
+* [Facebook groups](facebook-groups)
 
 ### [Mast cell activation syndrome (MACS)](mast-cell-activation-syndrome)
 
@@ -33,7 +34,7 @@
 
 ### [Elimination diet](elimination-diet)
 
-* [Foods to choose](elimination-diet-foods-to-choose)
+* [Elimination diet conditions](elimination-diet-conditions)
 * [Foods to avoid](elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](low-histamine-diet)
@@ -68,6 +69,7 @@
 
 ### [Dietary supplements](dietary-supplements)
 
+* [Considerations](dietary-supplements-considerations)
 * [Multivitamin](multivitamin)
 * [Diamine oxidase](diamine-oxidase-dietary-supplement)
 * [Vitamin C](vitamin-c)
@@ -79,6 +81,7 @@
 * [Calcium](calcium)
 * [Copper](copper)
 * [Zinc](zinc)
+* [N-acetyl cysteine (NAC)](n-acetyl-cysteine)
 * [Electrolytes](electrolytes)
 * [Butterbur](butterbur)
 * [Stinging nettle](stinging-nettle)
@@ -148,6 +151,8 @@
 * [Cutaneous mastocytosis](cutaneous-mastocytosis)
 * [Systemic mastocytosis](systemic-mastocytosis)
 
+## [Telangiectasia Macularis Eruptiva Perstans](telangiectasia-macularis-eruptiva-perstans]
+
 ### [Burning mouth syndrome (BMS)](burning-mouth-syndrome)
 
 ### [Dysautonomia](dysautonomia)
@@ -170,6 +175,9 @@
 
 ### [Antiphospholipid syndrome (APS)](antiphospholipid-syndrome)
 
+### [Multisystem Inflammatory Syndrome (MIS)](multisystem-inflammatory-syndrome)
+
+
 
 ## Symptoms
 
@@ -187,6 +195,8 @@
 * [Bronchiospasm treatment](bronchiospasm-treatment)
 
 ### [Presyncope](presyncope)
+
+### [Brain fog](brain-fog)
 
 
 ## Treatment types

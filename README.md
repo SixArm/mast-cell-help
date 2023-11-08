@@ -2,7 +2,7 @@
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Mast Cell Help: this guide is for Mast Cell Activation Syndrome (MCAS) and related symptoms, diagnoses, treatments, medications, conditions, and supportive measures. This guide explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
+Mast Cell Help: this guide is for mast cell information about health symptoms, diagnoses, treatments, medications, conditions, and supportive measures. This guide explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
 * Download the free e-book file [EPUB](mast-cell-help.epub) or [PDF](mast-cell-help.pdf).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).

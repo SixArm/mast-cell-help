@@ -1,6 +1,8 @@
 # Glutathione
 
-Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health. Glutathione is found in various body tissues, particularly in the liver, and it is involved in several essential functions in the body:
+Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health. 
+
+Key aspects:
 
 * Antioxidant Defense: Glutathione is one of the body's primary antioxidants. It helps protect cells from damage caused by free radicals and reactive oxygen species. This role is vital for maintaining cellular integrity and reducing the risk of chronic diseases, including heart disease, cancer, and neurodegenerative conditions.
 
@@ -18,6 +20,6 @@ Glutathione is a tripeptide molecule composed of three amino acids: cysteine, gl
 
 It's important to note that while glutathione can be obtained from dietary sources (such as fruits, vegetables, and some animal products), the majority of glutathione in the body is synthesized within cells. However, certain factors, including aging, chronic illness, and environmental exposures, can lead to decreased glutathione levels in the body.
 
-Supplementation with glutathione is a subject of interest, particularly for people with certain medical conditions or those seeking to enhance antioxidant defenses. However, oral glutathione supplements may have limited bioavailability, and their effectiveness is a topic of ongoing research. In some cases, healthcare providers may recommend other compounds, such as N-acetylcysteine (NAC), to support glutathione levels indirectly.
+Supplementation with glutathione is a subject of interest, particularly for people with certain medical conditions or those seeking to enhance antioxidant defenses. However, oral glutathione supplements may have limited bioavailability, and their effectiveness is a topic of ongoing research. In some cases, healthcare providers may recommend other compounds, such as N-acetyl cysteine (NAC), to support glutathione levels indirectly.
 
 Before considering glutathione supplementation, it is advisable to consult with a healthcare provider, as they can help assess your specific health needs and provide guidance on the most appropriate approach to support antioxidant and detoxification functions in your body.

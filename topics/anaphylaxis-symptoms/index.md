@@ -1,6 +1,6 @@
 # Anaphylaxis symptoms
 
-Anaphylaxis is a severe and potentially life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly and may involve multiple systems in the body. Anaphylaxis is a medical emergency, and prompt treatment is crucial to prevent severe complications or death.
+Anaphylaxis is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly, cany involve multiple systems in the body, and can be fatal. Seek emergency help immediately.
 
 Skin Symptoms:
 
@@ -26,7 +26,7 @@ Cardiovascular Symptoms:
 
 * Rapid or weak pulse
 
-* Low blood pressure, which can lead to dizziness or loss of consciousness
+* Low blood pressure (which can lead to dizziness)
 
 * Paleness
 
@@ -45,10 +45,3 @@ Neurological Symptoms:
 * Confusion
 
 * Loss of consciousness
-
-General Symptoms:
-
-* Feeling of impending doom
-
-* Weakness or collapse
-

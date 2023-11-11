@@ -1,6 +1,8 @@
 # Electrolytes
 
-Electrolytes are essential minerals or ions that have an electric charge and play a crucial role in various physiological processes within the human body. These ions are found in bodily fluids like blood, urine, and extracellular and intracellular fluids. The most common electrolytes in the human body include:
+Electrolytes are essential minerals or ions that have an electric charge and play a crucial role in various physiological processes within the human body. These ions are found in bodily fluids like blood, urine, and extracellular and intracellular fluids. Maintaining the right balance of these ions is crucial for overall health.
+
+The most common electrolytes in the human body include:
 
 * Sodium (Na+): Sodium is the primary extracellular cation and plays a key role in maintaining fluid balance, blood pressure regulation, and nerve function.
 
@@ -15,5 +17,3 @@ Electrolytes are essential minerals or ions that have an electric charge and pla
 * Bicarbonate (HCO3-): Bicarbonate is a buffer that helps regulate the body's acid-base balance and pH.
 
 * Phosphate (HPO4^2- and H2PO4^-): Phosphate is vital for bone health, energy metabolism, and the formation of DNA and RNA.
-
-These electrolytes are essential for various bodily functions, and maintaining the right balance of these ions is crucial for overall health.

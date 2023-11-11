@@ -4,9 +4,7 @@ Allergy shots are a form of treatment for allergies. The shots drops desensitize
 
 Key points:
 
-* Allergen Desensitization: The primary goal of allergy shots is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergic reactions when exposed to them.
-
-* Customized Treatment: Allergy shots are customized for each patient based on the results of allergy testing. The extracts used are formulated based on the specific allergens to which the patient is allergic.
+* Desensitization: The primary goal of allergy shots is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergic reactions when exposed to them.
 
 * Administration: Allergy shots are administered by a healthcare provider, typically an allergist or immunologist. The treatment involves receiving injections of allergen extracts in gradually increasing doses over time.
 

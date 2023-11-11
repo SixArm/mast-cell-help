@@ -4,11 +4,11 @@ Anaphylaxis emergency hospital treatment in an emergency room, or emergency depa
 
 1. Administer adrenaline (a.k.a. epinepherine) if patient suspects anaphylaxis.
 
-  * Administer adrenaline intramuscularly (IM) (Vasctus Lateralis muscle). Concentration is 1:10000 (1mg/1ml) solution - 0.3mg. May repeat in 15 minutes if needed.
+1a. Administer adrenaline intramuscularly (IM) (Vasctus Lateralis muscle). Concentration is 1:10000 (1mg/1ml) solution - 0.3mg. May repeat in 15 minutes if needed.
 
-  * Prefer preservative-free adrenaline (e.g. epinephrine).
+1b. Prefer preservative-free adrenaline (e.g. epinephrine).
 
-  * Because of the risk of potentially lethal arrythmias, epinephrine should be administered IV only in profoundly hypotensive patients or patients in cardio/resperitory arrest who have failed to respond to IV volume replacement and several injected doses of epinephrine.
+1c. Because of the risk of potentially lethal arrythmias, epinephrine should be administered IV only in profoundly hypotensive patients or patients in cardio/resperitory arrest who have failed to respond to IV volume replacement and several injected doses of epinephrine.
 
 2. Administer oxygen.
 

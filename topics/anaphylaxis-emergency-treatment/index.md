@@ -2,7 +2,7 @@
 
 Anaphylaxis emergency treatment in a pre-hospital setting:
 
-1. If symptoms are severe, or worsening quickly, then use emergency adrenaline auto-injector (a.k.a. brand name EpiPen), call an ambulance, and go immediately to a hospital emergency room.
+1. Use emergency adrenaline auto-injector (a.k.a. brand name EpiPen) and go immediately to a hospital emergency room.
 
 2. Avoid triggers: remove trigger or remove self from triggers.
 
@@ -28,6 +28,6 @@ Anaphylaxis emergency treatment in a pre-hospital setting:
 
 7. Manage H3 reactions (neurological: confusion, motor control loss, fatigue, migraine, depression)
 
-    * Reduce likelihood of secondary injury: rest, do not drive, do not operate heavy machinery
+    * Reduce likelihood of secondary injury: rest, lay down, do not drive, do not operate heavy machinery
 
-    * Reduce triggers as much as possible: retreat to safe room or mobile environmental containment unit; lay down; breathe clean, fresh, trigger-free air.
+    * Reduce triggers: breathe clean fresh air; retreat to safe room or environmental containment unit

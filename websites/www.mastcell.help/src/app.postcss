@@ -1,4 +1,69 @@
 /* Write your global styles here, in PostCSS syntax */
+
 @tailwind base;
+
+@layer base {
+    h1 {
+        @apply mt-6;
+        @apply mb-4;
+        @apply text-3xl;
+        @apply font-bold;
+    }
+    h2 {
+        @apply mt-5;
+        @apply mb-3;
+        @apply text-2xl;
+        @apply font-bold;
+    }
+    h3 {
+        @apply mt-4;
+        @apply mb-2;
+        @apply text-lg;
+        @apply font-bold;
+    }
+    p {
+        @apply my-4;
+    }
+    a {
+        @apply text-blue-600 underline;
+    }
+    em {
+        @apply font-bold;
+        @apply not-italic;
+    }
+    ol, ul {
+        @apply pl-6;
+        @apply my-1;
+        @apply list-outside;
+    }
+    ol {
+        @apply list-decimal;
+    }
+    ul {
+        @apply list-disc;
+    }
+    li {
+        @apply my-4;
+    }
+    pre {
+        @apply my-4;
+        @apply p-4;
+        @apply bg-gray-100;
+    }    
+}
+
 @tailwind components;
-@tailwind utilities
+@tailwind utilities;
+
+.prose {
+    @apply max-w-prose;
+    @apply mx-4;
+    @apply mb-10;
+    @apply sm:mx-auto;
+    @apply px-0;
+}
+
+code {
+    @apply bg-gray-100;
+    @apply text-blue-600;
+}

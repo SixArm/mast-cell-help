@@ -38,7 +38,6 @@ do_slug() {
 
 build() {
     do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/src/links.md" "$ROUTES/+page.svelte"
-    exit 0
     "$PROGRAM_DIR/slugs" |
     while read -r slug; do
         do_slug "$slug"

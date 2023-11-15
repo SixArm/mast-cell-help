@@ -1,0 +1,5 @@
+#!/bin/sh
+set -euf
+
+PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
+find "$PROGRAM_DIR/../src/routes" -type f ! -name '+*' -exec rm {} \;

@@ -1,0 +1,29 @@
+#!/bin/sh
+set -euf
+
+GIT_TOP_DIR="$(git rev-parse --show-toplevel)"
+PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
+
+INPUT_TOP_DIR="$GIT_TOP_DIR/topics"
+OUTPUT_TOP_DIR="$PROGRAM_DIR/../src/routes"
+TEMPLATE_FILE="$PROGRAM_DIR/build-pandoc-template.svelte"
+TITLE_SUFFIX=" | My Example Site"
+
+"$PROGRAM_DIR/slugs" |
+while read -r slug; do
+    echo "$slug"
+    input_file="$INPUT_TOP_DIR/$slug/index.md"
+    output_dir="$OUTPUT_TOP_DIR/$slug"
+    mkdir -p "$output_dir"
+    output_file="$output_dir/+page.svelte"
+    title=$("$PROGRAM_DIR/markdown-read-to-headline" "$input_file")"$TITLE_SUFFIX"
+    pandoc \
+        --standalone \
+        --from=markdown \
+        --to=html \
+        --template="$TEMPLATE_FILE" \
+        --metadata title="$title" \
+        --output="$output_file" \
+        "$input_file"
+    #./file-escape-html "$output_file"
+done

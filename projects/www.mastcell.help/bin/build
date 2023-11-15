@@ -4,26 +4,45 @@ set -euf
 GIT_TOP_DIR="$(git rev-parse --show-toplevel)"
 PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
 
-INPUT_TOP_DIR="$GIT_TOP_DIR/topics"
-OUTPUT_TOP_DIR="$PROGRAM_DIR/../src/routes"
+TOPICS="$GIT_TOP_DIR/topics"
+ROUTES="$PROGRAM_DIR/../src/routes"
 TEMPLATE_FILE="$PROGRAM_DIR/build-pandoc-template.svelte"
 TITLE_SUFFIX=" | My Example Site"
 
-"$PROGRAM_DIR/slugs" |
-while read -r slug; do
-    echo "$slug"
-    input_file="$INPUT_TOP_DIR/$slug/index.md"
-    output_dir="$OUTPUT_TOP_DIR/$slug"
+do_pandoc() {
+    #echo "do_pandoc $*"
+    template_file="$1"
+    title="$2"
+    input_file="$3"
+    output_file="$4"
+    pandoc \
+    --standalone \
+    --from=markdown \
+    --to=html \
+    --template="$template_file" \
+    --metadata title="$title" \
+    --output="$output_file" \
+    "$input_file"
+}
+
+do_slug() {
+    slug="$1"
+    input_file="$TOPICS/$slug/index.md"
+    output_dir="$ROUTES/$slug"
     mkdir -p "$output_dir"
     output_file="$output_dir/+page.svelte"
     title=$("$PROGRAM_DIR/markdown-read-to-headline" "$input_file")"$TITLE_SUFFIX"
-    pandoc \
-        --standalone \
-        --from=markdown \
-        --to=html \
-        --template="$TEMPLATE_FILE" \
-        --metadata title="$title" \
-        --output="$output_file" \
-        "$input_file"
-    #./file-escape-html "$output_file"
-done
+    do_pandoc "$TEMPLATE_FILE" "$title" "$input_file" "$output_file"
+    #"$PROGRAM_DIR/bin/file-escape-html" "$output_file"
+}
+
+build() {
+    do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/src/links.md" "$ROUTES/+page.svelte"
+    exit 0
+    "$PROGRAM_DIR/slugs" |
+    while read -r slug; do
+        do_slug "$slug"
+    done
+}
+
+build

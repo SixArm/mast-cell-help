@@ -1,6 +1,6 @@
-# Systemic mastocytosis
+# Systemic mastocytosis (SM)
 
-Systemic mastocytosis affects the skin and also other organs and tissues in the body.
+Systemic mastocytosis (SM) affects the skin and also other organs and tissues in the body.
 
 There are several subtypes of systemic mastocytosis, including:
 

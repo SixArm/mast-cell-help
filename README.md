@@ -21,6 +21,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider)
 * [Multisystem disease](topics/multisystem-disease)
 * [Support groups](topics/support-groups)
+* [Facebook groups](topics/facebook-groups)
 
 ### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
 
@@ -37,6 +38,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Functional medicine](topics/functional-medicine)
 * [Integrative medicine](topics/integrative-medicine)
+* [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine)
 * [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine)
 * [Acupuncture](topics/acupuncture)
 * [Stress Management](topics/stress-management)
@@ -48,7 +50,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Elimination diet](topics/elimination-diet)
 
-* [Foods to choose](topics/elimination-diet-foods-to-choose)
+* [Elimination diet conditions](topics/elimination-diet-conditions)
 * [Foods to avoid](topics/elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](topics/low-histamine-diet)
@@ -83,6 +85,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Dietary supplements](topics/dietary-supplements)
 
+* [Considerations](topics/dietary-supplements-considerations)
 * [Multivitamin](topics/multivitamin)
 * [Diamine oxidase](topics/diamine-oxidase-dietary-supplement)
 * [Vitamin C](topics/vitamin-c)
@@ -91,15 +94,25 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Glutathione](topics/glutathione)
 * [Turmeric](topics/turmeric)
 * [B vitamins](topics/b-vitamins)
+* [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine)
+* [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin)
+* [Vitamin B3 = Niacin](topics/vitamin-b3-niacin)
+* [Vitamin B5 = Pantothenic acid](topics/vitamin-b5-pantothenic-acid)
+* [Vitamin B6 = Pyridoxine](topics/vitamin-b6-pyridoxine)
+* [Vitamin B7 = Biotin](topics/vitamin-b7-biotin)
+* [Vitamin B9 = Folate](topics/vitamin-b9-folate)
+* [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
 * [Calcium](topics/calcium)
 * [Copper](topics/copper)
 * [Zinc](topics/zinc)
+* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
 * [Electrolytes](topics/electrolytes)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
 
 ### [Circulatory system](topics/circulatory-system)
 
+* [Circulatory system functions](topics/circulatory-system-functions)
 * [Blood cells](topics/blood-cells)
 * [White blood cell (WBC)](topics/white-blood-cell)
 * [Red blood cell (RBC)](topics/red-blood-cell)
@@ -108,6 +121,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Lymphatic system]
 
 * [Lymph](topics/lymph)
+* [Lymph node](topics/lymph-node)
+  
+### [Limbic system](topics/limbic-system)
+
+* [Limbic system impairment](topics/limbic-system-impairment)
 
 ### [Inflammation](topics/inflammation)
 
@@ -122,6 +140,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ## Conditions
 
 
+### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
+
 ### [Histamine intolerance](topics/histamine-intolerance)
 
 * [Symptoms](topics/histamine-intolerance-symptoms)
@@ -129,6 +149,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis](topics/histamine-intolerance-diagnosis)
 * [Severity](topics/histamine-intolerance-severity)
 * [Treatments](topics/histamine-intolerance-treatments)
+
+### [Allergies](topics/allergies)
+
+* [Allergy types](topics/allergy-types)
+* [Allergic reaction](topics/allergic-reaction)
+* [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
+* [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
 
 ### [Anaphylaxis](topics/anaphylaxis)
 
@@ -151,43 +178,47 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Treatments](topics/asthma-treatments)
 * [Lifestyle management](topics/asthma-lifestyle-management)
 
-### [Allergies](topics/allergies)
-
-* [Allergy types](topics/allergy-types)
-* [Allergic reaction](topics/allergic-reaction)
-* [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
-* [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
-
-### [Mastocytosis](topics/mastocytosis)
-
-* [Cutaneous mastocytosis](topics/cutaneous-mastocytosis)
-* [Systemic mastocytosis](topics/systemic-mastocytosis)
-
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
 
 ### [Dysautonomia](topics/dysautonomia)
 
 ### [Ehlers Danlos syndrome](topics/ehlers-danlos-syndrome)
 
+### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis)
+
 ### [Ferroptosis](topics/ferroptosis)
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease)
 
-### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome)
-
-### [Sulfur intolerance](topics/sulfur-intolerance)
-
 ### [Lyme disease](topics/lyme-disease)
+
+### [Mastocytosis](topics/mastocytosis)
+
+* [Cutaneous mastocytosis](topics/cutaneous-mastocytosis)
+* [Systemic mastocytosis](topics/systemic-mastocytosis)
+
+### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
+
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome)
 
 ### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis)
 
-### [Toxin-exposure](topics/toxin-exposure)
+### [Sulfur intolerance](topics/sulfur-intolerance)
 
-### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
+### [Telangiectasia Macularis Eruptiva Perstans](topics/telangiectasia-macularis-eruptiva-perstans]
+
+### [Toxin exposure](topics/toxin-exposure)
 
 
 ## Symptoms
 
+### [Bradycardia](topics/bradycardia)
+
+### [Brain fog](topics/brain-fog)
+
+### [Bronchiospasm](topics/bronchiospasm)
+
+* [Bronchiospasm treatment](topics/bronchiospasm-treatment)
 
 ### [Hypertryptasemia](topics/hypertryptasemia)
 
@@ -195,26 +226,23 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Hypotension causes](topics/hypotension-causes)
 
-### [Bradycardia](topics/bradycardia)
-
-### [Bronchiospasm](topics/bronchiospasm)
-
-* [Bronchiospasm treatment](topics/bronchiospasm-treatment)
-
 ### [Presyncope](topics/presyncope)
 
 
 ## Treatment types
 
-### [Bronchodilators](topics/bronchodilators)
-
-### [Corticosteroids](topics/corticosteroids)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
 * [Cholestyramine](topics/cholestyramine)
 * [Colesevelam (a.k.a. Welchol)](topics/colesevelam)
 * [Activated charcoal](topics/activated-charcoal)
+
+### [Bronchodilators](topics/bronchodilators)
+
+### [Corticosteroids](topics/corticosteroids)
+
+### [Cromolyn sodium](topics/cromolyn-sodium)
 
 ### [Immunotherapy](topics/immunotherapy)
 

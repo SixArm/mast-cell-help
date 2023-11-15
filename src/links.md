@@ -23,6 +23,7 @@
 
 * [Functional medicine](functional-medicine)
 * [Integrative medicine](integrative-medicine)
+* [Complementary and alternative medicine (CAM)](complementary-and-alternative-medicine)
 * [Traditional Chinese Medicine (TCM)](traditional-chinese-medicine)
 * [Acupuncture](acupuncture)
 * [Stress Management](stress-management)
@@ -67,6 +68,11 @@
 * [Foods to choose](low-salicylate-diet-foods-to-choose)
 * [Foods to avoid](low-salicylate-diet-foods-to-avoid)
 
+### [Low-sodium diet](low-sodium-diet)
+
+* [Foods to choose](low-sodium-diet-foods-to-choose)
+* [Foods to avoid](low-sodium-diet-foods-to-avoid)
+
 ### [Dietary supplements](dietary-supplements)
 
 * [Considerations](dietary-supplements-considerations)
@@ -78,6 +84,14 @@
 * [Glutathione](glutathione)
 * [Turmeric](turmeric)
 * [B vitamins](b-vitamins)
+* [Vitamin B1 = Thiamine](vitamin-b1-thiamine)
+* [Vitamin B2 = Riboflavin](vitamin-b2-riboflavin)
+* [Vitamin B3 = Niacin](vitamin-b3-niacin)
+* [Vitamin B5 = Pantothenic acid](vitamin-b5-pantothenic-acid)
+* [Vitamin B6 = Pyridoxine](vitamin-b6-pyridoxine)
+* [Vitamin B7 = Biotin](vitamin-b7-biotin)
+* [Vitamin B9 = Folate](vitamin-b9-folate)
+* [Vitamin B12 = Cobalamin](vitamin-b12-cobalamin)
 * [Calcium](calcium)
 * [Copper](copper)
 * [Zinc](zinc)
@@ -88,6 +102,7 @@
 
 ### [Circulatory system](circulatory-system)
 
+* [Circulatory system functions](circulatory-system-functions)
 * [Blood cells](blood-cells)
 * [White blood cell (WBC)](white-blood-cell)
 * [Red blood cell (RBC)](red-blood-cell)
@@ -96,6 +111,11 @@
 ### [Lymphatic system]
 
 * [Lymph](lymph)
+* [Lymph node](lymph-node)
+  
+### [Limbic system](limbic-system)
+
+* [Limbic system impairment](limbic-system-impairment)
 
 ### [Inflammation](inflammation)
 
@@ -110,6 +130,8 @@
 ## Conditions
 
 
+### [Antiphospholipid syndrome (APS)](antiphospholipid-syndrome)
+
 ### [Histamine intolerance](histamine-intolerance)
 
 * [Symptoms](histamine-intolerance-symptoms)
@@ -117,6 +139,13 @@
 * [Diagnosis](histamine-intolerance-diagnosis)
 * [Severity](histamine-intolerance-severity)
 * [Treatments](histamine-intolerance-treatments)
+
+### [Allergies](allergies)
+
+* [Allergy types](allergy-types)
+* [Allergic reaction](allergic-reaction)
+* [Allergy drops (a.k.a. sublingual immunotherapy)](allergy-drops)
+* [Allergy shots (a.k.a. subcutaneous immunotherapy)](allergy-shots)
 
 ### [Anaphylaxis](anaphylaxis)
 
@@ -139,48 +168,49 @@
 * [Treatments](asthma-treatments)
 * [Lifestyle management](asthma-lifestyle-management)
 
-### [Allergies](allergies)
-
-* [Allergy types](allergy-types)
-* [Allergic reaction](allergic-reaction)
-* [Allergy drops (a.k.a. sublingual immunotherapy)](allergy-drops)
-* [Allergy shots (a.k.a. subcutaneous immunotherapy)](allergy-shots)
-
-### [Mastocytosis](mastocytosis)
-
-* [Cutaneous mastocytosis](cutaneous-mastocytosis)
-* [Systemic mastocytosis](systemic-mastocytosis)
-
-## [Telangiectasia Macularis Eruptiva Perstans](telangiectasia-macularis-eruptiva-perstans]
-
 ### [Burning mouth syndrome (BMS)](burning-mouth-syndrome)
 
 ### [Dysautonomia](dysautonomia)
 
 ### [Ehlers Danlos syndrome](ehlers-danlos-syndrome)
 
+### [Eosinophilic esophagitis (EoE)](eosinophilic-esophagitis)
+
 ### [Ferroptosis](ferroptosis)
 
 ### [Gastroesophageal Reflux Disease (GERD)](gastroesophageal-reflux-disease)
 
-### [Postural Orthostatic Tachycardia Syndrome (POTS)](postural-orthostatic-tachycardia-syndrome)
-
-### [Sulfur intolerance](sulfur-intolerance)
-
 ### [Lyme disease](lyme-disease)
 
-### [Rheumatoid arthritis (RA)](rheumatoid-arthritis)
+### [Mastocytosis](mastocytosis)
 
-### [Toxin-exposure](toxin-exposure)
-
-### [Antiphospholipid syndrome (APS)](antiphospholipid-syndrome)
+* [Cutaneous mastocytosis (CM)](cutaneous-mastocytosis)
+* [Systemic mastocytosis (SM)](systemic-mastocytosis)
+* [Indolent Systemic Mastocytosis (ISM)](indolent-systemic-mastocytosis)
+* [Mast Cell Leukemia (MCL)](mast-cell-leukemia)
 
 ### [Multisystem Inflammatory Syndrome (MIS)](multisystem-inflammatory-syndrome)
 
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](postural-orthostatic-tachycardia-syndrome)
+
+### [Rheumatoid arthritis (RA)](rheumatoid-arthritis)
+
+### [Sulfur intolerance](sulfur-intolerance)
+
+### [Telangiectasia Macularis Eruptiva Perstans](telangiectasia-macularis-eruptiva-perstans]
+
+### [Toxin exposure](toxin-exposure)
 
 
 ## Symptoms
 
+### [Bradycardia](bradycardia)
+
+### [Brain fog](brain-fog)
+
+### [Bronchiospasm](bronchiospasm)
+
+* [Bronchiospasm treatment](bronchiospasm-treatment)
 
 ### [Hypertryptasemia](hypertryptasemia)
 
@@ -188,28 +218,32 @@
 
 * [Hypotension causes](hypotension-causes)
 
-### [Bradycardia](bradycardia)
-
-### [Bronchiospasm](bronchiospasm)
-
-* [Bronchiospasm treatment](bronchiospasm-treatment)
-
 ### [Presyncope](presyncope)
 
-### [Brain fog](brain-fog)
+
+## [Diagnostics](mast-cell-diagnostics)
+
+* [Bone marrow biopsy](bone-marrow-biopsy)
 
 
 ## Treatment types
 
-### [Bronchodilators](bronchodilators)
 
-### [Corticosteroids](corticosteroids)
+### [Antihistamine medications](antihistamine-medications)
+
+* [Ketotifen](ketotifen)
 
 ### [Bile acid sequestrants](bile-acid-sequestrants)
 
 * [Cholestyramine](cholestyramine)
 * [Colesevelam (a.k.a. Welchol)](colesevelam)
 * [Activated charcoal](activated-charcoal)
+
+### [Bronchodilators](bronchodilators)
+
+### [Corticosteroids](corticosteroids)
+
+### [Cromolyn sodium](cromolyn-sodium)
 
 ### [Immunotherapy](immunotherapy)
 

@@ -12,16 +12,16 @@ lower high levels of cholesterol in the blood. They work by binding to
 bile acids in the intestines, which reduces the reabsorption of bile
 acids and cholesterol, ultimately leading to lower levels of LDL
 (low-density lipoprotein) cholesterol in the bloodstream.</p>
-<p>Key points:</p>
+<p><strong>Key points</strong>:</p>
 <ul>
-<li>How They Work: Bile acids are produced in the liver from cholesterol
-and play a crucial role in the digestion and absorption of dietary fats.
-Bile acid sequestrants are not absorbed into the bloodstream but work in
-the gastrointestinal tract. They bind to bile acids in the small
-intestine, forming complexes that are then excreted in the feces. The
-body’s response to this loss of bile acids is to increase the conversion
-of cholesterol into new bile acids, thus reducing the amount of
-cholesterol in the blood.</li>
+<li><strong>How They Work</strong>: Bile acids are produced in the liver
+from cholesterol and play a crucial role in the digestion and absorption
+of dietary fats. Bile acid sequestrants are not absorbed into the
+bloodstream but work in the gastrointestinal tract. They bind to bile
+acids in the small intestine, forming complexes that are then excreted
+in the feces. The body’s response to this loss of bile acids is to
+increase the conversion of cholesterol into new bile acids, thus
+reducing the amount of cholesterol in the blood.</li>
 </ul>
 <p>Uses: Bile acid sequestrants are primarily prescribed to lower
 elevated LDL cholesterol levels in people with high cholesterol
@@ -39,23 +39,23 @@ water or another liquid and should be taken with meals to improve their
 effectiveness. It’s important to follow the dosing instructions provided
 by the healthcare provider or as indicated on the medication label.</p>
 <ul>
-<li><p>Side Effects: Common side effects of bile acid sequestrants can
-include constipation, bloating, flatulence, and abdominal discomfort.
-These side effects are usually mild and may improve over time. Some
-people may also experience deficiencies of fat-soluble vitamins (A, D,
-E, K) over the long term, so monitoring and supplementation may be
-necessary.</p></li>
-<li><p>Interactions: Bile acid sequestrants can interact with other
-medications and reduce their absorption. To prevent interactions, take
-other medications at least one hour before or four to six hours after
-taking a bile acid sequestrant. Always inform your healthcare provider
-and pharmacist about all the medications and supplements you are
-taking.</p></li>
-<li><p>Contraindications: Bile acid sequestrants are generally not
-recommended for individuals with a history of bowel obstructions,
-certain gastrointestinal disorders, or high triglyceride levels. Your
-healthcare provider will consider your specific medical history and
-conditions when prescribing these medications.</p></li>
+<li><p><strong>Side Effects</strong>: Common side effects of bile acid
+sequestrants can include constipation, bloating, flatulence, and
+abdominal discomfort. These side effects are usually mild and may
+improve over time. Some people may also experience deficiencies of
+fat-soluble vitamins (A, D, E, K) over the long term, so monitoring and
+supplementation may be necessary.</p></li>
+<li><p><strong>Interactions</strong>: Bile acid sequestrants can
+interact with other medications and reduce their absorption. To prevent
+interactions, take other medications at least one hour before or four to
+six hours after taking a bile acid sequestrant. Always inform your
+healthcare provider and pharmacist about all the medications and
+supplements you are taking.</p></li>
+<li><p><strong>Contraindications</strong>: Bile acid sequestrants are
+generally not recommended for individuals with a history of bowel
+obstructions, certain gastrointestinal disorders, or high triglyceride
+levels. Your healthcare provider will consider your specific medical
+history and conditions when prescribing these medications.</p></li>
 </ul>
 <p>Bile acid sequestrants are one option for managing high cholesterol,
 but they are typically used when other dietary and lifestyle

@@ -14,17 +14,17 @@ is typically diagnosed through a combination of clinical evaluation,
 laboratory tests, and sometimes specialized assessments.</p>
 <p>Clinical Evaluation:</p>
 <ul>
-<li><p>Medical History: Your healthcare provider will conduct a thorough
-review of your medical history, including a detailed discussion of your
-symptoms, their frequency and duration, and any potential triggers or
-patterns.</p></li>
-<li><p>Symptoms: MCAS is associated with a wide range of symptoms that
-can affect various organ systems. The presence of symptoms consistent
-with mast cell activation is an essential part of the
-diagnosis.</p></li>
-<li><p>Triggers: Identifying any specific triggers or exacerbating
-factors for your symptoms, such as exposure to certain foods,
-environmental factors, medications, or stress, can help in
+<li><p><strong>Medical History</strong>: Your healthcare provider will
+conduct a thorough review of your medical history, including a detailed
+discussion of your symptoms, their frequency and duration, and any
+potential triggers or patterns.</p></li>
+<li><p><strong>Symptoms</strong>: MCAS is associated with a wide range
+of symptoms that can affect various organ systems. The presence of
+symptoms consistent with mast cell activation is an essential part of
+the diagnosis.</p></li>
+<li><p><strong>Triggers</strong>: Identifying any specific triggers or
+exacerbating factors for your symptoms, such as exposure to certain
+foods, environmental factors, medications, or stress, can help in
 diagnosis.</p></li>
 </ul>
 <p>Physical Examination:</p>
@@ -35,18 +35,20 @@ visible symptoms.</li>
 </ul>
 <p>Laboratory Tests:</p>
 <ul>
-<li><p>Serum Tryptase: Tryptase is a mediator released by mast cells. A
-baseline serum tryptase level and, in some cases, a peak level during or
-shortly after a suspected episode can be measured. Elevated tryptase
-levels may suggest MCAS, but normal levels do not rule it out.</p></li>
-<li><p>Urinary N-Methylhistamine and Prostaglandin D2 Metabolites:
-Measuring these metabolites in a 24-hour urine collection can provide
-additional evidence of mast cell activation.</p></li>
-<li><p>Plasma Histamine: Elevated plasma histamine levels during an
-episode of symptoms can support the diagnosis.</p></li>
-<li><p>Other Mast Cell Mediators: Testing for other mast cell mediators,
-such as prostaglandin D2, leukotrienes, or histamine-releasing factors,
-can be considered.</p></li>
+<li><p><strong>Serum Tryptase</strong>: Tryptase is a mediator released
+by mast cells. A baseline serum tryptase level and, in some cases, a
+peak level during or shortly after a suspected episode can be measured.
+Elevated tryptase levels may suggest MCAS, but normal levels do not rule
+it out.</p></li>
+<li><p><strong>Urinary N-Methylhistamine and Prostaglandin D2
+Metabolites</strong>: Measuring these metabolites in a 24-hour urine
+collection can provide additional evidence of mast cell
+activation.</p></li>
+<li><p><strong>Plasma Histamine</strong>: Elevated plasma histamine
+levels during an episode of symptoms can support the diagnosis.</p></li>
+<li><p><strong>Other Mast Cell Mediators</strong>: Testing for other
+mast cell mediators, such as prostaglandin D2, leukotrienes, or
+histamine-releasing factors, can be considered.</p></li>
 </ul>
 <p>Response to Treatment:</p>
 <ul>

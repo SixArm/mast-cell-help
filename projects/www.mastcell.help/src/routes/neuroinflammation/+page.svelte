@@ -14,42 +14,44 @@ repair and healing, excessive or chronic neuroinflammation can have
 detrimental effects on the nervous system.</p>
 <p>Neuroinflammation can result from various causes, including:</p>
 <ul>
-<li><p>Infections: Viral, bacterial, or fungal infections in the central
-nervous system can trigger an inflammatory response.</p></li>
-<li><p>Autoimmune Disorders: Conditions like multiple sclerosis (MS) and
-Guillain-Barré syndrome involve immune system attacks on nerve tissue,
-leading to inflammation.</p></li>
-<li><p>Trauma: Head injuries or spinal cord injuries can cause
-inflammation in the affected areas.</p></li>
-<li><p>Neurodegenerative Diseases: Conditions like Alzheimer’s disease,
-Parkinson’s disease, and amyotrophic lateral sclerosis (ALS) involve
-chronic inflammation as part of their pathophysiology.</p></li>
-<li><p>Toxins: Exposure to certain toxins or chemicals can lead to
-neuroinflammation.</p></li>
+<li><p><strong>Infections</strong>: Viral, bacterial, or fungal
+infections in the central nervous system can trigger an inflammatory
+response.</p></li>
+<li><p><strong>Autoimmune Disorders</strong>: Conditions like multiple
+sclerosis (MS) and Guillain-Barré syndrome involve immune system attacks
+on nerve tissue, leading to inflammation.</p></li>
+<li><p><strong>Trauma</strong>: Head injuries or spinal cord injuries
+can cause inflammation in the affected areas.</p></li>
+<li><p><strong>Neurodegenerative Diseases</strong>: Conditions like
+Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral
+sclerosis (ALS) involve chronic inflammation as part of their
+pathophysiology.</p></li>
+<li><p><strong>Toxins</strong>: Exposure to certain toxins or chemicals
+can lead to neuroinflammation.</p></li>
 </ul>
-<p>Key points:</p>
+<p><strong>Key points</strong>:</p>
 <ul>
-<li><p>Mechanism: Inflammation in the nervous system typically involves
-the activation of immune cells (microglia) and the release of
-pro-inflammatory molecules, such as cytokines and chemokines. These
-molecules can contribute to tissue damage and promote further
+<li><p><strong>Mechanism</strong>: Inflammation in the nervous system
+typically involves the activation of immune cells (microglia) and the
+release of pro-inflammatory molecules, such as cytokines and chemokines.
+These molecules can contribute to tissue damage and promote further
 inflammation.</p></li>
-<li><p>Consequences: Chronic neuroinflammation can lead to neuronal
-damage and loss, disrupt neural circuits, and contribute to the
-progression of various neurological diseases. It can also lead to
+<li><p><strong>Consequences</strong>: Chronic neuroinflammation can lead
+to neuronal damage and loss, disrupt neural circuits, and contribute to
+the progression of various neurological diseases. It can also lead to
 symptoms such as cognitive impairment, pain, and motor
 dysfunction.</p></li>
-<li><p>Treatment: Managing neuroinflammation may involve addressing the
-underlying cause, such as treating infections, managing autoimmune
-conditions, or reducing exposure to toxins. Anti-inflammatory
-medications, including corticosteroids or disease-modifying drugs, may
-also be used in some cases. Lifestyle factors like a healthy diet,
-exercise, and stress management can help reduce inflammation and support
-brain health.</p></li>
-<li><p>Research: Neuroinflammation is an active area of research, and
-scientists are exploring potential therapies to modulate and control
-inflammation in neurological diseases. This includes investigating the
-use of anti-inflammatory drugs and immune-modulating
+<li><p><strong>Treatment</strong>: Managing neuroinflammation may
+involve addressing the underlying cause, such as treating infections,
+managing autoimmune conditions, or reducing exposure to toxins.
+Anti-inflammatory medications, including corticosteroids or
+disease-modifying drugs, may also be used in some cases. Lifestyle
+factors like a healthy diet, exercise, and stress management can help
+reduce inflammation and support brain health.</p></li>
+<li><p><strong>Research</strong>: Neuroinflammation is an active area of
+research, and scientists are exploring potential therapies to modulate
+and control inflammation in neurological diseases. This includes
+investigating the use of anti-inflammatory drugs and immune-modulating
 treatments.</p></li>
 </ul>
 

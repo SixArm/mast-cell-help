@@ -24,21 +24,22 @@ condition that requires treatment.</p>
 </ul>
 <p>Presyncope can be caused by a variety of factors, including:</p>
 <ul>
-<li>Orthostatic Hypotension: A sudden drop in blood pressure when
-transitioning from lying down to standing up.</li>
-<li>Dehydration: A lack of fluid in the body can lead to low blood
-pressure and reduced blood flow to the brain.</li>
-<li>Vasovagal Syncope: A reflex triggered by emotional stress, pain, or
-fear that leads to a drop in blood pressure and fainting.</li>
-<li>Heart Conditions: Various heart problems, such as arrhythmias or
-structural issues, can result in presyncope.</li>
-<li>Medications: Some medications can cause low blood pressure or other
-side effects that lead to presyncope.</li>
-<li>Anemia: A reduced number of red blood cells can impair oxygen
-delivery to the brain.</li>
-<li>Hyperventilation: Rapid, shallow breathing can alter the balance of
-oxygen and carbon dioxide in the blood, leading to dizziness and
-faintness.</li>
+<li><strong>Orthostatic Hypotension</strong>: A sudden drop in blood
+pressure when transitioning from lying down to standing up.</li>
+<li><strong>Dehydration</strong>: A lack of fluid in the body can lead
+to low blood pressure and reduced blood flow to the brain.</li>
+<li><strong>Vasovagal Syncope</strong>: A reflex triggered by emotional
+stress, pain, or fear that leads to a drop in blood pressure and
+fainting.</li>
+<li><strong>Heart Conditions</strong>: Various heart problems, such as
+arrhythmias or structural issues, can result in presyncope.</li>
+<li><strong>Medications</strong>: Some medications can cause low blood
+pressure or other side effects that lead to presyncope.</li>
+<li><strong>Anemia</strong>: A reduced number of red blood cells can
+impair oxygen delivery to the brain.</li>
+<li><strong>Hyperventilation</strong>: Rapid, shallow breathing can
+alter the balance of oxygen and carbon dioxide in the blood, leading to
+dizziness and faintness.</li>
 </ul>
 
 </div>

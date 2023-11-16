@@ -35,7 +35,7 @@
 
 ### [Elimination diet](elimination-diet)
 
-* [Elimination diet conditions](elimination-diet-conditions)
+* [Elimination diet conditions](elimination-diet-for-conditions)
 * [Foods to avoid](elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](low-histamine-diet)
@@ -77,7 +77,7 @@
 
 * [Considerations](dietary-supplements-considerations)
 * [Multivitamin](multivitamin)
-* [Diamine oxidase](diamine-oxidase-dietary-supplement)
+* [Diamine oxidase supplements](diamine-oxidase-supplements)
 * [Vitamin C](vitamin-c)
 * [Omega-3](omega-3)
 * [Quercetin](quercetin)
@@ -143,7 +143,7 @@
 ### [Allergies](allergies)
 
 * [Allergy types](allergy-types)
-* [Allergic reaction](allergic-reaction)
+* [Allergic reactions](allergic-reactions)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](allergy-drops)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](allergy-shots)
 
@@ -208,9 +208,9 @@
 
 ### [Brain fog](brain-fog)
 
-### [Bronchiospasm](bronchiospasm)
+### [Bronchospasm](bronchospasm)
 
-* [Bronchiospasm treatment](bronchiospasm-treatment)
+* [Bronchospasm treatment](bronchospasm-treatment)
 
 ### [Hypertryptasemia](hypertryptasemia)
 
@@ -221,7 +221,7 @@
 ### [Presyncope](presyncope)
 
 
-## [Diagnostics](mast-cell-diagnostics)
+## [Diagnostics](diagnostics)
 
 * [Bone marrow biopsy](bone-marrow-biopsy)
 
@@ -251,7 +251,7 @@
 
 ### [Mast cell genetics](mast-cell-genetics)
 
-* [Genetic mutation](genetic-genetic)
+* [Genetic mutation](genetic-mutation)
 * [Genetic polymorphisms](genetic-polymorphisms)
 * [Hereditary Alpha-Tryptasemia (HαT)](hereditary-alpha-tryptasemia)
 * [KIT-D816X](kit-d816x)
@@ -261,6 +261,8 @@
 
 
 ### [Videos](videos)
+
+* [What is the role of mast cells in inflammation? - By By Animated Biology with Arpan](what-is-the-role-of-mast-cells-in-inflammation)
 
 * [Understanding Mast Cell Activation Disorders - By NIAID](understanding-mast-cell-activation-disorders-by-niaid)
 

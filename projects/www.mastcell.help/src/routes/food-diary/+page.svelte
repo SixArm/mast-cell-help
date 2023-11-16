@@ -15,21 +15,23 @@ analyze your dietary information, and some even provide nutritional
 information for the foods you eat.</p>
 <p>Key aspects…</p>
 <ul>
-<li><p>Record Everything You Eat and Drink: Write down every item you
-consume, including meals, snacks, and beverages. Be as specific as
-possible, noting portion sizes, cooking methods, brand names, time,
-triggers such as stress or boredom, and any patterns.</p></li>
-<li><p>Record Ingredients: For homemade dishes and recipes, list the
-ingredients and their quantities. This is particularly important if you
-have specific dietary restrictions or allergies.</p></li>
-<li><p>Add Notes: Include any relevant notes about your meals, such as
-how you felt while eating (e.g., hungry, stressed, bored) and any
-digestive or physical reactions afterward.</p></li>
-<li><p>Review and Analyze: After maintaining the food diary for your
-chosen duration, review and analyze your entries. Look for patterns,
-such as overeating at certain times or consuming too much of a
-particular type of food. Use this information to make informed decisions
-about your diet and identify areas for improvement.</p></li>
+<li><p><strong>Record Everything You Eat and Drink</strong>: Write down
+every item you consume, including meals, snacks, and beverages. Be as
+specific as possible, noting portion sizes, cooking methods, brand
+names, time, triggers such as stress or boredom, and any
+patterns.</p></li>
+<li><p><strong>Record Ingredients</strong>: For homemade dishes and
+recipes, list the ingredients and their quantities. This is particularly
+important if you have specific dietary restrictions or
+allergies.</p></li>
+<li><p><strong>Add Notes</strong>: Include any relevant notes about your
+meals, such as how you felt while eating (e.g., hungry, stressed, bored)
+and any digestive or physical reactions afterward.</p></li>
+<li><p><strong>Review and Analyze</strong>: After maintaining the food
+diary for your chosen duration, review and analyze your entries. Look
+for patterns, such as overeating at certain times or consuming too much
+of a particular type of food. Use this information to make informed
+decisions about your diet and identify areas for improvement.</p></li>
 </ul>
 
 </div>

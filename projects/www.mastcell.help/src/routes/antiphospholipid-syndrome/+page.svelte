@@ -29,27 +29,29 @@ management are essential to reduce the risk of blood clots and
 associated complications.</p>
 <p>Key aspects…</p>
 <ul>
-<li><p>Antiphospholipid Antibodies: The hallmark of APS is the presence
-of antiphospholipid antibodies in the blood. These antibodies can target
-various phospholipids, a type of lipid molecule found in cell
-membranes.</p></li>
-<li><p>Hypercoagulability: People with APS are at an increased risk of
-abnormal blood clot formation, both in the veins (venous thrombosis) and
-arteries (arterial thrombosis). This can lead to conditions such as deep
-vein thrombosis (DVT), pulmonary embolism, stroke, and heart
-attacks.</p></li>
-<li><p>Pregnancy Complications: APS can cause pregnancy-related
-complications, including recurrent miscarriages, stillbirths, and other
-issues related to blood clotting in the placental circulation. This is
-known as antiphospholipid antibody syndrome in pregnancy.</p></li>
-<li><p>Neuropsychiatric Symptoms: Some individuals with APS may
-experience neurological symptoms, such as headaches, seizures, and
-cognitive disturbances.</p></li>
-<li><p>Skin Issues: Skin manifestations can occur, including livedo
-reticularis (a lacy, purplish discoloration of the skin) and skin
-ulcers.</p></li>
-<li><p>Cardiovascular Problems: APS can increase the risk of heart valve
-disease, high blood pressure, and other cardiovascular issues.</p></li>
+<li><p><strong>Antiphospholipid Antibodies</strong>: The hallmark of APS
+is the presence of antiphospholipid antibodies in the blood. These
+antibodies can target various phospholipids, a type of lipid molecule
+found in cell membranes.</p></li>
+<li><p><strong>Hypercoagulability</strong>: People with APS are at an
+increased risk of abnormal blood clot formation, both in the veins
+(venous thrombosis) and arteries (arterial thrombosis). This can lead to
+conditions such as deep vein thrombosis (DVT), pulmonary embolism,
+stroke, and heart attacks.</p></li>
+<li><p><strong>Pregnancy Complications</strong>: APS can cause
+pregnancy-related complications, including recurrent miscarriages,
+stillbirths, and other issues related to blood clotting in the placental
+circulation. This is known as antiphospholipid antibody syndrome in
+pregnancy.</p></li>
+<li><p><strong>Neuropsychiatric Symptoms</strong>: Some individuals with
+APS may experience neurological symptoms, such as headaches, seizures,
+and cognitive disturbances.</p></li>
+<li><p><strong>Skin Issues</strong>: Skin manifestations can occur,
+including livedo reticularis (a lacy, purplish discoloration of the
+skin) and skin ulcers.</p></li>
+<li><p><strong>Cardiovascular Problems</strong>: APS can increase the
+risk of heart valve disease, high blood pressure, and other
+cardiovascular issues.</p></li>
 </ul>
 
 </div>

@@ -17,20 +17,22 @@ diseases, allowing them to breathe more comfortably and effectively.</p>
 including inhalers, nebulizers, and oral medications.</p>
 <p>There are three main types of bronchodilators:</p>
 <ul>
-<li><p>Beta-2 Agonists: These drugs stimulate beta-2 receptors in the
-airway muscles, causing them to relax and dilate. Short-acting beta-2
-agonists are often used for quick relief of acute symptoms, while
-long-acting ones are used for maintenance therapy. Short-acting beta-2
-agonists (SABAs) include albuterol and levalbuterol. Long-acting beta-2
-agonists (LABAs) include formoterol and salmeterol.</p></li>
-<li><p>Anticholinergics: These medications work by blocking the action
-of acetylcholine, a neurotransmitter that causes airway muscles to
-contract. They are often used in COPD and asthma treatment. Short-acting
-anticholinergics (SAMA) include ipratropium. Long-acting
-anticholinergics (LAMA) include tiotropium and umeclidinium.</p></li>
-<li><p>Methylxanthines: This group of bronchodilators includes
-theophylline. They work by relaxing the airway muscles and reducing
-inflammation.</p></li>
+<li><p><strong>Beta-2 Agonists</strong>: These drugs stimulate beta-2
+receptors in the airway muscles, causing them to relax and dilate.
+Short-acting beta-2 agonists are often used for quick relief of acute
+symptoms, while long-acting ones are used for maintenance therapy.
+Short-acting beta-2 agonists (SABAs) include albuterol and levalbuterol.
+Long-acting beta-2 agonists (LABAs) include formoterol and
+salmeterol.</p></li>
+<li><p><strong>Anticholinergics</strong>: These medications work by
+blocking the action of acetylcholine, a neurotransmitter that causes
+airway muscles to contract. They are often used in COPD and asthma
+treatment. Short-acting anticholinergics (SAMA) include ipratropium.
+Long-acting anticholinergics (LAMA) include tiotropium and
+umeclidinium.</p></li>
+<li><p><strong>Methylxanthines</strong>: This group of bronchodilators
+includes theophylline. They work by relaxing the airway muscles and
+reducing inflammation.</p></li>
 </ul>
 
 </div>

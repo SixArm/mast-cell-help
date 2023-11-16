@@ -13,27 +13,28 @@ vessels, and organs. EDS results in a range of symptoms and can vary in
 severity from person to person.</p>
 <p>There are several subtypes of EDS, but the most common types are:</p>
 <ul>
-<li><p>Hypermobility Type (hEDS): This type is characterized by joint
-hypermobility (unusually flexible joints), joint instability, and
-chronic joint pain. Skin involvement, such as hyperextensibility and
-easy bruising, may also occur.</p></li>
-<li><p>Classical Type (cEDS): Classical EDS is characterized by skin
-hyperextensibility, joint hypermobility, and a tendency to develop
-atrophic scars (thin scars that depress below the surrounding
-skin).</p></li>
-<li><p>Vascular Type (vEDS): Vascular EDS is the most severe form,
-affecting blood vessels and organs. It can lead to arterial or organ
-rupture, potentially life-threatening complications. People with vEDS
-often have thin, translucent skin that bruises easily.</p></li>
-<li><p>Kyphoscoliotic Type (kEDS): This type involves severe muscle
-weakness, curvature of the spine (kyphoscoliosis), and joint
-hypermobility.</p></li>
-<li><p>Arthrochalasia Type (aEDS): Arthrochalasia EDS is characterized
-by severe joint hypermobility, congenital hip dislocation, and a
-tendency to develop hyperelastic skin.</p></li>
-<li><p>Dermatosparaxis Type (dEDS): This is a rare type of EDS
-characterized by extremely fragile skin that is easily bruised and
-hyperelastic.</p></li>
+<li><p><strong>Hypermobility Type (hEDS)</strong>: This type is
+characterized by joint hypermobility (unusually flexible joints), joint
+instability, and chronic joint pain. Skin involvement, such as
+hyperextensibility and easy bruising, may also occur.</p></li>
+<li><p><strong>Classical Type (cEDS)</strong>: Classical EDS is
+characterized by skin hyperextensibility, joint hypermobility, and a
+tendency to develop atrophic scars (thin scars that depress below the
+surrounding skin).</p></li>
+<li><p><strong>Vascular Type (vEDS)</strong>: Vascular EDS is the most
+severe form, affecting blood vessels and organs. It can lead to arterial
+or organ rupture, potentially life-threatening complications. People
+with vEDS often have thin, translucent skin that bruises
+easily.</p></li>
+<li><p><strong>Kyphoscoliotic Type (kEDS)</strong>: This type involves
+severe muscle weakness, curvature of the spine (kyphoscoliosis), and
+joint hypermobility.</p></li>
+<li><p><strong>Arthrochalasia Type (aEDS)</strong>: Arthrochalasia EDS
+is characterized by severe joint hypermobility, congenital hip
+dislocation, and a tendency to develop hyperelastic skin.</p></li>
+<li><p><strong>Dermatosparaxis Type (dEDS)</strong>: This is a rare type
+of EDS characterized by extremely fragile skin that is easily bruised
+and hyperelastic.</p></li>
 </ul>
 <p>Symptoms of EDS can vary widely, but common features may include
 joint hypermobility, joint dislocations, chronic pain, skin problems

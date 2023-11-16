@@ -20,13 +20,15 @@ digestive health and overall well-being. However, scientific consensus
 on this topic is limited, and the potential benefits of a low-lectin
 diet are still a subject of debate.</p>
 <ul>
-<li><p>Foods to choose: non-nightshade vegetables, most fruits, certain
-dairy products (e.g. butter, ghee), eggs, meat, poultry, fish.</p></li>
-<li><p>Foods to avoid: legumes (e.g. beans, lentils, peas, many grains
-(e.g. wheat, barley, rye), nightshades (e.g. tomatoes, potatoes,
-eggplants), certain fruits (e.g. bananas, avocados), milk and many dairy
-products, some nuts and seeds (e.g. peanuts, cashews, sunflower seeds),
-certain grains and pseudograins (e.g. quinoa, oats, rice).</p></li>
+<li><p><strong>Foods to choose</strong>: non-nightshade vegetables, most
+fruits, certain dairy products (e.g. butter, ghee), eggs, meat, poultry,
+fish.</p></li>
+<li><p><strong>Foods to avoid</strong>: legumes (e.g. beans, lentils,
+peas, many grains (e.g. wheat, barley, rye), nightshades (e.g. tomatoes,
+potatoes, eggplants), certain fruits (e.g. bananas, avocados), milk and
+many dairy products, some nuts and seeds (e.g. peanuts, cashews,
+sunflower seeds), certain grains and pseudograins (e.g. quinoa, oats,
+rice).</p></li>
 </ul>
 <p>It’s essential to emphasize that a strict low-lectin diet can be
 quite restrictive, potentially limiting the intake of various nutritious

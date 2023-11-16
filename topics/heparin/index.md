@@ -6,12 +6,12 @@ Heparin is a fast-acting anticoagulant, but its effects are reversible, making i
 
 Heparin is commonly used in various medical scenarios:
 
-* Surgery: It is used during and after surgical procedures to prevent clot formation in blood vessels, reducing the risk of postoperative complications like deep vein thrombosis (DVT) and pulmonary embolism (PE).
+* **Surgery**: It is used during and after surgical procedures to prevent clot formation in blood vessels, reducing the risk of postoperative complications like deep vein thrombosis (DVT) and pulmonary embolism (PE).
 
-* Treatment of Blood Clots: Heparin can be used to treat existing blood clots, such as DVT and PE.
+* **Treatment of Blood Clots**: Heparin can be used to treat existing blood clots, such as DVT and PE.
 
-* Hemodialysis: Heparin is used during hemodialysis procedures to prevent blood from clotting within the dialysis machine.
+* **Hemodialysis**: Heparin is used during hemodialysis procedures to prevent blood from clotting within the dialysis machine.
 
-* Management of Certain Medical Conditions: Some medical conditions, such as atrial fibrillation and certain heart conditions, can increase the risk of blood clots, and heparin may be used to reduce this risk.
+* **Management of Certain Medical Conditions**: Some medical conditions, such as atrial fibrillation and certain heart conditions, can increase the risk of blood clots, and heparin may be used to reduce this risk.
 
-* Pregnancy: Heparin may be prescribed to pregnant women with certain clotting disorders or a history of blood clots to reduce the risk of complications.
+* **Pregnancy**: Heparin may be prescribed to pregnant women with certain clotting disorders or a history of blood clots to reduce the risk of complications.

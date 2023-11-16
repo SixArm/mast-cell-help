@@ -6,15 +6,15 @@ The ANS is responsible for regulating various involuntary bodily functions, incl
 
 There are several types and causes of dysautonomia, including:
 
-* Primary Autonomic Failure: This category includes conditions like pure autonomic failure, multiple system atrophy, and Parkinson's disease, which primarily affect the autonomic nervous system.
+* **Primary Autonomic Failure**: This category includes conditions like pure autonomic failure, multiple system atrophy, and Parkinson's disease, which primarily affect the autonomic nervous system.
 
-* Neurological Disorders: Certain neurological conditions, such as neuropathies, can lead to autonomic dysfunction. For example, diabetic neuropathy can affect the autonomic nervous system in individuals with diabetes.
+* **Neurological Disorders**: Certain neurological conditions, such as neuropathies, can lead to autonomic dysfunction. For example, diabetic neuropathy can affect the autonomic nervous system in individuals with diabetes.
 
-* Postural Orthostatic Tachycardia Syndrome (POTS): POTS is characterized by an abnormal increase in heart rate upon standing, leading to symptoms like dizziness, lightheadedness, and fainting.
+* **Postural Orthostatic Tachycardia Syndrome (POTS)**: POTS is characterized by an abnormal increase in heart rate upon standing, leading to symptoms like dizziness, lightheadedness, and fainting.
 
-* Neurocardiogenic Syncope: This condition involves episodes of fainting, often triggered by specific factors like stress, pain, or prolonged standing.
+* **Neurocardiogenic Syncope**: This condition involves episodes of fainting, often triggered by specific factors like stress, pain, or prolonged standing.
 
-* Familial Dysautonomia (Riley-Day Syndrome): This is a rare genetic disorder that affects the autonomic nervous system and is more common in people of Ashkenazi Jewish descent.
+* **Familial Dysautonomia (Riley-Day Syndrome)**: This is a rare genetic disorder that affects the autonomic nervous system and is more common in people of Ashkenazi Jewish descent.
 
 Common symptoms and manifestations of dysautonomia can include:
 

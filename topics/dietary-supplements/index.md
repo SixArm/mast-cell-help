@@ -4,20 +4,20 @@ Dietary supplements are products designed to provide nutrients that help a perso
 
 Overview:
 
-* Vitamins: These are essential organic compounds that your body needs in small amounts to function properly. Common vitamins include vitamin C, vitamin D, vitamin E, and the B-complex vitamins.
+* **Vitamins**: These are essential organic compounds that your body needs in small amounts to function properly. Common vitamins include vitamin C, vitamin D, vitamin E, and the B-complex vitamins.
 
-* Minerals: These are inorganic elements that are vital for various bodily functions. Common minerals include calcium, iron, magnesium, and zinc.
+* **Minerals**: These are inorganic elements that are vital for various bodily functions. Common minerals include calcium, iron, magnesium, and zinc.
 
-* Amino Acids: These are the building blocks of proteins. Some amino acids are considered essential because the body cannot produce them, so they must be obtained from the diet or supplements.
+* **Amino Acids**: These are the building blocks of proteins. Some amino acids are considered essential because the body cannot produce them, so they must be obtained from the diet or supplements.
 
-* Herbs and Botanicals: Many plants and plant extracts have health benefits. Examples include ginseng, echinacea, and turmeric.
+* **Herbs and Botanicals**: Many plants and plant extracts have health benefits. Examples include ginseng, echinacea, and turmeric.
 
-* Enzymes: These are proteins that facilitate chemical reactions in the body. Digestive enzymes, for example, help break down food.
+* **Enzymes**: These are proteins that facilitate chemical reactions in the body. Digestive enzymes, for example, help break down food.
 
-* Probiotics: These are beneficial bacteria that support a healthy gut microbiome and may have various health benefits, particularly for digestive health.
+* **Probiotics**: These are beneficial bacteria that support a healthy gut microbiome and may have various health benefits, particularly for digestive health.
 
-* Fish Oil and Omega-3 Fatty Acids: These are often taken for their potential cardiovascular and anti-inflammatory benefits.
+* **Fish Oil and Omega-3 Fatty Acids**: These are often taken for their potential cardiovascular and anti-inflammatory benefits.
 
-* Dietary Fiber: Fiber supplements are used to increase fiber intake, which can aid in digestion and promote a feeling of fullness.
+* **Dietary Fiber**: Fiber supplements are used to increase fiber intake, which can aid in digestion and promote a feeling of fullness.
 
-* Specialty Supplements: There are many other specialized dietary supplements, such as those marketed for sports performance, joint health, cognitive function, and skin health, among others.
+* **Specialty Supplements**: There are many other specialized dietary supplements, such as those marketed for sports performance, joint health, cognitive function, and skin health, among others.

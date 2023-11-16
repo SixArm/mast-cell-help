@@ -15,27 +15,29 @@ activated, they release various chemical mediators, including histamine
 and cytokines, which can lead to a wide range of symptoms.</p>
 <p>MCAS is characterized by the following features:</p>
 <ul>
-<li><p>Excessive Mast Cell Activation: In individuals with MCAS, mast
-cells are overly sensitive and can activate in response to a wide range
-of stimuli, even non-allergic triggers. These triggers can include
-stress, heat, cold, certain foods, medications, and more.</p></li>
-<li><p>Symptoms: MCAS can cause a wide variety of symptoms, which can
-affect many different organ systems. Common symptoms include skin
-rashes, itching, flushing, abdominal pain, diarrhea, nausea, headaches,
-fatigue, and more. These symptoms can vary widely among
-individuals.</p></li>
-<li><p>Chronic and Recurrent: MCAS is typically a chronic condition, and
-its symptoms can come and go, making it difficult to diagnose.</p></li>
-<li><p>Diagnosis: Diagnosing MCAS can be challenging because the
-symptoms overlap with many other conditions. It often requires a
-comprehensive clinical evaluation, including a detailed medical history,
-physical examination, and laboratory tests to assess mast cell mediator
-levels.</p></li>
-<li><p>Treatment: The primary treatment for MCAS involves avoiding
-triggers and using medications to control symptoms. Medications may
-include antihistamines, mast cell stabilizers, and sometimes
-corticosteroids. Identifying and avoiding specific triggers is also an
-important part of managing the condition.</p></li>
+<li><p><strong>Excessive Mast Cell Activation</strong>: In individuals
+with MCAS, mast cells are overly sensitive and can activate in response
+to a wide range of stimuli, even non-allergic triggers. These triggers
+can include stress, heat, cold, certain foods, medications, and
+more.</p></li>
+<li><p><strong>Symptoms</strong>: MCAS can cause a wide variety of
+symptoms, which can affect many different organ systems. Common symptoms
+include skin rashes, itching, flushing, abdominal pain, diarrhea,
+nausea, headaches, fatigue, and more. These symptoms can vary widely
+among individuals.</p></li>
+<li><p><strong>Chronic and Recurrent</strong>: MCAS is typically a
+chronic condition, and its symptoms can come and go, making it difficult
+to diagnose.</p></li>
+<li><p><strong>Diagnosis</strong>: Diagnosing MCAS can be challenging
+because the symptoms overlap with many other conditions. It often
+requires a comprehensive clinical evaluation, including a detailed
+medical history, physical examination, and laboratory tests to assess
+mast cell mediator levels.</p></li>
+<li><p><strong>Treatment</strong>: The primary treatment for MCAS
+involves avoiding triggers and using medications to control symptoms.
+Medications may include antihistamines, mast cell stabilizers, and
+sometimes corticosteroids. Identifying and avoiding specific triggers is
+also an important part of managing the condition.</p></li>
 </ul>
 
 </div>

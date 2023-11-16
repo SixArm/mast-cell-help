@@ -15,12 +15,13 @@ A low-histamine diet aims to reduce the symptoms associated with an
 excess of histamine in the body, such as skin rashes, itching, hives,
 gastrointestinal issues, and more.</p>
 <ul>
-<li><p>Foods to choose: fresh meats, most fresh vegetables, some fresh
-fruits, some non-dairy milks, some gluten-free grains, and olive
-oil.</p></li>
-<li><p>Foods to avoid: fermented foods, processed meats, alcohol,
-certain vegetables, certain fruits, certain seafood, vinegar, canned
-foods, aged foods, certain beverages, and food additives.</p></li>
+<li><p><strong>Foods to choose</strong>: fresh meats, most fresh
+vegetables, some fresh fruits, some non-dairy milks, some gluten-free
+grains, and olive oil.</p></li>
+<li><p><strong>Foods to avoid</strong>: fermented foods, processed
+meats, alcohol, certain vegetables, certain fruits, certain seafood,
+vinegar, canned foods, aged foods, certain beverages, and food
+additives.</p></li>
 </ul>
 <p>It’s important to note that individual tolerance to
 histamine-containing foods can vary, and some people with

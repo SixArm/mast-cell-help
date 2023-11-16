@@ -7,14 +7,14 @@
 <h1 id="antihistamine-types">Antihistamine types</h1>
 <p>Antihistamines are available in two main types:</p>
 <ul>
-<li><p>First-generation antihistamines: These are older antihistamines,
-such as diphenhydramine (Benadryl) and chlorpheniramine
+<li><p><strong>First-generation antihistamines</strong>: These are older
+antihistamines, such as diphenhydramine (Benadryl) and chlorpheniramine
 (Chlor-Trimeton). They are effective but can cause drowsiness as a side
 effect.</p></li>
-<li><p>Second-generation antihistamines: These are newer medications,
-such as cetirizine (Zyrtec), loratadine (Claritin), and fexofenadine
-(Allegra). They are less likely to cause drowsiness and are often
-preferred for daytime use.</p></li>
+<li><p><strong>Second-generation antihistamines</strong>: These are
+newer medications, such as cetirizine (Zyrtec), loratadine (Claritin),
+and fexofenadine (Allegra). They are less likely to cause drowsiness and
+are often preferred for daytime use.</p></li>
 </ul>
 <p>Antihistamines are available in two main durations of action:</p>
 <ul>

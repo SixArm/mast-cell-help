@@ -8,22 +8,22 @@ GERD can often be managed with lifestyle and dietary changes, as well as over-th
 
 Common symptoms:
 
-* Heartburn: A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.
+* **Heartburn**: A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.
 
-* Regurgitation: The sensation of stomach contents coming back into the mouth or throat.
+* **Regurgitation**: The sensation of stomach contents coming back into the mouth or throat.
 
-* Acid Indigestion: Discomfort in the upper abdomen.
+* **Acid Indigestion**: Discomfort in the upper abdomen.
 
-* Chest Pain: Chest pain that may be mistaken for a heart-related issue. It's important to distinguish GERD-related chest pain from heart-related chest pain, so a healthcare provider should be consulted.
+* **Chest Pain**: Chest pain that may be mistaken for a heart-related issue. It's important to distinguish GERD-related chest pain from heart-related chest pain, so a healthcare provider should be consulted.
 
-* Difficulty Swallowing: Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.
+* **Difficulty Swallowing**: Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.
 
-* Chronic Cough: Some people with GERD experience a persistent cough.
+* **Chronic Cough**: Some people with GERD experience a persistent cough.
 
-* Sore Throat: Frequent acid exposure can lead to throat irritation and a sore throat.
+* **Sore Throat**: Frequent acid exposure can lead to throat irritation and a sore throat.
 
-* Laryngitis: Inflammation of the voice box, which can cause hoarseness.
+* **Laryngitis**: Inflammation of the voice box, which can cause hoarseness.
 
-* Asthma: GERD can trigger or worsen asthma symptoms in some individuals.
+* **Asthma**: GERD can trigger or worsen asthma symptoms in some individuals.
 
-* Dental Problems: Frequent exposure to stomach acid can lead to tooth decay and other dental issues.
+* **Dental Problems**: Frequent exposure to stomach acid can lead to tooth decay and other dental issues.

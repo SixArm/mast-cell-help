@@ -116,7 +116,7 @@ class="uri">https://puritycoffee.com/</a></p>
 <ul>
 <li>How to enjoy coffee when you have MCAS or histamine intolerance</li>
 <li>Choosing the healthiest coffee possible</li>
-<li>Coffee enemas: what you need to know</li>
+<li><strong>Coffee enemas</strong>: what you need to know</li>
 </ul>
 <p><strong>Roger Billica, MD</strong></p>
 <p><a href="https://www.trilifehealth.com"
@@ -263,14 +263,15 @@ class="uri">https://drkellymccann.com/</a></p>
 <p>“Infectious Mast Cell Triggers and MCAS Approaches”</p>
 <ul>
 <li>Foundational information on Lyme and co-infections</li>
-<li>The big 3: Borrelia, Bartonella and Babesia</li>
+<li><strong>The big 3</strong>: Borrelia, Bartonella and Babesia</li>
 <li>Testing and treatment options for MCAS patients</li>
 </ul>
 <p>“Improving Your GI system”</p>
 <ul>
 <li>GI mast cell triggers</li>
 <li>Relationship between histamine intolerance and MCAS</li>
-<li>Choosing the right diet: low histamine, low FODMAP and more</li>
+<li><strong>Choosing the right diet</strong>: low histamine, low FODMAP
+and more</li>
 </ul>
 <p><strong>Christina Boyd</strong></p>
 <p><a href="https://www.highpointaz.com/how-i-work"
@@ -307,7 +308,8 @@ Pharmaceuticals”</p>
 class="uri">http://www.endfatigue.com/</a></p>
 <p>“SHINE Protocol for MCAS”</p>
 <ul>
-<li>Published studies: fatigue, fibromyalgia, long COVID and more</li>
+<li><strong>Published studies</strong>: fatigue, fibromyalgia, long
+COVID and more</li>
 <li>How to implement the SHINE protocol</li>
 <li>Free health resources</li>
 </ul>
@@ -374,8 +376,8 @@ Expression”</p>
 class="uri">https://emeiglobal.com/</a></p>
 <p>“Total Body Burden of Environmental Chemicals and MCAS”</p>
 <ul>
-<li>Total body burden: What is it, and how does it impact mast
-cells?</li>
+<li><strong>Total body burden</strong>: What is it, and how does it
+impact mast cells?</li>
 <li>Importance of clean air, water and food</li>
 <li>Creating a bedroom oasis</li>
 </ul>
@@ -413,7 +415,8 @@ diseases</li>
 class="uri">https://drgoodenowe.com/</a></p>
 <p>“Resolving Neuroinflammation in MCAS”</p>
 <ul>
-<li>Overview of brain anatomy: What happens in an inflamed brain</li>
+<li><strong>Overview of brain anatomy</strong>: What happens in an
+inflamed brain</li>
 <li>Restoring mitochondria and neutralizing membrane damage</li>
 <li>Healing myelin and enhancing cognition</li>
 </ul>

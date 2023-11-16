@@ -4,12 +4,12 @@ Allergy drops are a form of treatment for allergies. The drops desensitize indiv
 
 Here's how allergy drops work and some key points to know:
 
-* Desensitization: The goal of allergy drops is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergy symptoms when exposed to them.
+* **Desensitization**: The goal of allergy drops is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergy symptoms when exposed to them.
 
-* Administration: Allergy drops are administered by placing a small amount of allergen extract under the tongue. This is done daily, and the dose is gradually increased over time.
+* **Administration**: Allergy drops are administered by placing a small amount of allergen extract under the tongue. This is done daily, and the dose is gradually increased over time.
 
-* Customized Treatment: Like allergy shots, allergy drops are customized for each patient based on their specific allergens. The extracts used are formulated based on the results of allergy testing.
+* **Customized Treatment**: Like allergy shots, allergy drops are customized for each patient based on their specific allergens. The extracts used are formulated based on the results of allergy testing.
 
-* Duration: Allergy drop treatment usually lasts for several years, with the duration varying from person to person. Some individuals may continue with maintenance doses, while others may eventually discontinue treatment.
+* **Duration**: Allergy drop treatment usually lasts for several years, with the duration varying from person to person. Some individuals may continue with maintenance doses, while others may eventually discontinue treatment.
 
-* Efficacy: While allergy drops can be effective for many people, they may not work for everyone. The level of efficacy can vary depending on the specific allergens and the individual's immune response.
+* **Efficacy**: While allergy drops can be effective for many people, they may not work for everyone. The level of efficacy can vary depending on the specific allergens and the individual's immune response.

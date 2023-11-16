@@ -20,18 +20,20 @@ multiple systems in the body.</p></li>
 </ul>
 <p>To find MCAS specialists, you can:</p>
 <ul>
-<li><p>Ask for Referrals: Consult with your primary care physician or a
-trusted specialist to ask for referrals to experts who can help with
+<li><p><strong>Ask for Referrals</strong>: Consult with your primary
+care physician or a trusted specialist to ask for referrals to experts
+who can help with MCAS.</p></li>
+<li><p><strong>Research Online</strong>: Look for healthcare providers
+and medical centers that have experience with MCAS by searching online
+or visiting the websites of patient advocacy organizations related to
 MCAS.</p></li>
-<li><p>Research Online: Look for healthcare providers and medical
-centers that have experience with MCAS by searching online or visiting
-the websites of patient advocacy organizations related to MCAS.</p></li>
-<li><p>Contact Patient Advocacy Organizations: Organizations like The
-Mastocytosis Society and the Mast Cell Action Group may be able to
-provide recommendations for knowledgeable healthcare providers.</p></li>
-<li><p>Consider Telemedicine: If you are unable to find a local
-specialist, consider telemedicine options where you can consult with
-experts remotely.</p></li>
+<li><p><strong>Contact Patient Advocacy Organizations</strong>:
+Organizations like The Mastocytosis Society and the Mast Cell Action
+Group may be able to provide recommendations for knowledgeable
+healthcare providers.</p></li>
+<li><p><strong>Consider Telemedicine</strong>: If you are unable to find
+a local specialist, consider telemedicine options where you can consult
+with experts remotely.</p></li>
 </ul>
 <p>Remember that managing MCAS often involves a combination of
 medication, lifestyle adjustments, and dietary modifications. It’s

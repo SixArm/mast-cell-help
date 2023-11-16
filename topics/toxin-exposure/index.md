@@ -8,21 +8,21 @@ Here are some common sources and types of toxin exposure…
 
 Environmental Toxins:
 
-* Air Pollution: Exposure to pollutants in the air, such as particulate matter, ozone, and volatile organic compounds, can have detrimental effects on respiratory and cardiovascular health.
+* **Air Pollution**: Exposure to pollutants in the air, such as particulate matter, ozone, and volatile organic compounds, can have detrimental effects on respiratory and cardiovascular health.
 
-* Water Contaminants: Contaminants in drinking water, like heavy metals (e.g., lead, arsenic) or microbial pathogens, can pose health risks.
+* **Water Contaminants**: Contaminants in drinking water, like heavy metals (e.g., lead, arsenic) or microbial pathogens, can pose health risks.
 
-* Pesticides and Herbicides: Agricultural chemicals, when used improperly or in excess, can harm human health.
+* **Pesticides and Herbicides**: Agricultural chemicals, when used improperly or in excess, can harm human health.
 
-* Heavy Metals: Exposure to heavy metals like lead, mercury, and cadmium, often through contaminated food, water, or industrial processes, can have toxic effects on multiple organs.
+* **Heavy Metals**: Exposure to heavy metals like lead, mercury, and cadmium, often through contaminated food, water, or industrial processes, can have toxic effects on multiple organs.
 
-* Radon Gas: Radon is a naturally occurring radioactive gas that can enter homes and become a health hazard when inhaled.
+* **Radon Gas**: Radon is a naturally occurring radioactive gas that can enter homes and become a health hazard when inhaled.
 
 Food Toxins:
 
-* Foodborne Pathogens: Bacteria, viruses, and parasites in food can cause food poisoning when ingested. Common pathogens include Salmonella, E. coli, and norovirus.
+* **Foodborne Pathogens**: Bacteria, viruses, and parasites in food can cause food poisoning when ingested. Common pathogens include Salmonella, E. coli, and norovirus.
 
-* Contaminants: Food may contain contaminants, such as aflatoxins in moldy peanuts or certain food additives that can be harmful.
+* **Contaminants**: Food may contain contaminants, such as aflatoxins in moldy peanuts or certain food additives that can be harmful.
 
 Biological Toxins:
 
@@ -30,13 +30,13 @@ Biological Toxins:
 
 Household Toxins:
 
-* Cleaning Products: Household cleaning agents, if ingested or inhaled, can be toxic.
+* **Cleaning Products**: Household cleaning agents, if ingested or inhaled, can be toxic.
 
-* Lead Paint: Lead-based paint, if ingested or inhaled as dust, poses a health risk, especially in older homes.
+* **Lead Paint**: Lead-based paint, if ingested or inhaled as dust, poses a health risk, especially in older homes.
 
-* Carbon Monoxide: This colorless, odorless gas can be emitted by faulty gas appliances and is toxic when inhaled.
+* **Carbon Monoxide**: This colorless, odorless gas can be emitted by faulty gas appliances and is toxic when inhaled.
 
-* Mold: Certain molds produce mycotoxins that can be harmful when inhaled or ingested.
+* **Mold**: Certain molds produce mycotoxins that can be harmful when inhaled or ingested.
 
 Medications and Drugs:
 

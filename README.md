@@ -50,7 +50,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Elimination diet](topics/elimination-diet)
 
-* [Elimination diet conditions](topics/elimination-diet-conditions)
+* [Elimination diet for conditions](topics/elimination-diet-for-conditions)
 * [Foods to avoid](topics/elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](topics/low-histamine-diet)
@@ -153,7 +153,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Allergies](topics/allergies)
 
 * [Allergy types](topics/allergy-types)
-* [Allergic reaction](topics/allergic-reaction)
+* [Allergic reaction](topics/allergic-reactions)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
 
@@ -216,9 +216,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Brain fog](topics/brain-fog)
 
-### [Bronchiospasm](topics/bronchiospasm)
+### [Bronchospasm](topics/bronchospasm)
 
-* [Bronchiospasm treatment](topics/bronchiospasm-treatment)
+* [Bronchospasm treatment](topics/bronchospasm-treatment)
 
 ### [Hypertryptasemia](topics/hypertryptasemia)
 
@@ -250,7 +250,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Mast cell genetics](topics/mast-cell-genetics)
 
-* [Genetic mutation](topics/genetic-genetic)
+* [Genetic mutation](topics/genetic-mutation)
 * [Genetic polymorphisms](topics/genetic-polymorphisms)
 * [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia)
 * [KIT-D816X](topics/kit-d816x)

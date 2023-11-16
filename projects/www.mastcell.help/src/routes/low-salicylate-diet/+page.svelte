@@ -14,17 +14,17 @@ headaches, skin rashes, digestive issues, and other discomfort. As a
 result, they may choose to follow a low-salicylate diet to reduce their
 exposure to these compounds.</p>
 <ul>
-<li><p>Foods to choose: low-salicylate fruits (e.g. pears, papayas,
-melons), Low-salicylate vegetables (e.g. carrots, sweet potatoes,
-zucchini), lean proteins (e.g. chicken, turkey, fish), dairy products
-(if tolerated), grains (e.g. rice, rice noodles, and oatmeal),
-non-caffeinated beverages (e.g. water, herbal teas), oils, and
+<li><p><strong>Foods to choose</strong>: low-salicylate fruits
+(e.g. pears, papayas, melons), Low-salicylate vegetables (e.g. carrots,
+sweet potatoes, zucchini), lean proteins (e.g. chicken, turkey, fish),
+dairy products (if tolerated), grains (e.g. rice, rice noodles, and
+oatmeal), non-caffeinated beverages (e.g. water, herbal teas), oils, and
 fats.</p></li>
-<li><p>Foods to avoid: high-salicylate fruits and vegetables, most
-spices and herbs, high-salicylate nuts (e.g. almonds, peanuts), some
-grains (e.g. wheat, rye), caffeinated beverages (e.g. coffee, black
-tea), alcohol, certain food additives, and processed foods with
-artificial colors and flavors.</p></li>
+<li><p><strong>Foods to avoid</strong>: high-salicylate fruits and
+vegetables, most spices and herbs, high-salicylate nuts (e.g. almonds,
+peanuts), some grains (e.g. wheat, rye), caffeinated beverages
+(e.g. coffee, black tea), alcohol, certain food additives, and processed
+foods with artificial colors and flavors.</p></li>
 </ul>
 <p>Salicylates are found in a wide range of foods, including fruits
 (especially berries, grapes, and citrus), vegetables (tomatoes, peppers,

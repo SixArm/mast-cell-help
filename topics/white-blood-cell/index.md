@@ -6,12 +6,12 @@ Abnormal levels of white blood cells can provide important diagnostic informatio
 
 There are several types of white blood cells:
 
-* Neutrophils: Neutrophils are the most abundant type of white blood cell and are often the first responders to infection. They engulf and destroy bacteria and other pathogens.
+* **Neutrophils**: Neutrophils are the most abundant type of white blood cell and are often the first responders to infection. They engulf and destroy bacteria and other pathogens.
 
-* Lymphocytes: Lymphocytes are a diverse group of white blood cells that include B cells and T cells. B cells produce antibodies, which target and neutralize pathogens. T cells assist in the immune response, directly attacking infected cells, and regulating the immune system.
+* **Lymphocytes**: Lymphocytes are a diverse group of white blood cells that include B cells and T cells. B cells produce antibodies, which target and neutralize pathogens. T cells assist in the immune response, directly attacking infected cells, and regulating the immune system.
 
-* Monocytes: Monocytes are large white blood cells that can transform into macrophages when they migrate into tissues. Macrophages engulfing and break down pathogens and cellular debris.
+* **Monocytes**: Monocytes are large white blood cells that can transform into macrophages when they migrate into tissues. Macrophages engulfing and break down pathogens and cellular debris.
 
-* Eosinophils: Eosinophils defend against parasitic infections and are also involved in the immune response to allergies, asthma, and certain autoimmune diseases.
+* **Eosinophils**: Eosinophils defend against parasitic infections and are also involved in the immune response to allergies, asthma, and certain autoimmune diseases.
 
-* Basophils: Basophils release histamine and other chemicals that can trigger inflammation and allergic reactions. They play a role in immediate hypersensitivity responses.
+* **Basophils**: Basophils release histamine and other chemicals that can trigger inflammation and allergic reactions. They play a role in immediate hypersensitivity responses.

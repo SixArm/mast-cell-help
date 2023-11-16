@@ -17,27 +17,32 @@ medical attention promptly.</p>
 <p>Here are some common sources and types of toxin exposure…</p>
 <p>Environmental Toxins:</p>
 <ul>
-<li><p>Air Pollution: Exposure to pollutants in the air, such as
-particulate matter, ozone, and volatile organic compounds, can have
-detrimental effects on respiratory and cardiovascular health.</p></li>
-<li><p>Water Contaminants: Contaminants in drinking water, like heavy
-metals (e.g., lead, arsenic) or microbial pathogens, can pose health
-risks.</p></li>
-<li><p>Pesticides and Herbicides: Agricultural chemicals, when used
-improperly or in excess, can harm human health.</p></li>
-<li><p>Heavy Metals: Exposure to heavy metals like lead, mercury, and
-cadmium, often through contaminated food, water, or industrial
-processes, can have toxic effects on multiple organs.</p></li>
-<li><p>Radon Gas: Radon is a naturally occurring radioactive gas that
-can enter homes and become a health hazard when inhaled.</p></li>
+<li><p><strong>Air Pollution</strong>: Exposure to pollutants in the
+air, such as particulate matter, ozone, and volatile organic compounds,
+can have detrimental effects on respiratory and cardiovascular
+health.</p></li>
+<li><p><strong>Water Contaminants</strong>: Contaminants in drinking
+water, like heavy metals (e.g., lead, arsenic) or microbial pathogens,
+can pose health risks.</p></li>
+<li><p><strong>Pesticides and Herbicides</strong>: Agricultural
+chemicals, when used improperly or in excess, can harm human
+health.</p></li>
+<li><p><strong>Heavy Metals</strong>: Exposure to heavy metals like
+lead, mercury, and cadmium, often through contaminated food, water, or
+industrial processes, can have toxic effects on multiple
+organs.</p></li>
+<li><p><strong>Radon Gas</strong>: Radon is a naturally occurring
+radioactive gas that can enter homes and become a health hazard when
+inhaled.</p></li>
 </ul>
 <p>Food Toxins:</p>
 <ul>
-<li><p>Foodborne Pathogens: Bacteria, viruses, and parasites in food can
-cause food poisoning when ingested. Common pathogens include Salmonella,
-E. coli, and norovirus.</p></li>
-<li><p>Contaminants: Food may contain contaminants, such as aflatoxins
-in moldy peanuts or certain food additives that can be harmful.</p></li>
+<li><p><strong>Foodborne Pathogens</strong>: Bacteria, viruses, and
+parasites in food can cause food poisoning when ingested. Common
+pathogens include Salmonella, E. coli, and norovirus.</p></li>
+<li><p><strong>Contaminants</strong>: Food may contain contaminants,
+such as aflatoxins in moldy peanuts or certain food additives that can
+be harmful.</p></li>
 </ul>
 <p>Biological Toxins:</p>
 <ul>
@@ -46,14 +51,16 @@ spiders, or insects, can cause poisoning when injected or ingested.</li>
 </ul>
 <p>Household Toxins:</p>
 <ul>
-<li><p>Cleaning Products: Household cleaning agents, if ingested or
-inhaled, can be toxic.</p></li>
-<li><p>Lead Paint: Lead-based paint, if ingested or inhaled as dust,
-poses a health risk, especially in older homes.</p></li>
-<li><p>Carbon Monoxide: This colorless, odorless gas can be emitted by
-faulty gas appliances and is toxic when inhaled.</p></li>
-<li><p>Mold: Certain molds produce mycotoxins that can be harmful when
-inhaled or ingested.</p></li>
+<li><p><strong>Cleaning Products</strong>: Household cleaning agents, if
+ingested or inhaled, can be toxic.</p></li>
+<li><p><strong>Lead Paint</strong>: Lead-based paint, if ingested or
+inhaled as dust, poses a health risk, especially in older
+homes.</p></li>
+<li><p><strong>Carbon Monoxide</strong>: This colorless, odorless gas
+can be emitted by faulty gas appliances and is toxic when
+inhaled.</p></li>
+<li><p><strong>Mold</strong>: Certain molds produce mycotoxins that can
+be harmful when inhaled or ingested.</p></li>
 </ul>
 <p>Medications and Drugs:</p>
 <ul>

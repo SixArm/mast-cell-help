@@ -9,9 +9,10 @@ Site | mastcell.help</title>
 choose</h1>
 <p>Vegetables:</p>
 <ul>
-<li>Leafy greens: Spinach, kale, lettuce, Swiss chard.</li>
-<li>Cruciferous vegetables: Broccoli, cauliflower, Brussels
-sprouts.</li>
+<li><strong>Leafy greens</strong>: Spinach, kale, lettuce, Swiss
+chard.</li>
+<li><strong>Cruciferous vegetables</strong>: Broccoli, cauliflower,
+Brussels sprouts.</li>
 <li>Zucchini and summer squash.</li>
 <li>Bell peppers.</li>
 </ul>
@@ -24,10 +25,11 @@ sprouts.</li>
 </ul>
 <p>Animal Protein:</p>
 <ul>
-<li>Meat: Beef, pork, lamb, poultry (chicken, turkey).</li>
-<li>Fish: Most types of fish.</li>
-<li>Seafood: Shrimp, crab, lobster.</li>
-<li>Eggs: Eggs are lectin-free.</li>
+<li><strong>Meat</strong>: Beef, pork, lamb, poultry (chicken,
+turkey).</li>
+<li><strong>Fish</strong>: Most types of fish.</li>
+<li><strong>Seafood</strong>: Shrimp, crab, lobster.</li>
+<li><strong>Eggs</strong>: Eggs are lectin-free.</li>
 </ul>
 <p>Animal Dairy:</p>
 <ul>

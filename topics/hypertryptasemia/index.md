@@ -4,11 +4,11 @@ Hypertryptasemia refers to the presence of abnormally high levels of tryptase in
 
 There are several potential reasons for hypertryptasemia, including:
 
-* Mast Cell Disorders: Elevated tryptase levels are often associated with mast cell disorders, such as systemic mastocytosis. In these conditions, mast cells are abnormally increased in the body and can release excessive amounts of tryptase and other inflammatory substances, leading to various symptoms.
+* **Mast Cell Disorders**: Elevated tryptase levels are often associated with mast cell disorders, such as systemic mastocytosis. In these conditions, mast cells are abnormally increased in the body and can release excessive amounts of tryptase and other inflammatory substances, leading to various symptoms.
 
-* Allergic Reactions: Elevated tryptase levels can occur during severe allergic reactions, particularly in cases of anaphylaxis. Anaphylaxis is a life-threatening allergic reaction that can lead to a sudden and dramatic release of mast cell products, including tryptase, into the bloodstream.
+* **Allergic Reactions**: Elevated tryptase levels can occur during severe allergic reactions, particularly in cases of anaphylaxis. Anaphylaxis is a life-threatening allergic reaction that can lead to a sudden and dramatic release of mast cell products, including tryptase, into the bloodstream.
 
-* Other Conditions: Some other medical conditions, such as chronic myeloid leukemia (CML) and certain types of blood disorders, may also lead to elevated tryptase levels.
+* **Other Conditions**: Some other medical conditions, such as chronic myeloid leukemia (CML) and certain types of blood disorders, may also lead to elevated tryptase levels.
 
 Hypertryptasemia is typically diagnosed through blood tests that measure tryptase levels.
 

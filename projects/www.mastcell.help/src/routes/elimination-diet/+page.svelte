@@ -18,22 +18,22 @@ nutritious. Additionally, healthcare providers may recommend allergy
 testing or other diagnostic tests to assist in the process.</p>
 <p>The process typically involves three main phases:</p>
 <ul>
-<li><p>Elimination Phase: During this phase, the individual removes
-specific foods or food groups from their diet that are suspected of
-causing adverse reactions. These foods are chosen based on the person’s
-medical history, symptoms, and, in some cases, allergy testing. The
-elimination phase typically lasts 2 to 4 weeks.</p></li>
-<li><p>Reintroduction (Challenge) Phase: After the elimination phase,
-one at a time, the eliminated foods are gradually reintroduced into the
-diet. This is done to assess whether the person experiences any adverse
-reactions when these foods are consumed. Each reintroduced food is
-usually consumed over a period of a few days while closely monitoring
-for symptoms.</p></li>
-<li><p>Maintenance Phase: In this phase, the individual customizes their
-long-term diet based on the results of the elimination and
-reintroduction phases. Foods that did not cause adverse reactions are
-incorporated into the regular diet, while foods that trigger symptoms
-are permanently avoided.</p></li>
+<li><p><strong>Elimination Phase</strong>: During this phase, the
+individual removes specific foods or food groups from their diet that
+are suspected of causing adverse reactions. These foods are chosen based
+on the person’s medical history, symptoms, and, in some cases, allergy
+testing. The elimination phase typically lasts 2 to 4 weeks.</p></li>
+<li><p><strong>Reintroduction (Challenge) Phase</strong>: After the
+elimination phase, one at a time, the eliminated foods are gradually
+reintroduced into the diet. This is done to assess whether the person
+experiences any adverse reactions when these foods are consumed. Each
+reintroduced food is usually consumed over a period of a few days while
+closely monitoring for symptoms.</p></li>
+<li><p><strong>Maintenance Phase</strong>: In this phase, the individual
+customizes their long-term diet based on the results of the elimination
+and reintroduction phases. Foods that did not cause adverse reactions
+are incorporated into the regular diet, while foods that trigger
+symptoms are permanently avoided.</p></li>
 </ul>
 
 </div>

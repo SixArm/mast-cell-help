@@ -16,23 +16,24 @@ system doesn’t function properly, it can lead to a wide range of
 symptoms and health issues.</p>
 <p>There are several types and causes of dysautonomia, including:</p>
 <ul>
-<li><p>Primary Autonomic Failure: This category includes conditions like
-pure autonomic failure, multiple system atrophy, and Parkinson’s
-disease, which primarily affect the autonomic nervous system.</p></li>
-<li><p>Neurological Disorders: Certain neurological conditions, such as
-neuropathies, can lead to autonomic dysfunction. For example, diabetic
-neuropathy can affect the autonomic nervous system in individuals with
-diabetes.</p></li>
-<li><p>Postural Orthostatic Tachycardia Syndrome (POTS): POTS is
-characterized by an abnormal increase in heart rate upon standing,
-leading to symptoms like dizziness, lightheadedness, and
-fainting.</p></li>
-<li><p>Neurocardiogenic Syncope: This condition involves episodes of
-fainting, often triggered by specific factors like stress, pain, or
-prolonged standing.</p></li>
-<li><p>Familial Dysautonomia (Riley-Day Syndrome): This is a rare
-genetic disorder that affects the autonomic nervous system and is more
-common in people of Ashkenazi Jewish descent.</p></li>
+<li><p><strong>Primary Autonomic Failure</strong>: This category
+includes conditions like pure autonomic failure, multiple system
+atrophy, and Parkinson’s disease, which primarily affect the autonomic
+nervous system.</p></li>
+<li><p><strong>Neurological Disorders</strong>: Certain neurological
+conditions, such as neuropathies, can lead to autonomic dysfunction. For
+example, diabetic neuropathy can affect the autonomic nervous system in
+individuals with diabetes.</p></li>
+<li><p><strong>Postural Orthostatic Tachycardia Syndrome
+(POTS)</strong>: POTS is characterized by an abnormal increase in heart
+rate upon standing, leading to symptoms like dizziness, lightheadedness,
+and fainting.</p></li>
+<li><p><strong>Neurocardiogenic Syncope</strong>: This condition
+involves episodes of fainting, often triggered by specific factors like
+stress, pain, or prolonged standing.</p></li>
+<li><p><strong>Familial Dysautonomia (Riley-Day Syndrome)</strong>: This
+is a rare genetic disorder that affects the autonomic nervous system and
+is more common in people of Ashkenazi Jewish descent.</p></li>
 </ul>
 <p>Common symptoms and manifestations of dysautonomia can include:</p>
 <ul>

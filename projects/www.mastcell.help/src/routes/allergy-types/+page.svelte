@@ -14,8 +14,9 @@ sensitive individuals.</p>
 <li><p>Hay fever (allergic rhinitis) is triggered by airborne allergens
 such as pollen. Symptoms include sneezing, runny or stuffy nose, itchy
 or watery eyes, and coughing.</p></li>
-<li><p>Asthma: Allergens, infections, or irritants can trigger wheezing,
-shortness of breath, chest tightness, and coughing.</p></li>
+<li><p><strong>Asthma</strong>: Allergens, infections, or irritants can
+trigger wheezing, shortness of breath, chest tightness, and
+coughing.</p></li>
 <li><p>Allergic bronchitis is an allergic reaction in the bronchial
 tubes that can lead to coughing, increased mucus production, and chest
 discomfort.</p></li>

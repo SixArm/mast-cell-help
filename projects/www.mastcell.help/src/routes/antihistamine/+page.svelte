@@ -16,16 +16,16 @@ are located on various cells, including those in the respiratory and
 immune systems.</p>
 <p>Common Uses:</p>
 <ul>
-<li><p>Allergic Rhinitis: Antihistamines are often used to relieve
-symptoms of seasonal and perennial allergies, commonly known as hay
-fever or allergic rhinitis.</p></li>
-<li><p>Allergic Conjunctivitis: They can help alleviate itching and
-redness of the eyes associated with allergies.</p></li>
-<li><p>Urticaria (Hives): Antihistamines are effective in reducing the
-itching and swelling of hives.</p></li>
-<li><p>Itching: They can be used to relieve itching associated with
-various allergic skin conditions, insect bites, and contact
-dermatitis.</p></li>
+<li><p><strong>Allergic Rhinitis</strong>: Antihistamines are often used
+to relieve symptoms of seasonal and perennial allergies, commonly known
+as hay fever or allergic rhinitis.</p></li>
+<li><p><strong>Allergic Conjunctivitis</strong>: They can help alleviate
+itching and redness of the eyes associated with allergies.</p></li>
+<li><p><strong>Urticaria (Hives)</strong>: Antihistamines are effective
+in reducing the itching and swelling of hives.</p></li>
+<li><p><strong>Itching</strong>: They can be used to relieve itching
+associated with various allergic skin conditions, insect bites, and
+contact dermatitis.</p></li>
 </ul>
 
 </div>

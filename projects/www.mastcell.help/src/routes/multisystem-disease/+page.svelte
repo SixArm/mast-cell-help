@@ -20,17 +20,18 @@ kidneys, heart, lungs, and nervous system.</p></li>
 primarily affects the joints but can also involve multiple systems,
 leading to symptoms like fatigue and inflammation in other
 organs.</p></li>
-<li><p>Sarcoidosis: Sarcoidosis is a condition characterized by the
-formation of granulomas (small inflammatory nodules) in various tissues
-and organs, such as the lungs, skin, eyes, and lymph nodes.</p></li>
+<li><p><strong>Sarcoidosis</strong>: Sarcoidosis is a condition
+characterized by the formation of granulomas (small inflammatory
+nodules) in various tissues and organs, such as the lungs, skin, eyes,
+and lymph nodes.</p></li>
 <li><p>Systemic Sclerosis (Scleroderma) is an autoimmune disease that
 can cause skin thickening and affect multiple organ systems, including
 the blood vessels, lungs, heart, gastrointestinal tract, and
 kidneys.</p></li>
-<li><p>HIV/AIDS: Human Immunodeficiency Virus (HIV) can lead to Acquired
-Immunodeficiency Syndrome (AIDS), affecting the immune system and
-leading to various multisystem complications, including opportunistic
-infections and malignancies.</p></li>
+<li><p><strong>HIV/AIDS</strong>: Human Immunodeficiency Virus (HIV) can
+lead to Acquired Immunodeficiency Syndrome (AIDS), affecting the immune
+system and leading to various multisystem complications, including
+opportunistic infections and malignancies.</p></li>
 <li><p>Sjögren’s Syndrome is an autoimmune disease that primarily
 affects the exocrine glands, leading to dryness of the eyes and mouth,
 and can also involve other organ systems.</p></li>

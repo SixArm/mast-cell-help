@@ -16,21 +16,22 @@ reversible, making it a valuable tool in the prevention and treatment of
 clot-related conditions.</p>
 <p>Heparin is commonly used in various medical scenarios:</p>
 <ul>
-<li><p>Surgery: It is used during and after surgical procedures to
-prevent clot formation in blood vessels, reducing the risk of
-postoperative complications like deep vein thrombosis (DVT) and
+<li><p><strong>Surgery</strong>: It is used during and after surgical
+procedures to prevent clot formation in blood vessels, reducing the risk
+of postoperative complications like deep vein thrombosis (DVT) and
 pulmonary embolism (PE).</p></li>
-<li><p>Treatment of Blood Clots: Heparin can be used to treat existing
-blood clots, such as DVT and PE.</p></li>
-<li><p>Hemodialysis: Heparin is used during hemodialysis procedures to
-prevent blood from clotting within the dialysis machine.</p></li>
-<li><p>Management of Certain Medical Conditions: Some medical
-conditions, such as atrial fibrillation and certain heart conditions,
-can increase the risk of blood clots, and heparin may be used to reduce
-this risk.</p></li>
-<li><p>Pregnancy: Heparin may be prescribed to pregnant women with
-certain clotting disorders or a history of blood clots to reduce the
-risk of complications.</p></li>
+<li><p><strong>Treatment of Blood Clots</strong>: Heparin can be used to
+treat existing blood clots, such as DVT and PE.</p></li>
+<li><p><strong>Hemodialysis</strong>: Heparin is used during
+hemodialysis procedures to prevent blood from clotting within the
+dialysis machine.</p></li>
+<li><p><strong>Management of Certain Medical Conditions</strong>: Some
+medical conditions, such as atrial fibrillation and certain heart
+conditions, can increase the risk of blood clots, and heparin may be
+used to reduce this risk.</p></li>
+<li><p><strong>Pregnancy</strong>: Heparin may be prescribed to pregnant
+women with certain clotting disorders or a history of blood clots to
+reduce the risk of complications.</p></li>
 </ul>
 
 </div>

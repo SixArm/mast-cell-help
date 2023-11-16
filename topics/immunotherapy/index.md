@@ -10,12 +10,12 @@ Immunotherapy research is an active and evolving field, and ongoing clinical tri
 
 Some common kinds:
 
-* Allergy Immunotherapy: For individuals with allergies, immunotherapy may involve allergy shots or sublingual tablets that gradually expose the immune system to allergens to reduce the body's allergic response over time.
+* **Allergy Immunotherapy**: For individuals with allergies, immunotherapy may involve allergy shots or sublingual tablets that gradually expose the immune system to allergens to reduce the body's allergic response over time.
 
-* Autoimmune Disease Treatment: Immunotherapy can be used to suppress the immune response. This can include the use of corticosteroids, disease-modifying antirheumatic drugs (DMARDs), and biologics.
+* **Autoimmune Disease Treatment**: Immunotherapy can be used to suppress the immune response. This can include the use of corticosteroids, disease-modifying antirheumatic drugs (DMARDs), and biologics.
 
-* Cancer Immunotherapy: Immunotherapy is used to treat various types of cancer, including via immune checkpoint inhibitors, Chimeric Antigen Receptor T-cell (CAR-T) therapy, immune-boosting proteins such as interleukins and interferons, and monoclonal antibodies.
+* **Cancer Immunotherapy**: Immunotherapy is used to treat various types of cancer, including via immune checkpoint inhibitors, Chimeric Antigen Receptor T-cell (CAR-T) therapy, immune-boosting proteins such as interleukins and interferons, and monoclonal antibodies.
 
-* Vaccines: Traditional vaccines work by stimulating the immune system to produce an immune response against specific pathogens. Immunotherapy-based vaccines are being developed to treat or prevent certain diseases, including cancer.
+* **Vaccines**: Traditional vaccines work by stimulating the immune system to produce an immune response against specific pathogens. Immunotherapy-based vaccines are being developed to treat or prevent certain diseases, including cancer.
 
-* Gene Therapy: Gene-based immunotherapies involve modifying a patient's genes to enhance their immune system's ability to fight disease. This approach is still experimental but holds promise for the treatment of various conditions.
+* **Gene Therapy**: Gene-based immunotherapies involve modifying a patient's genes to enhance their immune system's ability to fight disease. This approach is still experimental but holds promise for the treatment of various conditions.

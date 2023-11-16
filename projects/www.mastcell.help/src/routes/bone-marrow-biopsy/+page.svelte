@@ -27,16 +27,16 @@ site for a day or two.</p></li>
 <p>Bone marrow biopsies are performed for various purposes,
 including:</p>
 <ul>
-<li><p>Diagnosis: A bone marrow biopsy may be conducted to diagnose and
-evaluate a wide range of conditions, such as blood disorders (e.g.,
-anemia, leukemia, lymphoma), bone marrow disorders, and certain
-infectious diseases.</p></li>
-<li><p>Staging and Monitoring: In individuals already diagnosed with
-conditions like leukemia or lymphoma, a bone marrow biopsy can help
-determine the extent of the disease and monitor treatment
-response.</p></li>
-<li><p>Identification of Cytogenetic Abnormalities: The bone marrow
-sample can be used to analyze the genetic and chromosomal
+<li><p><strong>Diagnosis</strong>: A bone marrow biopsy may be conducted
+to diagnose and evaluate a wide range of conditions, such as blood
+disorders (e.g., anemia, leukemia, lymphoma), bone marrow disorders, and
+certain infectious diseases.</p></li>
+<li><p><strong>Staging and Monitoring</strong>: In individuals already
+diagnosed with conditions like leukemia or lymphoma, a bone marrow
+biopsy can help determine the extent of the disease and monitor
+treatment response.</p></li>
+<li><p><strong>Identification of Cytogenetic Abnormalities</strong>: The
+bone marrow sample can be used to analyze the genetic and chromosomal
 characteristics of the bone marrow cells, which can be important for
 treatment decisions and prognosis.</p></li>
 </ul>

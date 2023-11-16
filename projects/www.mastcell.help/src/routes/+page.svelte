@@ -58,7 +58,7 @@ System (DNRS)</a></li>
 <h3 id="elimination-diet"><a href="elimination-diet">Elimination
 diet</a></h3>
 <ul>
-<li><a href="elimination-diet-conditions">Elimination diet
+<li><a href="elimination-diet-for-conditions">Elimination diet
 conditions</a></li>
 <li><a href="elimination-diet-foods-to-avoid">Foods to avoid</a></li>
 </ul>
@@ -111,8 +111,8 @@ supplements</a></h3>
 <ul>
 <li><a href="dietary-supplements-considerations">Considerations</a></li>
 <li><a href="multivitamin">Multivitamin</a></li>
-<li><a href="diamine-oxidase-dietary-supplement">Diamine
-oxidase</a></li>
+<li><a href="diamine-oxidase-supplements">Diamine oxidase
+supplements</a></li>
 <li><a href="vitamin-c">Vitamin C</a></li>
 <li><a href="omega-3">Omega-3</a></li>
 <li><a href="quercetin">Quercetin</a></li>
@@ -181,7 +181,7 @@ triggers</a></li>
 <h3 id="allergies"><a href="allergies">Allergies</a></h3>
 <ul>
 <li><a href="allergy-types">Allergy types</a></li>
-<li><a href="allergic-reaction">Allergic reaction</a></li>
+<li><a href="allergic-reactions">Allergic reactions</a></li>
 <li><a href="allergy-drops">Allergy drops (a.k.a. sublingual
 immunotherapy)</a></li>
 <li><a href="allergy-shots">Allergy shots (a.k.a. subcutaneous
@@ -251,9 +251,9 @@ Perstans](telangiectasia-macularis-eruptiva-perstans]</h3>
 <h2 id="symptoms">Symptoms</h2>
 <h3 id="bradycardia"><a href="bradycardia">Bradycardia</a></h3>
 <h3 id="brain-fog"><a href="brain-fog">Brain fog</a></h3>
-<h3 id="bronchiospasm"><a href="bronchiospasm">Bronchiospasm</a></h3>
+<h3 id="bronchospasm"><a href="bronchospasm">Bronchospasm</a></h3>
 <ul>
-<li><a href="bronchiospasm-treatment">Bronchiospasm treatment</a></li>
+<li><a href="bronchospasm-treatment">Bronchospasm treatment</a></li>
 </ul>
 <h3 id="hypertryptasemia"><a
 href="hypertryptasemia">Hypertryptasemia</a></h3>
@@ -262,8 +262,7 @@ href="hypertryptasemia">Hypertryptasemia</a></h3>
 <li><a href="hypotension-causes">Hypotension causes</a></li>
 </ul>
 <h3 id="presyncope"><a href="presyncope">Presyncope</a></h3>
-<h2 id="diagnostics"><a
-href="mast-cell-diagnostics">Diagnostics</a></h2>
+<h2 id="diagnostics"><a href="diagnostics">Diagnostics</a></h2>
 <ul>
 <li><a href="bone-marrow-biopsy">Bone marrow biopsy</a></li>
 </ul>
@@ -293,7 +292,7 @@ href="aryl-hydrocarbon-receptors">Aryl hydrocarbon receptors
 <h3 id="mast-cell-genetics"><a href="mast-cell-genetics">Mast cell
 genetics</a></h3>
 <ul>
-<li><a href="genetic-genetic">Genetic mutation</a></li>
+<li><a href="genetic-mutation">Genetic mutation</a></li>
 <li><a href="genetic-polymorphisms">Genetic polymorphisms</a></li>
 <li><a href="hereditary-alpha-tryptasemia">Hereditary Alpha-Tryptasemia
 (HαT)</a></li>
@@ -302,9 +301,12 @@ genetics</a></h3>
 <h2 id="more">More</h2>
 <h3 id="videos"><a href="videos">Videos</a></h3>
 <ul>
-<li><a
+<li><p><a href="what-is-the-role-of-mast-cells-in-inflammation">What is
+the role of mast cells in inflammation? - By By Animated Biology with
+Arpan</a></p></li>
+<li><p><a
 href="understanding-mast-cell-activation-disorders-by-niaid">Understanding
-Mast Cell Activation Disorders - By NIAID</a></li>
+Mast Cell Activation Disorders - By NIAID</a></p></li>
 </ul>
 <h3 id="books"><a href="books">Books</a></h3>
 <ul>

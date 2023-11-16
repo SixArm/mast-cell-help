@@ -13,12 +13,12 @@ food intolerances, or conditions like eosinophilic esophagitis, atopic
 dermatitis, and irritable bowel syndrome. A low-allergen diet focuses on
 minimizing exposure to known allergenic or highly allergenic foods.</p>
 <ul>
-<li><p>Foods to choose: most fresh fruits, fresh vegetables, fresh
-meats, non-dairy milk, gluten-free grains, most herbs and spices, and
-most cooking oils.</p></li>
-<li><p>Foods to avoid: milk, eggs, peanuts, tree nuts, soy, wheat, fish,
-shellfish, casein, lactose, gluten, artificial additives and
-preservatives, and foods that are likely to be
+<li><p><strong>Foods to choose</strong>: most fresh fruits, fresh
+vegetables, fresh meats, non-dairy milk, gluten-free grains, most herbs
+and spices, and most cooking oils.</p></li>
+<li><p><strong>Foods to avoid</strong>: milk, eggs, peanuts, tree nuts,
+soy, wheat, fish, shellfish, casein, lactose, gluten, artificial
+additives and preservatives, and foods that are likely to be
 cross-contaminated.</p></li>
 </ul>
 <p>A low-allergen diet can be restrictive, and it may not be suitable

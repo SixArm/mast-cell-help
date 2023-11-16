@@ -6,19 +6,19 @@ It's important to work closely with a healthcare provider, often an allergist or
 
 Long-Term Control Medications:
 
-* Inhaled Corticosteroids: These anti-inflammatory medications are the most effective long-term treatment for asthma. They help reduce airway inflammation and prevent symptoms when taken regularly. Common inhaled corticosteroids include fluticasone, budesonide, and beclomethasone.
+* **Inhaled Corticosteroids**: These anti-inflammatory medications are the most effective long-term treatment for asthma. They help reduce airway inflammation and prevent symptoms when taken regularly. Common inhaled corticosteroids include fluticasone, budesonide, and beclomethasone.
 
-* Long-Acting Beta-Agonists (LABAs): LABAs are often prescribed in combination with inhaled corticosteroids to improve lung function and provide additional symptom control. Examples include salmeterol and formoterol.
+* **Long-Acting Beta-Agonists (LABAs)**: LABAs are often prescribed in combination with inhaled corticosteroids to improve lung function and provide additional symptom control. Examples include salmeterol and formoterol.
 
-* Leukotriene Modifiers: Medications like montelukast can help reduce inflammation and improve airflow in the airways.
+* **Leukotriene Modifiers**: Medications like montelukast can help reduce inflammation and improve airflow in the airways.
 
-* Theophylline: This oral medication can help open the airways and improve lung function. It's used less frequently today due to potential side effects and the availability of other effective treatments.
+* **Theophylline**: This oral medication can help open the airways and improve lung function. It's used less frequently today due to potential side effects and the availability of other effective treatments.
 
 Quick-Relief (Rescue) Medications:
 
-* Short-Acting Beta-Agonists (SABAs): Medications like albuterol provide rapid relief by relaxing the muscles around the airways, allowing them to open up. These are used to relieve acute symptoms or during asthma attacks.
+* **Short-Acting Beta-Agonists (SABAs)**: Medications like albuterol provide rapid relief by relaxing the muscles around the airways, allowing them to open up. These are used to relieve acute symptoms or during asthma attacks.
 
-* Ipratropium Bromide: This medication can also help relax the airways and is used in combination with SABAs for acute symptom relief.
+* **Ipratropium Bromide**: This medication can also help relax the airways and is used in combination with SABAs for acute symptom relief.
 
 Combination Medications:
 

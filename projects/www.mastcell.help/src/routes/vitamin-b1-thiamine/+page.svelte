@@ -13,19 +13,21 @@ carbohydrates into energy. It also helps maintain proper functioning of
 the nervous system.</p>
 <p>Here are some key functions and sources of vitamin B1 (thiamine):</p>
 <ul>
-<li><p>Energy Metabolism: Thiamine is a coenzyme involved in several
-enzymatic reactions that help convert carbohydrates into adenosine
-triphosphate (ATP), the body’s primary source of energy.</p></li>
-<li><p>Nervous System Function: Thiamine is important for the proper
-functioning of the nervous system. It plays a role in nerve signal
-transmission and can help protect nerve cells.</p></li>
-<li><p>Cardiovascular Health: Thiamine is associated with cardiovascular
-health and may help reduce the risk of heart diseases.</p></li>
-<li><p>Mental Function: Thiamine deficiency can lead to cognitive
-impairments and memory problems, including a condition known as
-Wernicke-Korsakoff syndrome.</p></li>
-<li><p>Red Blood Cell Formation: It is also involved in the production
-of red blood cells.</p></li>
+<li><p><strong>Energy Metabolism</strong>: Thiamine is a coenzyme
+involved in several enzymatic reactions that help convert carbohydrates
+into adenosine triphosphate (ATP), the body’s primary source of
+energy.</p></li>
+<li><p><strong>Nervous System Function</strong>: Thiamine is important
+for the proper functioning of the nervous system. It plays a role in
+nerve signal transmission and can help protect nerve cells.</p></li>
+<li><p><strong>Cardiovascular Health</strong>: Thiamine is associated
+with cardiovascular health and may help reduce the risk of heart
+diseases.</p></li>
+<li><p><strong>Mental Function</strong>: Thiamine deficiency can lead to
+cognitive impairments and memory problems, including a condition known
+as Wernicke-Korsakoff syndrome.</p></li>
+<li><p><strong>Red Blood Cell Formation</strong>: It is also involved in
+the production of red blood cells.</p></li>
 </ul>
 <p>Dietary sources of thiamine include whole grains, enriched cereals,
 beans, nuts, lean pork, and yeast. Thiamine is water-soluble, meaning

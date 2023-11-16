@@ -14,28 +14,28 @@ network of lymphatic vessels and lymph nodes.</p>
 lymphatic system can become more active, resulting in symptoms like
 swollen lymph nodes and increased production of lymphocytes to combat
 the infection.</p>
-<p>Key aspects:</p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
-<li><p>Fluid Balance: Lymph helps regulate the balance of fluids in the
-body by collecting excess fluid, proteins, and waste products that have
-leaked from blood vessels and surrounding tissues. This excess fluid is
-returned to the bloodstream.</p></li>
-<li><p>Immune Function: Lymph contains white blood cells, primarily
-lymphocytes. Lymphocytes play a key role in identifying and fighting off
-infections and diseases.</p></li>
-<li><p>Transport: Lymphatic vessels, or lymphatics, are a network of
-thin-walled tubes that transport lymph throughout the body. These
-vessels are similar to blood vessels but do not have a pump like the
-heart. Instead, lymph is moved through the lymphatic vessels by muscular
-contractions, body movements, and pressure changes.</p></li>
-<li><p>Lymph nodes: Lymph nodes are small bean-shaped structures found
-throughout the lymphatic system. They filter and cleanse the lymph by
-trapping and destroying foreign particles, such as bacteria and viruses.
-Enlarged or tender lymph nodes are often a sign of an infection or other
-medical condition.</p></li>
-<li><p>Lymphatic Organs: lymphatic organs like the spleen and the thymus
-play a role in immune function and the production of
-lymphocytes.</p></li>
+<li><p><strong>Fluid Balance</strong>: Lymph helps regulate the balance
+of fluids in the body by collecting excess fluid, proteins, and waste
+products that have leaked from blood vessels and surrounding tissues.
+This excess fluid is returned to the bloodstream.</p></li>
+<li><p><strong>Immune Function</strong>: Lymph contains white blood
+cells, primarily lymphocytes. Lymphocytes play a key role in identifying
+and fighting off infections and diseases.</p></li>
+<li><p><strong>Transport</strong>: Lymphatic vessels, or lymphatics, are
+a network of thin-walled tubes that transport lymph throughout the body.
+These vessels are similar to blood vessels but do not have a pump like
+the heart. Instead, lymph is moved through the lymphatic vessels by
+muscular contractions, body movements, and pressure changes.</p></li>
+<li><p><strong>Lymph nodes</strong>: Lymph nodes are small bean-shaped
+structures found throughout the lymphatic system. They filter and
+cleanse the lymph by trapping and destroying foreign particles, such as
+bacteria and viruses. Enlarged or tender lymph nodes are often a sign of
+an infection or other medical condition.</p></li>
+<li><p><strong>Lymphatic Organs</strong>: lymphatic organs like the
+spleen and the thymus play a role in immune function and the production
+of lymphocytes.</p></li>
 </ul>
 
 </div>

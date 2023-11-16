@@ -6,14 +6,14 @@ Histamine receptors are found throughout the body, and their activation can have
 
 Here are some key functions and effects of histamine:
 
-* Allergic Response: Histamine is a central mediator in the body's response to allergens. When allergens come into contact with mast cells, these cells release histamine. Histamine then causes a cascade of reactions that lead to the typical symptoms of allergies.
+* **Allergic Response**: Histamine is a central mediator in the body's response to allergens. When allergens come into contact with mast cells, these cells release histamine. Histamine then causes a cascade of reactions that lead to the typical symptoms of allergies.
 
-* Inflammation: Histamine is involved in the body's inflammatory response. It helps to increase the permeability of blood vessels, allowing white blood cells to reach the site of infection or injury more easily.
+* **Inflammation**: Histamine is involved in the body's inflammatory response. It helps to increase the permeability of blood vessels, allowing white blood cells to reach the site of infection or injury more easily.
 
-* Gastric Acid Regulation: In the stomach, histamine acts as a signaling molecule to stimulate the production of gastric acid, which is necessary for digestion.
+* **Gastric Acid Regulation**: In the stomach, histamine acts as a signaling molecule to stimulate the production of gastric acid, which is necessary for digestion.
 
-* Neurotransmitter: In the central nervous system, histamine acts as a neurotransmitter, playing a role in functions such as wakefulness, alertness, and appetite regulation.
+* **Neurotransmitter**: In the central nervous system, histamine acts as a neurotransmitter, playing a role in functions such as wakefulness, alertness, and appetite regulation.
 
-* Immune Response: Histamine is involved in the body's immune response. It can help recruit immune cells to the site of infection or injury and is part of the body's innate defense system.
+* **Immune Response**: Histamine is involved in the body's immune response. It can help recruit immune cells to the site of infection or injury and is part of the body's innate defense system.
 
-* Smooth Muscle Contraction: Histamine can cause the contraction of smooth muscles in the bronchial tubes, digestive tract, and other areas. Histamine can contribute to bronchoconstriction and breathing difficulties.
+* **Smooth Muscle Contraction**: Histamine can cause the contraction of smooth muscles in the bronchial tubes, digestive tract, and other areas. Histamine can contribute to bronchoconstriction and breathing difficulties.

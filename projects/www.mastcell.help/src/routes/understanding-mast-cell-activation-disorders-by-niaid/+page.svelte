@@ -8,7 +8,9 @@ Example Site | mastcell.help</title>
 <h1
 id="understanding-mast-cell-activation-disorders---by-niaid">Understanding
 Mast Cell Activation Disorders - By NIAID</h1>
-<p>https://www.youtube.com/watch?v=tQbMGfEMVx4</p>
+<p><a href="https://www.youtube.com/watch?v=tQbMGfEMVx4">Understanding
+Mast Cell Activation Disorders</a> - By <a
+href="https://www.youtube.com/@niaid">NIAID</a></p>
 <p>Mast cells, part of the body’s immune system, are packed with
 inflammatory chemicals that cause allergy symptoms when released. Mast
 cell activation disorders occur when the cells release too much of their

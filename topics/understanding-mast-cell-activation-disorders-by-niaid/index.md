@@ -1,6 +1,6 @@
 # Understanding Mast Cell Activation Disorders - By NIAID
 
-https://www.youtube.com/watch?v=tQbMGfEMVx4
+[Understanding Mast Cell Activation Disorders](https://www.youtube.com/watch?v=tQbMGfEMVx4) - By [NIAID](https://www.youtube.com/@niaid)
 
 Mast cells, part of the body's immune system, are packed with inflammatory chemicals that cause allergy symptoms when released. Mast cell activation disorders occur when the cells release too much of their contents.
 

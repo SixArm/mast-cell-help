@@ -127,7 +127,7 @@
 
 * How to enjoy coffee when you have MCAS or histamine intolerance
 * Choosing the healthiest coffee possible
-* Coffee enemas: what you need to know							
+* **Coffee enemas**: what you need to know							
 
 
 **Roger Billica, MD**
@@ -297,14 +297,14 @@
 "Infectious Mast Cell Triggers and MCAS Approaches"
 
 * Foundational information on Lyme and co-infections
-* The big 3: Borrelia, Bartonella and Babesia
+* **The big 3**: Borrelia, Bartonella and Babesia
 * Testing and treatment options for MCAS patients							
 
 "Improving Your GI system"
 
 * GI mast cell triggers
 * Relationship between histamine intolerance and MCAS
-* Choosing the right diet: low histamine, low FODMAP and more							
+* **Choosing the right diet**: low histamine, low FODMAP and more							
 
 
 **Christina Boyd**
@@ -346,7 +346,7 @@
 
 "SHINE Protocol for MCAS"
 
-* Published studies: fatigue, fibromyalgia, long COVID and more
+* **Published studies**: fatigue, fibromyalgia, long COVID and more
 * How to implement the SHINE protocol
 * Free health resources							
 
@@ -423,7 +423,7 @@
 
 "Total Body Burden of Environmental Chemicals and MCAS"
 
-* Total body burden: What is it, and how does it impact mast cells?
+* **Total body burden**: What is it, and how does it impact mast cells?
 * Importance of clean air, water and food
 * Creating a bedroom oasis							
 
@@ -469,7 +469,7 @@ drafrin@armonkmed.com
 
 "Resolving Neuroinflammation in MCAS"
 
-* Overview of brain anatomy: What happens in an inflamed brain
+* **Overview of brain anatomy**: What happens in an inflamed brain
 * Restoring mitochondria and neutralizing membrane damage
 * Healing myelin and enhancing cognition							
 

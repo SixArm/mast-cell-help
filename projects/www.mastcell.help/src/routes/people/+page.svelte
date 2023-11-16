@@ -68,7 +68,7 @@ US</li>
 <li>Complex Cares, LLC, Shoreview, MN, US</li>
 <li>Email: drdorff@complexcaresmn.com</li>
 </ul></li>
-<li><p>Martin S. Dubravec:</p>
+<li><p><strong>Martin S. Dubravec</strong>:</p>
 <ul>
 <li>Allergy and Asthma Specialists of Cadillac, Cadillac, MI, US</li>
 <li>Email: biosp3@sbcglobal.net</li>

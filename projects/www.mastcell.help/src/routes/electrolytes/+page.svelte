@@ -12,24 +12,25 @@ and extracellular and intracellular fluids. Maintaining the right
 balance of these ions is crucial for overall health.</p>
 <p>The most common electrolytes in the human body include:</p>
 <ul>
-<li><p>Sodium (Na+): Sodium is the primary extracellular cation and
-plays a key role in maintaining fluid balance, blood pressure
-regulation, and nerve function.</p></li>
-<li><p>Potassium (K+): Potassium is the primary intracellular cation and
-is essential for proper muscle function, nerve transmission, and
-maintaining heart rhythm.</p></li>
-<li><p>Calcium (Ca2+): Calcium is necessary for bone health, muscle
-contraction, blood clotting, and nerve function.</p></li>
-<li><p>Magnesium (Mg2+): Magnesium is involved in various biochemical
-reactions, including muscle and nerve function, heart rhythm, and bone
-health.</p></li>
-<li><p>Chloride (Cl-): Chloride is often found alongside sodium and
-plays a role in maintaining electrolyte balance and regulating fluid
-levels.</p></li>
-<li><p>Bicarbonate (HCO3-): Bicarbonate is a buffer that helps regulate
-the body’s acid-base balance and pH.</p></li>
-<li><p>Phosphate (HPO4^2- and H2PO4^-): Phosphate is vital for bone
-health, energy metabolism, and the formation of DNA and RNA.</p></li>
+<li><p><strong>Sodium (Na+)</strong>: Sodium is the primary
+extracellular cation and plays a key role in maintaining fluid balance,
+blood pressure regulation, and nerve function.</p></li>
+<li><p><strong>Potassium (K+)</strong>: Potassium is the primary
+intracellular cation and is essential for proper muscle function, nerve
+transmission, and maintaining heart rhythm.</p></li>
+<li><p><strong>Calcium (Ca2+)</strong>: Calcium is necessary for bone
+health, muscle contraction, blood clotting, and nerve function.</p></li>
+<li><p><strong>Magnesium (Mg2+)</strong>: Magnesium is involved in
+various biochemical reactions, including muscle and nerve function,
+heart rhythm, and bone health.</p></li>
+<li><p><strong>Chloride (Cl-)</strong>: Chloride is often found
+alongside sodium and plays a role in maintaining electrolyte balance and
+regulating fluid levels.</p></li>
+<li><p><strong>Bicarbonate (HCO3-)</strong>: Bicarbonate is a buffer
+that helps regulate the body’s acid-base balance and pH.</p></li>
+<li><p><strong>Phosphate (HPO4^2- and H2PO4^-)</strong>: Phosphate is
+vital for bone health, energy metabolism, and the formation of DNA and
+RNA.</p></li>
 </ul>
 
 </div>

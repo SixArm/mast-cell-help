@@ -18,13 +18,14 @@ and other complications when they block the urinary tract. By reducing
 dietary oxalate intake, it is believed that the risk of kidney stone
 formation can be minimized.</p>
 <ul>
-<li><p>Foods to choose: low-oxalate vegetables (e.g. carrots, cucumbers,
-lettuce, zucchini), most fruits, most grains (e.g. rice,
-wheat).</p></li>
-<li><p>Foods to avoid: high-oxalate vegetables (e.g. spinach, chard,
-beets, rhubarb), most nuts and seeds (e.g. (almonds, peanuts, sesame),
-potatoes, yams, chocolate, certain fruits (e.g. blackberries,
-raspberries, figs), black tea, and some herbal teas.</p></li>
+<li><p><strong>Foods to choose</strong>: low-oxalate vegetables
+(e.g. carrots, cucumbers, lettuce, zucchini), most fruits, most grains
+(e.g. rice, wheat).</p></li>
+<li><p><strong>Foods to avoid</strong>: high-oxalate vegetables
+(e.g. spinach, chard, beets, rhubarb), most nuts and seeds
+(e.g. (almonds, peanuts, sesame), potatoes, yams, chocolate, certain
+fruits (e.g. blackberries, raspberries, figs), black tea, and some
+herbal teas.</p></li>
 </ul>
 <p>It’s important to note that the severity of oxalate-related issues
 can vary from person to person, and some individuals may need to follow

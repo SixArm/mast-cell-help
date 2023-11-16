@@ -2,7 +2,7 @@
 
 **Beth O'Hara, FN**
 
-https://mastcell360.com/
+<https://mastcell360.com/>
 
 "Mastering MCAS: A Healing Journey for the Planet"
 
@@ -13,7 +13,7 @@ https://mastcell360.com/
 
 **Kelly K. McCann, MD, MPH&TM, ABOIM, AFMCP**
 
-https://drkellymccann.com/
+<https://drkellymccann.com/>
 
 "Dr Kelly's Multi-Prong Approach to Healing from MCAS"
 
@@ -24,29 +24,29 @@ https://drkellymccann.com/
 
 **Jill Carnahan, MD, ABIHM, ABoIM, IFMCP**
 
-https://www.jillcarnahan.com/
+<https://www.jillcarnahan.com/>
 
 "Navigating MCAS-Related Autoimmunity, Allergy, Gut and Skin Issues"
 
-* How MCAS influences other health conditions&nbsp;
+* How MCAS influences other health conditions
 * Most common MCAS triggers
 * Uplifting messages when facing tough times
 
 
 **Trudy Scott, CN**
 
-https://www.everywomanover29.com/
+<https://www.everywomanover29.com/>
 
 "GABA Support vs. Benzodiazepines in MCAS"
 
 * Benzodiazepine side effects, tapering issues and adverse effects
-* How Valium impacts DAO production&nbsp;
+* How Valium impacts DAO production
 * GABA and other supportive nutrient dosing							
 
 
 **Scott Forsgren, FDN-P**
 
-https://www.betterhealthguy.com/
+<https://www.betterhealthguy.com/>
 
 "Scott’s 11 Steps for Healing with MCAS and Chronic Conditions"
 
@@ -57,7 +57,7 @@ https://www.betterhealthguy.com/
 
 **Elisa Song, MD**
 
-https://healthykidshappykids.com/
+<https://healthykidshappykids.com/>
 
 "Histamine, Mast Cell Activation and Pediatric Chronic Disease"
 
@@ -68,7 +68,7 @@ https://healthykidshappykids.com/
 
 **Nafysa Parpia, ND**
 
-https://gordonmedical.com/
+<https://gordonmedical.com/>
 
 "Managing Lyme and Mast Cells: Putting the Pieces Together"
 
@@ -79,11 +79,11 @@ https://gordonmedical.com/
 
 **Tania Dempsey, MD, ABIHM**
 
-https://aimcenterpm.com/
+<https://aimcenterpm.com/>
 
 "Advances in Medication and Nutraceutical Approaches in Complex MCAS"
 
-* Strategies for sensitive individuals&nbsp;
+* Strategies for sensitive individuals
 * Lesser known MCAS treatments, including LDN protocols and peptides
 * Tier 1, 2 and 3 medication options							
 
@@ -99,7 +99,7 @@ https://aimcenterpm.com/
 
 **Becky Campbell, DNM, DC**
 
-https://drbeckycampbell.com/
+<https://drbeckycampbell.com/>
 
 "Histamine Intolerance and MCAS"
 
@@ -110,18 +110,18 @@ https://drbeckycampbell.com/
 
 **Bob Miller, CTN**
 
-https://www.tolhealth.com/
+<https://www.tolhealth.com/>
 
 "Cutting-Edge Genetics in MCAS"
 
-* New info on ferroptosis and aryl hydrocarbon receptors&nbsp;
+* New info on ferroptosis and aryl hydrocarbon receptors
 * Using NAD to stabilize mast cells
 * How to leverage this info to improve overall health							
 
 
 **Andrew Salisbury**
 
-https://puritycoffee.com/
+<https://puritycoffee.com/>
 
 "The Health-Conscious Coffee Approach with MCAS"
 
@@ -132,7 +132,7 @@ https://puritycoffee.com/
 
 **Roger Billica, MD**
 
-https://www.trilifehealth.com
+<https://www.trilifehealth.com>
 
 "Easy and Highly Effective EMF Protection"
 
@@ -143,7 +143,7 @@ https://www.trilifehealth.com
 
 **Arin Schultz**
 
-https://www.naturepedic.com/
+<https://www.naturepedic.com/>
 
 "Better Sleep Hygiene"
 
@@ -154,18 +154,18 @@ https://www.naturepedic.com/
 
 **Kendra Gensemer**
 
-https://www.sunlighten.com/
+<https://www.sunlighten.com/>
 
 "Safe Sauna Considerations for MCAS"
 
 * What to know before using a sauna if you have MCAS
-* Healing benefits, even for sensitive individuals&nbsp;
+* Healing benefits, even for sensitive individuals
 * How and when to introduce sauna into your protocol							
 
 
 **Christine Schaffner, ND**
 
-https://www.immanencehealth.com/
+<https://www.immanencehealth.com/>
 
 "The ECCO Method for Healing MCAS"
 
@@ -176,18 +176,18 @@ https://www.immanencehealth.com/
 
 **Andrea Isaacs**
 
-http://andrea-isaacs.com/
+<http://andrea-isaacs.com/>
 
 "Relationship Mastery in MCAS: The 5 Cs for Easing Difficult Conversations"
 
-* Navigating challenging conversations with your loved ones and health practitioners&nbsp;
+* Navigating challenging conversations with your loved ones and health practitioners
 * Resolving conflict without repressing your feelings
 * Tools for shifting neurological patterns to calm and reset your nervous system							
 
 
 **Mamak Shakib, DC**
 
-https://chiropractor-irvine.com/
+<https://chiropractor-irvine.com/>
 
 "Managing Postural and Skeletal Instability in Hypermobility"
 
@@ -198,7 +198,7 @@ https://chiropractor-irvine.com/
 
 **Sunjya Schweig, MD**
 
-https://www.ccfmed.com/
+<https://www.ccfmed.com/>
 
 "Tick-Borne Infection Interplay with Mast Cells"
 
@@ -209,7 +209,7 @@ https://www.ccfmed.com/
 
 **Michael Schrantz, CIEC, CMI, BPI-BA/EP**
 
-https://environmentalanalytics.net/
+<https://environmentalanalytics.net/>
 
 "Addressing Environmental Mold Without Making Expensive Mistakes"
 
@@ -220,32 +220,40 @@ https://environmentalanalytics.net/
 
 **Rob Downey, MD, IFMCP**
 
-https://seaworthymed.com/
+<https://seaworthymed.com/>
 
 "How Can Inner Peace Reverse MCAS?"
 
-* Reclaiming your empowerment&nbsp;
-* Measure your level of peace with these 2 tests&nbsp;
+* Reclaiming your empowerment
+* Measure your level of peace with these 2 tests
 * Immediate strategies for increasing inner peace							
 
 
 **Donald Dennis, MD, FACS**
 
-https://microbalancehealthproducts.com/
+<https://microbalancehealthproducts.com/>
 
 "Missing Keys in Addressing Sinus Fungal Colonization"
 
-* Most important strategy for fixing your health&nbsp;
+* Most important strategy for fixing your health
 * Eliminating fungal colonization and MARCoNs for good
 * Key steps for addressing mold exposure							
 
 
 **Darin Ingels, ND, FAAEM**
 
-https://dariningelsnd.com/
+<https://dariningelsnd.com/>
 
-Thomas Moorcroft, DO
-https://www.originsofhealth.com/about/drtom/
+"Roundtable Discussion: Tick-Borne Infections and MCAS"
+
+* Why tick-borne infections are major MCAS triggers
+* Why some people get Lyme and others don’t
+* How to heal from Lyme and co-infections							
+
+
+**Thomas Moorcroft, DO**
+
+<https://www.originsofhealth.com/about/drtom/>
 
 "Roundtable Discussion: Tick-Borne Infections and MCAS"
 
@@ -256,7 +264,7 @@ https://www.originsofhealth.com/about/drtom/
 
 **Neil Nathan, MD**
 
-https://neilnathanmd.com/
+<https://neilnathanmd.com/>
 
 "Sensitivities Roundtable with Neil Nathan, MD"
 
@@ -267,7 +275,7 @@ https://neilnathanmd.com/
 
 **Carolyn Ledowsky, ND**
 
-https://mthfrsupport.com.au/
+<https://mthfrsupport.com.au/>
 
 "Genetic Polymorphisms, Inflammation and Histamine"
 
@@ -278,7 +286,7 @@ https://mthfrsupport.com.au/
 
 **Kelly K. McCann, MD, MPH, ABOIM, AFMCP**
 
-https://drkellymccann.com/
+<https://drkellymccann.com/>
 
 "Top MCAS Environmental Toxin Triggers"
 
@@ -301,7 +309,7 @@ https://drkellymccann.com/
 
 **Christina Boyd**
 
-https://www.highpointaz.com/how-i-work
+<https://www.highpointaz.com/how-i-work>
 
 "Using Brain Gym® for Whole Body/Whole Brain Integration and Healing"
 
@@ -312,7 +320,7 @@ https://www.highpointaz.com/how-i-work
 
 **Bruce Hoffman, MD**
 
-https://hoffmancentre.com/
+<https://hoffmancentre.com/>
 
 "Whole-Person Healing with 7 Steps of Health and Transformation"
 
@@ -323,7 +331,7 @@ https://hoffmancentre.com/
 
 **Gail Clayton, DCN, CNS, MS, RPh**
 
-https://www.molddetoxdiet.com/drgailclayton
+<https://www.molddetoxdiet.com/drgailclayton>
 
 "Managing MCAS and Histamine Intolerance: From Food to Phenols to Pharmaceuticals"
 
@@ -334,7 +342,7 @@ https://www.molddetoxdiet.com/drgailclayton
 
 **Jacob Teitelbaum, MD**
 
-http://www.endfatigue.com/
+<http://www.endfatigue.com/>
 
 "SHINE Protocol for MCAS"
 
@@ -343,10 +351,9 @@ http://www.endfatigue.com/
 * Free health resources							
 
 
-
 **Jill Crista, ND**
 
-https://drcrista.com
+<https://drcrista.com>
 
 "Light in the Dark for PANS and PANDAS"
 
@@ -357,17 +364,18 @@ https://drcrista.com
 
 **Mary Beth Ackerley, MD, MD(H), ABIHM**
 
-http://mypassion4health.com/
+<http://mypassion4health.com/>
 
 "Neuropsychiatric Presentations of MCAS: Oxytocin for Safety"
 
-* How MCAS impacts leaky brain, inflammation and the perception of danger&nbsp;
-* Using brain MRI NeuroQuant as a window into limbic dysregulation&nbsp;
+* How MCAS impacts leaky brain, inflammation and the perception of danger
+* Using brain MRI NeuroQuant as a window into limbic dysregulation
 * Why oxytocin is the biological neuropeptide of safety
 
 
-
 **Ruth Kriz, APRN**
+
+<https://ruthkriz.com/>
 
 "Mast Cells, Biofilms and Hypercoagulability: Links Between Infections, Inflammation and Clotting"
 
@@ -375,31 +383,21 @@ http://mypassion4health.com/
 * Genetic clotting risks that enhance biofilm development
 * Why microclots may contribute to MCAS symptoms					
 
-</div>
-<a href="https://ruthkriz.com/"> Visit Ruth's website</a></h4>
-
-
 
 **Tom O'Bryan, DC, CCN, DACBN**
 
+<http://thedr.com/>
+
 "Mast Cell Activation Syndrome and Autoimmunity"
-
-
-
-
-
-
-
 
 * Overview of normal and dysfunctional immune function
 * Why genetics and environmental exposures create immune dysfunction
 * Uncovering your triggers to create the best path to healing							
 
-</div>
-<a href="http://thedr.com/"> Visit Tom's website</a></h4>
-
 
 **Cathleen King, DPT**
+
+<https://www.primaltrust.org/>
 
 "Limbic System, MCS and MCAS"
 
@@ -407,34 +405,21 @@ http://mypassion4health.com/
 * Stress triggers that can lead to MCAS
 * How to develop a better sense of inner safety							
 
-</div>
-<a href="https://www.primaltrust.org/"> Visit Cathleen's website</a></h4>
-
-
 
 **Steve Wright**
 
+<https://healthygut.com/>
+
 "Paraprobiotics for Retraining Immune System and Mast Cell Expression"
-
-
-
-
-
-
-
 
 * What are paraprobiotics?
 * Benefits for allergies, food sensitivities and skin issues
 * Modulating neuroinflammation with paraprobitics							
 
-</div>
-<a href="https://healthygut.com/"> Visit Steve's website</a></h4>
-
-
-
-
 
 **Lyn Patrick, ND**
+
+<https://emeiglobal.com/>
 
 "Total Body Burden of Environmental Chemicals and MCAS"
 
@@ -442,42 +427,23 @@ http://mypassion4health.com/
 * Importance of clean air, water and food
 * Creating a bedroom oasis							
 
-</div>
-<a href="https://emeiglobal.com/"> Visit Lyn's website</a></h4>
-
-
-
-
-
-
-
-
-
-<li class="speaker-li speaker-2758 speaker-li-44">
-
-
-
-
-<img class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Lawrence Afrin, MD" data-lazy-src="https://stream.healthmeans.com/speaker_images/3fda090b90939d0e538b5d97f6a796f2.png" /><noscript><img class="" src="https://stream.healthmeans.com/speaker_images/3fda090b90939d0e538b5d97f6a796f2.png" alt="Lawrence Afrin, MD" /></noscript>
-</div><!--End presenter-img-->
-
 
 **Lawrence Afrin, MD**
 
 drafrin@armonkmed.com
 
-https://www.linkedin.com/in/lawrence-afrin-a2196a4/
+<https://www.linkedin.com/in/lawrence-afrin-a2196a4/>
 
 "Origin Story: Discovery of Mast Cell Activation Syndrome"
 
 * Why solving medical mysteries requires patience and persistence
-* Importance of exploring every option to find real answers&nbsp;
+* Importance of exploring every option to find real answers
 * 3-P approach to healing							
 
 
 **Jenny Johnson, PT, FMCHC, NBC-HWC**
 
-https://simplifiedwellnessdesigns.com/
+<https://simplifiedwellnessdesigns.com/>
 
 "Why Recovery from Chronic Illness and CIRS Takes a Village"
 
@@ -485,125 +451,54 @@ https://simplifiedwellnessdesigns.com/
 * Value of supportive community for navigating chronic illness
 * Common features of people who recover and obstacles to recovery							
 
-</div>
-<a href=""> Visit Jenny's website</a></h4>
-
-
-
-
-
-
-
-
-
-<li class="speaker-li speaker-55 speaker-li-46">
-
-
-
-
-<img class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Jeffrey Smith" data-lazy-src="https://stream.healthmeans.com/speaker_images/399ff6037a21103c87febdec17ed3cc3.png" /><noscript><img class="" src="https://stream.healthmeans.com/speaker_images/399ff6037a21103c87febdec17ed3cc3.png" alt="Jeffrey Smith" /></noscript>
-</div><!--End presenter-img-->
-
 
 **Jeffrey Smith**
 
-https://responsibletechnology.org/
+<https://responsibletechnology.org/>
 
 "How GMO Foods and Pesticides Impact MCAS"
 
-* Defining GMO foods, and why you should care&nbsp;
+* Defining GMO foods, and why you should care
 * GI manifestations of eating GMOs
 * How to avoid toxins and reduce allergies and autoimmune diseases							
-
-<a href=""> Visit Jeffrey's website</a></h4>
-
-
-
-
-
-
-
-
-
-<li class="speaker-li speaker-3008 speaker-li-47">
-
-
-
-
-<img class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Dayan Goodenowe, PhD" data-lazy-src="https://stream.healthmeans.com/speaker_images/13a2ec20b32542062118c0d9acf574ae.png" /><noscript><img class="" src="https://stream.healthmeans.com/speaker_images/13a2ec20b32542062118c0d9acf574ae.png" alt="Dayan Goodenowe, PhD" /></noscript>
-</div><!--End presenter-img-->
 
 
 **Dayan Goodenowe, PhD**
 
+<https://drgoodenowe.com/>
+
 "Resolving Neuroinflammation in MCAS"
-
-
-
-
-
-
-
 
 * Overview of brain anatomy: What happens in an inflamed brain
 * Restoring mitochondria and neutralizing membrane damage
 * Healing myelin and enhancing cognition							
 
-</div>
-<a href="https://drgoodenowe.com/"> Visit Dayan's website</a></h4>
-
-
-
-
-
-
-
-
-
-<li class="speaker-li speaker-2812 speaker-li-48">
-
-
-
-
-<img class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Amber Walker, PT, DPT, CFMP, CNPT" data-lazy-src="https://stream.healthmeans.com/speaker_images/c8ed863c14e1c5d88ddff26211326ea0.png" /><noscript><img class="" src="https://stream.healthmeans.com/speaker_images/c8ed863c14e1c5d88ddff26211326ea0.png" alt="Amber Walker, PT, DPT, CFMP, CNPT" /></noscript>
-</div><!--End presenter-img-->
-
 
 **Amber Walker, PT, DPT, CFMP, CNPT**
 
+<http://www.originwellnesscolorado.com/>
+
 "MCAS and Connective Tissue Disorders: Healing the Terrain"
 
-
-
-
-
-
-
-
-* Symptoms and causes of connective tissue dysfunction&nbsp;
+* Symptoms and causes of connective tissue dysfunction
 * Methods for addressing the internal terrain in MCAS and EDS
 * Step-by-step process for healing							
-
-</div>
-<a href="http://www.originwellnesscolorado.com/"> Visit Amber's website</a></h4>
-
-
 
 
 **Leonard Weinstock, MD, FACG**
 
-http://www.gidoctor.net/
+<http://www.gidoctor.net/>
 
 "Sorting Out GI Symptoms in MCAS, POTS and Dysmotility"
 
-* Why MCAS is such a mystery to most physicians&nbsp;
+* Why MCAS is such a mystery to most physicians
 * What is REALLY going on when you get bloated?
 * Treatment tips for stubborn GI symptoms							
 
 
 **Alison Vickery, FDN-P**
 
-https://www.alisonvickery.com/
+<https://www.alisonvickery.com/>
 
 "From Dysregulation to Regulation"
 
@@ -614,18 +509,18 @@ https://www.alisonvickery.com/
 
 **Kevin Ellis, CHC**
 
-https://bonecoach.com/
+<https://bonecoach.com/>
 
 "Reversing Osteoporosis and Osteopenia"
 
 * The most important testing panel to get now for bone health
 * The risks and side effects of conventional treatments
 * Best foods, supplements, and forms of exercise to support bone health							
-  
+
 
 **Allison Siebecker, ND, MSOM, LAc**
 
-https://www.siboinfo.com
+<https://www.siboinfo.com>
 
 "The Intersection of SIBO and MCAS: Histamine, Biome and Biofilms"
 

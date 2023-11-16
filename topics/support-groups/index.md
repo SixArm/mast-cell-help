@@ -8,7 +8,7 @@ Here are some places to try…
 
 * Online Forums and Social Media Groups: Many support groups exist on popular social media platforms and health-related forums, such as Reddit, Facebook, and X.
 
-* Patient Advocacy Organizations: Various patient advocacy and rare disease organizations provide support for individuals. Examples include The Mastocytosis Society and the Mast Cell Action Group. 
+* Patient Advocacy Organizations: Various patient advocacy and rare disease organizations provide support for individuals. Examples include The Mastocytosis Society and the Mast Cell Action Group.
 
 * Local Meetup Groups: Check websites like Meetup.com for local support groups or rare disease support groups. These groups often organize in-person meetings.
 

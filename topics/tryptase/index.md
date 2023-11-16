@@ -4,7 +4,7 @@ Tryptase is an enzyme that is primarily found in mast cells, a type of white blo
 
 Key points:
 
-* Allergic Reactions: Elevated levels of tryptase can be detected in the blood during allergic reactions, including anaphylaxis, a severe and potentially life-threatening allergic response. 
+* Allergic Reactions: Elevated levels of tryptase can be detected in the blood during allergic reactions, including anaphylaxis, a severe and potentially life-threatening allergic response.
 
 * Diagnosis and Monitoring: Tryptase levels can be measured in clinical practice to help diagnose and monitor certain conditions. For example, in cases of suspected mast cell disorders or systemic mastocytosis (a rare condition where excessive mast cells accumulate in various tissues), measuring tryptase levels can be useful.
 

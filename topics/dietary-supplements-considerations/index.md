@@ -12,6 +12,6 @@ Here are some important considerations when using dietary supplements:
 
 * Supplements are not regulated as strictly as prescription medications, so it's essential to use caution and do your research.
 
-Dietary supplements can be beneficial when used appropriately, but it's crucial to make informed decisions and seek guidance from healthcare professionals when necessary. 
+Dietary supplements can be beneficial when used appropriately, but it's crucial to make informed decisions and seek guidance from healthcare professionals when necessary.
 
 Your healthcare provider can help determine if you have specific nutritional needs and recommend appropriate supplements if required.  For example, pregnant women may take folic acid supplements to prevent birth defects, and individuals with vitamin D deficiency may take vitamin D supplements.

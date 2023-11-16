@@ -1,6 +1,6 @@
 # Integrative medicine
 
-Integrative medicine, also known as integrative healthcare, is an approach to medical practice that combines conventional Western medicine with complementary and alternative therapies (CAM). It emphasizes the importance of addressing the whole person, including their physical, emotional, mental, social, and spiritual well-being, rather than just treating specific symptoms or diseases 
+Integrative medicine, also known as integrative healthcare, is an approach to medical practice that combines conventional Western medicine with complementary and alternative therapies (CAM). It emphasizes the importance of addressing the whole person, including their physical, emotional, mental, social, and spiritual well-being, rather than just treating specific symptoms or diseases
 Key aspects…
 
 * Combining Conventional and Complementary Approaches: Practitioners use evidence-based conventional medical treatments when appropriate, but they also incorporate complementary therapies, such as acupuncture, herbal medicine, yoga, massage, and nutritional counseling, into patient care.

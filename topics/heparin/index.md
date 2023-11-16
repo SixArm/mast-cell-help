@@ -2,7 +2,7 @@
 
 Heparin is an anticoagulant medication, which means it helps prevent the formation of blood clots. It is commonly used in medical settings to prevent and treat conditions in which the formation of blood clots poses a risk to a patient's health. Heparin works by interfering with the body's blood clotting process, specifically by inhibiting the action of certain clotting factors in the blood.
 
-Heparin is a fast-acting anticoagulant, but its effects are reversible, making it a valuable tool in the prevention and treatment of clot-related conditions. 
+Heparin is a fast-acting anticoagulant, but its effects are reversible, making it a valuable tool in the prevention and treatment of clot-related conditions.
 
 Heparin is commonly used in various medical scenarios:
 

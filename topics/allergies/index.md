@@ -14,4 +14,4 @@ Key points:
 
 * Diagnosis: Allergies are often diagnosed through a combination of medical history, physical examination, and specific tests, such as skin prick tests and blood tests, which can help identify allergens triggering the symptoms.
 
-* Treatment: The primary treatment for allergies involves avoiding the allergen whenever possible. Medications can relieve allergy symptoms. These may include antihistamines, decongestants, corticosteroids, immunotherapies, and adrenaline for severe reactions. 
+* Treatment: The primary treatment for allergies involves avoiding the allergen whenever possible. Medications can relieve allergy symptoms. These may include antihistamines, decongestants, corticosteroids, immunotherapies, and adrenaline for severe reactions.

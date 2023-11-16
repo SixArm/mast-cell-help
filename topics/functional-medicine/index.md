@@ -1,6 +1,6 @@
 # Functional medicine
 
-Functional medicine is an approach to healthcare that focuses on understanding the root causes of illness and treating the whole person, rather than just addressing specific symptoms or diseases. 
+Functional medicine is an approach to healthcare that focuses on understanding the root causes of illness and treating the whole person, rather than just addressing specific symptoms or diseases.
 
 Functional medicine practitioners aim to identify and address the underlying imbalances in the body that contribute to disease or discomfort. By treating the root causes, rather than just the symptoms, they seek to improve overall health and well-being.
 

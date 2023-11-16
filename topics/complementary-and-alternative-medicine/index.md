@@ -1,6 +1,6 @@
 # Complementary and alternative medicine (CAM)
 
-Complementary and Alternative Medicine (CAM) refers to a diverse set of healthcare practices, products, and systems that are not considered part of conventional medicine or mainstream medical care. CAM therapies are often used alongside, or in conjunction with, conventional medical treatments. 
+Complementary and Alternative Medicine (CAM) refers to a diverse set of healthcare practices, products, and systems that are not considered part of conventional medicine or mainstream medical care. CAM therapies are often used alongside, or in conjunction with, conventional medical treatments.
 
 CAM encompasses a wide range of practices and therapies, including: herbal and dietary supplements, Traditional Chinese Medicine (TCM), chiropractic care, massage therapy, ayurveda, homeopathy, mind-body practices such as yoga and and tai chi, meditation, energy therapies such as Reiki, naturopathy, and traditional healing systems from various cultures.
 

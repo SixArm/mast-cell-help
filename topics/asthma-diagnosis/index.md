@@ -12,9 +12,9 @@ Key points:
 
 Diagnostic tests:
 
-* Spirometry: This test helps assess lung capacity and airflow obstruction. You will take a deep breath and then blow forcefully into a tube. This measures how much air you can exhale and how quickly you can do it. 
+* Spirometry: This test helps assess lung capacity and airflow obstruction. You will take a deep breath and then blow forcefully into a tube. This measures how much air you can exhale and how quickly you can do it.
 
-* Peak Flow Measurement: This portable device measures how fast you can exhale. 
+* Peak Flow Measurement: This portable device measures how fast you can exhale.
 
 * Bronchoprovocation testing: This test involves inhaling a substance that can trigger bronchoconstriction, which is a hallmark of asthma.
 

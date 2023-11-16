@@ -15,5 +15,5 @@ Antihistamines are available in two main durations of action:
 Antihistamines are available in two main ways:
 
 * Over the counter (OTC) which means you can buy them without a prescription.
-  
+
 * By prescription, typically for more severe allergic conditions or for specific medical purposes.

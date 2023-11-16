@@ -1,6 +1,6 @@
 # Glutathione
 
-Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health. 
+Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health.
 
 Key aspects:
 

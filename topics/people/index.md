@@ -92,12 +92,12 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Mindy S. Marantz
 
-  * Healthwell Physical Therapy Group, San Francisco, CA, US 
+  * Healthwell Physical Therapy Group, San Francisco, CA, US
   * Email: mmarantz@healthwellpt.com
 
 * Andrew J. Maxwell
 
-  * Heart of the Valley Pediatric Cardiology, Pleasanton, CA, US 
+  * Heart of the Valley Pediatric Cardiology, Pleasanton, CA, US
   * Email: amaxwell@heartofthevalley.us
 
 * Kelly K. McCann
@@ -112,7 +112,7 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Gerhard J. Molderings
 
-  * Institute of Human Genetics, University Hospital of Bonn, Bonn, Germany, 
+  * Institute of Human Genetics, University Hospital of Bonn, Bonn, Germany,
   * Email: molderings@uni-bonn.de
 
 * Laurie Menk Otto
@@ -123,8 +123,8 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 * Laura A. Pace
 
   * Division of Gastroenterology, Hepatology and Nutrition, University of Utah, Salt Lake City, UT, US
-  * Email: laura.pace@hsc.utah.edu 
-  
+  * Email: laura.pace@hsc.utah.edu
+
 * Dahra D. Perkins
 
   * Elevate Health, Portland, OR, US
@@ -132,7 +132,7 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Laurie Radovsky
 
-  * St. Paul, MN, US 
+  * St. Paul, MN, US
   * Email: laurie@drradovsky.com
 
 * Mary S. Raleigh
@@ -152,12 +152,12 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Mark L. Renneker and Aaron M. Roland
 
-  * Department of Family Medicine, University of California San Francisco, San Francisco, CA, US 
+  * Department of Family Medicine, University of California San Francisco, San Francisco, CA, US
   * Email: mark.renneker@ucsf.edu (M.L. Renneker); doctoraaron@pacbell.net (A.M. Roland)
 
 * William A. Robinson
 
-  * Division of Hematology/Oncology, University of Colorado, Denver, CO, US 
+  * Division of Hematology/Oncology, University of Colorado, Denver, CO, US
   * Email: william.robinson@ucdenver.edu
 
 * E. Scott Rosenbloom
@@ -167,7 +167,7 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Peter C. Rowe
 
-  * Department of Pediatrics, Johns Hopkins University, Baltimore, MD, US 
+  * Department of Pediatrics, Johns Hopkins University, Baltimore, MD, US
   * Email: prowe@jhmi.edu
 
 * Ilene S. Ruhoy
@@ -192,13 +192,13 @@ People who are especially involved in the evolving diagnosis of MCAS, including 
 
 * Janet E. Settle
 
-  * Department of Psychiatry, University of Colorado, Denver, CO, US 
+  * Department of Psychiatry, University of Colorado, Denver, CO, US
   * Email: drjanetsettle@gmail.com
   * https://janetsettle.com/
 
 * Leonard B. Weinstock
 
-  * Department of Medicine, Washington University, St. Louis, MO, US 
+  * Department of Medicine, Washington University, St. Louis, MO, US
   * Email: lw@gidoctor.net
 
 * Martina Wengenroth

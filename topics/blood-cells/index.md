@@ -1,6 +1,6 @@
 # Blood cells
 
-Blood is composed of various types of cells that serve different functions in the body. Blood cells are produced in the bone marrow, a spongy tissue found within the cavities of certain bones. 
+Blood is composed of various types of cells that serve different functions in the body. Blood cells are produced in the bone marrow, a spongy tissue found within the cavities of certain bones.
 
 Blood cell counts and the ratio of these cells are essential for maintaining overall health and preventing various medical conditions. Regular blood tests, such as complete blood counts (CBC), can provide valuable information about the levels and health of these blood cells.
 

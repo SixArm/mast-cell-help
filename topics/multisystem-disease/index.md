@@ -1,6 +1,6 @@
 # Multisystem disease
 
-"Multisystem disease" is a broad medical term that refers to a condition or disorder that affects multiple organ systems in the body. These diseases often involve a wide range of symptoms and complications, making diagnosis and management complex. Multisystem diseases can be caused by various factors, including infections, autoimmune reactions, genetic mutations, and environmental influences. 
+"Multisystem disease" is a broad medical term that refers to a condition or disorder that affects multiple organ systems in the body. These diseases often involve a wide range of symptoms and complications, making diagnosis and management complex. Multisystem diseases can be caused by various factors, including infections, autoimmune reactions, genetic mutations, and environmental influences.
 
 Some examples…
 

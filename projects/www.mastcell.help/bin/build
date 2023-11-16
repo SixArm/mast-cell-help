@@ -5,6 +5,7 @@ GIT_TOP_DIR="$(git rev-parse --show-toplevel)"
 PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
 
 TOPICS="$GIT_TOP_DIR/topics"
+STATIC="$PROGRAM_DIR/../static"
 ROUTES="$PROGRAM_DIR/../src/routes"
 TEMPLATE_FILE="$PROGRAM_DIR/build-pandoc-template.svelte"
 TITLE_SUFFIX=" | My Example Site"
@@ -41,7 +42,11 @@ do_slug() {
 }
 
 build() {
-    do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/src/links.md" "$ROUTES/+page.svelte"
+    rsync -av "$GIT_TOP_DIR/README.jpg" "$STATIC/"
+    rsync -av "$GIT_TOP_DIR/mast-cell-help.epub" "$STATIC/"
+    rsync -av "$GIT_TOP_DIR/mast-cell-help.pdf" "$STATIC/"
+    do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/README.md" "$ROUTES/+page.svelte" 
+    sed -i.bak 's#href="topics/#href="/#' "$ROUTES/+page.svelte"
     "$PROGRAM_DIR/slugs" |
     while read -r slug; do
         do_slug "$slug"

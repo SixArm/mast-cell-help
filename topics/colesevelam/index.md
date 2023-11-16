@@ -1,4 +1,4 @@
-# Colesevelam
+# Colesevelam (a.k.a. Welchol)
 
 Colesevelam is a medication classified as a bile acid sequestrant. It is used primarily to lower elevated levels of LDL (low-density lipoprotein) cholesterol in the blood. Like other medications in this class, colesevelam works by binding to bile acids in the intestines, thereby reducing the reabsorption of bile acids and promoting the elimination of cholesterol from the body.
 

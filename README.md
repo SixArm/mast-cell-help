@@ -11,8 +11,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## Contents
 
-<b>WORK IN PROGRESS - REQUEST FOR COMMENTS</b>
-
 ### [Introduction](topics/introduction)
 
 * [What are mast cells?](topics/what-are-mast-cells)
@@ -50,7 +48,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Elimination diet](topics/elimination-diet)
 
-* [Elimination diet for conditions](topics/elimination-diet-for-conditions)
+* [Elimination diet conditions](topics/elimination-diet-for-conditions)
 * [Foods to avoid](topics/elimination-diet-foods-to-avoid)
 
 ### [Low-histamine diet](topics/low-histamine-diet)
@@ -83,11 +81,16 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Foods to choose](topics/low-salicylate-diet-foods-to-choose)
 * [Foods to avoid](topics/low-salicylate-diet-foods-to-avoid)
 
+### [Low-sodium diet](topics/low-sodium-diet)
+
+* [Foods to choose](topics/low-sodium-diet-foods-to-choose)
+* [Foods to avoid](topics/low-sodium-diet-foods-to-avoid)
+
 ### [Dietary supplements](topics/dietary-supplements)
 
 * [Considerations](topics/dietary-supplements-considerations)
 * [Multivitamin](topics/multivitamin)
-* [Diamine oxidase](topics/diamine-oxidase-dietary-supplement)
+* [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
 * [Vitamin C](topics/vitamin-c)
 * [Omega-3](topics/omega-3)
 * [Quercetin](topics/quercetin)
@@ -153,7 +156,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Allergies](topics/allergies)
 
 * [Allergy types](topics/allergy-types)
-* [Allergic reaction](topics/allergic-reactions)
+* [Allergic reactions](topics/allergic-reactions)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
 
@@ -194,8 +197,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Mastocytosis](topics/mastocytosis)
 
-* [Cutaneous mastocytosis](topics/cutaneous-mastocytosis)
-* [Systemic mastocytosis](topics/systemic-mastocytosis)
+* [Cutaneous mastocytosis (CM)](topics/cutaneous-mastocytosis)
+* [Systemic mastocytosis (SM)](topics/systemic-mastocytosis)
+* [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis)
+* [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia)
 
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
 
@@ -229,8 +234,17 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Presyncope](topics/presyncope)
 
 
+## [Diagnostics](topics/diagnostics)
+
+* [Bone marrow biopsy](topics/bone-marrow-biopsy)
+
+
 ## Treatment types
 
+
+### [Antihistamine medications](topics/antihistamine-medications)
+
+* [Ketotifen](topics/ketotifen)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
@@ -260,6 +274,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 
 ### [Videos](topics/videos)
+
+* [What is the role of mast cells in inflammation? - By By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
 
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
 

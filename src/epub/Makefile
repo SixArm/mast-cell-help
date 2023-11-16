@@ -1,20 +1,24 @@
 top = $(shell git rev-parse --show-toplevel)
 key = $(shell basename ${top})
 
-midput="tmp/midput.md"
+links="tmp/links.md"
+bound="tmp/bound.md"
 output="tmp/${key}.epub"
 pandoc="pandoc-from-markdown-to-epub"
 
-all: ${midput} ${output}
+all: ${links} ${bound} ${output}
 
 new: clean all
 
 .PHONY: clean
 clean:
-	rm -f ${midput} ${output}
+	rm -f ${links} ${bound} ${output}
 
-${midput}:
-	book-binder start.yml "../links.md" ${midput} "${top}/topics"
+${links}:
+	shell sed -n '/^## Contents$$/,$$p' "${top}/README.md" > ${links}
+
+${bound}:
+	book-binder start.yml ${links} ${bound} "${top}/topics"
 
 ${output}:
-	${pandoc} ${midput} -o ${output}
+	${pandoc} ${bound} -o ${output}

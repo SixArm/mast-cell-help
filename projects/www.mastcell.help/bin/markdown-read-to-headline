@@ -28,5 +28,5 @@
 # * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
 # * Tracker: 0d62104459ae15d39a97c87b16e888f4
 
-grep -m1 '^##*[[:space:]][[:space:]]*[^[:space:]]' "$@" | 
+grep -m1 '^##*[[:space:]][[:space:]]*[^[:space:]]' "$@" |
 sed 's/^#*[[:space:]]*//; s/[[:space:]]*#*[[:space:]]*$//;'

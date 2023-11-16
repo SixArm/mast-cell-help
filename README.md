@@ -122,7 +122,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Lymph](topics/lymph)
 * [Lymph node](topics/lymph-node)
-  
+
 ### [Limbic system](topics/limbic-system)
 
 * [Limbic system impairment](topics/limbic-system-impairment)

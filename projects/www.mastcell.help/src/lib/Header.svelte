@@ -1,4 +1,4 @@
-<header class="m-b-4 border-b-2">
+<header class="mb-8 border-b-2">
     <nav class="m-4">
         <a class="no-underline font-bold" href="https://mastcell.help">MastCell.Help</a>
         &bull;

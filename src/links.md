@@ -112,7 +112,7 @@
 
 * [Lymph](lymph)
 * [Lymph node](lymph-node)
-  
+
 ### [Limbic system](limbic-system)
 
 * [Limbic system impairment](limbic-system-impairment)

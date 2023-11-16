@@ -17,4 +17,3 @@ A low-sodium diet, often referred to as a low-salt diet, is a dietary approach t
 * Eating Out: When dining out, you can request that your meal be prepared with less salt, and you can avoid adding extra salt. Also, be cautious of hidden sodium in restaurant dishes and fast food.
 
 * Health Conditions: In addition to supporting heart health, a low-sodium diet is often recommended for individuals with conditions such as kidney disease, liver disease, and certain types of edema (fluid retention). It can help manage fluid balance and blood pressure.
-

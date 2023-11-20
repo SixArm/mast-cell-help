@@ -297,9 +297,9 @@ href="/rheumatoid-arthritis">Rheumatoid arthritis (RA)</a></h3>
 <h3 id="sulfur-intolerance"><a href="/sulfur-intolerance">Sulfur
 intolerance</a></h3>
 <h3
-id="telangiectasia-macularis-eruptiva-perstanstopicstelangiectasia-macularis-eruptiva-perstans">[Telangiectasia
+id="telangiectasia-macularis-eruptiva-perstanstopicstelangiectasia-macularis-eruptiva-perstans"><a href="/telangiectasia-macularis-eruptiva-perstans">Telangiectasia
 Macularis Eruptiva
-Perstans](topics/telangiectasia-macularis-eruptiva-perstans]</h3>
+Perstans</a></h3>
 <h3 id="toxin-exposure"><a href="/toxin-exposure">Toxin
 exposure</a></h3>
 <h2 id="symptoms">Symptoms</h2>

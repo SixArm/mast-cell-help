@@ -42,9 +42,7 @@ do_slug() {
 }
 
 build() {
-    rsync -av "$GIT_TOP_DIR/README.jpg" "$STATIC/"
-    rsync -av "$GIT_TOP_DIR/mast-cell-help.epub" "$STATIC/"
-    rsync -av "$GIT_TOP_DIR/mast-cell-help.pdf" "$STATIC/"
+    rsync -a "$GIT_TOP_DIR/README.jpg" "$GIT_TOP_DIR/mast-cell-help.epub" "$GIT_TOP_DIR/mast-cell-help.pdf" "$STATIC/"
     do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/README.md" "$ROUTES/+page.svelte" 
     sed -i.bak 's#href="topics/#href="/#' "$ROUTES/+page.svelte"
     "$PROGRAM_DIR/slugs" |

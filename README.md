@@ -275,7 +275,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Videos](topics/videos)
 
-* [What is the role of mast cells in inflammation? - By By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
+* [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
 
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
 

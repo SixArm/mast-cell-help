@@ -362,7 +362,7 @@ Alpha-Tryptasemia (HαT)</a></li>
 <ul>
 <li><p><a
 href="/what-is-the-role-of-mast-cells-in-inflammation">What is the
-role of mast cells in inflammation? - By By Animated Biology with
+role of mast cells in inflammation? - By Animated Biology with
 Arpan</a></p></li>
 <li><p><a
 href="/understanding-mast-cell-activation-disorders-by-niaid">Understanding

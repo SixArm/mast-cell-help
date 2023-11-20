@@ -7,7 +7,7 @@
 <h1 id="videos">Videos</h1>
 <ul>
 <li><p><a href="/what-is-the-role-of-mast-cells-in-inflammation">What is
-the role of mast cells in inflammation? - By By Animated Biology with
+the role of mast cells in inflammation? - By Animated Biology with
 Arpan</a></p></li>
 <li><p><a
 href="/understanding-mast-cell-activation-disorders-by-niaid">Understanding

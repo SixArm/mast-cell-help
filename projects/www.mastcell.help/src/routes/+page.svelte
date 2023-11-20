@@ -264,7 +264,7 @@ href="/burning-mouth-syndrome">Burning mouth syndrome
 <h3 id="dysautonomia"><a
 href="/dysautonomia">Dysautonomia</a></h3>
 <h3 id="ehlers-danlos-syndrome"><a
-href="/ehlers-danlos-syndrome">Ehlers Danlos syndrome</a></h3>
+href="/ehlers-danlos-syndrome">Ehlers-Danlos syndrome</a></h3>
 <h3 id="eosinophilic-esophagitis-eoe"><a
 href="/eosinophilic-esophagitis">Eosinophilic esophagitis
 (EoE)</a></h3>

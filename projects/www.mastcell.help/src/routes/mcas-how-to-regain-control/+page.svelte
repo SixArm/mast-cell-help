@@ -18,7 +18,7 @@ immune issues.</p></li>
 conditions</p></li>
 <li><p>Experienced mold toxicity, Lyme disease or other chronic
 infections</p></li>
-<li><p>Have Ehlers Danlos syndrome, Postural Orthostatic Tachycardia
+<li><p>Have Ehlers-Danlos syndrome, Postural Orthostatic Tachycardia
 Syndrome or other connective tissue, cardiac or autonomic nervous system
 issues.</p></li>
 <li><p>Have neurological conditions, or psychological issues</p></li>

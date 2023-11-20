@@ -55,6 +55,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+    .app-navbar-menu-list li {
+        @apply m-0 p-0;
+    }
+    .app-navbar-menu-list a {
+        @apply m-0 p-1 no-underline text-inherit;
+    }
+}
+
 .prose {
     @apply max-w-prose;
     @apply mx-4;
@@ -67,3 +76,6 @@ code {
     @apply bg-gray-100;
     @apply text-blue-600;
 }
+
+
+

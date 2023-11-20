@@ -19,7 +19,7 @@ Parker Henderson</a>.</li>
 href="mailto:joel@joelparkerhenderson.com">email me</a>.</li>
 <li>For donations <a href="https://paypal.me/joelparkerhenderson">PayPal
 me</a> or <a
-href="https://account.venmo.com/u/joelparkerhenderson">Venmo me</a></li>
+href="https://account.venmo.com/u/joelparkerhenderson">Venmo me</a>.</li>
 </ul>
 <h2 id="contents">Contents</h2>
 <h3 id="introduction"><a

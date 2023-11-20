@@ -193,7 +193,7 @@ Comorbidities:
 * irritable bowel syndrome (IBS)
 * postural orthostatic tachycardia syndrome (POTS)
 * small fiber neuropathy (SFN)
-* hypermobile Ehlers Danlos Syndrome (hEDS)
+* hypermobile Ehlers-Danlos Syndrome (hEDS)
 
 Symptoms:
 

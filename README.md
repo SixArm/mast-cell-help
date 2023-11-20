@@ -7,7 +7,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * Download the free e-book file [EPUB](mast-cell-help.epub) or [PDF](mast-cell-help.pdf).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
-* For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson)
+* For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson).
 
 ## Contents
 
@@ -121,7 +121,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Red blood cell (RBC)](topics/red-blood-cell)
 * [Platelet](topics/platelet)
 
-### [Lymphatic system]
+### [Lymphatic system](topics/lymphatic-system)
 
 * [Lymph](topics/lymph)
 * [Lymph node](topics/lymph-node)
@@ -185,7 +185,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Dysautonomia](topics/dysautonomia)
 
-### [Ehlers Danlos syndrome](topics/ehlers-danlos-syndrome)
+### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome)
 
 ### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis)
 
@@ -210,7 +210,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Sulfur intolerance](topics/sulfur-intolerance)
 
-### [Telangiectasia Macularis Eruptiva Perstans](topics/telangiectasia-macularis-eruptiva-perstans]
+### [Telangiectasia Macularis Eruptiva Perstans](topics/telangiectasia-macularis-eruptiva-perstans)
 
 ### [Toxin exposure](topics/toxin-exposure)
 

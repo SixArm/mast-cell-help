@@ -21,6 +21,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Support groups](topics/support-groups)
 * [Facebook groups](topics/facebook-groups)
 
+<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+
 ### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
 
 * [Symptoms](topics/mast-cell-activation-syndrome-symptoms)
@@ -31,6 +33,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures)
 * [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses)
+
+<img src="assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/>
 
 ### [Alternative therapies](topics/alternative-therapies)
 
@@ -220,9 +224,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Telangiectasia Macularis Eruptiva Perstans](topics/telangiectasia-macularis-eruptiva-perstans)
 
 ### [Toxin exposure](topics/toxin-exposure)
-
-
-<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 
 ## Symptoms

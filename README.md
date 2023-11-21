@@ -46,7 +46,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Buteyko breathing method](topics/buteyko-breathing-method)
 * [Food diary](topics/food-diary)
 
-
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
 ## Nutrition Diets
@@ -223,6 +222,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Toxin exposure](topics/toxin-exposure)
 
 
+<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+
+
 ## Symptoms
 
 ### [Bradycardia](topics/bradycardia)
@@ -240,6 +242,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Hypotension causes](topics/hypotension-causes)
 
 ### [Presyncope](topics/presyncope)
+
 
 
 ## [Diagnostics](topics/diagnostics)

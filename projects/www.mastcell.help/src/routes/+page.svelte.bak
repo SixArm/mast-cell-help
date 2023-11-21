@@ -49,7 +49,7 @@
 <li><a href="/buteyko-breathing-method">Buteyko breathing method</a></li>
 <li><a href="/food-diary">Food diary</a></li>
 </ul>
-<p><img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/></p>
+<p><img src="/assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/></p>
 <h2 id="nutrition-diets">Nutrition Diets</h2>
 <h3 id="elimination-diet"><a href="/elimination-diet">Elimination diet</a></h3>
 <ul>
@@ -203,6 +203,9 @@
 <h3 id="sulfur-intolerance"><a href="/sulfur-intolerance">Sulfur intolerance</a></h3>
 <h3 id="telangiectasia-macularis-eruptiva-perstans"><a href="/telangiectasia-macularis-eruptiva-perstans">Telangiectasia Macularis Eruptiva Perstans</a></h3>
 <h3 id="toxin-exposure"><a href="/toxin-exposure">Toxin exposure</a></h3>
+
+<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+
 <h2 id="symptoms">Symptoms</h2>
 <h3 id="bradycardia"><a href="/bradycardia">Bradycardia</a></h3>
 <h3 id="brain-fog"><a href="/brain-fog">Brain fog</a></h3>
@@ -220,7 +223,7 @@
 <ul>
 <li><a href="/bone-marrow-biopsy">Bone marrow biopsy</a></li>
 </ul>
-<p><img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/></p>
+<p><img src="/assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/></p>
 <h2 id="treatment-types">Treatment types</h2>
 <h3 id="antihistamine-medications"><a href="/antihistamine-medications">Antihistamine medications</a></h3>
 <ul>

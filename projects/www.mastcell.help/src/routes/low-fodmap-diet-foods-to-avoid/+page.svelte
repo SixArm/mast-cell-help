@@ -1,12 +1,10 @@
 <svelte:head>
-    <title>Low-FODMAP diet: foods to avoid | My Example
-Site | mastcell.help</title>
+    <title>Low-FODMAP diet: foods to avoid | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="low-fodmap-diet-foods-to-avoid">Low-FODMAP diet: foods to
-avoid</h1>
+<h1 id="low-fodmap-diet-foods-to-avoid">Low-FODMAP diet: foods to avoid</h1>
 <p>Vegetables:</p>
 <ul>
 <li>Artichokes</li>
@@ -66,9 +64,7 @@ avoid</h1>
 </ul>
 <p>Processed Foods:</p>
 <ul>
-<li>Many processed and pre-packaged foods may contain high-FODMAP
-ingredients and additives, so it’s essential to check labels and
-ingredient lists</li>
+<li>Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it’s essential to check labels and ingredient lists</li>
 </ul>
 
 </div>

@@ -1,27 +1,21 @@
 <svelte:head>
-    <title>Anaphylaxis symptoms | My Example
-Site | mastcell.help</title>
+    <title>Anaphylaxis symptoms | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
 <h1 id="anaphylaxis-symptoms">Anaphylaxis symptoms</h1>
-<p>Anaphylaxis is a severe allergic reaction that can occur rapidly
-after exposure to an allergen. Anaphylaxis can progress rapidly, cany
-involve multiple systems in the body, and can be fatal. Seek emergency
-help immediately.</p>
+<p>Anaphylaxis is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly, cany involve multiple systems in the body, and can be fatal. Seek emergency help immediately.</p>
 <p>Skin Symptoms:</p>
 <ul>
 <li><p>Hives (raised, itchy welts) on the skin</p></li>
 <li><p>Generalized redness and flushing of the skin</p></li>
-<li><p>Swelling, especially of the face, lips, tongue, and
-throat</p></li>
+<li><p>Swelling, especially of the face, lips, tongue, and throat</p></li>
 </ul>
 <p>Respiratory Symptoms:</p>
 <ul>
 <li><p>Shortness of breath or difficulty breathing</p></li>
-<li><p>Wheezing (a high-pitched whistling sound while
-breathing)</p></li>
+<li><p>Wheezing (a high-pitched whistling sound while breathing)</p></li>
 <li><p>Coughing</p></li>
 <li><p>Chest tightness</p></li>
 <li><p>Stridor, a high-pitched, crowing sound during inhalation</p></li>

@@ -1,18 +1,15 @@
 <svelte:head>
-    <title>Low-sodium diet: foods to choose | My Example
-Site | mastcell.help</title>
+    <title>Low-sodium diet: foods to choose | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="low-sodium-diet-foods-to-choose">Low-sodium diet: foods to
-choose</h1>
+<h1 id="low-sodium-diet-foods-to-choose">Low-sodium diet: foods to choose</h1>
 <p>Vegetables:</p>
 <ul>
 <li><p>Fresh and frozen vegetables without sauces</p></li>
 <li><p>Low-sodium canned vegetables, sauces, and juices</p></li>
-<li><p>Fresh potatoes, frozen French fries and instant mashed
-potatoes</p></li>
+<li><p>Fresh potatoes, frozen French fries and instant mashed potatoes</p></li>
 <li><p>Low-salt tomato juice, low-salt V-8 juice</p></li>
 </ul>
 <p>Fruits:</p>
@@ -32,8 +29,7 @@ potatoes</p></li>
 <p>Dairy:</p>
 <ul>
 <li><p>Milk, yogurt, ice cream and ice milk</p></li>
-<li><p>Low-sodium cheeses, cream cheese, ricotta cheese,
-mozzarella</p></li>
+<li><p>Low-sodium cheeses, cream cheese, ricotta cheese, mozzarella</p></li>
 </ul>
 <p>Grains etc…</p>
 <ul>

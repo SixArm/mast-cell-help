@@ -1,12 +1,10 @@
 <svelte:head>
-    <title>Low-oxalate diet: foods to avoid | My Example
-Site | mastcell.help</title>
+    <title>Low-oxalate diet: foods to avoid | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="low-oxalate-diet-foods-to-avoid">Low-oxalate diet: foods to
-avoid</h1>
+<h1 id="low-oxalate-diet-foods-to-avoid">Low-oxalate diet: foods to avoid</h1>
 <p>Vegetables:</p>
 <ul>
 <li>Spinach</li>
@@ -48,15 +46,13 @@ avoid</h1>
 </ul>
 <p>Beverages:</p>
 <ul>
-<li>Tea (black tea, green tea, and herbal teas that contain High-oxalate
-herbs)</li>
+<li>Tea (black tea, green tea, and herbal teas that contain High-oxalate herbs)</li>
 <li>Dark beer</li>
 <li>Dark colas</li>
 </ul>
 <p>Dairy Alternatives:</p>
 <ul>
-<li>Some almond milk and soy milk products (check labels for oxalate
-content)</li>
+<li>Some almond milk and soy milk products (check labels for oxalate content)</li>
 </ul>
 <p>High-oxalate Spices and Seasonings:</p>
 <ul>
@@ -65,9 +61,7 @@ content)</li>
 <li>Nutmeg</li>
 <li>Dill</li>
 </ul>
-<p>Chocolate and Cocoa: These are high in oxalates and should be
-avoided.</p>
-<p>Avoid Excessive Salt: A high-sodium diet can increase the risk of
-kidney stone formation, so it’s advisable to limit your salt intake.</p>
+<p>Chocolate and Cocoa: These are high in oxalates and should be avoided.</p>
+<p>Avoid Excessive Salt: A high-sodium diet can increase the risk of kidney stone formation, so it’s advisable to limit your salt intake.</p>
 
 </div>

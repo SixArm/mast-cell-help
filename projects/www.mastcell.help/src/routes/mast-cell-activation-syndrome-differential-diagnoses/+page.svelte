@@ -1,12 +1,10 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome: differential diagnoses | My
-Example Site | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome: differential diagnoses | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="mast-cell-activation-syndrome-differential-diagnoses">Mast Cell
-Activation Syndrome: differential diagnoses</h1>
+<h1 id="mast-cell-activation-syndrome-differential-diagnoses">Mast Cell Activation Syndrome: differential diagnoses</h1>
 <ul>
 <li>diabetes mellitus</li>
 <li>porphyria</li>
@@ -35,8 +33,7 @@ Activation Syndrome: differential diagnoses</h1>
 <li>hypermobility syndromes</li>
 <li>lymphoma</li>
 <li>myeloproliferative neoplasms</li>
-<li>mental health diagnoses, such autism, anxiety/panic, depression,
-psychosomatism, conversion disorder, Munchausen’s syndrome.</li>
+<li>mental health diagnoses, such autism, anxiety/panic, depression, psychosomatism, conversion disorder, Munchausen’s syndrome.</li>
 </ul>
 
 </div>

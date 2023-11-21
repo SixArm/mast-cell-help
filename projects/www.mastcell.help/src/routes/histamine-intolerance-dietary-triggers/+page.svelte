@@ -5,9 +5,7 @@
 <div class="prose">
 
 <h1 id="dietary-triggers">Dietary triggers</h1>
-<p>Histamine is present in various foods and beverages, and some
-individuals may find relief from their symptoms by following a
-low-histamine diet. Common histamine-rich foods and drinks include:</p>
+<p>Histamine is present in various foods and beverages, and some individuals may find relief from their symptoms by following a low-histamine diet. Common histamine-rich foods and drinks include:</p>
 <ul>
 <li><p>Aged cheeses</p></li>
 <li><p>Processed and fermented meats (e.g., salami)</p></li>

@@ -1,18 +1,11 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome symptoms | My Example
-Site | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome symptoms | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="mast-cell-activation-syndrome-symptoms">Mast Cell Activation
-Syndrome symptoms</h1>
-<p>Mast Cell Activation Syndrome (MCAS) is a condition characterized by
-the inappropriate activation of mast cells, which are immune cells that
-play a role in the body’s allergic and inflammatory responses. MCAS can
-lead to a wide range of symptoms that can affect various organ systems.
-These symptoms can vary from person to person and may be mild or
-severe.</p>
+<h1 id="mast-cell-activation-syndrome-symptoms">Mast Cell Activation Syndrome symptoms</h1>
+<p>Mast Cell Activation Syndrome (MCAS) is a condition characterized by the inappropriate activation of mast cells, which are immune cells that play a role in the body’s allergic and inflammatory responses. MCAS can lead to a wide range of symptoms that can affect various organ systems. These symptoms can vary from person to person and may be mild or severe.</p>
 <p>Skin Symptoms:</p>
 <ul>
 <li>Itching (pruritus)</li>
@@ -75,8 +68,7 @@ severe.</p>
 </ul>
 <p>Allergic Reactions:</p>
 <ul>
-<li>Anaphylaxis (severe and potentially life-threatening allergic
-reaction)</li>
+<li>Anaphylaxis (severe and potentially life-threatening allergic reaction)</li>
 <li>Increased sensitivity to allergens and other triggers</li>
 </ul>
 

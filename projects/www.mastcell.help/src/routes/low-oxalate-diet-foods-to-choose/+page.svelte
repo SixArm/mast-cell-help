@@ -1,12 +1,10 @@
 <svelte:head>
-    <title>Low-oxalate diet: foods to choose | My Example
-Site | mastcell.help</title>
+    <title>Low-oxalate diet: foods to choose | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="low-oxalate-diet-foods-to-choose">Low-oxalate diet: foods to
-choose</h1>
+<h1 id="low-oxalate-diet-foods-to-choose">Low-oxalate diet: foods to choose</h1>
 <p>Low-Oxalate Vegetables:</p>
 <ul>
 <li>Asparagus</li>

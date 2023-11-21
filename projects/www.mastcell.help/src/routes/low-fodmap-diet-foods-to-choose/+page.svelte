@@ -1,12 +1,10 @@
 <svelte:head>
-    <title>Low-FODMAP diet: foods to choose | My Example
-Site | mastcell.help</title>
+    <title>Low-FODMAP diet: foods to choose | My Example Site | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="low-fodmap-diet-foods-to-choose">Low-FODMAP diet: foods to
-choose</h1>
+<h1 id="low-fodmap-diet-foods-to-choose">Low-FODMAP diet: foods to choose</h1>
 <p>Vegetables:</p>
 <ul>
 <li>Bell peppers</li>

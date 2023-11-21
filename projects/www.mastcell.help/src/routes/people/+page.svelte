@@ -5,8 +5,7 @@
 <div class="prose">
 
 <h1 id="people">People</h1>
-<p>People who are especially involved in the evolving diagnosis of MCAS,
-including the “consensus 2” criteria:</p>
+<p>People who are especially involved in the evolving diagnosis of MCAS, including the “consensus 2” criteria:</p>
 <ul>
 <li><p>Lawrence B. Afrin, MD</p>
 <ul>
@@ -23,8 +22,7 @@ including the “consensus 2” criteria:</p>
 </ul></li>
 <li><p>Linda S. Bluestein</p>
 <ul>
-<li>Department of Anesthesiology, Medical College of Wisconsin, Wausau,
-WI, US</li>
+<li>Department of Anesthesiology, Medical College of Wisconsin, Wausau, WI, US</li>
 <li>Email: lindabluestein@yahoo.com</li>
 </ul></li>
 <li><p>Joseph H. Brewer</p>
@@ -54,8 +52,7 @@ WI, US</li>
 </ul></li>
 <li><p>William P. Davey</p>
 <ul>
-<li>Department of Dermatology, University of Kentucky, Lexington, KY,
-US</li>
+<li>Department of Dermatology, University of Kentucky, Lexington, KY, US</li>
 <li>Email: wpdavey@gmail.com</li>
 </ul></li>
 <li><p>Tania T. Dempsey</p>
@@ -75,8 +72,7 @@ US</li>
 </ul></li>
 <li><p>Alena G. Guggenheim</p>
 <ul>
-<li>Comprehensive Pain Center, Oregon Health and Science University,
-Portland, OR, US</li>
+<li>Comprehensive Pain Center, Oregon Health and Science University, Portland, OR, US</li>
 <li>Email: alena.guggenheim@gmail.com</li>
 </ul></li>
 <li><p>Kimberly J. Hindman</p>
@@ -86,8 +82,7 @@ Portland, OR, US</li>
 </ul></li>
 <li><p>Bruce Hoffman</p>
 <ul>
-<li>Hoffman Centre for Integrative and Functional Medicine, Calgary,
-Alberta, Canada,</li>
+<li>Hoffman Centre for Integrative and Functional Medicine, Calgary, Alberta, Canada,</li>
 <li>Email: brucehoffman@hoffmancentre.ca</li>
 </ul></li>
 <li><p>David L. Kaufman</p>
@@ -122,20 +117,17 @@ Alberta, Canada,</li>
 </ul></li>
 <li><p>Gerhard J. Molderings</p>
 <ul>
-<li>Institute of Human Genetics, University Hospital of Bonn, Bonn,
-Germany,</li>
+<li>Institute of Human Genetics, University Hospital of Bonn, Bonn, Germany,</li>
 <li>Email: molderings@uni-bonn.de</li>
 </ul></li>
 <li><p>Laurie Menk Otto</p>
 <ul>
-<li>Helfgott Research Institute, National College of Natural Medicine,
-Portland, OR, US</li>
+<li>Helfgott Research Institute, National College of Natural Medicine, Portland, OR, US</li>
 <li>Email: laur.menk.otto@gmail.com</li>
 </ul></li>
 <li><p>Laura A. Pace</p>
 <ul>
-<li>Division of Gastroenterology, Hepatology and Nutrition, University
-of Utah, Salt Lake City, UT, US</li>
+<li>Division of Gastroenterology, Hepatology and Nutrition, University of Utah, Salt Lake City, UT, US</li>
 <li>Email: laura.pace@hsc.utah.edu</li>
 </ul></li>
 <li><p>Dahra D. Perkins</p>
@@ -165,15 +157,12 @@ of Utah, Salt Lake City, UT, US</li>
 </ul></li>
 <li><p>Mark L. Renneker and Aaron M. Roland</p>
 <ul>
-<li>Department of Family Medicine, University of California San
-Francisco, San Francisco, CA, US</li>
-<li>Email: mark.renneker@ucsf.edu (M.L. Renneker);
-doctoraaron@pacbell.net (A.M. Roland)</li>
+<li>Department of Family Medicine, University of California San Francisco, San Francisco, CA, US</li>
+<li>Email: mark.renneker@ucsf.edu (M.L. Renneker); doctoraaron@pacbell.net (A.M. Roland)</li>
 </ul></li>
 <li><p>William A. Robinson</p>
 <ul>
-<li>Division of Hematology/Oncology, University of Colorado, Denver, CO,
-US</li>
+<li>Division of Hematology/Oncology, University of Colorado, Denver, CO, US</li>
 <li>Email: william.robinson@ucdenver.edu</li>
 </ul></li>
 <li><p>E. Scott Rosenbloom</p>
@@ -183,8 +172,7 @@ US</li>
 </ul></li>
 <li><p>Peter C. Rowe</p>
 <ul>
-<li>Department of Pediatrics, Johns Hopkins University, Baltimore, MD,
-US</li>
+<li>Department of Pediatrics, Johns Hopkins University, Baltimore, MD, US</li>
 <li>Email: prowe@jhmi.edu</li>
 </ul></li>
 <li><p>Ilene S. Ruhoy</p>
@@ -204,27 +192,23 @@ US</li>
 </ul></li>
 <li><p>Jill R. Schofield</p>
 <ul>
-<li>Department of Internal Medicine, University of Colorado School of
-Medicine, Aurora, CO, US</li>
+<li>Department of Internal Medicine, University of Colorado School of Medicine, Aurora, CO, US</li>
 <li>Email: js@centerformultisystemdisease.com</li>
 </ul></li>
 <li><p>Janet E. Settle</p>
 <ul>
-<li>Department of Psychiatry, University of Colorado, Denver, CO,
-US</li>
+<li>Department of Psychiatry, University of Colorado, Denver, CO, US</li>
 <li>Email: drjanetsettle@gmail.com</li>
 <li>https://janetsettle.com/</li>
 </ul></li>
 <li><p>Leonard B. Weinstock</p>
 <ul>
-<li>Department of Medicine, Washington University, St. Louis, MO,
-US</li>
+<li>Department of Medicine, Washington University, St. Louis, MO, US</li>
 <li>Email: lw@gidoctor.net</li>
 </ul></li>
 <li><p>Martina Wengenroth</p>
 <ul>
-<li>Institute of Neuroradiology, University Hospital Lübeck, Lübeck,
-Germany,</li>
+<li>Institute of Neuroradiology, University Hospital Lübeck, Lübeck, Germany,</li>
 <li>Email: martina.wengenroth@googlemail.com</li>
 </ul></li>
 <li><p>Mark Westaway</p>
@@ -234,8 +218,7 @@ Germany,</li>
 </ul></li>
 <li><p>Shijun Cindy Xi</p>
 <ul>
-<li>Section of Allergy and Immunology, Keck School of Medicine,
-University of Southern California, Los Angeles, CA, US</li>
+<li>Section of Allergy and Immunology, Keck School of Medicine, University of Southern California, Los Angeles, CA, US</li>
 <li>Email: xicindy@gmail.com</li>
 </ul></li>
 </ul>

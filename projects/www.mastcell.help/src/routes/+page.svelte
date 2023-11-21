@@ -39,7 +39,7 @@
 <li><a href="/mast-cell-activation-syndrome-differential-diagnoses">Differential diagnoses</a></li>
 </ul>
 
-<img src="assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/>
+<img src="/assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/>
 
 <h3 id="alternative-therapies"><a href="/alternative-therapies">Alternative therapies</a></h3>
 <ul>

@@ -2,4 +2,5 @@
 set -euf
 
 PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
-find "$PROGRAM_DIR/../src/routes" -type d -mindepth 1 ! -name '+*' -exec rm -rf {} \;
+find "$PROGRAM_DIR/../src/routes" -type d -mindepth 1 -exec rm -rf {} \;
+rm -f "$PROGRAM_DIR/../src/routes/+page.svelte"

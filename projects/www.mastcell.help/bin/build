@@ -19,6 +19,7 @@ do_pandoc() {
     [ -f "$output_file" ] && return
     pandoc \
     --standalone \
+    --wrap=preserve \
     --from=markdown \
     --to=html \
     --template="$template_file" \
@@ -45,7 +46,8 @@ build() {
     rsync -a "$GIT_TOP_DIR/README.jpg" "$GIT_TOP_DIR/mast-cell-help.epub" "$GIT_TOP_DIR/mast-cell-help.pdf" "$STATIC/"
     rsync -a "$GIT_TOP_DIR/assets/" "$STATIC/assets/"
     do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/README.md" "$ROUTES/+page.svelte" 
-    sed -i.bak 's#href="/#href="/#' "$ROUTES/+page.svelte"
+    sed -i.bak 's# href="topics/# href="/#' "$ROUTES/+page.svelte"
+    sed -i.bak 's# src="assets/# src="/assets/#' "$ROUTES/+page.svelte"
     "$PROGRAM_DIR/slugs" |
     while read -r slug; do
         do_slug "$slug"

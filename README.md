@@ -145,7 +145,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Heparin](topics/heparin)
 
 
-<img src="/assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
+<img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
 
 
 ## Conditions

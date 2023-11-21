@@ -203,6 +203,9 @@ href="/inflammation">Inflammation</a></h3>
 <li><a href="/tryptase">Tryptase</a></li>
 <li><a href="/heparin">Heparin</a></li>
 </ul>
+
+<img src="/assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
+
 <h2 id="conditions">Conditions</h2>
 <h3 id="antiphospholipid-syndrome-aps"><a
 href="/antiphospholipid-syndrome">Antiphospholipid syndrome

@@ -76,6 +76,6 @@
       </ul>
     </div>
     <div class="navbar-end">
-      <a class="btn">Button</a>
+      <a class="btn" href="/#">Button</a>
     </div>
   </div>

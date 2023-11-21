@@ -79,27 +79,22 @@ Retraining System (DNRS)</a></li>
 method</a></li>
 <li><a href="/food-diary">Food diary</a></li>
 </ul>
-<h3 id="elimination-diet"><a href="/elimination-diet">Elimination
-diet</a></h3>
+
+<img src="/assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
+
+<h3 id="elimination-diet"><a href="/elimination-diet">Elimination diet</a></h3>
 <ul>
-<li><a href="/elimination-diet-for-conditions">Elimination diet
-conditions</a></li>
-<li><a href="/elimination-diet-foods-to-avoid">Foods to
-avoid</a></li>
+<li><a href="/elimination-diet-for-conditions">Elimination diet conditions</a></li>
+<li><a href="/elimination-diet-foods-to-avoid">Foods to avoid</a></li>
 </ul>
-<h3 id="low-histamine-diet"><a
-href="/low-histamine-diet">Low-histamine diet</a></h3>
+<h3 id="low-histamine-diet"><a href="/low-histamine-diet">Low-histamine diet</a></h3>
 <ul>
-<li><a href="/low-histamine-diet-foods-to-choose">Foods to
-choose</a></li>
-<li><a href="/low-histamine-diet-foods-to-avoid">Foods to
-avoid</a></li>
+<li><a href="/low-histamine-diet-foods-to-choose">Foods to choose</a></li>
+<li><a href="/low-histamine-diet-foods-to-avoid">Foods to avoid</a></li>
 </ul>
-<h3 id="low-allergen-diet"><a
-href="/low-allergen-diet">Low-allergen diet</a></h3>
+<h3 id="low-allergen-diet"><a href="/low-allergen-diet">Low-allergen diet</a></h3>
 <ul>
-<li><a href="/low-allergen-diet-foods-to-choose">Foods to
-choose</a></li>
+<li><a href="/low-allergen-diet-foods-to-choose">Foods to choose</a></li>
 <li><a href="/low-allergen-diet-foods-to-avoid">Foods to
 avoid</a></li>
 </ul>
@@ -322,6 +317,9 @@ href="/hypertryptasemia">Hypertryptasemia</a></h3>
 <ul>
 <li><a href="/bone-marrow-biopsy">Bone marrow biopsy</a></li>
 </ul>
+
+<img src="/assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/>
+
 <h2 id="treatment-types">Treatment types</h2>
 <h3 id="antihistamine-medications"><a
 href="/antihistamine-medications">Antihistamine

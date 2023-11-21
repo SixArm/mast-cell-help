@@ -46,6 +46,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Buteyko breathing method](topics/buteyko-breathing-method)
 * [Food diary](topics/food-diary)
 
+
+<img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
+
+## Nutrition Diets
+
 ### [Elimination diet](topics/elimination-diet)
 
 * [Elimination diet conditions](topics/elimination-diet-for-conditions)
@@ -238,6 +243,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
+
+<img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/>
 
 ## Treatment types
 

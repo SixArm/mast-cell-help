@@ -251,6 +251,9 @@
 <li><a href="/hereditary-alpha-tryptasemia">Hereditary Alpha-Tryptasemia (HαT)</a></li>
 <li><a href="/kit-d816x">KIT-D816X</a></li>
 </ul>
+
+<img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
+
 <h2 id="more">More</h2>
 <h3 id="videos"><a href="/videos">Videos</a></h3>
 <ul>

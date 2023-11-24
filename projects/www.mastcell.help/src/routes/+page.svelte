@@ -25,7 +25,7 @@
 <li><a href="/facebook-groups">Facebook groups</a></li>
 </ul>
 
-<img src="/assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+<img src="/assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 <h3 id="mast-cell-activation-syndrome-macs"><a href="/mast-cell-activation-syndrome">Mast cell activation syndrome (MACS)</a></h3>
 <ul>
@@ -209,6 +209,8 @@
 <h3 id="sulfur-intolerance"><a href="/sulfur-intolerance">Sulfur intolerance</a></h3>
 <h3 id="telangiectasia-macularis-eruptiva-perstans"><a href="/telangiectasia-macularis-eruptiva-perstans">Telangiectasia Macularis Eruptiva Perstans</a></h3>
 <h3 id="toxin-exposure"><a href="/toxin-exposure">Toxin exposure</a></h3>
+
+<img src="/assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 <h2 id="symptoms">Symptoms</h2>
 <h3 id="bradycardia"><a href="/bradycardia">Bradycardia</a></h3>

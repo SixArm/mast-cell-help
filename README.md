@@ -21,7 +21,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Support groups](topics/support-groups)
 * [Facebook groups](topics/facebook-groups)
 
-<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+<img src="assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="firefighters" style="width: 100%;"/>
 
 ### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
 
@@ -227,6 +227,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 
 ## Symptoms
+
+<img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 ### [Bradycardia](topics/bradycardia)
 

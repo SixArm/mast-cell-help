@@ -1,6 +1,6 @@
 # Facebook groups
 
-* [Mast Cell "Activation" Disorders Forum](https://www.facebook.com/groups/1489732487968980/) <!-- 38K members. Posted. -->
+* [Mast Cell "Activation" Disorders Forum](https://www.facebook.com/groups/1489732487968980/) <!-- 38K members. Posted 2. -->
 
 * [Mastocytosis and Mast Cell Disorders-An Integrative Approach](https://www.facebook.com/groups/486532874778463) <!-- 23K members. Posted. -->
 

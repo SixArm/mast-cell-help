@@ -225,6 +225,9 @@
 <li><a href="/hypotension-causes">Hypotension causes</a></li>
 </ul>
 <h3 id="presyncope"><a href="/presyncope">Presyncope</a></h3>
+
+<img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
+
 <h2 id="diagnostics"><a href="/diagnostics">Diagnostics</a></h2>
 <ul>
 <li><a href="/bone-marrow-biopsy">Bone marrow biopsy</a></li>

@@ -247,6 +247,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Presyncope](topics/presyncope)
 
 
+<img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
 
 ## [Diagnostics](topics/diagnostics)
 

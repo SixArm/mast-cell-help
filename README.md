@@ -80,7 +80,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
-## [Elimination diet](topics/elimination-diet)
+### [Elimination diet](topics/elimination-diet)
 
 * [Low-histamine diet](topics/low-histamine-diet)
 * [Low-allergen diet](topics/low-allergen-diet)

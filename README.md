@@ -251,6 +251,18 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## [Diagnostics](topics/diagnostics)
 
+* [Allergy testing](topics/allergy-testing)
+
+* [Histamine testing](topics/histamine-testing)
+
+* [Mast cell tryptase stimulation testing](topics/mast-cell-tryptase-stimulation-testing)
+
+* [N-methylhistamine testing](topics/n-methylhistamine-testing)
+
+* [Prostaglandin D2 (PGD2) testing](topics/prostaglandin-d2-pgd2-testing)
+
+* [Serum tryptase testing](topics/serum-tryptase-testing)
+
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
 

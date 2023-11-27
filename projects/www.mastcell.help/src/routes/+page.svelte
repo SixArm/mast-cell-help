@@ -24,6 +24,23 @@
 <li><a href="/support-groups">Support groups</a></li>
 <li><a href="/facebook-groups">Facebook groups</a></li>
 </ul>
+<h3 id="circulatory-system"><a href="/circulatory-system">Circulatory system</a></h3>
+<ul>
+<li><a href="/circulatory-system-functions">Circulatory system functions</a></li>
+<li><a href="/blood-cells">Blood cells</a></li>
+<li><a href="/white-blood-cell">White blood cell (WBC)</a></li>
+<li><a href="/red-blood-cell">Red blood cell (RBC)</a></li>
+<li><a href="/platelet">Platelet</a></li>
+</ul>
+<h3 id="lymphatic-system"><a href="/lymphatic-system">Lymphatic system</a></h3>
+<ul>
+<li><a href="/lymph">Lymph</a></li>
+<li><a href="/lymph-node">Lymph node</a></li>
+</ul>
+<h3 id="limbic-system"><a href="/limbic-system">Limbic system</a></h3>
+<ul>
+<li><a href="/limbic-system-impairment">Limbic system impairment</a></li>
+</ul>
 <p><img src="/assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="firefighters" style="width: 100%;"/></p>
 <h3 id="mast-cell-activation-syndrome-macs"><a href="/mast-cell-activation-syndrome">Mast cell activation syndrome (MACS)</a></h3>
 <ul>
@@ -35,6 +52,15 @@
 <li><a href="/mast-cell-activation-syndrome-dietary-modifications">Dietary modifications</a></li>
 <li><a href="/mast-cell-activation-syndrome-supportive-measures">Supportive measures</a></li>
 <li><a href="/mast-cell-activation-syndrome-differential-diagnoses">Differential diagnoses</a></li>
+</ul>
+<h3 id="inflammation"><a href="/inflammation">Inflammation</a></h3>
+<ul>
+<li><a href="/histamine">Histamine</a></li>
+<li><a href="/antihistamine">Antihistamine</a></li>
+<li><a href="/antihistamine-types">Antihistamine types</a></li>
+<li><a href="/diamine-oxidase">Diamine oxidase</a></li>
+<li><a href="/tryptase">Tryptase</a></li>
+<li><a href="/heparin">Heparin</a></li>
 </ul>
 <p><img src="/assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/></p>
 <h3 id="alternative-therapies"><a href="/alternative-therapies">Alternative therapies</a></h3>
@@ -62,6 +88,7 @@
 <li><a href="/low-salicylate-diet">Low-salicylate diet</a></li>
 <li><a href="/low-sodium-diet">Low-sodium diet</a></li>
 </ul>
+<p><img src="/assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/></p>
 <h3 id="dietary-supplements"><a href="/dietary-supplements">Dietary supplements</a></h3>
 <ul>
 <li><a href="/dietary-supplements-considerations">Considerations</a></li>
@@ -88,32 +115,6 @@
 <li><a href="/electrolytes">Electrolytes</a></li>
 <li><a href="/butterbur">Butterbur</a></li>
 <li><a href="/stinging-nettle">Stinging nettle</a></li>
-</ul>
-<h3 id="circulatory-system"><a href="/circulatory-system">Circulatory system</a></h3>
-<ul>
-<li><a href="/circulatory-system-functions">Circulatory system functions</a></li>
-<li><a href="/blood-cells">Blood cells</a></li>
-<li><a href="/white-blood-cell">White blood cell (WBC)</a></li>
-<li><a href="/red-blood-cell">Red blood cell (RBC)</a></li>
-<li><a href="/platelet">Platelet</a></li>
-</ul>
-<h3 id="lymphatic-system"><a href="/lymphatic-system">Lymphatic system</a></h3>
-<ul>
-<li><a href="/lymph">Lymph</a></li>
-<li><a href="/lymph-node">Lymph node</a></li>
-</ul>
-<h3 id="limbic-system"><a href="/limbic-system">Limbic system</a></h3>
-<ul>
-<li><a href="/limbic-system-impairment">Limbic system impairment</a></li>
-</ul>
-<h3 id="inflammation"><a href="/inflammation">Inflammation</a></h3>
-<ul>
-<li><a href="/histamine">Histamine</a></li>
-<li><a href="/antihistamine">Antihistamine</a></li>
-<li><a href="/antihistamine-types">Antihistamine types</a></li>
-<li><a href="/diamine-oxidase">Diamine oxidase</a></li>
-<li><a href="/tryptase">Tryptase</a></li>
-<li><a href="/heparin">Heparin</a></li>
 </ul>
 <p><img src="/assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/></p>
 <h2 id="conditions">Conditions</h2>
@@ -174,8 +175,8 @@
 <h3 id="sulfur-intolerance"><a href="/sulfur-intolerance">Sulfur intolerance</a></h3>
 <h3 id="telangiectasia-macularis-eruptiva-perstans"><a href="/telangiectasia-macularis-eruptiva-perstans">Telangiectasia Macularis Eruptiva Perstans</a></h3>
 <h3 id="toxin-exposure"><a href="/toxin-exposure">Toxin exposure</a></h3>
-<h2 id="symptoms">Symptoms</h2>
 <p><img src="/assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/></p>
+<h2 id="symptoms">Symptoms</h2>
 <h3 id="bradycardia"><a href="/bradycardia">Bradycardia</a></h3>
 <h3 id="brain-fog"><a href="/brain-fog">Brain fog</a></h3>
 <h3 id="bronchospasm"><a href="/bronchospasm">Bronchospasm</a></h3>
@@ -199,7 +200,7 @@
 <li><p><a href="/serum-tryptase-testing">Serum tryptase testing</a></p></li>
 <li><p><a href="/bone-marrow-biopsy">Bone marrow biopsy</a></p></li>
 </ul>
-<p><img src="/assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/></p>
+<p><img src="/assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/></p>
 <h2 id="treatment-types">Treatment types</h2>
 <h3 id="antihistamine-medications"><a href="/antihistamine-medications">Antihistamine medications</a></h3>
 <ul>

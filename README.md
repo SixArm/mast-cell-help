@@ -21,6 +21,24 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Support groups](topics/support-groups)
 * [Facebook groups](topics/facebook-groups)
 
+### [Circulatory system](topics/circulatory-system)
+
+* [Circulatory system functions](topics/circulatory-system-functions)
+* [Blood cells](topics/blood-cells)
+* [White blood cell (WBC)](topics/white-blood-cell)
+* [Red blood cell (RBC)](topics/red-blood-cell)
+* [Platelet](topics/platelet)
+
+### [Lymphatic system](topics/lymphatic-system)
+
+* [Lymph](topics/lymph)
+* [Lymph node](topics/lymph-node)
+
+### [Limbic system](topics/limbic-system)
+
+* [Limbic system impairment](topics/limbic-system-impairment)
+
+
 <img src="assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="firefighters" style="width: 100%;"/>
 
 ### [Mast cell activation syndrome (MACS)](topics/mast-cell-activation-syndrome)
@@ -33,6 +51,16 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures)
 * [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses)
+
+### [Inflammation](topics/inflammation)
+
+* [Histamine](topics/histamine)
+* [Antihistamine](topics/antihistamine)
+* [Antihistamine types](topics/antihistamine-types)
+* [Diamine oxidase](topics/diamine-oxidase)
+* [Tryptase](topics/tryptase)
+* [Heparin](topics/heparin)
+
 
 <img src="assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/>
 
@@ -62,6 +90,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Low-salicylate diet](topics/low-salicylate-diet)
 * [Low-sodium diet](topics/low-sodium-diet)
 
+<img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
+
 ### [Dietary supplements](topics/dietary-supplements)
 
 * [Considerations](topics/dietary-supplements-considerations)
@@ -88,32 +118,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Electrolytes](topics/electrolytes)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
-
-### [Circulatory system](topics/circulatory-system)
-
-* [Circulatory system functions](topics/circulatory-system-functions)
-* [Blood cells](topics/blood-cells)
-* [White blood cell (WBC)](topics/white-blood-cell)
-* [Red blood cell (RBC)](topics/red-blood-cell)
-* [Platelet](topics/platelet)
-
-### [Lymphatic system](topics/lymphatic-system)
-
-* [Lymph](topics/lymph)
-* [Lymph node](topics/lymph-node)
-
-### [Limbic system](topics/limbic-system)
-
-* [Limbic system impairment](topics/limbic-system-impairment)
-
-### [Inflammation](topics/inflammation)
-
-* [Histamine](topics/histamine)
-* [Antihistamine](topics/antihistamine)
-* [Antihistamine types](topics/antihistamine-types)
-* [Diamine oxidase](topics/diamine-oxidase)
-* [Tryptase](topics/tryptase)
-* [Heparin](topics/heparin)
 
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -194,9 +198,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Toxin exposure](topics/toxin-exposure)
 
 
-## Symptoms
-
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
+
+## Symptoms
 
 ### [Bradycardia](topics/bradycardia)
 
@@ -234,10 +238,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
 
-<img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="medications" style="width: 100%;"/>
+<img src="assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/>
 
 ## Treatment types
-
 
 ### [Antihistamine medications](topics/antihistamine-medications)
 

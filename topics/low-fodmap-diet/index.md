@@ -21,3 +21,141 @@ Key phases…
 2. Reintroduction (Challenge) Phase: After the elimination phase, specific FODMAPs are reintroduced one at a time, in a controlled manner, to identify which ones trigger symptoms in the individual. This phase helps determine personal tolerance and pinpoint the specific FODMAPs that should be limited.
 
 3. Maintenance Phase: Based on the results of the reintroduction phase, a personalized long-term diet is established. This diet includes foods low in FODMAPs that can be consumed without triggering symptoms, while foods high in FODMAPs are limited or avoided.
+
+# Low-FODMAP diet: foods to choose
+
+Vegetables:
+
+* Bell peppers
+* Carrots
+* Cucumbers
+* Lettuce (all types)
+* Spinach
+* Zucchini
+
+Fruits:
+
+* Bananas (unripe)
+* Blueberries
+* Grapes
+* Kiwi
+* Oranges
+* Strawberries
+
+Proteins:
+
+* Chicken
+* Eggs
+* Fish (e.g., salmon, cod)
+* Tofu (firm or extra firm)
+* Turkey
+
+Grains:
+
+* Gluten-free oats (small servings)
+* Quinoa (small servings)
+* Rice (white or brown)
+
+Dairy Alternatives:
+
+* Almond milk (unsweetened)
+* Lactose-free dairy products (e.g., lactose-free milk, yogurt)
+* Oat milk (unflavored and unsweetened)
+* Rice milk (unflavored and unsweetened)
+
+Nuts and Seeds:
+
+* Macadamia nuts
+* Pumpkin seeds
+* Sunflower seeds
+* Walnuts
+
+Sweeteners:
+
+* Glucose (corn syrup)
+* Maple syrup (pure)
+* Stevia
+
+Condiments and Spices:
+
+* Mustard
+* Olive oil
+* Salt (in moderation)
+* Vinegar (balsamic, red wine, white wine)
+
+Meats and Poultry:
+
+* Beef
+* Lamb
+* Pork
+* Poultry (chicken, turkey)
+
+Seafood:
+
+* Clams
+* Mussels
+* Shrimp
+* Squid
+
+# Low-FODMAP diet: foods to avoid
+
+Vegetables:
+
+* Artichokes
+* Asparagus
+* Cauliflower
+* Garlic
+* Onions (including red, white, and shallots)
+* Sugar snap peas
+
+Fruits:
+
+* Apples
+* Apricots
+* Cherries
+* Mangoes
+* Pears
+* Watermelons
+
+Legumes:
+
+* Baked beans
+* Black beans
+* Chickpeas
+* Lentils
+* Kidney beans
+* Soybeans
+
+Dairy:
+
+* Cow milk
+* Ice cream
+* Soft cheeses (e.g., ricotta, cottage cheese)
+* Yogurt
+
+Grains:
+
+* Barley
+* Rye
+* Wheat (products containing wheat, including bread and pasta)
+
+Sweeteners:
+
+* High-fructose corn syrup
+* Honey
+* Sorbitol
+* Xylitol
+
+Nuts and Seeds:
+
+* Cashews
+* Pistachios
+
+Artificial Sweeteners:
+
+* Isomalt
+* Mannitol
+
+Processed Foods:
+
+* Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it's essential to check labels and ingredient lists

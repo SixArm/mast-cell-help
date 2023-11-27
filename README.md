@@ -52,47 +52,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
-## Nutrition Diets
+## [Elimination diet](topics/elimination-diet)
 
-### [Elimination diet](topics/elimination-diet)
-
-* [Elimination diet conditions](topics/elimination-diet-for-conditions)
-* [Foods to avoid](topics/elimination-diet-foods-to-avoid)
-
-### [Low-histamine diet](topics/low-histamine-diet)
-
-* [Foods to choose](topics/low-histamine-diet-foods-to-choose)
-* [Foods to avoid](topics/low-histamine-diet-foods-to-avoid)
-
-### [Low-allergen diet](topics/low-allergen-diet)
-
-* [Foods to choose](topics/low-allergen-diet-foods-to-choose)
-* [Foods to avoid](topics/low-allergen-diet-foods-to-avoid)
-
-### [Low-oxalate diet](topics/low-oxalate-diet)
-
-* [Foods to choose](topics/low-oxalate-diet-foods-to-choose)
-* [Foods to avoid](topics/low-oxalate-diet-foods-to-avoid)
-
-### [Low-lectin diet](topics/low-lectin-diet)
-
-* [Foods to choose](topics/low-lectin-diet-foods-to-choose)
-* [Foods to avoid](topics/low-lectin-diet-foods-to-avoid)
-
-### [Low-FODMAP diet](topics/low-fodmap-diet)
-
-* [Foods to choose](topics/low-fodmap-diet-foods-to-choose)
-* [Foods to avoid](topics/low-fodmap-diet-foods-to-avoid)
-
-### [Low-salicylate diet](topics/low-salicylate-diet)
-
-* [Foods to choose](topics/low-salicylate-diet-foods-to-choose)
-* [Foods to avoid](topics/low-salicylate-diet-foods-to-avoid)
-
-### [Low-sodium diet](topics/low-sodium-diet)
-
-* [Foods to choose](topics/low-sodium-diet-foods-to-choose)
-* [Foods to avoid](topics/low-sodium-diet-foods-to-avoid)
+* [Low-histamine diet](topics/low-histamine-diet)
+* [Low-allergen diet](topics/low-allergen-diet)
+* [Low-oxalate diet](topics/low-oxalate-diet)
+* [Low-lectin diet](topics/low-lectin-diet)
+* [Low-FODMAP diet](topics/low-fodmap-diet)
+* [Low-salicylate diet](topics/low-salicylate-diet)
+* [Low-sodium diet](topics/low-sodium-diet)
 
 ### [Dietary supplements](topics/dietary-supplements)
 

@@ -11,3 +11,37 @@ Salicylates are found in a wide range of foods, including fruits (especially ber
 Salicylates are also found in non-food products, such as aspirin and some skincare products.
 
 Before starting a low-salicylate diet, it is advisable to consult with a healthcare provider or dietitian. They can help determine whether such a diet is appropriate for you, guide you on food choices, and monitor your nutritional intake to prevent deficiencies. Additionally, if you suspect that salicylates are causing health issues, it's essential to consult with a healthcare provider for a proper diagnosis and management plan.
+
+# Low-salicylate diet: foods to choose
+
+For a low-salicylate diet, here are foods that are generally considered safe to choose:
+
+* **Low-salicylate fruits**: pears, papayas, and melons.
+
+* **Low-salicylate vegetables**: carrots, sweet potatoes, and zucchini.
+
+* **Lean proteins**: chicken, turkey, and fish.
+
+* Dairy products (if tolerated).
+
+* **Grains**: rice, rice noodles, and oatmeal.
+
+* **Non-caffeinated beverages**: water, herbal teas.
+
+* Oils and fats.
+
+# Low-salicylate diet: foods to avoid
+
+For a low-salicylate diet, here are items to avoid or limit:
+
+* High-salicylate fruits and vegetables.
+
+* Spices and herbs, especially those with strong flavors.
+
+* High-salicylate nuts, like almonds and peanuts.
+
+* Some grains, like wheat and rye.
+
+* Caffeinated beverages, alcohol, and certain food additives.
+
+* Processed foods with artificial colors and flavors.

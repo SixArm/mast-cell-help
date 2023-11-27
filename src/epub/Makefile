@@ -15,7 +15,7 @@ clean:
 	rm -f ${links} ${bound} ${output}
 
 ${links}:
-	shell sed -n '/^## Contents$$/,$$p' "${top}/README.md" > ${links}
+	sed -n '/^## Contents$$/,$$p' "${top}/README.md" | sed 's/(topics/(/' > ${links}
 
 ${bound}:
 	book-binder start.yml ${links} ${bound} "${top}/topics"

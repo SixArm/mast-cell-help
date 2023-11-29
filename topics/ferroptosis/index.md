@@ -4,7 +4,7 @@ Ferroptosis is a form of regulated cell death, characterized by the iron-depende
 
 Researchers are exploring the potential for therapeutic interventions that can modulate ferroptosis to treat these conditions. This includes the development of drugs that target specific pathways involved in ferroptosis, such as inhibitors of lipid peroxidation or iron chelators to reduce iron availability.
 
-**Key aspects**:
+****Key aspects**:
 
 * **Lipid Peroxidation**: Ferroptosis involves the oxidative damage of lipids, specifically the peroxidation of polyunsaturated fatty acids in cell membranes. This process generates toxic lipid molecules known as lipid peroxides.
 

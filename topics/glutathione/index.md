@@ -2,7 +2,7 @@
 
 Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health.
 
-**Key aspects**:
+****Key aspects**:
 
 * **Antioxidant Defense**: Glutathione is one of the body's primary antioxidants. It helps protect cells from damage caused by free radicals and reactive oxygen species. This role is vital for maintaining cellular integrity and reducing the risk of chronic diseases, including heart disease, cancer, and neurodegenerative conditions.
 

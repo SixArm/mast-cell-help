@@ -4,7 +4,7 @@ Lyme disease is an infectious illness caused by the bacterium Borrelia burgdorfe
 
 Lyme disease is more easily treated in its early stages, so prompt medical attention is essential. If you suspect you have been exposed to ticks, consult a healthcare provider for evaluation, testing, and treatment.
 
-**Key aspects**:
+****Key aspects**:
 
 * **Early Symptoms**: Lyme disease typically progresses through stages. In the early stage, within 3 to 30 days after a tick bite, individuals may experience flu-like symptoms, including fever, chills, fatigue, headache, muscle and joint aches, and swollen lymph nodes. A characteristic early sign is a circular, red rash with a clear center that resembles a "bull's-eye." This rash is called erythema migrans.
 

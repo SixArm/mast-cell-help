@@ -2,7 +2,7 @@
 
 Copper is an essential trace element that is important for various physiological processes in the human body. While copper is required in very small amounts, it plays a critical role in functions such as the formation of red blood cells, connective tissue, and the central nervous system.
 
-**Key aspects**:
+****Key aspects**:
 
 * **Dietary Sources**: Copper is naturally present in a variety of foods, including organ meats (liver, kidney), seafood (especially oysters and crab), nuts (especially cashews), seeds, whole grains, legumes, and certain fruits and vegetables.
 

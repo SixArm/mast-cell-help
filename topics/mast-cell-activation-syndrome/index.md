@@ -2,7 +2,7 @@
 
 Mast Cell Activation Syndrome (MCAS) is a medical condition that involves the inappropriate activation of mast cells in the body. Mast cells are immune cells that play a crucial role in the body's response to allergens and other immune triggers. When mast cells become activated, they release various chemical mediators, including histamine and cytokines, which can lead to a wide range of symptoms.
 
-MCAS is characterized by the following features:
+**Key aspects**:
 
 * **Excessive Mast Cell Activation**: In individuals with MCAS, mast cells are overly sensitive and can activate in response to a wide range of stimuli, even non-allergic triggers. These triggers can include stress, heat, cold, certain foods, medications, and more.
 

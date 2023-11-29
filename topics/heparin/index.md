@@ -4,7 +4,7 @@ Heparin is an anticoagulant medication, which means it helps prevent the formati
 
 Heparin is a fast-acting anticoagulant, but its effects are reversible, making it a valuable tool in the prevention and treatment of clot-related conditions.
 
-Heparin is commonly used in various medical scenarios:
+**Common uses**:
 
 * **Surgery**: It is used during and after surgical procedures to prevent clot formation in blood vessels, reducing the risk of postoperative complications like deep vein thrombosis (DVT) and pulmonary embolism (PE).
 

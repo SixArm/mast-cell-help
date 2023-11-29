@@ -4,7 +4,7 @@ Genetic polymorphisms, also known as genetic variations or genetic variants, are
 
 Genetic polymorphisms are a fundamental aspect of human genetics and are of great interest in fields like genetics, genomics, and personalized medicine. They contribute to the diversity of traits and susceptibilities among individuals and populations.
 
-Key points…
+**Key points**:
 
 * **Single Nucleotide Polymorphisms (SNPs)**: SNPs are the most common type of genetic polymorphism. They involve a single base-pair change in the DNA sequence. For example, at a specific position in a gene, one person's DNA might have an "A," while another person's DNA at the same position has a "G." SNPs can be associated with variations in traits, susceptibility to diseases, and responses to treatments.
 

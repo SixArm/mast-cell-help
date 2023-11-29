@@ -6,7 +6,7 @@
 
 <h1 id="vitamin-c">Vitamin C</h1>
 <p>Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that plays a crucial role in maintaining good health. It is considered an essential nutrient, meaning that the human body cannot produce it on its own and must obtain it from dietary sources. Vitamin C has several important functions in the body, and it is well-known for its immune-boosting and antioxidant properties.</p>
-<p><strong>Key aspects</strong>:</p>
+<p><strong>**Key aspects**:trong>:</p>
 <ul>
 <li><p><strong>Antioxidant Properties</strong>: Vitamin C is a potent antioxidant, which means it helps protect cells from oxidative damage caused by free radicals and reactive oxygen species. Antioxidants are essential for overall health and play a role in reducing the risk of chronic diseases, including heart disease, cancer, and age-related conditions.</p></li>
 <li><p><strong>Immune Support</strong>: Vitamin C is often associated with immune system health. It helps stimulate the production of white blood cells, enhances the function of immune cells, and plays a role in the body’s defense against infections.</p></li>

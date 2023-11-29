@@ -1,6 +1,6 @@
 # Anaphylaxis symptoms
 
-Anaphylaxis is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly, cany involve multiple systems in the body, and can be fatal. Seek emergency help immediately.
+Anaphylaxis is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly and can be fatal. Seek emergency help immediately.
 
 Skin Symptoms:
 
@@ -12,15 +12,11 @@ Skin Symptoms:
 
 Respiratory Symptoms:
 
-* Shortness of breath or difficulty breathing
-
-* Wheezing (a high-pitched whistling sound while breathing)
+* Breathing difficulties, wheezing, stridor.
 
 * Coughing
 
 * Chest tightness
-
-* Stridor, a high-pitched, crowing sound during inhalation
 
 Cardiovascular Symptoms:
 

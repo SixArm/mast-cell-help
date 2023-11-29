@@ -4,7 +4,7 @@ Red blood cells (RBCs), also known as erythrocytes, are the most abundant type o
 
 Abnormalities in red blood cell production or function can lead to various medical conditions, including anemia (a deficiency in the number or function of red blood cells), polycythemia (an excess of red blood cells), sickle cell anemia, and thalassemia.
 
-****Key aspects**:
+**Key aspects**:
 
 * **Shape and Structure**: Red blood cells are small, flexible, and biconcave in shape, which provides a large surface area for the exchange of gases and allows them to pass through tiny capillaries.
 

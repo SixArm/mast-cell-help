@@ -6,7 +6,7 @@
 
 <h1 id="turmeric">Turmeric</h1>
 <p>Turmeric is a bright yellow spice derived from the root of the Curcuma longa plant, which is native to Southeast Asia. It is a popular dietary supplement and natural remedy known for its potential health benefits. The key bioactive compound in turmeric is curcumin, which is believed to have anti-inflammatory and antioxidant properties.</p>
-<p><strong>Key aspects</strong>:</p>
+<p><strong>**Key aspects**:trong>:</p>
 <ul>
 <li><p><strong>Anti-Inflammatory Effects</strong>: Curcumin is known for its anti-inflammatory properties and is thought to help reduce inflammation in the body. Chronic inflammation is believed to play a role in the development of various diseases.</p></li>
 <li><p><strong>Antioxidant Properties</strong>: Curcumin is also considered a powerful antioxidant, which means it can help protect cells from damage caused by free radicals.</p></li>

@@ -1,6 +1,8 @@
 # Low-histamine diet
 
-A low-histamine diet is a dietary approach that restricts foods and beverages high in histamine, as well as those that can trigger the release of histamine or interfere with histamine metabolism. This type of diet is often recommended for individuals with conditions such as Mast Cell Activation Syndrome (MCAS), histamine intolerance, and certain allergic disorders where histamine plays a significant role in symptoms. A low-histamine diet aims to reduce the symptoms associated with an excess of histamine in the body, such as skin rashes, itching, hives, gastrointestinal issues, and more.
+A low-histamine diet is a dietary approach that restricts foods and beverages high in histamine, as well as those that can trigger the release of histamine or interfere with histamine metabolism. This type of diet is often recommended for individuals with conditions such as Mast Cell Activation Syndrome (MCAS), histamine intolerance, and certain allergic disorders where histamine plays a significant role in symptoms. 
+
+A low-histamine diet aims to reduce the symptoms associated with an excess of histamine in the body, such as skin rashes, itching, hives, gastrointestinal issues, and more.
 
 * **Foods to choose**: fresh meats, most fresh vegetables, some fresh fruits, some non-dairy milks, some gluten-free grains, and olive oil.
 
@@ -12,7 +14,7 @@ A low-histamine diet should be followed under the guidance of a healthcare profe
 
 # Low-histamine diet: foods to choose
 
-For a low-histamine diet, these items are generally considered safe to choose:
+For a low-histamine diet, these items are generally considered safe to choose.
 
 * **Fresh Meats**: Fresh, unprocessed meats such as chicken, turkey, beef, and pork are generally considered low in histamine.
 
@@ -28,7 +30,7 @@ For a low-histamine diet, these items are generally considered safe to choose:
 
 # Low-histamine diet: foods to avoid
 
-For a low-histamine diet, here are items to avoid or limit:
+For a low-histamine diet, here are items to avoid or limit.
 
 * **Fermented Foods**: These are among the highest histamine-containing foods. Examples include aged cheeses, sauerkraut, yogurt, and kombucha.
 

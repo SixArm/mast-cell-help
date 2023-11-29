@@ -2,7 +2,7 @@
 
 Mast cell genetics refers to the study of the genetic factors and mutations associated with mast cells, a type of white blood cell that plays a central role in the body's immune response, particularly in allergic and inflammatory reactions. Understanding the genetics of mast cells is essential for comprehending various medical conditions and disorders related to mast cell function.
 
-****Key aspects**:
+**Key aspects**:
 
 * **Mast Cell Development**: Mast cells originate from hematopoietic stem cells in the bone marrow. Genetic factors influence the differentiation and development of mast cells from these stem cells.
 

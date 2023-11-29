@@ -14,8 +14,8 @@ It's essential to emphasize that a strict low-lectin diet can be quite restricti
 
 Vegetables:
 
-* **Leafy greens**: Spinach, kale, lettuce, Swiss chard.
-* **Cruciferous vegetables**: Broccoli, cauliflower, Brussels sprouts.
+* Leafy greens: Spinach, kale, lettuce, Swiss chard.
+* Cruciferous vegetables: Broccoli, cauliflower, Brussels sprouts.
 * Zucchini and summer squash.
 * Bell peppers.
 
@@ -28,10 +28,10 @@ Fruits:
 
 Animal Protein:
 
-* **Meat**: Beef, pork, lamb, poultry (chicken, turkey).
-* **Fish**: Most types of fish.
-* **Seafood**: Shrimp, crab, lobster.
-* **Eggs**: Eggs are lectin-free.
+* Meat: Beef, pork, lamb, poultry (chicken, turkey).
+* Fish: Most types of fish.
+* Seafood: Shrimp, crab, lobster.
+* Eggs: Eggs are lectin-free.
 
 Animal Dairy:
 

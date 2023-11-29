@@ -4,7 +4,7 @@ Burning Mouth Syndrome (BMS) is a complex and often painful condition characteri
 
 It's important to note that BMS is a diagnosis of exclusion, meaning that other possible causes of oral discomfort and burning sensations must be ruled out before a diagnosis of BMS is made.
 
-Key aspects…
+**Key aspects**:
 
 Symptoms: The primary symptom of BMS is a burning, scalding, or tingling sensation in the mouth. Some individuals may also experience other oral discomforts, such as dry mouth, altered taste (dysgeusia), or a metallic taste.
 

@@ -13,7 +13,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Introduction](topics/introduction)
 
-* [What are mast cells?](topics/what-are-mast-cells)
+### [What are mast cells?](topics/what-are-mast-cells)
+
 * [Where are mast cells?](topics/where-are-mast-cells)
 * [What doctors and providers can help?](topics/what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider)
@@ -23,7 +24,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Circulatory system](topics/circulatory-system)
 
-* [Circulatory system functions](topics/circulatory-system-functions)
 * [Blood cells](topics/blood-cells)
 * [White blood cell (WBC)](topics/white-blood-cell)
 * [Red blood cell (RBC)](topics/red-blood-cell)
@@ -118,6 +118,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Electrolytes](topics/electrolytes)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
+* [Antimicrobial herbs](topics/antimicrobial-herbs)
 
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -165,6 +166,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Lifestyle management](topics/asthma-lifestyle-management)
 
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
+
+### [Diverticulosis](topics/diverticulosis)
 
 ### [Dysautonomia](topics/dysautonomia)
 

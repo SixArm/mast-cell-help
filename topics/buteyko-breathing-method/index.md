@@ -2,7 +2,7 @@
 
 The Buteyko Breathing Method is a set of breathing techniques designed to address various health issues, particularly those related to breathing difficulties and respiratory conditions, by teaching individuals how to modify their breathing patterns.
 
-Key aspects…
+**Key aspects**:
 
 * **Shallow Breathing**: The method emphasizes the importance of breathing gently and shallowly through the nose. It encourages a reduced rate and volume of breathing to maintain healthy carbon dioxide (CO2) levels in the body.
 

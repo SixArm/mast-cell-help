@@ -2,7 +2,7 @@
 
 Vitamin B1, also known as thiamine, is one of the eight B-vitamins essential for various bodily functions. Thiamine plays a crucial role in energy metabolism, as it is a coenzyme necessary for the conversion of carbohydrates into energy. It also helps maintain proper functioning of the nervous system.
 
-Here are some key functions and sources of vitamin B1 (thiamine):
+**Key aspects**:
 
 * **Energy Metabolism**: Thiamine is a coenzyme involved in several enzymatic reactions that help convert carbohydrates into adenosine triphosphate (ATP), the body's primary source of energy.
 
@@ -14,6 +14,6 @@ Here are some key functions and sources of vitamin B1 (thiamine):
 
 * **Red Blood Cell Formation**: It is also involved in the production of red blood cells.
 
-Dietary sources of thiamine include whole grains, enriched cereals, beans, nuts, lean pork, and yeast. Thiamine is water-soluble, meaning that it is not stored in the body, and excess amounts are excreted in the urine. Therefore, it needs to be regularly consumed in the diet to meet the body's requirements.
+Dietary sources of thiamine include whole grains, enriched cereals, beans, nuts, lean pork, and yeast. Thiamine is water-soluble, meaning that it is not stored in the body, and excess amounts are excreted in the urine.
 
-Thiamine deficiency can lead to a condition known as beriberi, which is characterized by symptoms such as muscle weakness, nerve damage, and difficulty with basic bodily functions. In severe cases, it can be life-threatening. To prevent thiamine deficiency, it's important to maintain a balanced diet that includes foods rich in vitamin B1.
+Thiamine deficiency can lead to a condition known as beriberi, which is characterized by symptoms such as muscle weakness, nerve damage, and difficulty with basic bodily functions.

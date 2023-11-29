@@ -6,7 +6,7 @@
 
 <h1 id="glutathione">Glutathione</h1>
 <p>Glutathione is a tripeptide molecule composed of three amino acids: cysteine, glutamic acid, and glycine. It is a potent antioxidant that plays a crucial role in protecting cells from oxidative stress and maintaining overall health.</p>
-<p><strong>Key aspects</strong>:</p>
+<p><strong>**Key aspects**:trong>:</p>
 <ul>
 <li><p><strong>Antioxidant Defense</strong>: Glutathione is one of the body’s primary antioxidants. It helps protect cells from damage caused by free radicals and reactive oxygen species. This role is vital for maintaining cellular integrity and reducing the risk of chronic diseases, including heart disease, cancer, and neurodegenerative conditions.</p></li>
 <li><p><strong>Detoxification</strong>: Glutathione plays a central role in the body’s detoxification processes, particularly in the liver. It binds to and helps remove various toxins, drugs, and heavy metals, aiding in their elimination from the body.</p></li>

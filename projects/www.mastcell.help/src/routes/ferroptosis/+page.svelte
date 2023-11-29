@@ -7,7 +7,7 @@
 <h1 id="ferroptosis">Ferroptosis</h1>
 <p>Ferroptosis is a form of regulated cell death, characterized by the iron-dependent accumulation of lipid peroxides that ultimately lead to cell membrane damage and cell death. It is different from other forms of cell death, such as apoptosis and necrosis, and has gained attention in the field of cell biology and medicine for its potential role in various diseases, including cancer, neurodegenerative disorders, and ischemia-reperfusion injury.</p>
 <p>Researchers are exploring the potential for therapeutic interventions that can modulate ferroptosis to treat these conditions. This includes the development of drugs that target specific pathways involved in ferroptosis, such as inhibitors of lipid peroxidation or iron chelators to reduce iron availability.</p>
-<p><strong>Key aspects</strong>:</p>
+<p><strong>**Key aspects**:trong>:</p>
 <ul>
 <li><p><strong>Lipid Peroxidation</strong>: Ferroptosis involves the oxidative damage of lipids, specifically the peroxidation of polyunsaturated fatty acids in cell membranes. This process generates toxic lipid molecules known as lipid peroxides.</p></li>
 <li><p><strong>Iron Dependence</strong>: Iron plays a crucial role in ferroptosis. The presence of iron promotes the production of reactive oxygen species (ROS) that contribute to lipid peroxidation and ultimately cell damage.</p></li>

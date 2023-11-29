@@ -1,8 +1,8 @@
 # Omega-3
 
-Omega-3 fatty acids are a class of essential polyunsaturated fats that are important for various aspects of human health. These fats are considered essential because the human body cannot synthesize them on its own and must obtain them from dietary sources.
+Omega-3 fatty acids are a class of essential polyunsaturated fats that are important for various aspects of human health. These fats are considered essential because the human body cannot synthesize them on its own and must obtain them from dietary sources. 
 
-There are three primary types of omega-3 fatty acids that play key roles in health: Alpha-Linolenic Acid (ALA), Eicosapentaenoic Acid (EPA), and Docosahexaenoic Acid (DHA).
+There are three primary types of omega-3 fatty acids that play key roles in health: Alpha-Linolenic Acid (ALA), Eicosapentaenoic Acid (EPA), and Docosahexaenoic Acid (DHA). High ALA foods are flaxseeds, chia seeds, walnuts, and hemp seeds. High EPA and DHA foods are fatty fish like salmon, mackerel, and sardines. Omega-3 supplements can use fish oil capsules or algae-based capsules.
 
 **Key health benefits**:
 
@@ -19,5 +19,3 @@ There are three primary types of omega-3 fatty acids that play key roles in heal
 * **Joint Health**: Omega-3s may help reduce joint pain and improve joint function in conditions like rheumatoid arthritis.
 
 * **Skin Health**: Omega-3s can help maintain healthy skin by reducing inflammation and keeping the skin moisturized.
-
-To ensure you're getting enough omega-3 fatty acids, it's recommended to include a variety of sources in your diet. For ALA, incorporate flaxseeds, chia seeds, walnuts, and hemp seeds into your meals. For EPA and DHA, consider eating fatty fish like salmon, mackerel, and sardines regularly. If you have dietary restrictions or specific health concerns, omega-3 supplements, such as fish oil capsules or algae-based supplements, may be recommended by a healthcare provider.

@@ -12,6 +12,6 @@ Vitamin B12, also known as cobalamin, is a water-soluble B-vitamin that plays a 
 
 * **Methyl Group Transfer**: Vitamin B12 is essential for the transfer of methyl groups in various biochemical reactions. This is important for various processes, including the conversion of homocysteine to methionine. Elevated homocysteine levels are associated with an increased risk of cardiovascular disease.
 
-Dietary sources of vitamin B12 include animal products such as meat, poultry, fish, eggs, and dairy products. It is not found in plant-based foods, so vegetarians and vegans need to obtain B12 from fortified foods or supplements. The human body can store vitamin B12 in the liver for several years, so deficiency is relatively rare but can occur, especially in people with certain medical conditions that affect absorption.
+* **Deficiency**: It can lead to a range of symptoms, including anemia, fatigue, neurological problems, and potentially irreversible nerve damage if left untreated. 
 
-Vitamin B12 deficiency can lead to a range of symptoms, including anemia, fatigue, neurological problems, and potentially irreversible nerve damage if left untreated. To prevent deficiency, it's important to include sources of vitamin B12 in the diet or, in cases of deficiency or dietary restrictions, take B12 supplements as recommended by a healthcare professional.
+Dietary sources of vitamin B12 include animal products such as meat, poultry, fish, eggs, and dairy products. It is not found in plant-based foods, so vegetarians and vegans need to obtain B12 from fortified foods or supplements. The human body can store vitamin B12 in the liver for several years, so deficiency is relatively rare but can occur.

@@ -4,7 +4,7 @@ An elimination diet is a dietary approach used to identify and eliminate specifi
 
 An elimination diet should be carried out under the guidance of a healthcare professional or registered dietitian, as it can be challenging to implement effectively. They can help create a tailored plan, monitor progress, and ensure that the diet remains balanced and nutritious. Additionally, healthcare providers may recommend allergy testing or other diagnostic tests to assist in the process.
 
-The process typically involves three main phases:
+**The three phases**:
 
 * **Elimination Phase**: During this phase, the individual removes specific foods or food groups from their diet that are suspected of causing adverse reactions. These foods are chosen based on the person's medical history, symptoms, and, in some cases, allergy testing. The elimination phase typically lasts 2 to 4 weeks.
 

@@ -4,7 +4,7 @@ Rheumatoid arthritis (RA) is an autoimmune disease that primarily affects the jo
 
 RA is considered a systemic disease because it can affect multiple organ systems. RA is a chronic condition that requires ongoing management and support from healthcare providers.
 
-Key aspects…
+**Key aspects**:
 
 * **Symptoms**: Common symptoms of RA include joint pain, swelling, and stiffness, which are often more pronounced in the morning or after periods of inactivity. RA typically affects joints on both sides of the body, such as the wrists, knees, and fingers.
 

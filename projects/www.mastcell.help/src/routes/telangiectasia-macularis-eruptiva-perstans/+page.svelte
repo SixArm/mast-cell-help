@@ -6,7 +6,7 @@
 
 <h1 id="telangiectasia-macularis-eruptiva-perstans-tmep">Telangiectasia Macularis Eruptiva Perstans (TMEP)</h1>
 <p>Telangiectasia Macularis Eruptiva Perstans (TMEP) is a rare skin disorder characterized by the presence of small, red to violet, macular (flat) skin lesions known as telangiectasias. These telangiectasias are caused by the dilation of small blood vessels near the surface of the skin. TMEP is considered a subtype of cutaneous mastocytosis, a group of disorders associated with an abnormal accumulation of mast cells in the skin.</p>
-<p><strong>Key aspects</strong>:</p>
+<p><strong>**Key aspects**:trong>:</p>
 <ul>
 <li><p><strong>Skin Lesions</strong>: The primary and most noticeable feature of TMEP is the presence of telangiectasias, which are small, red to violet spots on the skin. These spots are typically flat and may vary in size.</p></li>
 <li><p><strong>Mast Cell Infiltration</strong>: Mast cells are a type of immune cell that plays a role in allergic reactions. In TMEP, mast cells accumulate in the skin, leading to the characteristic skin lesions and related symptoms.</p></li>

@@ -6,7 +6,7 @@
 
 <h1 id="buteyko-breathing-method">Buteyko breathing method</h1>
 <p>The Buteyko Breathing Method is a set of breathing techniques designed to address various health issues, particularly those related to breathing difficulties and respiratory conditions, by teaching individuals how to modify their breathing patterns.</p>
-<p>Key aspects…</p>
+<p>**Key aspects**:p>
 <ul>
 <li><p><strong>Shallow Breathing</strong>: The method emphasizes the importance of breathing gently and shallowly through the nose. It encourages a reduced rate and volume of breathing to maintain healthy carbon dioxide (CO2) levels in the body.</p></li>
 <li><p><strong>Nasal Breathing</strong>: Breathing through the nose is a fundamental aspect of the Buteyko method. The nose helps filter, humidify, and warm the incoming air, as well as play a role in producing nitric oxide, which has various health benefits.</p></li>

@@ -7,7 +7,7 @@
 <h1 id="traditional-chinese-medicine-tcm">Traditional Chinese Medicine (TCM)</h1>
 <p>Traditional Chinese Medicine (TCM) is a comprehensive and ancient system of medicine that has been practiced for thousands of years in China and other parts of East Asia.</p>
 <p>TCM is founded on a holistic understanding of the human body, emphasizing the interconnectedness of physical, mental, and emotional well-being. It uses concepts such as Yin and Yang, the Five Elements (Wood, Fire, Earth, Metal, Water), and the flow of Qi to diagnose and treat health issues.</p>
-<p>Key aspects…</p>
+<p>**Key aspects**:p>
 <ul>
 <li><p><strong>Acupuncture</strong>: Acupuncture involves the insertion of thin needles into specific points on the body to stimulate and balance the flow of vital energy, known as “Qi” or “Chi”.</p></li>
 <li><p><strong>Herbal Medicine</strong>: TCM employs a wide array of medicinal herbs and natural substances to create herbal remedies.</p></li>

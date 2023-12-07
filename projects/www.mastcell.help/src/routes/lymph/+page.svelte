@@ -7,7 +7,7 @@
 <h1 id="lymph">Lymph</h1>
 <p>Lymph is a colorless fluid that circulates in the body, to maintain tissue health and support the immune system. Lymph is produced as an extracellular fluid, known as interstitial fluid, that bathes the cells and tissues of the body. Lymph is collected and transported through a network of lymphatic vessels and lymph nodes.</p>
 <p>When the body fights an infection or deals with inflammation, the lymphatic system can become more active, resulting in symptoms like swollen lymph nodes and increased production of lymphocytes to combat the infection.</p>
-<p><strong>**Key aspects**:trong>:</p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
 <li><p><strong>Fluid Balance</strong>: Lymph helps regulate the balance of fluids in the body by collecting excess fluid, proteins, and waste products that have leaked from blood vessels and surrounding tissues. This excess fluid is returned to the bloodstream.</p></li>
 <li><p><strong>Immune Function</strong>: Lymph contains white blood cells, primarily lymphocytes. Lymphocytes play a key role in identifying and fighting off infections and diseases.</p></li>

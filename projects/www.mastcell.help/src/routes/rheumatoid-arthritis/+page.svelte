@@ -7,7 +7,7 @@
 <h1 id="rheumatoid-arthritis-ra">Rheumatoid arthritis (RA)</h1>
 <p>Rheumatoid arthritis (RA) is an autoimmune disease that primarily affects the joints but can also impact other parts of the body. It is characterized by inflammation in the synovium, the lining of the membranes that surround the joints. This chronic inflammation can lead to joint damage, pain, stiffness, and functional impairment.</p>
 <p>RA is considered a systemic disease because it can affect multiple organ systems. RA is a chronic condition that requires ongoing management and support from healthcare providers.</p>
-<p>**Key aspects**:p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
 <li><p><strong>Symptoms</strong>: Common symptoms of RA include joint pain, swelling, and stiffness, which are often more pronounced in the morning or after periods of inactivity. RA typically affects joints on both sides of the body, such as the wrists, knees, and fingers.</p></li>
 <li><p><strong>Diagnosis</strong>: Diagnosis is based on a combination of clinical evaluation, medical history, blood tests (e.g., rheumatoid factor and anti-cyclic citrullinated peptide or anti-CCP antibodies), and imaging studies (e.g., X-rays or MRI).</p></li>

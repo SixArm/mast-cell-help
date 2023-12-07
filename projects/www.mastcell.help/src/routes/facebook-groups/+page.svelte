@@ -6,7 +6,7 @@
 
 <h1 id="facebook-groups">Facebook groups</h1>
 <ul>
-<li><p><a href="https://www.facebook.com/groups/1489732487968980/">Mast Cell “Activation” Disorders Forum</a> <!-- 38K members. Posted. --></p></li>
+<li><p><a href="https://www.facebook.com/groups/1489732487968980/">Mast Cell “Activation” Disorders Forum</a> <!-- 38K members. Posted website but not approved. --></p></li>
 <li><p><a href="https://www.facebook.com/groups/486532874778463">Mastocytosis and Mast Cell Disorders-An Integrative Approach</a> <!-- 23K members. Posted. --></p></li>
 <li><p><a href="https://www.facebook.com/groups/tmsforacure/">The Mast Cell Disease Society - Support Group for Mastocytosis, MCAS, HaT</a> <!-- 19K members. --></p></li>
 <li><p><a href="https://www.facebook.com/groups/267141288287526/">Mast Cell Activation Group (MCAS) Support</a> <!-- 8K members --></p></li>

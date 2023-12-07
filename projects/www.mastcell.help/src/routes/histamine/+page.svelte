@@ -7,7 +7,7 @@
 <h1 id="histamine">Histamine</h1>
 <p>Histamine is a biologically active compound that acts as a neurotransmitter and plays several important roles in the body. It is produced and released by mast cells and basophils, two types of white blood cells, as well as by certain cells in the stomach lining.</p>
 <p>Histamine receptors are found throughout the body, and their activation can have various effects. The different effects depend on the type of histamine receptor and its location in the body.</p>
-<p>Here are some key functions and effects of histamine:</p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
 <li><p><strong>Allergic Response</strong>: Histamine is a central mediator in the body’s response to allergens. When allergens come into contact with mast cells, these cells release histamine. Histamine then causes a cascade of reactions that lead to the typical symptoms of allergies.</p></li>
 <li><p><strong>Inflammation</strong>: Histamine is involved in the body’s inflammatory response. It helps to increase the permeability of blood vessels, allowing white blood cells to reach the site of infection or injury more easily.</p></li>

@@ -7,7 +7,7 @@
 <h1 id="anaphylaxis">Anaphylaxis</h1>
 <p>Anaphylaxis is a severe, life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can affect multiple systems in the body and can lead to a sudden drop in blood pressure and airway constriction, making it difficult to breathe.</p>
 <p>If you or someone you are with is experiencing symptoms of anaphylaxis, seek emergency medical help immediately. Anaphylaxis can be fatal.</p>
-<p>Common triggers for anaphylaxis include:</p>
+<p><strong>Common triggers</strong>:</p>
 <ul>
 <li><p><strong>Food Allergens</strong>: Foods like peanuts, tree nuts, shellfish, milk, eggs, and wheat are common triggers for anaphylaxis.</p></li>
 <li><p><strong>Insect Stings</strong>: Stings from bees, wasps, hornets, yellow jackets, and fire ants can cause anaphylaxis.</p></li>

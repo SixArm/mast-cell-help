@@ -6,7 +6,7 @@
 
 <h1 id="anaphylaxis-severity">Anaphylaxis severity</h1>
 <p>Anaphylaxis is a severe and potentially life-threatening allergic reaction. Severity of anaphylaxis can escalate rapidly, and the presentation can vary from person to person.</p>
-<p>Here’s a general description of anaphylaxis severity…</p>
+<p><strong>Severity levels</strong>:</p>
 <ul>
 <li><p><strong>Mild Anaphylaxis</strong>: Symptoms are minor and have limited effect on the individual’s overall health. Symptoms may include skin reactions like hives, mild itching, or mild swelling, without severe respiratory or cardiovascular involvement. The person may not experience significant breathing difficulties or a drop in blood pressure. Mild anaphylaxis often responds well to prompt treatment with epinephrine and antihistamines.</p></li>
 <li><p><strong>Moderate Anaphylaxis</strong>: Symptoms are more pronounced and may include more severe skin reactions (such as widespread hives or significant swelling) along with respiratory symptoms like wheezing and moderate difficulty breathing. While there may be some cardiovascular effects, blood pressure is not severely affected. Epinephrine is still a key treatment, and individuals with moderate anaphylaxis may require more extensive medical evaluation and treatment.</p></li>

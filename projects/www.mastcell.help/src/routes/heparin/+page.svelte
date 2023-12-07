@@ -7,7 +7,7 @@
 <h1 id="heparin">Heparin</h1>
 <p>Heparin is an anticoagulant medication, which means it helps prevent the formation of blood clots. It is commonly used in medical settings to prevent and treat conditions in which the formation of blood clots poses a risk to a patient’s health. Heparin works by interfering with the body’s blood clotting process, specifically by inhibiting the action of certain clotting factors in the blood.</p>
 <p>Heparin is a fast-acting anticoagulant, but its effects are reversible, making it a valuable tool in the prevention and treatment of clot-related conditions.</p>
-<p>Heparin is commonly used in various medical scenarios:</p>
+<p><strong>Common uses</strong>:</p>
 <ul>
 <li><p><strong>Surgery</strong>: It is used during and after surgical procedures to prevent clot formation in blood vessels, reducing the risk of postoperative complications like deep vein thrombosis (DVT) and pulmonary embolism (PE).</p></li>
 <li><p><strong>Treatment of Blood Clots</strong>: Heparin can be used to treat existing blood clots, such as DVT and PE.</p></li>

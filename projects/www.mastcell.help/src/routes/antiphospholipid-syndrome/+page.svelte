@@ -6,10 +6,8 @@
 
 <h1 id="antiphospholipid-syndrome-aps">Antiphospholipid syndrome (APS)</h1>
 <p>Antiphospholipid syndrome (APS), also known as Hughes syndrome, is an autoimmune disorder characterized by the presence of antiphospholipid antibodies in the blood. These antibodies can lead to abnormal blood clotting in arteries and veins, as well as a range of other symptoms.</p>
-<p>APS can be primary, meaning it occurs on its own, or secondary, when it is associated with another autoimmune disorder, such as systemic lupus erythematosus (SLE).</p>
-<p>Diagnosing APS typically involves blood tests to detect the presence of antiphospholipid antibodies, as well as confirming the clinical criteria, which may include a history of blood clots or pregnancy complications. Treatment aims to prevent blood clots and manage the associated symptoms. This may involve anticoagulant medications, such as warfarin or heparin, and other measures to reduce clotting risk.</p>
-<p>Management of APS also involves addressing other health issues or complications that may arise due to the syndrome, such as managing cardiovascular disease or pregnancy-related concerns. Antiphospholipid syndrome is a lifelong condition, and regular monitoring and medical management are essential to reduce the risk of blood clots and associated complications.</p>
-<p>**Key aspects**:p>
+<p>Treatment aims to prevent blood clots and manage the associated symptoms. This may involve anticoagulant medications, such as warfarin or heparin, and other measures to reduce clotting risk.</p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
 <li><p><strong>Antiphospholipid Antibodies</strong>: The hallmark of APS is the presence of antiphospholipid antibodies in the blood. These antibodies can target various phospholipids, a type of lipid molecule found in cell membranes.</p></li>
 <li><p><strong>Hypercoagulability</strong>: People with APS are at an increased risk of abnormal blood clot formation, both in the veins (venous thrombosis) and arteries (arterial thrombosis). This can lead to conditions such as deep vein thrombosis (DVT), pulmonary embolism, stroke, and heart attacks.</p></li>

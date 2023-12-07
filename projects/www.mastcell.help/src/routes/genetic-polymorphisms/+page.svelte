@@ -7,7 +7,7 @@
 <h1 id="genetic-polymorphisms">Genetic polymorphisms</h1>
 <p>Genetic polymorphisms, also known as genetic variations or genetic variants, are differences in the DNA sequence among individuals in a population. These variations can involve a single nucleotide change (single nucleotide polymorphisms or SNPs), larger insertions of DNA segments or deletions of them, or even structural changes in chromosomes.</p>
 <p>Genetic polymorphisms are a fundamental aspect of human genetics and are of great interest in fields like genetics, genomics, and personalized medicine. They contribute to the diversity of traits and susceptibilities among individuals and populations.</p>
-<p>Key points…</p>
+<p><strong>Key points</strong>:</p>
 <ul>
 <li><p><strong>Single Nucleotide Polymorphisms (SNPs)</strong>: SNPs are the most common type of genetic polymorphism. They involve a single base-pair change in the DNA sequence. For example, at a specific position in a gene, one person’s DNA might have an “A,” while another person’s DNA at the same position has a “G.” SNPs can be associated with variations in traits, susceptibility to diseases, and responses to treatments.</p></li>
 <li><p><strong>Insertions and Deletions (Indels)</strong>: These polymorphisms involve the insertion or deletion of a small segment of DNA. Indels can cause frame shifts in a gene, potentially leading to altered protein function.</p></li>

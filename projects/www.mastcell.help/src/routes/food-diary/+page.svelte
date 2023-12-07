@@ -7,7 +7,7 @@
 <h1 id="food-diary">Food diary</h1>
 <p>A food diary, also known as a food journal or food log, is a record of the foods and beverages you consume throughout the day. It’s a valuable tool for tracking your dietary habits, calorie intake, and nutritional choices.</p>
 <p>You can keep a food diary using a physical notebook or by using a food tracking app or website. Many apps make it easy to enter and analyze your dietary information, and some even provide nutritional information for the foods you eat.</p>
-<p>**Key aspects**:p>
+<p><strong>Key aspects</strong>:</p>
 <ul>
 <li><p><strong>Record Everything You Eat and Drink</strong>: Write down every item you consume, including meals, snacks, and beverages. Be as specific as possible, noting portion sizes, cooking methods, brand names, time, triggers such as stress or boredom, and any patterns.</p></li>
 <li><p><strong>Record Ingredients</strong>: For homemade dishes and recipes, list the ingredients and their quantities. This is particularly important if you have specific dietary restrictions or allergies.</p></li>

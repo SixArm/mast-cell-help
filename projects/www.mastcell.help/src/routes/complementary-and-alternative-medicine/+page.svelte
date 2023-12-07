@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Complementary and alternative medicine (CAM) | My Example Site | mastcell.help</title>
+    <title>Complementary and alternative medicine (CAM) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

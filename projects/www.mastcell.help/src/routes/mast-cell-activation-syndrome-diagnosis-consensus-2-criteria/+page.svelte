@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome diagnosis consensus-2 criteria | My Example Site | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome diagnosis consensus-2 criteria | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

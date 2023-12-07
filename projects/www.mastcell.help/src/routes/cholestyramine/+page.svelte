@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cholestyramine | My Example Site | mastcell.help</title>
+    <title>Cholestyramine | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

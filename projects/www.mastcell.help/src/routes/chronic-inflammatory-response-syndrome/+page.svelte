@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Chronic Inflammatory Response Syndrome (CIRS) | My Example Site | mastcell.help</title>
+    <title>Chronic Inflammatory Response Syndrome (CIRS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

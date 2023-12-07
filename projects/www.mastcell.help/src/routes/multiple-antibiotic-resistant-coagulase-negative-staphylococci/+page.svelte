@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS) | My Example Site | mastcell.help</title>
+    <title>Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Hypertryptasemia | My Example Site | mastcell.help</title>
+    <title>Hypertryptasemia | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

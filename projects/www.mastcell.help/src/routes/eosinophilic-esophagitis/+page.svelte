@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Eosinophilic esophagitis (EoE) | My Example Site | mastcell.help</title>
+    <title>Eosinophilic esophagitis (EoE) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

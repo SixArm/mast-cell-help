@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Vitamin C: low-histamine forms | My Example Site | mastcell.help</title>
+    <title>Vitamin C: low-histamine forms | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

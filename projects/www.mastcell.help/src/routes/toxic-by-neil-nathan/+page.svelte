@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Toxic - By Neil Nathan | My Example Site | mastcell.help</title>
+    <title>Toxic - By Neil Nathan | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

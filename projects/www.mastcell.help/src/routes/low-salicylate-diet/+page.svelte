@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Low-salicylate diet | My Example Site | mastcell.help</title>
+    <title>Low-salicylate diet | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

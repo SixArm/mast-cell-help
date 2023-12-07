@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Histamine intolerance: severity | My Example Site | mastcell.help</title>
+    <title>Histamine intolerance: severity | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

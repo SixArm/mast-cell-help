@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Calcium D-glucarate | My Example Site | mastcell.help</title>
+    <title>Calcium D-glucarate | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

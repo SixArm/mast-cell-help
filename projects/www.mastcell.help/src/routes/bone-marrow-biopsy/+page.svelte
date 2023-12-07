@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Bone marrow biopsy | My Example Site | mastcell.help</title>
+    <title>Bone marrow biopsy | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>The 4-Phase Histamine Reset Plan - By Becky Campbell | My Example Site | mastcell.help</title>
+    <title>The 4-Phase Histamine Reset Plan - By Becky Campbell | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

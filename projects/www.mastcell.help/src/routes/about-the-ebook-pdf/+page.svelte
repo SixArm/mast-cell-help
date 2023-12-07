@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>About the ebook PDF | My Example Site | mastcell.help</title>
+    <title>About the ebook PDF | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

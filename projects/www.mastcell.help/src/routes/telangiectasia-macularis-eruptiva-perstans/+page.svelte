@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Telangiectasia Macularis Eruptiva Perstans (TMEP) | My Example Site | mastcell.help</title>
+    <title>Telangiectasia Macularis Eruptiva Perstans (TMEP) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Never Bet Against Occam - By Lawrence Afrin | My Example Site | mastcell.help</title>
+    <title>Never Bet Against Occam - By Lawrence Afrin | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Vitamin B3 = Niacin | My Example Site | mastcell.help</title>
+    <title>Vitamin B3 = Niacin | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

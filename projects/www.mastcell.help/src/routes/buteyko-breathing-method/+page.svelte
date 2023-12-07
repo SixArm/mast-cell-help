@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Buteyko breathing method | My Example Site | mastcell.help</title>
+    <title>Buteyko breathing method | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

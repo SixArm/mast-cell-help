@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Red blood cell (RBC) | My Example Site | mastcell.help</title>
+    <title>Red blood cell (RBC) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

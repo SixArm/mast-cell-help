@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Multisystem Inflammatory Syndrome (MIS) | My Example Site | mastcell.help</title>
+    <title>Multisystem Inflammatory Syndrome (MIS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Hereditary Alpha-Tryptasemia (HαT) | My Example Site | mastcell.help</title>
+    <title>Hereditary Alpha-Tryptasemia (HαT) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

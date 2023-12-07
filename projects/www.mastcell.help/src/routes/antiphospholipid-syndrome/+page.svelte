@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Antiphospholipid syndrome (APS) | My Example Site | mastcell.help</title>
+    <title>Antiphospholipid syndrome (APS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

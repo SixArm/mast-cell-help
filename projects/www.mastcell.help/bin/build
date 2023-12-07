@@ -1,14 +1,14 @@
 #!/bin/sh
 set -euf
 
-GIT_TOP_DIR="$(git rev-parse --show-toplevel)"
-PROGRAM_DIR=$(cd "$(dirname "${0}")" > /dev/null; pwd -L; cd - > /dev/null);
+git_top_dir=$(git rev-parse --show-toplevel)
+project_dir="$git_top_dir/projects/www.mastcell.help"
 
-TOPICS="$GIT_TOP_DIR/topics"
-STATIC="$PROGRAM_DIR/../static"
-ROUTES="$PROGRAM_DIR/../src/routes"
-TEMPLATE_FILE="$PROGRAM_DIR/build-pandoc-template.svelte"
-TITLE_SUFFIX=" | My Example Site"
+topics_dir="$git_top_dir/topics"
+static_dir="$project_dir/static"
+routes_dir="$project_dir/src/routes"
+template_file="$project_dir/bin/build-pandoc-template.svelte"
+title_suffix=" | mastcell.help"
 
 do_pandoc() {
     #echo "do_pandoc $*"
@@ -31,24 +31,24 @@ do_pandoc() {
 do_slug() {
     #echo "do_slug $*"
     slug="$1"
-    output_dir="$ROUTES/$slug"
+    output_dir="$routes_dir/$slug"
     output_file="$output_dir/+page.svelte"
     [ -f "$output_file" ] && return
     mkdir -p "$output_dir"
-    input_file="$TOPICS/$slug/index.md"
-    title=$("$PROGRAM_DIR/markdown-read-to-headline" "$input_file")"$TITLE_SUFFIX"
-    do_pandoc "$TEMPLATE_FILE" "$title" "$input_file" "$output_file"
-    #"$PROGRAM_DIR/bin/file-escape-html" "$output_file"
+    input_file="$topics_dir/$slug/index.md"
+    title=$("$project_dir/bin/markdown-read-to-headline" "$input_file")"$title_suffix"
+    do_pandoc "$template_file" "$title" "$input_file" "$output_file"
+    #"$project_dir/bin/file-escape-html" "$output_file"
     return 0
 }
 
 build() {
-    rsync -a "$GIT_TOP_DIR/README.jpg" "$GIT_TOP_DIR/mast-cell-help.epub" "$GIT_TOP_DIR/mast-cell-help.pdf" "$STATIC/"
-    rsync -a "$GIT_TOP_DIR/assets/" "$STATIC/assets/"
-    do_pandoc "$TEMPLATE_FILE" "Mast Cell Help" "$GIT_TOP_DIR/README.md" "$ROUTES/+page.svelte" 
-    sed -i.bak 's# href="topics/# href="/#' "$ROUTES/+page.svelte"
-    sed -i.bak 's# src="assets/# src="/assets/#' "$ROUTES/+page.svelte"
-    "$PROGRAM_DIR/slugs" |
+    rsync -a "$git_top_dir/README.jpg" "$git_top_dir/mast-cell-help.epub" "$git_top_dir/mast-cell-help.pdf" "$static_dir/"
+    rsync -a "$git_top_dir/assets/" "$static_dir/assets/"
+    do_pandoc "$template_file" "Mast Cell Help" "$git_top_dir/README.md" "$routes_dir/+page.svelte" 
+    sed -i.bak 's# href="topics/# href="/#' "$routes_dir/+page.svelte"
+    sed -i.bak 's# src="assets/# src="/assets/#' "$routes_dir/+page.svelte"
+    "$project_dir/bin/slugs" |
     while read -r slug; do
         do_slug "$slug"
     done

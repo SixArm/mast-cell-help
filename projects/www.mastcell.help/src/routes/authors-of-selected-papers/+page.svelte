@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Authors of selected papers | My Example Site | mastcell.help</title>
+    <title>Authors of selected papers | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

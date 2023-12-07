@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mold exposure diagnostics | My Example Site | mastcell.help</title>
+    <title>Mold exposure diagnostics | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

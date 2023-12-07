@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Dynamic Neural Retraining System | My Example Site | mastcell.help</title>
+    <title>Dynamic Neural Retraining System | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

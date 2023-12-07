@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Shoemaker Biotoxin Illness Protocol | My Example Site | mastcell.help</title>
+    <title>Shoemaker Biotoxin Illness Protocol | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

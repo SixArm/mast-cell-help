@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mast Cell Leukemia (MCL) | My Example Site | mastcell.help</title>
+    <title>Mast Cell Leukemia (MCL) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

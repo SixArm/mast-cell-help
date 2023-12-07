@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Antihistamine medications | My Example Site | mastcell.help</title>
+    <title>Antihistamine medications | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

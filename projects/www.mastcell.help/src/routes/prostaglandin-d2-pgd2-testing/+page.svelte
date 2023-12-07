@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Prostaglandin D2 (PGD2) testing | My Example Site | mastcell.help</title>
+    <title>Prostaglandin D2 (PGD2) testing | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

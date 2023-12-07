@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>What are mast cells? | My Example Site | mastcell.help</title>
+    <title>What are mast cells? | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

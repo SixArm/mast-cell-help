@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Bile acid sequestrants | My Example Site | mastcell.help</title>
+    <title>Bile acid sequestrants | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

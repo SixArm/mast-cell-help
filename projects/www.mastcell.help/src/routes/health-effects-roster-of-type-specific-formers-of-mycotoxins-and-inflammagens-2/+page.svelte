@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>HERTSMI-2 | My Example Site | mastcell.help</title>
+    <title>HERTSMI-2 | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

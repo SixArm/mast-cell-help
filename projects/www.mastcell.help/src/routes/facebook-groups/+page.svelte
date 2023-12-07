@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Facebook groups | My Example Site | mastcell.help</title>
+    <title>Facebook groups | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

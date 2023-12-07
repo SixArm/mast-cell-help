@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Understanding Histamine Intolerance &amp; Mast Cell Activation - By Mariska Wild-Sholten | My Example Site | mastcell.help</title>
+    <title>Understanding Histamine Intolerance &amp; Mast Cell Activation - By Mariska Wild-Sholten | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

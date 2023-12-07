@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Understanding Mast Cell Activation Disorders - By NIAID | My Example Site | mastcell.help</title>
+    <title>Understanding Mast Cell Activation Disorders - By NIAID | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

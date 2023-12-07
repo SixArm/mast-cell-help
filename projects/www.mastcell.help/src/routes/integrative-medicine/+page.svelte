@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Integrative medicine | My Example Site | mastcell.help</title>
+    <title>Integrative medicine | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

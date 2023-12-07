@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Vitamin B5 = Pantothenic acid | My Example Site | mastcell.help</title>
+    <title>Vitamin B5 = Pantothenic acid | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

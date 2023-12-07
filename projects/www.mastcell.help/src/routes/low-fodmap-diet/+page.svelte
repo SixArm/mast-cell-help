@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Low-FODMAP diet | My Example Site | mastcell.help</title>
+    <title>Low-FODMAP diet | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Presyncope | My Example Site | mastcell.help</title>
+    <title>Presyncope | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

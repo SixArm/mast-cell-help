@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Aryl hydrocarbon receptors (AhR) | My Example Site | mastcell.help</title>
+    <title>Aryl hydrocarbon receptors (AhR) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

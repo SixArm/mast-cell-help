@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Dietary supplements - considerations | My Example Site | mastcell.help</title>
+    <title>Dietary supplements - considerations | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

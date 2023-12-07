@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>N-acetyl cysteine (NAC) | My Example Site | mastcell.help</title>
+    <title>N-acetyl cysteine (NAC) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

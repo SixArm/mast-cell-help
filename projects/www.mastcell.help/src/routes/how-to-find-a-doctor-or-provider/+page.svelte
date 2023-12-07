@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>How to find a doctor or provider? | My Example Site | mastcell.help</title>
+    <title>How to find a doctor or provider? | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

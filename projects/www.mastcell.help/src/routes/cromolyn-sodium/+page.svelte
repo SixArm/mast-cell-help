@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cromolyn sodium | My Example Site | mastcell.help</title>
+    <title>Cromolyn sodium | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

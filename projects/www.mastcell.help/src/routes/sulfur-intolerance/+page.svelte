@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Sulfur intolerance | My Example Site | mastcell.help</title>
+    <title>Sulfur intolerance | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

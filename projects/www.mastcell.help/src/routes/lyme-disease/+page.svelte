@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Lyme disease | My Example Site | mastcell.help</title>
+    <title>Lyme disease | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

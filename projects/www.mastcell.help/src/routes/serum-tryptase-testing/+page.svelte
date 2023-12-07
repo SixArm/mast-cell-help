@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Serum tryptase testing | My Example Site | mastcell.help</title>
+    <title>Serum tryptase testing | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

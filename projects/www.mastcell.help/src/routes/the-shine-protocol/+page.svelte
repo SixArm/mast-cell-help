@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>The SHINE protocol | My Example Site | mastcell.help</title>
+    <title>The SHINE protocol | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Traditional Chinese Medicine (TCM) | My Example Site | mastcell.help</title>
+    <title>Traditional Chinese Medicine (TCM) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

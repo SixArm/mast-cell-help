@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome supportive measures | My Example Site | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome supportive measures | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

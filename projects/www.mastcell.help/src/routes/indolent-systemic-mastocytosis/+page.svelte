@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Indolent Systemic Mastocytosis (ISM) | My Example Site | mastcell.help</title>
+    <title>Indolent Systemic Mastocytosis (ISM) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

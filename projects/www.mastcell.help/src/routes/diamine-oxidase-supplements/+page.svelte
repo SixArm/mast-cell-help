@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Diamine oxidase supplements | My Example Site | mastcell.help</title>
+    <title>Diamine oxidase supplements | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

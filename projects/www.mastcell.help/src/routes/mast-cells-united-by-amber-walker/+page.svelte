@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mast Cells United - By Amber Walker | My Example Site | mastcell.help</title>
+    <title>Mast Cells United - By Amber Walker | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

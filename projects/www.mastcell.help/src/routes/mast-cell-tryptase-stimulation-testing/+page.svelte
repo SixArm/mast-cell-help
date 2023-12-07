@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Mast cell tryptase stimulation testing | My Example Site | mastcell.help</title>
+    <title>Mast cell tryptase stimulation testing | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Hypotension causes | My Example Site | mastcell.help</title>
+    <title>Hypotension causes | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

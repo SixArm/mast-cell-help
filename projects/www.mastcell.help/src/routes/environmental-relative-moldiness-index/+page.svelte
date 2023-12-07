@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Environmental Relative Moldiness Index (ERMI) | My Example Site | mastcell.help</title>
+    <title>Environmental Relative Moldiness Index (ERMI) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

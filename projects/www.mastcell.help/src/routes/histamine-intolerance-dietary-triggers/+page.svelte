@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Dietary triggers | My Example Site | mastcell.help</title>
+    <title>Dietary triggers | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

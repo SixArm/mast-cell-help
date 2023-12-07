@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Vasoactive Intestinal Peptide (VIP) | My Example Site | mastcell.help</title>
+    <title>Vasoactive Intestinal Peptide (VIP) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>What is the role of mast cells in inflammation? | My Example Site | mastcell.help</title>
+    <title>What is the role of mast cells in inflammation? | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

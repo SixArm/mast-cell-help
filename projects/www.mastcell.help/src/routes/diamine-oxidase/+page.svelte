@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Diamine oxidase | My Example Site | mastcell.help</title>
+    <title>Diamine oxidase | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

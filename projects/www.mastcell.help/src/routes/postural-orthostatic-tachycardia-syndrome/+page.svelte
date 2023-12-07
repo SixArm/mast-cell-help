@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Postural Orthostatic Tachycardia Syndrome (POTS) | My Example Site | mastcell.help</title>
+    <title>Postural Orthostatic Tachycardia Syndrome (POTS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

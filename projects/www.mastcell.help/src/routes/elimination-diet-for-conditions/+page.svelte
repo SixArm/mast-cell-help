@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Elimination diet for conditions | My Example Site | mastcell.help</title>
+    <title>Elimination diet for conditions | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

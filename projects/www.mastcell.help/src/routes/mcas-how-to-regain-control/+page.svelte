@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>MCAS: How to Regain Control | My Example Site | mastcell.help</title>
+    <title>MCAS: How to Regain Control | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

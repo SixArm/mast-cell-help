@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Electrolyte imbalance | My Example Site | mastcell.help</title>
+    <title>Electrolyte imbalance | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

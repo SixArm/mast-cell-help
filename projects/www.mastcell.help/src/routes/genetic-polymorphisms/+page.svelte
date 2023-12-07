@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Genetic polymorphisms | My Example Site | mastcell.help</title>
+    <title>Genetic polymorphisms | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

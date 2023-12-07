@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Low-lectin diet | My Example Site | mastcell.help</title>
+    <title>Low-lectin diet | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

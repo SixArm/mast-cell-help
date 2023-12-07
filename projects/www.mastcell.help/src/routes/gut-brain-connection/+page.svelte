@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Gut-brain connection | My Example Site | mastcell.help</title>
+    <title>Gut-brain connection | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Rheumatoid arthritis (RA) | My Example Site | mastcell.help</title>
+    <title>Rheumatoid arthritis (RA) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

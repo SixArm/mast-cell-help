@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Complement C4-A blood test | My Example Site | mastcell.help</title>
+    <title>Complement C4-A blood test | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

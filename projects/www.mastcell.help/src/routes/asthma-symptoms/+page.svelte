@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Asthma symptoms | My Example Site | mastcell.help</title>
+    <title>Asthma symptoms | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

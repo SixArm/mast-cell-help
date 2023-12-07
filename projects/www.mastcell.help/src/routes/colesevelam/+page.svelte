@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Colesevelam (a.k.a. Welchol) | My Example Site | mastcell.help</title>
+    <title>Colesevelam (a.k.a. Welchol) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

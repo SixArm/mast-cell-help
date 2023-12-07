@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>KIT-D816X | My Example Site | mastcell.help</title>
+    <title>KIT-D816X | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

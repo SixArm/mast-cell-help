@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Ehlers-Danlos syndrome (EDS) | My Example Site | mastcell.help</title>
+    <title>Ehlers-Danlos syndrome (EDS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

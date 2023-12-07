@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Burning mouth syndrome (BMS) | My Example Site | mastcell.help</title>
+    <title>Burning mouth syndrome (BMS) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

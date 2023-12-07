@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Gastroesophageal Reflux Disease (GERD) | My Example Site | mastcell.help</title>
+    <title>Gastroesophageal Reflux Disease (GERD) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

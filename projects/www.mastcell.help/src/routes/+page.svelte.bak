@@ -15,8 +15,8 @@
 </ul>
 <h2 id="contents">Contents</h2>
 <h3 id="introduction"><a href="/introduction">Introduction</a></h3>
+<h3 id="what-are-mast-cells"><a href="/what-are-mast-cells">What are mast cells?</a></h3>
 <ul>
-<li><a href="/what-are-mast-cells">What are mast cells?</a></li>
 <li><a href="/where-are-mast-cells">Where are mast cells?</a></li>
 <li><a href="/what-doctors-and-providers-can-help">What doctors and providers can help?</a></li>
 <li><a href="/how-to-find-a-doctor-or-provider">How to find a doctor or provider?</a></li>
@@ -26,7 +26,6 @@
 </ul>
 <h3 id="circulatory-system"><a href="/circulatory-system">Circulatory system</a></h3>
 <ul>
-<li><a href="/circulatory-system-functions">Circulatory system functions</a></li>
 <li><a href="/blood-cells">Blood cells</a></li>
 <li><a href="/white-blood-cell">White blood cell (WBC)</a></li>
 <li><a href="/red-blood-cell">Red blood cell (RBC)</a></li>
@@ -70,18 +69,21 @@
 <li><a href="/complementary-and-alternative-medicine">Complementary and alternative medicine (CAM)</a></li>
 <li><a href="/traditional-chinese-medicine">Traditional Chinese Medicine (TCM)</a></li>
 <li><a href="/acupuncture">Acupuncture</a></li>
+<li><a href="/somatic-experiencing">Somatic Experiencing (SE)</a></li>
 <li><a href="/stress-management">Stress Management</a></li>
 <li><a href="/sleep-hygiene">Sleep hygiene</a></li>
 <li><a href="/the-shine-protocol">The SHINE protocol</a></li>
 <li><a href="/dynamic-neural-retraining-system">Dynamic Neural Retraining System (DNRS)</a></li>
 <li><a href="/buteyko-breathing-method">Buteyko breathing method</a></li>
+<li><a href="/gut-brain-connection">Gut-brain connection</a></li>
 <li><a href="/food-diary">Food diary</a></li>
 </ul>
 <p><img src="/assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/></p>
-<h2 id="elimination-diet"><a href="/elimination-diet">Elimination diet</a></h2>
+<h3 id="elimination-diet"><a href="/elimination-diet">Elimination diet</a></h3>
 <ul>
 <li><a href="/low-histamine-diet">Low-histamine diet</a></li>
 <li><a href="/low-allergen-diet">Low-allergen diet</a></li>
+<li><a href="/low-amylose-diet">Low-amylose diet</a></li>
 <li><a href="/low-oxalate-diet">Low-oxalate diet</a></li>
 <li><a href="/low-lectin-diet">Low-lectin diet</a></li>
 <li><a href="/low-fodmap-diet">Low-FODMAP diet</a></li>
@@ -95,6 +97,7 @@
 <li><a href="/multivitamin">Multivitamin</a></li>
 <li><a href="/diamine-oxidase-supplements">Diamine oxidase supplements</a></li>
 <li><a href="/vitamin-c">Vitamin C</a></li>
+<li><a href="vitamin-c-low-histamine-forms">Vitamin C - low-histamine forms</a></li>
 <li><a href="/omega-3">Omega-3</a></li>
 <li><a href="/quercetin">Quercetin</a></li>
 <li><a href="/glutathione">Glutathione</a></li>
@@ -109,12 +112,14 @@
 <li><a href="/vitamin-b9-folate">Vitamin B9 = Folate</a></li>
 <li><a href="/vitamin-b12-cobalamin">Vitamin B12 = Cobalamin</a></li>
 <li><a href="/calcium">Calcium</a></li>
+<li><a href="/calcium-d-glucarate">Calcium D-glucarate</a></li>
 <li><a href="/copper">Copper</a></li>
 <li><a href="/zinc">Zinc</a></li>
 <li><a href="/n-acetyl-cysteine">N-acetyl cysteine (NAC)</a></li>
 <li><a href="/electrolytes">Electrolytes</a></li>
 <li><a href="/butterbur">Butterbur</a></li>
 <li><a href="/stinging-nettle">Stinging nettle</a></li>
+<li><a href="/antimicrobial-herbs">Antimicrobial herbs</a></li>
 </ul>
 <p><img src="/assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/></p>
 <h2 id="conditions">Conditions</h2>
@@ -156,6 +161,9 @@
 <li><a href="/asthma-lifestyle-management">Lifestyle management</a></li>
 </ul>
 <h3 id="burning-mouth-syndrome-bms"><a href="/burning-mouth-syndrome">Burning mouth syndrome (BMS)</a></h3>
+<h3 id="chronic-inflammatory-response-syndrome-cirs"><a href="chronic-inflammatory-response-syndrome">Chronic Inflammatory Response Syndrome (CIRS)</a></h3>
+<h3 id="contact-allergic-dermatitis"><a href="contact-allergic-dermatitis">Contact allergic dermatitis</a></h3>
+<h3 id="diverticulosis"><a href="/diverticulosis">Diverticulosis</a></h3>
 <h3 id="dysautonomia"><a href="/dysautonomia">Dysautonomia</a></h3>
 <h3 id="ehlers-danlos-syndrome"><a href="/ehlers-danlos-syndrome">Ehlers-Danlos syndrome</a></h3>
 <h3 id="eosinophilic-esophagitis-eoe"><a href="/eosinophilic-esophagitis">Eosinophilic esophagitis (EoE)</a></h3>
@@ -168,6 +176,11 @@
 <li><a href="/systemic-mastocytosis">Systemic mastocytosis (SM)</a></li>
 <li><a href="/indolent-systemic-mastocytosis">Indolent Systemic Mastocytosis (ISM)</a></li>
 <li><a href="/mast-cell-leukemia">Mast Cell Leukemia (MCL)</a></li>
+</ul>
+<h3 id="mold-exposure"><a href="mold-exposure">Mold exposure</a></h3>
+<h3 id="multiple-antibiotic-resistant-coagulase-negative-staphylococci-marcons"><a href="multiple-antibiotic-resistant-coagulase-negative-staphylococci">Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)</a></h3>
+<ul>
+<li><a href="multiple-antibiotic-resistant-coagulase-negative-staphylococci-nasal-cultures">Nasal cultures</a></li>
 </ul>
 <h3 id="multisystem-inflammatory-syndrome-mis"><a href="/multisystem-inflammatory-syndrome">Multisystem Inflammatory Syndrome (MIS)</a></h3>
 <h3 id="postural-orthostatic-tachycardia-syndrome-pots"><a href="/postural-orthostatic-tachycardia-syndrome">Postural Orthostatic Tachycardia Syndrome (POTS)</a></h3>
@@ -194,11 +207,17 @@
 <ul>
 <li><p><a href="/allergy-testing">Allergy testing</a></p></li>
 <li><p><a href="/histamine-testing">Histamine testing</a></p></li>
+<li><p><a href="/complement-c4-a-blood-test">Complement C4-A blood test</a></p></li>
 <li><p><a href="/mast-cell-tryptase-stimulation-testing">Mast cell tryptase stimulation testing</a></p></li>
 <li><p><a href="/n-methylhistamine-testing">N-methylhistamine testing</a></p></li>
 <li><p><a href="/prostaglandin-d2-pgd2-testing">Prostaglandin D2 (PGD2) testing</a></p></li>
 <li><p><a href="/serum-tryptase-testing">Serum tryptase testing</a></p></li>
 <li><p><a href="/bone-marrow-biopsy">Bone marrow biopsy</a></p></li>
+</ul>
+<h3 id="mold-exposure-diagnostics"><a href="/mold-exposure-diagnostics">Mold exposure diagnostics</a></h3>
+<ul>
+<li><p><a href="/environmental-relative-moldiness-index">Environmental Relative Moldiness Index (ERMI)</a></p></li>
+<li><p><a href="/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2">Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)</a></p></li>
 </ul>
 <p><img src="/assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/></p>
 <h2 id="treatment-types">Treatment types</h2>
@@ -206,11 +225,21 @@
 <ul>
 <li><a href="/ketotifen">Ketotifen</a></li>
 </ul>
+<h3 id="antifungal-medications"><a href="antifungal-medications">Antifungal medications</a></h3>
+<ul>
+<li><a href="toipcs/methylene-blue">Methylene blue</a></li>
+</ul>
 <h3 id="bile-acid-sequestrants"><a href="/bile-acid-sequestrants">Bile acid sequestrants</a></h3>
 <ul>
 <li><a href="/cholestyramine">Cholestyramine</a></li>
 <li><a href="/colesevelam">Colesevelam (a.k.a. Welchol)</a></li>
 <li><a href="/activated-charcoal">Activated charcoal</a></li>
+</ul>
+<h3 id="biotoxin-treatments"><a href="biotoxin-treatments">Biotoxin treatments</a></h3>
+<ul>
+<li><a href="toipcs/shoemaker-biotoxin-illness-protocol">Shoemaker Biotoxin Illness Protocol</a></li>
+<li><a href="toipcs/vasoactive-intestinal-peptide">Vasoactive Intestinal Peptide (VIP)</a></li>
+<li><a href="ventilation">Ventilation</a></li>
 </ul>
 <h3 id="bronchodilators"><a href="/bronchodilators">Bronchodilators</a></h3>
 <h3 id="corticosteroids"><a href="/corticosteroids">Corticosteroids</a></h3>
@@ -226,6 +255,9 @@
 </ul>
 <p><img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/></p>
 <h2 id="more">More</h2>
+<ul>
+<li><a href="/glossary/">Glossary</a></li>
+</ul>
 <h3 id="videos"><a href="/videos">Videos</a></h3>
 <ul>
 <li><p><a href="/what-is-the-role-of-mast-cells-in-inflammation">What is the role of mast cells in inflammation? - By Animated Biology with Arpan</a></p></li>
@@ -237,6 +269,7 @@
 <li><a href="/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten">Understanding Histamine Intolerance &amp; Mast Cell Activation - By Mariska Wild-Scholten</a></li>
 <li><a href="/never-bet-against-occam-by-lawrence-afrin">Never Bet Against Occam - By Lawrence Afrin</a></li>
 <li><a href="/the-4-phase-histamine-reset-plan-by-becky-campbell">The 4-Phase Histamine Reset Plan - By Becky Campbell</a></li>
+<li><a href="/toxic-by-neil-nathan">Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan</a></li>
 </ul>
 <h3 id="conclusion"><a href="/conclusion">Conclusion</a></h3>
 <ul>

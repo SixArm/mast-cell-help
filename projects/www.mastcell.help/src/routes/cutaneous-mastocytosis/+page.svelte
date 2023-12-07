@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cutaneous mastocytosis (CM) | My Example Site | mastcell.help</title>
+    <title>Cutaneous mastocytosis (CM) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Bradycardia | My Example Site | mastcell.help</title>
+    <title>Bradycardia | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">

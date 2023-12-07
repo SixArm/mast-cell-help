@@ -13,7 +13,3 @@ HERTSMI-2 stands for the "Health Effects Roster of Type-Specific Formers of Myco
 * **Assessment of Indoor Environments**: HERTSMI-2 is often used in the assessment of indoor environments, particularly in the context of mold inspections and remediation efforts. It helps identify molds that may be contributing to indoor air quality issues.
 
 * **Limitations**: While HERTSMI-2 provides a systematic approach to assessing the health impact of mold species, it is important to note that the relationship between mold exposure and health effects is complex and can vary among individuals. Not all people exposed to mold will experience health problems, and the extent of risk depends on factors such as individual susceptibility, duration of exposure, and overall health.
-
-* **Professional Evaluation**: The interpretation of HERTSMI-2 results and the decision on remediation strategies should be made by qualified professionals, including mold inspectors and healthcare providers familiar with the complexities of mold-related health issues.
-
-It's crucial to approach mold assessment and remediation with care, and individuals concerned about indoor air quality should seek the expertise of professionals in the field. If there are health concerns related to mold exposure, consultation with a healthcare provider is recommended for a comprehensive evaluation of symptoms and appropriate medical guidance.

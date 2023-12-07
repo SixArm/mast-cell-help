@@ -98,6 +98,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Multivitamin](topics/multivitamin)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
 * [Vitamin C](topics/vitamin-c)
+* [Vitamin C - low-histamine forms](vitamin-c-low-histamine-forms)
 * [Omega-3](topics/omega-3)
 * [Quercetin](topics/quercetin)
 * [Glutathione](topics/glutathione)
@@ -112,6 +113,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B9 = Folate](topics/vitamin-b9-folate)
 * [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
 * [Calcium](topics/calcium)
+* [Calcium D-glucarate](topics/calcium-d-glucarate)
 * [Copper](topics/copper)
 * [Zinc](topics/zinc)
 * [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
@@ -166,6 +168,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Lifestyle management](topics/asthma-lifestyle-management)
 
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
+
+### [Chronic Inflammatory Response Syndrome (CIRS)](chronic-inflammatory-response-syndrome)
 
 ### [Diverticulosis](topics/diverticulosis)
 
@@ -230,6 +234,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Histamine testing](topics/histamine-testing)
 
+* [Complement C4-A blood test](topics/complement-c4-a-blood-test)
+
 * [Mast cell tryptase stimulation testing](topics/mast-cell-tryptase-stimulation-testing)
 
 * [N-methylhistamine testing](topics/n-methylhistamine-testing)
@@ -240,6 +246,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
+* [HERTSMI-2](topics/hertsmi-2)
+
 
 <img src="assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/>
 
@@ -249,11 +257,21 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Ketotifen](topics/ketotifen)
 
+### [Antifungal medications](antifungal-medications)
+
+* [Methylene blue](toipcs/methylene-blue)
+
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
 * [Cholestyramine](topics/cholestyramine)
 * [Colesevelam (a.k.a. Welchol)](topics/colesevelam)
 * [Activated charcoal](topics/activated-charcoal)
+
+### [Biotoxin treatments](biotoxin-treatments)
+
+* [Shoemaker Biotoxin Illness Protocol](toipcs/shoemaker-biotoxin-illness-protocol)
+* [Vasoactive Intestinal Peptide (VIP)](toipcs/vasoactive-intestinal-peptide)
+* [Ventilation](ventilation)
 
 ### [Bronchodilators](topics/bronchodilators)
 
@@ -272,7 +290,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia)
 * [KIT-D816X](topics/kit-d816x)
 
-
+ 
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 
@@ -292,6 +310,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
 * [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)
+* [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
+
 
 ### [Conclusion](topics/conclusion)
 

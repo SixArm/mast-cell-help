@@ -227,7 +227,7 @@
 </ul>
 <h3 id="antifungal-medications"><a href="antifungal-medications">Antifungal medications</a></h3>
 <ul>
-<li><a href="topics/methylene-blue">Methylene blue</a></li>
+<li><a href="/methylene-blue">Methylene blue</a></li>
 </ul>
 <h3 id="bile-acid-sequestrants"><a href="/bile-acid-sequestrants">Bile acid sequestrants</a></h3>
 <ul>
@@ -237,8 +237,8 @@
 </ul>
 <h3 id="biotoxin-treatments"><a href="biotoxin-treatments">Biotoxin treatments</a></h3>
 <ul>
-<li><a href="topics/shoemaker-biotoxin-illness-protocol">Shoemaker Biotoxin Illness Protocol</a></li>
-<li><a href="topics/vasoactive-intestinal-peptide">Vasoactive Intestinal Peptide (VIP)</a></li>
+<li><a href="/shoemaker-biotoxin-illness-protocol">Shoemaker Biotoxin Illness Protocol</a></li>
+<li><a href="/vasoactive-intestinal-peptide">Vasoactive Intestinal Peptide (VIP)</a></li>
 <li><a href="ventilation">Ventilation</a></li>
 </ul>
 <h3 id="bronchodilators"><a href="/bronchodilators">Bronchodilators</a></h3>

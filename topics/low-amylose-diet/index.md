@@ -16,7 +16,7 @@ Here are some key points about a low amylose diet:
 
 
 
-## Low-amylose diet: foods to choose
+# Low-amylose diet: foods to choose
 
 * **White Rice**: White rice generally has lower amylose content compared to certain varieties of brown rice. Long-grain varieties like jasmine rice and basmati rice are often considered low amylose options.
 

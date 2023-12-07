@@ -71,11 +71,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine)
 * [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine)
 * [Acupuncture](topics/acupuncture)
+* [Somatic Experiencing (SE)](topics/somatic-experiencing)
 * [Stress Management](topics/stress-management)
 * [Sleep hygiene](topics/sleep-hygiene)
 * [The SHINE protocol](topics/the-shine-protocol)
 * [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
 * [Buteyko breathing method](topics/buteyko-breathing-method)
+* [Gut-brain connection](topics/gut-brain-connection)
 * [Food diary](topics/food-diary)
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
@@ -171,6 +173,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Chronic Inflammatory Response Syndrome (CIRS)](chronic-inflammatory-response-syndrome)
 
+### [Contact allergic dermatitis](contact-allergic-dermatitis)
+
 ### [Diverticulosis](topics/diverticulosis)
 
 ### [Dysautonomia](topics/dysautonomia)
@@ -191,6 +195,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Systemic mastocytosis (SM)](topics/systemic-mastocytosis)
 * [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis)
 * [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia)
+
+### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
 
@@ -295,6 +301,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 
 ## More
+
+
+* [Glossary](topics/glossary/)
 
 
 ### [Videos](topics/videos)

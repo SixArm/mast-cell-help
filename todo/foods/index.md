@@ -1,11 +1,6 @@
 # Foods
 
 
-## References
-
-* [What is a low-histamine diet?](https://www.verywellhealth.com/what-is-a-low-histamine-diet-4694529)
-
-* [Salicylate sensitivity](https://aimcenterpm.com/salicylate-sensitivity/)
 
 
 ## Low-histamine low-salicylate low-allergen diet
@@ -30,7 +25,7 @@
 
 * [ ] Dried legumes: chickpeas, black beans, kidney beans
 
-
+  
 ## Foods to eat because of low histatime
 
 * Fresh fruit: Apples, pomegranates, grapes, cherries, pears, plums, peaches (any fruit except citrus fruits, strawberries, avocado)
@@ -284,3 +279,10 @@ Beverages:
 * Rice Milk
 
 * Water
+
+
+## References
+
+* [What is a low-histamine diet?](https://www.verywellhealth.com/what-is-a-low-histamine-diet-4694529)
+
+* [Salicylate sensitivity](https://aimcenterpm.com/salicylate-sensitivity/)

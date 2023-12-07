@@ -243,19 +243,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ## [Diagnostics](topics/diagnostics)
 
 * [Allergy testing](topics/allergy-testing)
-
 * [Histamine testing](topics/histamine-testing)
-
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test)
-
 * [Mast cell tryptase stimulation testing](topics/mast-cell-tryptase-stimulation-testing)
-
+* [Nasal swab](topics/nasal-swab)
 * [N-methylhistamine testing](topics/n-methylhistamine-testing)
-
 * [Prostaglandin D2 (PGD2) testing](topics/prostaglandin-d2-pgd2-testing)
-
 * [Serum tryptase testing](topics/serum-tryptase-testing)
-
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics)
@@ -319,7 +313,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Videos](topics/videos)
 
 * [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
-
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
 
 

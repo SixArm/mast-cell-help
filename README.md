@@ -197,6 +197,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis)
 * [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia)
 
+### [Mold exposure](mold-exposure)
+
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
@@ -253,7 +255,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
-* [HERTSMI-2](topics/hertsmi-2)
+### [Mold exposure diagnostics](topics/mold-exposure-diagnostics)
+
+* [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index)
+
+* [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2)
 
 
 <img src="assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/>

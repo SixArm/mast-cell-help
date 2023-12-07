@@ -275,7 +275,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Antifungal medications](antifungal-medications)
 
-* [Methylene blue](toipcs/methylene-blue)
+* [Methylene blue](topics/methylene-blue)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
@@ -285,8 +285,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Biotoxin treatments](biotoxin-treatments)
 
-* [Shoemaker Biotoxin Illness Protocol](toipcs/shoemaker-biotoxin-illness-protocol)
-* [Vasoactive Intestinal Peptide (VIP)](toipcs/vasoactive-intestinal-peptide)
+* [Shoemaker Biotoxin Illness Protocol](topics/shoemaker-biotoxin-illness-protocol)
+* [Vasoactive Intestinal Peptide (VIP)](topics/vasoactive-intestinal-peptide)
 * [Ventilation](ventilation)
 
 ### [Bronchodilators](topics/bronchodilators)

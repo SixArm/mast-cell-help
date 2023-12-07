@@ -86,6 +86,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Low-histamine diet](topics/low-histamine-diet)
 * [Low-allergen diet](topics/low-allergen-diet)
+* [Low-amylose diet](topics/low-amylose-diet)
 * [Low-oxalate diet](topics/low-oxalate-diet)
 * [Low-lectin diet](topics/low-lectin-diet)
 * [Low-FODMAP diet](topics/low-fodmap-diet)

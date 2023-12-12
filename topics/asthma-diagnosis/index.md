@@ -4,15 +4,15 @@ The diagnosis of asthma typically involves a combination of medical history, phy
 
 **Key points**:
 
-* **Medical History**: A provider will take a detailed medical history, including information about your symptoms and factors that affect your breathing difficulties.
+* **Medical History**: A provider gathers information about your symptoms and factors that affect your breathing difficulties.
 
-* **Physical Examination**: A provider will assess your lung function and look for signs of asthma, such as wheezing or prolonged exhalation.
+* **Physical Examination**: A provider assesses your lung function, and looks for signs of asthma, such as wheezing.
 
-* **Rule Outs**: A provider will rule out other medical conditions that can cause similar symptoms, such as chronic obstructive pulmonary disease (COPD), allergic bronchopulmonary aspergillosis, or cardiac conditions that affect breathing.
+* **Rule Outs**: A provider rules out other conditions, such as chronic obstructive pulmonary disease (COPD), allergic bronchopulmonary aspergillosis, or cardiac conditions that affect breathing.
 
-Diagnostic tests:
+**Diagnostic tests**:
 
-* **Spirometry**: This test helps assess lung capacity and airflow obstruction. You will take a deep breath and then blow forcefully into a tube. This measures how much air you can exhale and how quickly you can do it.
+* **Spirometry**: You will take a deep breath and then blow forcefully into a tube. This measures how much air you can exhale and how quickly you can do it.
 
 * **Peak Flow Measurement**: This portable device measures how fast you can exhale.
 

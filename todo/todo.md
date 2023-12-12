@@ -235,5 +235,5 @@ Medications:
 * hydroxyzine
 * fexofenadine
 * ranitidine
-* cimetidein
+* cimetidine
 * prednisone

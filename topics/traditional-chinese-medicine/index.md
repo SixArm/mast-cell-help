@@ -8,7 +8,7 @@ Traditional Chinese Medicine (TCM) is a comprehensive and ancient system of medi
 
 * **Herbal Medicine**: TCM employs a wide array of medicinal herbs and natural substances to create herbal remedies.
 
-* **Diet and Nutrition**: TCM emphasizes the importance of diet and nutrition in maintaining health. It classifies foods based on their energetic qualities and their potential to harmonize the body's energy.
+* **Diet**: TCM emphasizes the importance of diet and nutrition. It classifies foods based on their energetic qualities and their potential to harmonize the body's energy.
 
 * **Cupping Therapy**: Cupping involves the use of heated glass or plastic cups placed on the skin to create suction. This is believed to improve blood circulation, relieve muscle tension, and promote healing.
 

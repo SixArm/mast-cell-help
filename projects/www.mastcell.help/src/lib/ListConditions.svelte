@@ -1,5 +1,5 @@
 <ul class="app-navbar-menu-list">
-    <li><a href="/allergies">Allergies</a></li>        
+    <li><a href="/allergies">Allergies</a></li>
     <li><a href="/anaphylaxis">Anaphylaxis</a></li>
     <li><a href="/antiphospholipid-syndrome">Antiphospholipid syndrome (APS)</a></li>
     <li><a href="/asthma">Asthma</a></li>

@@ -1,22 +1,23 @@
 # Low-sodium diet
 
-A low-sodium diet, often referred to as a low-salt diet, is a dietary approach that restricts the intake of sodium, a mineral commonly found in salt (sodium chloride).  Reducing sodium intake can be beneficial for various reasons, primarily to support overall health and manage specific medical conditions, including hypertension, kidney disease, liver disease, and edema. 
+A low-sodium diet, often referred to as a low-salt diet, is a dietary approach that restricts the intake of sodium, a mineral commonly found in salt (sodium chloride).  This supports overall health and specific medical conditions, including hypertension, kidney disease, liver disease, and edema.
 
 **Key points**:
 
 * **Sodium and Health**: High sodium intake can contribute to high blood pressure (hypertension), which is a significant risk factor for heart disease and stroke.
 
-* **Dietary Sources of Sodium**: Common sources include canned soups, fast food, frozen meals, processed meats, snacks, and restaurant dishes. Even foods that don't taste particularly salty can be high in sodium.
+* **Dietary Sources of Sodium**: Common sources include canned soups, fast food, frozen meals, processed meats, snacks, and restaurant dishes. Even foods that don't taste salty can be high in sodium.
 
 * **Recommended Daily Allowance**: The Dietary Guidelines for Americans recommend limiting sodium intake to less than 2300 milligrams (mg) per day for adults, or 150 0mg per day for people with hypertension or other risk factors.
 
 * **Low-Sodium Diet Goals**: A low-sodium diet aims to reduce sodium intake by minimizing or eliminating high-sodium foods and incorporating more whole, unprocessed foods into the diet.
 
-* **Reading Labels**: To follow a low-sodium diet, it's essential to read food labels and be aware of sodium content in packaged foods. Look for foods labeled as "low-sodium," "no-salt-added," or "sodium-free". Pay attention to serving sizes, as sodium content is often listed per serving.
+* **Reading Labels**: Read food labels and be aware of sodium content in packaged foods. Look for foods labeled as "low-sodium," "no-salt-added," or "sodium-free". Be aware of serving sizes.
 
-* **Reducing Salt Use**: Reducing the use of table salt (sodium chloride) in cooking and at the table is an important aspect of a low-sodium diet. Instead of salt, consider using herbs, spices, lemon juice, vinegar, and other seasonings to add flavor to your dishes.
+* **Reduce Salt Use**: Reduce the use of table salt (sodium chloride). Instead of salt, consider using herbs, spices, lemon juice, vinegar, and other seasonings.
 
-* **Eating Out**: When dining out, you can request that your meal be prepared with less salt, and you can avoid adding extra salt. Also, be cautious of hidden sodium in restaurant dishes and fast food.
+* **Eating Out**: When dining out, request that your meal be prepared with less salt.
+
 
 # Low-sodium diet: foods to choose
 
@@ -43,7 +44,7 @@ Proteins:
 * Eggs and egg substitutes
 
 * Low-sodium peanut butter
-    
+
 * Dry peas and beans (not canned)
 
 * Low-sodium canned fish

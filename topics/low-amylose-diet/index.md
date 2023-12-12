@@ -2,7 +2,7 @@
 
 A low-amylose diet typically refers to a dietary approach that limits or reduces the intake of foods containing high levels of amylose, which is a type of starch. Starch is a complex carbohydrate made up of two main components: amylose and amylopectin. Amylose is a linear chain of glucose molecules linked by alpha-1,4-glycosidic bonds.
 
-Here are some key points about a low amylose diet:
+**Key points**:
 
 * **Foods High in Amylose**: Certain types of grains, legumes, and tubers. Examples of high-amylose foods include some varieties of rice, certain types of potatoes, and legumes like lentils.
 
@@ -12,7 +12,7 @@ Here are some key points about a low amylose diet:
 
 * **Resistant Starch**: Resistant starch is a type of starch that resists digestion in the small intestine and reaches the colon, where it can be fermented by gut bacteria. Resistant starch can have different effects on the body compared to readily digestible starches.
 
-* **Potential Benefits**: The diet may have benefits related to blood sugar control, weight management, or digestive comfort. 
+* **Potential Benefits**: The diet may have benefits related to blood sugar control, weight management, or digestive comfort.
 
 
 

@@ -1,6 +1,6 @@
 # Vitamin B3 = Niacin
 
-Vitamin B3, also known as niacin or nicotinic acid, is one of the water-soluble B-vitamins that plays a crucial role in various metabolic processes within the body. Niacin is involved in several important functions, including energy production, DNA repair, and the maintenance of healthy skin and nervous system. 
+Vitamin B3, also known as niacin or nicotinic acid, is one of the water-soluble B-vitamins. Niacin is involved in several important functions, including energy production, DNA repair, and the maintenance of healthy skin and nervous system.
 
 **Key aspects**:
 
@@ -14,7 +14,7 @@ Vitamin B3, also known as niacin or nicotinic acid, is one of the water-soluble 
 
 * **Nervous System Function**: Niacin is essential for the proper functioning of the nervous system. Deficiency can lead to a condition known as pellagra, which is characterized by neurological symptoms.
 
-Dietary sources of niacin include meat, poultry, fish, dairy products, eggs, nuts, and legumes. It can also be synthesized in the body from the amino acid tryptophan, although this process may not provide sufficient amounts.
-
 * **Deficiency**: Severe niacin deficiency can lead to pellagra, which presents with symptoms like diarrhea, dermatitis, and dementia.
-  
+
+Dietary sources include meat, poultry, fish, dairy products, eggs, nuts, and legumes.
+

@@ -1,6 +1,6 @@
 # Low-histamine diet
 
-A low-histamine diet is a dietary approach that restricts foods and beverages high in histamine, as well as those that can trigger the release of histamine or interfere with histamine metabolism. This type of diet is often recommended for individuals with conditions such as Mast Cell Activation Syndrome (MCAS), histamine intolerance, and certain allergic disorders where histamine plays a significant role in symptoms. 
+A low-histamine diet is a dietary approach that restricts foods and beverages high in histamine, as well as those that can trigger the release of histamine or interfere with histamine metabolism. This type of diet is often recommended for individuals with conditions such as Mast Cell Activation Syndrome (MCAS), histamine intolerance, and certain allergic disorders where histamine plays a significant role in symptoms.
 
 A low-histamine diet aims to reduce the symptoms associated with an excess of histamine in the body, such as skin rashes, itching, hives, gastrointestinal issues, and more.
 

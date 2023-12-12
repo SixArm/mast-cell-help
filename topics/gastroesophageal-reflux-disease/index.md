@@ -4,9 +4,9 @@ Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occur
 
 Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett's esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).
 
-GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications, which reduce stomach acid production or provide a protective barrier for the esophagus. In some cases, surgery may be considered to strengthen the LES.
+GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications.
 
-Common symptoms:
+**Common symptoms**:
 
 * **Heartburn**: A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.
 
@@ -14,7 +14,7 @@ Common symptoms:
 
 * **Acid Indigestion**: Discomfort in the upper abdomen.
 
-* **Chest Pain**: Chest pain that may be mistaken for a heart-related issue. It's important to distinguish GERD-related chest pain from heart-related chest pain, so a healthcare provider should be consulted.
+* **Chest Pain**: Chest pain that may be mistaken for a heart-related issue. 
 
 * **Difficulty Swallowing**: Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.
 
@@ -26,4 +26,4 @@ Common symptoms:
 
 * **Asthma**: GERD can trigger or worsen asthma symptoms in some individuals.
 
-* **Dental Problems**: Frequent exposure to stomach acid can lead to tooth decay and other dental issues.
+* **Dental Problems**: Stomach acid can cause tooth decay and other dental issues.

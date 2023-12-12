@@ -1,6 +1,6 @@
 # How to find a doctor or provider?
 
-When seeking healthcare providers to help with MCAS, keep in mind that MCAS is a relatively new and evolving field. MCAS requires a multidisciplinary approach, as it can involve multiple systems in the body, and often involves a combination of medication, lifestyle adjustments, and dietary modifications. 
+When seeking healthcare providers to help with MCAS, keep in mind that MCAS is a relatively new and evolving field. MCAS requires a multidisciplinary approach, as it can involve multiple systems in the body, and often involves a combination of medication, lifestyle adjustments, and dietary modifications.
 
 **What to do**:
 

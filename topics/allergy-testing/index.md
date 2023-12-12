@@ -1,6 +1,6 @@
 # Allergy testing
 
-Allergy testing is a medical procedure used to identify specific substances or allergens that may trigger an allergic reaction in an individual. There are several methods of allergy testing, and the choice of method depends on the patient's medical history, symptoms, and the suspected allergens. 
+Allergy testing is a medical procedure used to identify specific substances or allergens that may trigger an allergic reaction in an individual. There are several methods of allergy testing, and the choice of method depends on the patient's medical history, symptoms, and the suspected allergens.
 
 Common allergy testing methods:
 

@@ -1,6 +1,6 @@
 # Biotoxin treatments
 
-The treatment of biotoxin-related conditions, such as those associated with mold exposure in Chronic Inflammatory Response Syndrome (CIRS), is complex and often requires a multidisciplinary approach. 
+The treatment of biotoxin-related conditions, such as those associated with mold exposure in Chronic Inflammatory Response Syndrome (CIRS), is complex and often requires a multidisciplinary approach.
 
 **Key aspects**:
 
@@ -9,7 +9,7 @@ The treatment of biotoxin-related conditions, such as those associated with mold
 * **Biotoxin Binding Agents**: Certain medications and supplements may be used to bind and eliminate mycotoxins from the body. Examples are bile acid sequestrants.
 
 * **Antifungal Medications**: Antifungal medications like fluconazole or itraconazole may be prescribed to address fungal infections associated with mold exposure.
-  
+
 * **Nutrient Support**: Ensuring optimal nutrition, including vitamins and minerals, to support the body's detoxification processes and overall health.
 
 * **Anti-Inflammatory Medications**: Medications or supplements with anti-inflammatory properties may be considered to address inflammation.

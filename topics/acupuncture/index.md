@@ -1,6 +1,6 @@
 # Acupuncture
 
-Acupuncture is a Traditional Chinese Medicine (TCM) practice that involves the insertion of thin, sterile needles into specific points on the body. It can help alleviate various health conditions and promote overall well-being. 
+Acupuncture is a Traditional Chinese Medicine (TCM) practice that involves the insertion of thin, sterile needles into specific points on the body. It can help alleviate various health conditions and promote overall well-being.
 
 **Key points**:
 

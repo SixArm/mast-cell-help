@@ -2,7 +2,7 @@
 
 Asthma lifestyle management means you can adjust your daily activities to help improve your asthma condition.
 
-Key steps…
+**Key steps**:
 
 * **Identify and Avoiding Triggers**: Knowing and avoiding your asthma triggers can help reduce symptoms. Common triggers include allergens, irritants, cold air, exercise, and stress.
 

@@ -4,8 +4,8 @@ Turmeric is a bright yellow spice derived from the root of the Curcuma longa pla
 
 **Key aspects**:
 
-* **Anti-Inflammatory Effects**: Curcumin is known for its anti-inflammatory properties and is thought to help reduce inflammation in the body. 
-* 
+* **Anti-Inflammatory Effects**: Curcumin is known for its anti-inflammatory properties and is thought to help reduce inflammation in the body.
+*
 * **Antioxidant Properties**: Curcumin is also considered a powerful antioxidant, which means it can help protect cells from damage caused by free radicals.
 
 * **Pain Relief**: Some people use turmeric supplements for pain relief, especially in conditions involving inflammation, such as osteoarthritis.

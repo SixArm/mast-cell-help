@@ -4,7 +4,7 @@ The primary treatment for MCAS involves medications like antihistamines and stab
 
 **Examples**:
 
-* **Dietary changes**: A low-histamine diet reduces histamine-rich foods, such as aged cheeses, fermented foods, and alcohol. 
+* **Dietary changes**: A low-histamine diet reduces histamine-rich foods, such as aged cheeses, fermented foods, and alcohol.
 
 * **Nutritional supplements**: Vitamin C acts as a natural antihistamine and mast cell stabilizer. Quercetin is a flavonoid that can have anti-inflammatory and mast cell stabilizing properties.
 

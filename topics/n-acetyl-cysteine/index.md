@@ -17,5 +17,3 @@ NAC is generally considered safe when used at recommended doses, but it can caus
 * **Acetaminophen Overdose**: NAC is used as an antidote for acetaminophen (paracetamol) overdose, as it can help protect the liver from the toxic effects of this common pain reliever.
 
 * **Immune System Support**: NAC has been investigated for its potential to enhance the immune system and reduce the severity and duration of respiratory infections, including the common cold and flu.
-
-* **Skin Health**: Some skincare products contain NAC due to its antioxidant properties, which can help protect the skin from environmental damage.

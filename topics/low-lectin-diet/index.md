@@ -35,7 +35,7 @@ Animal Protein:
 
 Animal Dairy:
 
-* Lactose-free dairy products (e.g., lactose-free milk, yogurt, hard cheeses).
+* Lactose-free dairy products.
 * Butter and ghee are generally considered low in lectins.
 
 Grains and Pseudograins:

@@ -1,6 +1,6 @@
 # Stinging nettle
 
-Stinging nettle (Urtica dioica) is a herbaceous plant with a long history of use in traditional medicine. It is known for its stinging hairs that can cause skin irritation upon contact. 
+Stinging nettle (Urtica dioica) is a herbaceous plant with a long history of use in traditional medicine. It is known for its stinging hairs that can cause skin irritation upon contact.
 
 **Key points**:
 

@@ -24,7 +24,7 @@
         </label>
         <ul class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
           <div class="collapse">
-            <input type="radio" name="my-accordion-1" checked="checked" /> 
+            <input type="radio" name="my-accordion-1" checked="checked" />
             <div class="collapse-title">Introduction</div>
             <div class="collapse-content"><ListIntroduction /></div>
           </div>
@@ -34,12 +34,12 @@
             <div class="collapse-content"><ListConditions /></div>
           </div>
           <div class="collapse">
-            <input type="radio" name="my-accordion-1" /> 
+            <input type="radio" name="my-accordion-1" />
             <div class="collapse-title">Supplements</div>
             <div class="collapse-content"><ListSupplements /></div>
           </div>
           <div class="collapse">
-            <input type="radio" name="my-accordion-1" /> 
+            <input type="radio" name="my-accordion-1" />
             <div class="collapse-title">Diets</div>
             <div class="collapse-content"><ListDiets /></div>
           </div>

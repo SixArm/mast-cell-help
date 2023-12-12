@@ -1,6 +1,6 @@
 # Antihistamine
 
-Antihistamines are a class of medications that are commonly used to treat allergic reactions and allergic symptoms. 
+Antihistamines are a class of medications that are commonly used to treat allergic reactions and allergic symptoms.
 
 Antihistamine work by blocking the effects of histamine, a natural substance in the body that is released during allergic reactions, that causes symptoms such as itching, sneezing, runny nose, and swelling.
 

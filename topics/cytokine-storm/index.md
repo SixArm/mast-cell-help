@@ -15,4 +15,3 @@ If someone suspects they are experiencing symptoms of a cytokine storm, seek pro
 * **Symptoms**: Symptoms of a cytokine storm may include fever, fatigue, widespread inflammation, and organ dysfunction. In severe cases, it can lead to life-threatening conditions such as acute respiratory distress syndrome (ARDS) and multiple organ failure.
 
 * **Treatment Challenges**: Managing cytokine storms can be challenging. Treatment approaches may include anti-inflammatory medications, immunosuppressive drugs, and supportive care to address specific symptoms and complications. In severe cases, intensive care may be required.
-    

@@ -1,12 +1,10 @@
 # Anaphylaxis treatments
 
-Anaphylaxis is a severe and life-threatening allergic reaction that requires immediate medical attention. If you or someone you are with is experiencing anaphylaxis, follow these steps for treatment:
+Anaphylaxis is a severe and life-threatening allergic reaction that requires immediate medical attention. If you or someone you are with is experiencing anaphylaxis, follow these steps for treatment.
 
-* **Seek Emergency Help**: Call an ambulance or get to the nearest emergency room as quickly as possible. It's essential to have medical assistance on the way.
+* **Seek Emergency Help**: Call an ambulance or get to the nearest emergency room as quickly as possible. Anaphylaxis can worsen rapidly. It's essential to have medical assistance on the way.
 
 * **Use an Adrenalin (a.k.a. Epinephrine) Auto-Injector**: If the person experiencing anaphylaxis has been prescribed an adrenalin auto-injector (such as an EpiPen), use it immediately as directed. Inject the adrenalin into the thigh muscle and hold it there for several seconds before removing the auto-injector. Adrenalin is the most important and effective treatment for anaphylaxis.
-
-* Anaphylaxis can worsen rapidly, so seeking immediate medical help is crucial. Even if symptoms improve after using an adrenalin auto-injector, it's important to get professional medical evaluation and follow-up care.
 
 * **Lay the Person Down**: If the individual is conscious but experiencing severe symptoms, especially difficulty breathing, it's important to lay them down. Elevate their legs if possible to help improve blood flow to the heart and brain. This position can be helpful in preventing a drop in blood pressure.
 

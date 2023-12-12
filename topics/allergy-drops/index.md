@@ -2,7 +2,7 @@
 
 Allergy drops are a form of treatment for allergies. The drops desensitize individuals to specific allergens, such as pollen, dust mites, pet dander, and molds. Allergy drops are also known as sublingual immunotherapy (SLIT), and they are an alternative to allergy shots, also known as subcutaneous immunotherapy (SCIT).
 
-Here's how allergy drops work and some key points to know:
+**Key points**:
 
 * **Desensitization**: The goal of allergy drops is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergy symptoms when exposed to them.
 

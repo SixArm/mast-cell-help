@@ -1,6 +1,6 @@
 # Vitamin C: low-histamine forms
 
-For individuals with histamine intolerance or sensitivity, certain forms of vitamin C may be preferred as they are considered lower in histamine. 
+For individuals with histamine intolerance or sensitivity, certain forms of vitamin C may be preferred as they are considered lower in histamine.
 
 **Key forms**:
 

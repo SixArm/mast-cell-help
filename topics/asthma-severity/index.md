@@ -1,8 +1,8 @@
 # Asthma severity
 
-Asthma is a chronic respiratory condition that can vary in severity from person to person. Healthcare providers often assess asthma severity to guide treatment and management strategies.
+Asthma can vary in severity from person to person.
 
-Intermittent Asthma:
+**Intermittent Asthma**:
 
 * Attacks are brief and not severe.
 
@@ -12,7 +12,7 @@ Intermittent Asthma:
 
 * Lung function is generally normal between exacerbations.
 
-Mild Persistent Asthma:
+**Mild Persistent Asthma**:
 
 * Attacks affect daily activities but are generally not severe.
 
@@ -22,7 +22,7 @@ Mild Persistent Asthma:
 
 * Lung function is generally normal between attacks.
 
-Moderate Persistent Asthma:
+**Moderate Persistent Asthma**:
 
 * Attacks affect daily activities and may be severe.
 
@@ -32,7 +32,7 @@ Moderate Persistent Asthma:
 
 * Lung function is reduced, with FEV1 (forced expiratory volume in one second) between 60% and 80% of the predicted value.
 
-Severe Persistent Asthma:
+**Severe Persistent Asthma**:
 
 * Attacks limit daily activities, are frequent, and severe.
 

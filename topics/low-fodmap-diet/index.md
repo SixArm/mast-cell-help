@@ -19,7 +19,7 @@ A low-FODMAP diet is a dietary approach designed to manage and alleviate gastroi
 * **2. Reintroduction (Challenge) Phase**: Reintroduce specific FODMAPs in a controlled manner, to identify which ones trigger symptoms in the individual.
 
 * **3. Maintenance Phase**: Develop a personalized long-term diet that includes foods low in FODMAPs that can be consumed without triggering symptoms, and limits foods that are triggers or are high in FODMAPs.
-* 
+
 # Low-FODMAP diet: foods to choose
 
 Vegetables:

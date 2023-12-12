@@ -1,6 +1,6 @@
 # Vitamin B7 = Biotin
 
-Vitamin B7, also known as biotin, is a water-soluble vitamin that plays a crucial role in various metabolic functions within the body. Biotin is essential for the metabolism of fats, carbohydrates, and proteins. It also plays a role in maintaining healthy hair, skin, and nails. 
+Vitamin B7, also known as biotin, is a water-soluble vitamin that plays a crucial role in various metabolic functions within the body. Biotin is essential for the metabolism of fats, carbohydrates, and proteins. It also plays a role in maintaining healthy hair, skin, and nails.
 
 **Key aspects**:
 
@@ -15,6 +15,6 @@ Vitamin B7, also known as biotin, is a water-soluble vitamin that plays a crucia
 * **Blood Sugar Regulation**: Some research suggests that biotin might play a role in helping to maintain normal blood sugar levels.
 
 * **Deficiency**: This is relatively rare but can occur, leading to symptoms like hair loss, skin rash, and neurological issues.
-  
+
 Dietary sources of biotin include a variety of foods such as organ meats (like liver and kidney), egg yolk, nuts, seeds, certain vegetables (such as sweet potatoes and spinach), and some fruits (like avocados). Bacteria in the gut also produce small amounts of biotin, contributing to the body's overall supply.
 

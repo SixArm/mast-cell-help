@@ -73,6 +73,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Acupuncture](topics/acupuncture)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing)
 * [Stress Management](topics/stress-management)
+* [Self-soothing](topics/self-soothing)
 * [Sleep hygiene](topics/sleep-hygiene)
 * [The SHINE protocol](topics/the-shine-protocol)
 * [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
@@ -201,9 +202,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
-* [Nasal cultures](multiple-antibiotic-resistant-coagulase-negative-staphylococci-nasal-cultures)
-  
-
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
 
 ### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome)
@@ -266,10 +264,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Antihistamine medications](topics/antihistamine-medications)
 
 * [Ketotifen](topics/ketotifen)
+* [Histamine N-methyltransferase (HNMT)](histamine-n-methyltransferase)
 
 ### [Antifungal medications](antifungal-medications)
 
 * [Methylene blue](topics/methylene-blue)
+
+## [Asthma medications](topics/asthma-medications)
+
+* [Omalizumab (brand name Xolair)](topics/malizumab)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
@@ -300,7 +303,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia)
 * [KIT-D816X](topics/kit-d816x)
 
- 
+
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 

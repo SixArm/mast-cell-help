@@ -73,6 +73,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Acupuncture](topics/acupuncture)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing)
 * [Stress Management](topics/stress-management)
+* [Progressive Muscle Relaxation (PMR)](progressive-muscle-relaxation)
 * [Self-soothing](topics/self-soothing)
 * [Sleep hygiene](topics/sleep-hygiene)
 * [The SHINE protocol](topics/the-shine-protocol)
@@ -309,8 +310,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## More
 
-
 * [Glossary](topics/glossary/)
+* [Glossary: medical role titles](topics/glossary-medical-role-titles)
+* [Glossary: units of measurement](topics/glossary-units-of-measurement)
 
 
 ### [Videos](topics/videos)

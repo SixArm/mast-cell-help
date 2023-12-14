@@ -4,14 +4,14 @@ Indolent Systemic Mastocytosis (ISM) is a rare and chronic medical condition cha
 
 **Key points**:
 
-* **Symptoms**: May include skin flushing, itching, hives, abdominal pain, diarrhea, nausea, and, in some cases, anaphylactic reactions (severe allergic responses).
+* **Symptoms**: May include skin flushing, itching, hives, abdominal pain, diarrhea, nausea, and, in some cases, anaphylactic reactions.
 
-* **Diagnosis**: Tests can detect an abnormally high number of mast cells in various tissues, typically confirmed through a bone marrow biopsy. Blood tests can also be used to assess serum tryptase levels, which are often elevated in ISM.
+* **Diagnosis**: Tests can detect an abnormally high number of mast cells in various tissues, and can assess serum tryptase levels, which are often elevated in ISM.
 
 * **Classification**: ISM is classified as one of the subtypes of systemic mastocytosis. ISM is considered a milder and more stable form compared to other systemic mastocytosis subtypes.
 
-* **Triggers**: Various factors or triggers, such as physical exertion, stress, temperature changes, or certain foods, can activate mast cells in individuals with ISM, leading to symptoms.
+* **Triggers**: Various factors or triggers, such as physical exertion, stress, temperature changes, or certain foods, can activate mast cells in individuals with ISM.
 
-* **Treatment**: The management of ISM primarily involves the control of symptoms and the prevention of mast cell activation. This may include the use of antihistamines, medications to stabilize mast cells (e.g., cromolyn sodium), and the avoidance of known triggers. In some cases, corticosteroids or other medications may be prescribed to manage severe symptoms.
+* **Treatment**: This may include the use of antihistamines, medications to stabilize mast cells (e.g., cromolyn sodium), and the avoidance of known triggers. In some cases, corticosteroids or other medications may be prescribed to manage severe symptoms.
 
-* **Prognosis**: ISM generally follows a relatively stable and indolent (slow-growing) course. While it can be associated with bothersome symptoms, it does not typically progress to a more aggressive form of systemic mastocytosis.
+* **Prognosis**: ISM generally follows an indolent (slow-growing) course. It does not typically progress to a more aggressive form.

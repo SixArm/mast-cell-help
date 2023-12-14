@@ -1,87 +1,49 @@
-# Glossary
+# Glossary: medical terminology
 
-Glossary of terminology that can help with these topics…
+**Medical chart notation**:
 
-Medical chart notation:
+* **pt**: patient
 
-* pt: patient
+* **hx**: history
 
-* hx: history
+* **sx**: symptom
 
-* sx: symptom
+* **tx**: treatment
 
-* tx: treatment
+* **dx**: diagnosis
 
-* dx: diagnosis
+* **rx**: prescription
 
-* rx: prescription
+* **px**: prognosis
 
-* px: prognosis
+**Medical imaging**:
 
+* **CT**: computerized tomography
 
-Scientific units of measurement:
+* **MRI**: magnetic resonance imaging
 
-* g: gram (mass)
+* **PET**: positron emission tomography
 
-* l: litre (liquid volume)
+**Medical terminology**:
 
-* s: second (time)
+* **ED**: Emergency Department
 
-* m: metre (length), kilogram (kg, mass),
+* **ER**: Emergency Room
 
-* A: ampere (electric current),
+* **HAT**: hereditary alpha-tryptasemia
 
-* K: kelvin (temperature)
+* **IM**: intra-muscular
 
-* mole: mole (amount of substance)
+* **IV**: intravenous
 
-* cd: candela (luminous intensity)
+* **MC**: mast cell
 
+* **MCA**: mast cell activation
 
-Medical role titles:
+* **MCAS**: mast cell activation syndrome
 
-* MD: Medical Doctor
+* **OTC**: over the counter
 
-* DO: Doctor of Osteopathy
+* **RBC**: red blood cell
 
-* RN: Registered Nurse
-
-* APRN: Advanced Practice Registered Nurse
-
-* PA: Physician Assistant
-
-* PA-C: Physician Assistant, Certified
-
-
-Medical imaging:
-
-* CT: computerized tomography
-
-* MRI: magnetic resonance imaging
-
-* PET: positron emission tomography
-
-
-Medical terminology:
-
-* ED: Emergency Department
-
-* ER: Emergency Room
-
-* HAT: hereditary alpha-tryptasemia
-
-* IM: intra-muscular
-
-* IV: intravenous
-
-* MC: mast cell
-
-* MCA: mast cell activation
-
-* MCAS: mast cell activation syndrome
-
-* OTC: over the counter
-
-* RBC: red blood cell
-
-* WBC: white blood cell
+* **WBC**: white blood cell

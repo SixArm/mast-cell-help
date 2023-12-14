@@ -150,6 +150,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Allergic reactions](topics/allergic-reactions)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
+* [Wool allergy](topics/wool-allergy)
+* [Textile dermatitis](topics/textile-dermatitis)
 
 ### [Anaphylaxis](topics/anaphylaxis)
 
@@ -308,13 +310,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 
-## More
-
-* [Glossary](topics/glossary/)
-* [Glossary: medical role titles](topics/glossary-medical-role-titles)
-* [Glossary: units of measurement](topics/glossary-units-of-measurement)
-
-
 ### [Videos](topics/videos)
 
 * [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
@@ -328,6 +323,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)
 * [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
+
+
+### [Glossary](topics/glossary/)
+
+* [Glossary: medical role titles](topics/glossary-medical-role-titles)
+* [Glossary: units of measurement](topics/glossary-units-of-measurement)
 
 
 ### [Conclusion](topics/conclusion)

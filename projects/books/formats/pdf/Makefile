@@ -1,5 +1,6 @@
 top = $(shell git rev-parse --show-toplevel)
 key = $(shell basename ${top})
+bin="../../bin"
 
 links="tmp/links.md"
 bound="tmp/bound.md"
@@ -15,7 +16,7 @@ clean:
 	rm -f ${links} ${bound} ${output}
 
 ${links}:
-	"${top}/bin/links" > ${links}
+	"${bin}/links" > ${links}
 
 ${bound}:
 	book-binder start.yml ${links} ${bound} "${top}/topics"

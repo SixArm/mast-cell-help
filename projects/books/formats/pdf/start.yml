@@ -9,8 +9,8 @@ titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-cover-image: "../../README.jpg"
-logo: "../README.jpg"
+cover-image: "../../../../assets/images/splash/1600x2500.jpg"
+logo: "../../../../assets/images/splash/1600x2500.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:

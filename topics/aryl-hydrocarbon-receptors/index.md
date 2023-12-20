@@ -1,14 +1,12 @@
 # Aryl hydrocarbon receptors (AhR)
 
-Aryl hydrocarbon receptors (AhR) are ligand-activated transcription factors that play a critical role in the body's response to environmental toxins, specifically aromatic hydrocarbons. These receptors are a part of a broader group of proteins known as the basic helix-loop-helix/Per-Arnt-Sim (bHLH/PAS) superfamily. AhR activation is involved in regulating the expression of a wide range of genes, particularly those related to xenobiotic metabolism and detoxification.
-
-Scientists are investigating the potential therapeutic applications of modulating AhR activity in the treatment of various diseases and conditions, including cancer, autoimmune disorders, and metabolic diseases.
+Aryl hydrocarbon receptors (AhR) are transcription factors that play a critical role in the body's response to environmental toxins, specifically aromatic hydrocarbons. AhR activation is involved in regulating the expression of a wide range of genes.
 
 **Key points**:
 
-* **Ligand Activation**: AhRs are typically inactive in the absence of ligands. They become activated when they bind to specific ligands, many of which are environmental pollutants, such as dioxins and polycyclic aromatic hydrocarbons (PAHs) found in cigarette smoke and charred foods.
+* **Ligand Activation**: AhRs are typically inactive in the absence of ligands. They become activated when they bind to specific ligands, many of which are environmental pollutants.
 
-* **Xenobiotic Metabolism**: One of the primary functions of AhR activation is to induce the expression of enzymes involved in xenobiotic (foreign substance) metabolism. This helps the body process and eliminate potentially harmful substances.
+* **Xenobiotic Metabolism**: AhR activation induces the expression of enzymes involved in xenobiotic (foreign substance) metabolism. This helps the body process and eliminate potentially harmful substances.
 
 * **Detoxification**: AhRs regulate the expression of cytochrome P450 enzymes, which are essential for detoxifying and breaking down a wide range of chemicals, including drugs and toxins.
 
@@ -18,9 +16,4 @@ Scientists are investigating the potential therapeutic applications of modulatin
 
 * **Cross-Talk with Other Pathways**: AhRs can interact with other cellular signaling pathways, including those involved in inflammation and oxidative stress.
 
-* **Toxicity and Disease**: While AhRs are essential for xenobiotic metabolism and detoxification, their activation by certain toxic ligands, such as dioxins, can lead to adverse health effects and is associated with conditions like cancer and immunotoxicity.
-
-* **Pharmaceutical and Therapeutic Applications**: Research on AhRs has implications for drug development and therapeutic interventions, as they can be targeted to regulate the expression of specific genes.
-
 * **Nutrition and Diet**: Some dietary compounds, such as those found in cruciferous vegetables, can activate AhRs and have been associated with potential health benefits.
-

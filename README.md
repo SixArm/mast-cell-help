@@ -51,6 +51,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications)
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures)
 * [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses)
+* [Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)](mast-cell-activation-syndrome-versus-histamine-intolerance)
 
 ### [Inflammation](topics/inflammation)
 

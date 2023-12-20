@@ -1,10 +1,8 @@
 # Gastroesophageal Reflux Disease (GERD)
 
-Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. The esophagus is the tube that carries food and liquids from the mouth to the stomach. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn't function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus. This can lead to various symptoms and potential complications.
+Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn't function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus.
 
-Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett's esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).
-
-GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications.
+GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications. Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett's esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).
 
 **Common symptoms**:
 
@@ -14,16 +12,16 @@ GERD can often be managed with lifestyle and dietary changes, as well as over-th
 
 * **Acid Indigestion**: Discomfort in the upper abdomen.
 
-* **Chest Pain**: Chest pain that may be mistaken for a heart-related issue. 
+* **Chest Pain**: Chest pain that may be mistaken for a heart issue. 
 
 * **Difficulty Swallowing**: Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.
 
-* **Chronic Cough**: Some people with GERD experience a persistent cough.
+* **Chronic Cough**: Some people experience a persistent cough.
 
-* **Sore Throat**: Frequent acid exposure can lead to throat irritation and a sore throat.
+* **Sore Throat**: Frequent acid exposure can cause throat irritation.
 
-* **Laryngitis**: Inflammation of the voice box, which can cause hoarseness.
+* **Laryngitis**: Inflammation of the voice box can cause hoarseness.
 
-* **Asthma**: GERD can trigger or worsen asthma symptoms in some individuals.
+* **Asthma**: GERD can trigger or worsen asthma symptoms.
 
-* **Dental Problems**: Stomach acid can cause tooth decay and other dental issues.
+* **Dental Problems**: Stomach acid can cause tooth decay.

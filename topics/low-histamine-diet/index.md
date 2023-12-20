@@ -14,8 +14,6 @@ A low-histamine diet should be followed under the guidance of a healthcare profe
 
 # Low-histamine diet: foods to choose
 
-For a low-histamine diet, these items are generally considered safe to choose.
-
 * **Fresh Meats**: Fresh, unprocessed meats such as chicken, turkey, beef, and pork are generally considered low in histamine.
 
 * **Fresh Vegetables**: Most fresh vegetables are well-tolerated. Exceptions may include tomatoes and spinach.
@@ -29,8 +27,6 @@ For a low-histamine diet, these items are generally considered safe to choose.
 * **Olive Oil**: Olive oil is considered low-histamine and can be used for cooking.
 
 # Low-histamine diet: foods to avoid
-
-For a low-histamine diet, here are items to avoid or limit.
 
 * **Fermented Foods**: These are among the highest histamine-containing foods. Examples include aged cheeses, sauerkraut, yogurt, and kombucha.
 

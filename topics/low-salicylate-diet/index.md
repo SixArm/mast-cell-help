@@ -14,8 +14,6 @@ Before starting a low-salicylate diet, it is advisable to consult with a healthc
 
 # Low-salicylate diet: foods to choose
 
-For a low-salicylate diet, here are foods that are generally considered safe to choose:
-
 * Low-salicylate fruits: pears, papayas, and melons.
 
 * Low-salicylate vegetables: carrots, sweet potatoes, and zucchini.
@@ -31,8 +29,6 @@ For a low-salicylate diet, here are foods that are generally considered safe to 
 * Oils and fats.
 
 # Low-salicylate diet: foods to avoid
-
-For a low-salicylate diet, here are items to avoid or limit:
 
 * High-salicylate fruits and vegetables.
 

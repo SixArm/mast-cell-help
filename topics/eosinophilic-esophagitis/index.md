@@ -1,11 +1,11 @@
 # Eosinophilic esophagitis (EoE)
 
-Eosinophilic esophagitis (EoE) is a chronic immune-mediated inflammatory condition that affects the esophagus, the muscular tube connecting the throat to the stomach. In EoE, the esophagus becomes infiltrated with a type of white blood cell called eosinophils, which are not normally found in this part of the digestive tract. This immune response leads to inflammation and can result in various symptoms and complications.
+Eosinophilic esophagitis (EoE) is a chronic immune-mediated inflammatory condition that affects the esophagus, the muscular tube connecting the throat to the stomach. In EoE, the esophagus becomes infiltrated with a type of white blood cell called eosinophils, which are not normally found in this part of the digestive tract. This immune response leads to inflammation.
 
 **Key points**:
 
 * **Symptoms**: May include difficulty swallowing (dysphagia), food impaction (getting food stuck in the esophagus), chest pain, heartburn, regurgitation, and food-related discomfort. 
-* 
+
 * **Triggers**: EoE is often triggered by allergic reactions to specific foods, such as milk, eggs, wheat, soy, and nuts. The immune system's response to these allergens results in inflammation and the accumulation of eosinophils in the esophagus.
 
 * **Diagnosis**: The diagnosis of EoE typically involves an upper endoscopy and biopsy. During an endoscopy, a thin, flexible tube with a camera is inserted through the mouth and into the esophagus to visualize the tissue. Biopsy samples are taken to assess the presence of eosinophils in the esophageal lining.

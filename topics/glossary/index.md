@@ -2,19 +2,23 @@
 
 **Medical chart notation**:
 
-* **pt**: patient
+* **CC**: chief complaint
 
-* **hx**: history
+* **Pt**: patient
 
-* **sx**: symptom
+* **Hx**: history
 
-* **tx**: treatment
+* **Sx**: symptom
 
-* **dx**: diagnosis
+* **Tx**: treatment
 
-* **rx**: prescription
+* **Dx**: diagnosis
 
-* **px**: prognosis
+* **Rx**: prescription
+
+* **Px**: prognosis
+
+* **Ix**: investigation
 
 **Medical imaging**:
 
@@ -29,8 +33,6 @@
 * **ED**: Emergency Department
 
 * **ER**: Emergency Room
-
-* **HAT**: hereditary alpha-tryptasemia
 
 * **IM**: intra-muscular
 

@@ -1,14 +1,14 @@
 # Toxin exposure
 
-Toxin exposure refers to the contact or ingestion of substances that can be harmful or poisonous to living organisms, including humans. Health effects can range from mild to severe, depending on the type and amount of exposure. 
+Toxin exposure refers to the contact or ingestion of substances that can be harmful or poisonous to living organisms, including humans. Health effects can range from mild to severe.
 
 **Common sources**:
 
-* **Air Pollution**: Particulate matter, ozone, and volatile organic compounds.
+* **Air Pollution**: Particulates, ozone, and volatile organic compounds.
 
-* **Water Contaminants**: Such as heavy metals (e.g., lead, arsenic) or microbial pathogens.
+* **Water Contaminants**: Heavy metals (e.g. lead) or microbial pathogens.
 
-* **Agricultural chemicals**: Pesticides and herbicides, when used improperly or in excess.
+* **Agricultural chemicals**: Pesticides and herbicides.
 
 * **Heavy Metals**: Lead, mercury, and cadmium, often through contaminated food or water.
   
@@ -16,20 +16,20 @@ Toxin exposure refers to the contact or ingestion of substances that can be harm
 
 * **Foodborne Pathogens**: Bacteria, viruses, and parasites in food.
 
-* **Contaminants**: Food may contain contaminants, such as aflatoxins in moldy peanuts.
+* **Food Contaminants**: Such as aflatoxins in moldy peanuts.
 
-* **Biological Toxins**: Toxins produced by living organisms, such as by snakes, spiders, or bees.
+* **Biological Toxins**: Such as venom produced by snakes, spiders, or bees.
 
-* **Cleaning Products**: Household cleaning agents, if ingested or inhaled.
+* **Cleaning Products**: Household cleaners, if ingested or inhaled.
   
 * **Lead Paint**: Lead-based paint, if ingested or inhaled as dust.
 
-* **Carbon Monoxide**: This colorless, odorless gas can be emitted by faulty gas appliances.
+* **Carbon Monoxide**: An odorless gas can be emitted by faulty appliances.
 
-* **Mold**: Certain molds produce mycotoxins that can be harmful when inhaled or ingested.
+* **Mold**: Certain molds produce harmful mycotoxins.
 
-* **Medications and Drugs**: Overdosing on medications or recreational drugs.
+* **Medications and Drugs**: Overdosing or abusing drugs.
 
-* **Industrial Toxins**: Common industrial toxins include asbestos, benzene, and lead.
+* **Industrial Toxins**: Such as asbestos, benzene, and lead.
 
 * **Radiation**: X-rays, nuclear power plants, or radioactive materials.

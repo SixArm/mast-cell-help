@@ -10,7 +10,7 @@ Stress management is crucial for maintaining physical well-being and mental well
 
 * **Set Goals**: Establish achievable goals and expectations for yourself.
 
-* **Relax**: Take slow deep breaths to activate the body's relaxation response. Tense and then relax different muscle groups to release physical tension. Meditate to calm the mind.
+* **Relax**: Take slow deep breaths. Tense then relax different muscle groups. Meditate.
 
 * **Exercise**: This releases endorphins, which are natural mood boosters.
 

@@ -1,34 +1,38 @@
 # Glossary: medical role titles
 
-**Physician-related titles**:
+**Doctor physician titles**:
 
-* **MD**: Medical Doctor. Fully-qualified physicians graduated from accredited medical schools and have completed their residency training and also fellowship training after that in some cases.
+* **MD**: Medical Doctor. Focus is allopathic western medicine.
 
-* **DO**: Doctor of Osteopathy. Fully-qualified physicians graduated from accredited medical schools and have completed their residency training and also fellowship training after that in some cases.
+* **DO**: Doctor of Osteopathy. Focus is holistic wellness and musculoskeletal areas.
 
-* **PA**: Physician Assistant. Can deliver diagnostic, therapeutic, and preventive health care services, as delegated by a physician.
+* **ND**: Naturopathic Doctor. Focus is natural remedies to help the body heal itself.
 
-* **PA-C**: Physician Assistant, Certified
+**Assistant-related titles**:
+
+* **PA**: Physician Assistant.
+
+* **PA-C**: Physician Assistant, Certified.
 
 **Nurse-related titles**:
 
-* **RN**: Registered Nurse
+* **RN**: Registered Nurse.
 
-* **APRN**: Advanced Practice Registered Nurse
+* **APRN**: Advanced Practice Registered Nurse.
 
-* **APRN-NP**: Nurse Practitioner. Nurse practitioners are health care professionals that complete advanced, graduate level educational programs that enable them to practice independently or in collaboration with other health care professionals and other individuals to diagnose, treat and manage the patient’s health problems.
+* **APRN-NP**: Nurse Practitioner. 
 
-* **APRN-FNP**: Family Nurse Practitioner. A Nurse Practitioner specializing in health care for families.
+* **APRN-FNP**: Family Nurse Practitioner.
 
-* **APRN-ANP**: Adult Nurse Practitioner. A Nurse Practitioner specializing in health care for adults.
+* **APRN-ANP**: Adult Nurse Practitioner.
 
-* **APRN-GNP**: Geriatric Nurse Practitioner. A Nurse Practitioner specializing in health care for elderly individuals.
+* **APRN-GNP**: Geriatric Nurse Practitioner.
 
-* **APRN-AGACNP**: Adult-Gerontology Acute Care Nurse Practitioner. A Nurse Practitioner specializing in adult and elderly acute care.
+* **APRN-AGACNP**: Adult-Gerontology Acute Care Nurse Practitioner.
 
-* **APRN-PNP**: Psychiatric Nurse Practitioner. A Nurse Practitioner specializing in mental health and psychiatry.
+* **APRN-PNP**: Psychiatric Nurse Practitioner.
 
-* **APRN-CNM**: Certified Nurse Midwife. A Nurse Practitioner specializing in prenatal care, labor and delivery.
+* **APRN-CNM**: Certified Nurse Midwife. 
 
 * **ACNP**: Acute Care Nurse Practitioner.
 

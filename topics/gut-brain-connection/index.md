@@ -1,6 +1,6 @@
 # Gut-brain connection
 
-The gut-brain connection refers to the bidirectional communication and interaction between the gastrointestinal (GI) tract (the gut) and the brain. This connection involves complex signaling pathways that influence various aspects of physical and mental well-being. The gut and the brain communicate through the nervous system, the immune system, and the endocrine system.
+The gut-brain connection refers to the bidirectional interaction between the gastrointestinal (GI) tract (the gut) and the brain, such as via the nervous system, the immune system, and the endocrine system. 
 
 Gut problems are implicated in mental health conditions such as stress and depression. Mental problems are implicated in gut health conditions such as stomachaches and bloating.
 

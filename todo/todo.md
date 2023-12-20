@@ -10,6 +10,12 @@ lymph vessels
 
 [Glossary](glossary/)
 
+Phosphatidylcholine
+
+C-reactive protein (CRP)
+interleukin-6 (IL-6)
+transforming growth factor beta-1 (TGF-B1)
+
 ## References
 
 Introductions:

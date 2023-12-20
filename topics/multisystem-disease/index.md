@@ -12,7 +12,7 @@
 
 * **Systemic Sclerosis (Scleroderma)**: This autoimmune disease can cause skin thickening and affect the blood vessels, lungs, heart, gastrointestinal tract, and kidneys.
 
-* **HIV/AIDS**: Human Immunodeficiency Virus (HIV) can lead to Acquired Immunodeficiency Syndrome (AIDS), affecting the immune system and leading to various multisystem complications, including opportunistic infections and malignancies.
+* **HIV/AIDS**: Human Immunodeficiency Virus (HIV) can lead to Acquired Immunodeficiency Syndrome (AIDS), affecting the immune system, leading to opportunistic infections and malignancies.
 
 * **Sjögren's Syndrome**: This autoimmune disease primarily affects the exocrine glands, leading to dryness of the eyes and mouth.
 

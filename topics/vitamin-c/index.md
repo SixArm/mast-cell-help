@@ -4,17 +4,17 @@ Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that plays a 
 
 **Key aspects**:
 
-* **Antioxidant Properties**: Vitamin C is a potent antioxidant, which means it helps protect cells from oxidative damage caused by free radicals and reactive oxygen species. This reduces the risk of chronic diseases.
+* **Antioxidant Properties**: Vitamin C is a potent antioxidant, which means it helps protect cells from oxidative damage caused by free radicals and reactive oxygen species. 
+  
+* **Immune Support**: Vitamin C helps stimulate the production of white blood cells, enhances the function of immune cells, and helps defend against infections.
 
-* **Immune Support**: Vitamin C helps stimulate the production of white blood cells, enhances the function of immune cells, and plays a role in the body's defense against infections.
-
-* **Collagen Production**: Vitamin C essential for the synthesis of collagen, a protein that plays a key role in wound healing, skin health, and the strength and structure of bones and tissues.
+* **Collagen Production**: Vitamin C essential for the synthesis of collagen, a protein that plays a key role in wound healing, skin health, bone health, and tissue health.
 
 * **Absorption of Iron**: Vitamin C enhances the digestive absorption of non-heme iron (the type of iron found in plant-based foods). This helps prevent iron-deficiency anemia.
 
 * **Neurotransmitter Synthesis**: Vitamin C is involved in the synthesis of certain neurotransmitters, including serotonin and norepinephrine.
 
-* **Skin Health**: Vitamin C is sometimes used in skincare products for its potential to promote healthy, radiant skin and reduce signs of aging.
+* **Skin Health**: Vitamin C is used in skincare products to promote healthy skin and reduce signs of aging.
 
 * **Dietary Sources**: Vitamin C is found in citrus fruits (oranges, lemons, grapefruits), berries (strawberries, blueberries), kiwi, guava, papaya, red and green bell peppers, and broccoli.
 

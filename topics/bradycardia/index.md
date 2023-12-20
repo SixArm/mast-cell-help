@@ -1,12 +1,10 @@
 # Bradycardia
 
-Bradycardia is a medical term used to describe an abnormally slow heart rate, typically defined as a resting heart rate of less than 60 beats per minute (BPM) in adults.
+Bradycardia means an abnormally slow heart rate, typically a resting heart rate of less than 60 beats per minute (BPM) in adults.
 
 **Key aspects**:
 
-* **Normal Physiological Variations**: In some individuals, a heart rate below 60 BPM may be normal, especially in well-trained athletes or during deep sleep.
-
-* **Aging**: As people get older, it's not uncommon for the heart's natural pacemaker, the sinoatrial (SA) node, to slow down, leading to a lower resting heart rate.
+* **Normal Physiological Variations**: A heart rate below 60 BPM may be normal, especially in well-trained athletes, or during deep sleep, or older people.
 
 * **Medications**: Some medications, particularly those used to treat high blood pressure and certain heart conditions, can slow the heart rate as a side effect.
 
@@ -20,4 +18,4 @@ Bradycardia is a medical term used to describe an abnormally slow heart rate, ty
 
 * **Symptoms**: dizziness, fatigue, weakness, fainting (syncope), shortness of breath, chest pain.
 
-* **Treatment**: May include medications such as antiarrhythmics or heart stimulators. A pacemaker implant may help. Lifestyle changes involve staying well-hydrated and avoiding excessive alcohol and caffeine.
+* **Treatment**: Medications such as antiarrhythmics or heart stimulators. A pacemaker implant may help. Lifestyle changes involve staying well-hydrated and avoiding alcohol and caffeine.

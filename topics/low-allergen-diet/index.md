@@ -14,8 +14,6 @@ Additionally, dietary restrictions should be monitored to ensure you still recei
 
 # Low-allergen diet: foods to choose
 
-For a low-allergen diet, here are foods that are generally considered safe to choose:
-
 * **Fresh Fruits**: Most fresh fruits are safe on a low-allergen diet.
 
 * **Fresh Vegetables**: Fresh vegetables are generally safe. Pay attention to potential cross-contamination during preparation.
@@ -33,8 +31,6 @@ For a low-allergen diet, here are foods that are generally considered safe to ch
 * **Homemade Foods**: Preparing homemade meals gives you more control over ingredient selection and reduces the risk of hidden allergens.
 
 # Low-allergen diet: foods to avoid
-
-For a low-allergen diet, here are items to avoid or limit:
 
 * **Big allergens**: Avoid foods containing the "big allergens". These are milk, eggs, peanuts, tree nuts, soy, wheat, fish, and shellfish.
 

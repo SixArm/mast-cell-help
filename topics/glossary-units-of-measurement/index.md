@@ -20,22 +20,24 @@
 
 **Some common prefixes**:
 
-* **n**: nano means 1/1000000000
+* **n**: nano means 1/1000000000 a.k.a. $10^{-9}$
   
-* **μ**: micro means 1/1000000
+* **μ**: micro means 1/1000000 a.k.a. $10^{-6}$
   
-* **m**: milli means 1/1000
+* **m**: milli means 1/1000 a.k.a. $10^{-3}$
 
-* **c**: centi means 1/100
-
-* **d**: deci means 1/10
+* **k**: kilo means 1000 a.k.a. $10^{3}$
   
-* **k**: kilo means 1000
+* **M**: mega means 1000000 a.k.a. $10^{6}$
   
+* **G**: giga means 1000000000 a.k.a $10^{9}$
+ 
 **Some common ratios**:
 
-* ****g/L****: grams per liter
+* **g/L**: grams per liter
 
-* ****U/L****: units per liter
+* **U/L**: units per liter
 
-* ****IU/L****: international units per liter
+* **IU/L**: international units per liter
+
+* **INR**: international normalized ratio (measures blood clotting time)

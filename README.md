@@ -82,6 +82,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Buteyko breathing method](topics/buteyko-breathing-method)
 * [Gut-brain connection](topics/gut-brain-connection)
 * [Food diary](topics/food-diary)
+* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
+
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
@@ -121,13 +123,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Calcium](topics/calcium)
 * [Calcium D-glucarate](topics/calcium-d-glucarate)
 * [Copper](topics/copper)
-* [Zinc](topics/zinc)
+* [Magnesium glycinate](topics/magnesium-glycinate)
 * [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
+* [Zinc](topics/zinc)
+* [Prebiotic supplements](topics/prebiotic-supplements)
+* [Probiotic supplements](topics/probiotic-supplements)
 * [Electrolytes](topics/electrolytes)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
 * [Antimicrobial herbs](topics/antimicrobial-herbs)
-
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
 
@@ -192,6 +196,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Ferroptosis](topics/ferroptosis)
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease)
+
+### [Leaky gut](topics/leaky-gut)
 
 ### [Lyme disease](topics/lyme-disease)
 

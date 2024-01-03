@@ -73,17 +73,21 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine)
 * [Acupuncture](topics/acupuncture)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing)
-* [Stress Management](topics/stress-management)
+* [Gut-brain connection](topics/gut-brain-connection)
+* [Food diary](topics/food-diary)
+* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
+
+### [Stress Management](topics/stress-management)
+
 * [Progressive Muscle Relaxation (PMR)](progressive-muscle-relaxation)
 * [Self-soothing](topics/self-soothing)
 * [Sleep hygiene](topics/sleep-hygiene)
 * [The SHINE protocol](topics/the-shine-protocol)
 * [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
 * [Buteyko breathing method](topics/buteyko-breathing-method)
-* [Gut-brain connection](topics/gut-brain-connection)
-* [Food diary](topics/food-diary)
-* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
-
+* [Vagus nerve reset](topics/vagus-nerve-reset)
+* [Polyvagal theory](topics/polyvagal-theory)
+* [Polyvagal exercises](topics/polyvagal-exercises)
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
@@ -105,8 +109,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Considerations](topics/dietary-supplements-considerations)
 * [Multivitamin](topics/multivitamin)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
-* [Vitamin C](topics/vitamin-c)
-* [Vitamin C - low-histamine forms](vitamin-c-low-histamine-forms)
 * [Omega-3](topics/omega-3)
 * [Quercetin](topics/quercetin)
 * [Glutathione](topics/glutathione)
@@ -120,6 +122,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B7 = Biotin](topics/vitamin-b7-biotin)
 * [Vitamin B9 = Folate](topics/vitamin-b9-folate)
 * [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
+* [Vitamin C](topics/vitamin-c)
+* [Vitamin C - low-histamine forms](topics/vitamin-c-low-histamine-forms)
 * [Calcium](topics/calcium)
 * [Calcium D-glucarate](topics/calcium-d-glucarate)
 * [Copper](topics/copper)
@@ -129,6 +133,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Prebiotic supplements](topics/prebiotic-supplements)
 * [Probiotic supplements](topics/probiotic-supplements)
 * [Electrolytes](topics/electrolytes)
+* [Berberine](topics/berberine)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
 * [Antimicrobial herbs](topics/antimicrobial-herbs)
@@ -139,8 +144,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ## Conditions
 
 
-### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
-
 ### [Histamine intolerance](topics/histamine-intolerance)
 
 * [Symptoms](topics/histamine-intolerance-symptoms)
@@ -148,6 +151,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis](topics/histamine-intolerance-diagnosis)
 * [Severity](topics/histamine-intolerance-severity)
 * [Treatments](topics/histamine-intolerance-treatments)
+
+### [Adrenaline dumping](topics/adrenaline-dumping)
 
 ### [Allergies](topics/allergies)
 
@@ -169,6 +174,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Anaphylaxis emergency room](topics/anaphylaxis-emergency-room)
 * [Anaphylaxis emergency grades](topics/anaphylaxis-emergency-grades)
+
+### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
 
 ### [Asthma](topics/asthma)
 

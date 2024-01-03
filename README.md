@@ -152,8 +152,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Severity](topics/histamine-intolerance-severity)
 * [Treatments](topics/histamine-intolerance-treatments)
 
-### [Adrenaline dumping](topics/adrenaline-dumping)
-
 ### [Allergies](topics/allergies)
 
 * [Allergy types](topics/allergy-types)
@@ -225,6 +223,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis)
 
+### [Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)](systemic-mastocytosis-with-associated-hematologic-neoplasm)
+
+### [Scar tissue adhesions](topics/scar-tissue-adhesions)
+
 ### [Sulfur intolerance](topics/sulfur-intolerance)
 
 ### [Telangiectasia Macularis Eruptiva Perstans](topics/telangiectasia-macularis-eruptiva-perstans)
@@ -235,6 +237,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 ## Symptoms
+
+### [Adrenaline dumping](topics/adrenaline-dumping)
 
 ### [Bradycardia](topics/bradycardia)
 
@@ -251,7 +255,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Hypotension causes](topics/hypotension-causes)
 
 ### [Presyncope](topics/presyncope)
-
 
 <img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
 

@@ -1,51 +1,47 @@
 # Glossary: medical terminology
 
-**Medical chart notation**:
+**Medical chart notation:**
 
-* **CC**: chief complaint
+* **CC:** chief complaint
 
-* **Pt**: patient
+* **Pt:** patient
 
-* **Hx**: history
+* **Hx:** history
 
-* **Sx**: symptom
+* **Sx:** symptom
 
-* **Tx**: treatment
+* **Tx:** treatment
 
-* **Dx**: diagnosis
+* **Dx:** diagnosis
 
-* **Rx**: prescription
+* **Rx:** prescription
 
-* **Px**: prognosis
+* **Px:** prognosis
 
-* **Ix**: investigation
+* **Ix:** investigation
 
-**Medical imaging**:
+**Medical imaging:**
 
-* **CT**: computerized tomography
+* **CT:** computerized tomography
 
-* **MRI**: magnetic resonance imaging
+* **MRI:** magnetic resonance imaging
 
-* **PET**: positron emission tomography
+* **PET:** positron emission tomography
 
-**Medical terminology**:
+**Medical terminology:**
 
-* **ED**: Emergency Department
+* **ED:** Emergency Department
 
-* **ER**: Emergency Room
+* **ER:** Emergency Room
 
-* **IM**: intra-muscular
+* **IM:** intra-muscular
 
-* **IV**: intravenous
+* **IV:** intravenous
 
-* **MC**: mast cell
+* **MC:** mast cell
 
-* **MCA**: mast cell activation
+* **MCA:** mast cell activation
 
-* **MCAS**: mast cell activation syndrome
+* **MCAS:** mast cell activation syndrome
 
-* **OTC**: over the counter
-
-* **RBC**: red blood cell
-
-* **WBC**: white blood cell
+* **OTC:** over the counter

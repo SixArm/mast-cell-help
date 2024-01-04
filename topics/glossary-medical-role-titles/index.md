@@ -1,39 +1,39 @@
 # Glossary: medical role titles
 
-**Doctor physician titles**:
+**Doctor physician titles:**
 
-* **MD**: Medical Doctor. Focus is allopathic western medicine.
+* **MD:** Medical Doctor. Focus is allopathic western medicine.
 
-* **DO**: Doctor of Osteopathy. Focus is holistic wellness and musculoskeletal areas.
+* **DO:** Doctor of Osteopathy. Focus is holistic wellness and musculoskeletal areas.
 
-* **ND**: Naturopathic Doctor. Focus is natural remedies to help the body heal itself.
+* **ND:** Naturopathic Doctor. Focus is natural remedies to help the body heal itself.
 
-**Assistant-related titles**:
+**Assistant-related titles:**
 
-* **PA**: Physician Assistant.
+* **PA:** Physician Assistant.
 
-* **PA-C**: Physician Assistant, Certified.
+* **PA-C:** Physician Assistant, Certified.
 
-**Nurse-related titles**:
+**Nurse-related titles:**
 
-* **RN**: Registered Nurse.
+* **RN:** Registered Nurse.
 
-* **APRN**: Advanced Practice Registered Nurse.
+* **APRN:** Advanced Practice Registered Nurse.
 
-* **APRN-NP**: Nurse Practitioner. 
+* **APRN-NP:** Nurse Practitioner. 
 
-* **APRN-FNP**: Family Nurse Practitioner.
+* **APRN-FNP:** Family Nurse Practitioner.
 
-* **APRN-ANP**: Adult Nurse Practitioner.
+* **APRN-ANP:** Adult Nurse Practitioner.
 
-* **APRN-GNP**: Geriatric Nurse Practitioner.
+* **APRN-GNP:** Geriatric Nurse Practitioner.
 
-* **APRN-AGACNP**: Adult-Gerontology Acute Care Nurse Practitioner.
+* **APRN-AGACNP:** Adult-Gerontology Acute Care Nurse Practitioner.
 
-* **APRN-PNP**: Psychiatric Nurse Practitioner.
+* **APRN-PNP:** Psychiatric Nurse Practitioner.
 
-* **APRN-CNM**: Certified Nurse Midwife. 
+* **APRN-CNM:** Certified Nurse Midwife. 
 
-* **ACNP**: Acute Care Nurse Practitioner.
+* **ACNP:** Acute Care Nurse Practitioner.
 
-* **ENP**: Emergency Nurse Practitioner.
+* **ENP:** Emergency Nurse Practitioner.

@@ -1,25 +1,24 @@
 # Leaky gut
 
-"Leaky gut," or increased intestinal permeability, is a term used to describe a condition where the lining of the gut becomes more porous, allowing substances to pass through that normally would not.
+"Leaky gut" is a term used to describe a condition where the lining of the gut becomes more porous, allowing substances to pass through that normally would not. Also known as increased intestinal permeability.
 
-**Key points**:
+**Key treatments:**
 
-* **Remove Potential Triggers**: Identify and eliminate foods that contribute to inflammation, such as processed foods, refined sugars, gluten, and dairy. 
+* **Remove Potential Triggers:** Identify and eliminate foods that contribute to inflammation, such as processed foods, refined sugars, gluten, and dairy. 
   
-* **Emphasize Whole Foods**: Focus on a whole foods-based diet rich in fruits, vegetables, lean proteins, and healthy fats.
+* **Emphasize Good Foods:** Focus on a whole foods-based diet rich in vegetables, fruits, lean proteins, and healthy fats. Include nutrient-dense foods that support gut health, such as bone broth, fermented foods (e.g., sauerkraut, kimchi, kefir), and foods rich in fiber (e.g., vegetables, fruits, whole grains).
 
-* **Nutrient-Rich Foods**: Include nutrient-dense foods that support gut health, such as bone broth, fermented foods (e.g., sauerkraut, kimchi, kefir), and foods rich in fiber (e.g., vegetables, fruits, whole grains).
+* **Prebiotics:** Try prebiotic-rich foods that promote the growth of beneficial gut bacteria. Examples: garlic, onions, leeks, asparagus, bananas.
 
-* **Prebiotics**: Include prebiotic-rich foods that promote the growth of beneficial gut bacteria. Examples include garlic, onions, leeks, asparagus, and bananas.
+* **Probiotics:** Try probiotic-rich foods or supplements to support a healthy balance of gut bacteria.
+Examples: yogurt, kefir, kombucha, sauerkraut, pickles, miso, tempeh, kimchi.
 
-* **Probiotics**: Consider incorporating probiotic-rich foods or supplements to support a healthy balance of gut bacteria.
+* **Gut-Supportive Supplements:** Try supplements to support gut health. Examples: glutamine, quercetin, aloe vera, slippery elm.
 
-* **Gut-Supportive Supplements**: Some individuals may consider supplements that are believed to support gut health, such as glutamine, quercetin, aloe vera, and slippery elm.
+* **Hydration:** Stay well-hydrated for overall health and to support the mucosal lining of the gut.
 
-* **Hydration**: Stay well-hydrated, as water is essential for overall health and helps support the mucosal lining of the gut.
+* **Stress Management:** Practice stress-reducing techniques, as chronic stress can impact gut health. Try meditation, deep breathing exercises, yoga, or mindfulness.
 
-* **Stress Management**: Practice stress-reducing techniques, as chronic stress can impact gut health. Consider activities such as meditation, deep breathing exercises, yoga, or mindfulness.
+* **Adequate Sleep:** Prioritize quality sleep, as it plays a crucial role in overall health, including immune function and gut health.
 
-* **Adequate Sleep**: Prioritize quality sleep, as it plays a crucial role in overall health, including immune function and gut health.
-
-* **Physical Activity**: Engage in regular physical activity, as it can support overall health and may positively influence gut health.
+* **Physical Activity:** Engage in regular physical activity, as it can support overall health and may positively influence gut health.

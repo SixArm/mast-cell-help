@@ -4,19 +4,19 @@ Dysautonomia, also known as autonomic nervous system dysfunction or autonomic ne
 
 The ANS is responsible for regulating various involuntary bodily functions, including heart rate, blood pressure, digestion, temperature control, and the body's response to stress. When the autonomic nervous system doesn't function properly, it can lead to a wide range of symptoms and health issues.
 
-**Causes**:
+**Causes:**
 
-* **Primary Autonomic Failure**: This category includes conditions like pure autonomic failure, multiple system atrophy, and Parkinson's disease, which primarily affect the autonomic nervous system.
+* **Primary Autonomic Failure:** This category includes conditions like pure autonomic failure, multiple system atrophy, and Parkinson's disease, which primarily affect the autonomic nervous system.
 
-* **Neurological Disorders**: Certain neurological conditions, such as neuropathies, can lead to autonomic dysfunction. For example, diabetic neuropathy can affect the autonomic nervous system in individuals with diabetes.
+* **Neurological Disorders:** Certain neurological conditions, such as neuropathies, can lead to autonomic dysfunction. For example, diabetic neuropathy can affect the autonomic nervous system in individuals with diabetes.
 
-* **Postural Orthostatic Tachycardia Syndrome (POTS)**: POTS is characterized by an abnormal increase in heart rate upon standing, leading to symptoms like dizziness, lightheadedness, and fainting.
+* **Postural Orthostatic Tachycardia Syndrome (POTS):** POTS is characterized by an abnormal increase in heart rate upon standing, leading to symptoms like dizziness, lightheadedness, and fainting.
 
-* **Neurocardiogenic Syncope**: This condition involves episodes of fainting, often triggered by specific factors like stress, pain, or prolonged standing.
+* **Neurocardiogenic Syncope:** This condition involves episodes of fainting, often triggered by specific factors like stress, pain, or prolonged standing.
 
-* **Familial Dysautonomia (Riley-Day Syndrome)**: This is a rare genetic disorder that affects the autonomic nervous system and is more common in people of Ashkenazi Jewish descent.
+* **Familial Dysautonomia (Riley-Day Syndrome):** This is a rare genetic disorder that affects the autonomic nervous system and is more common in people of Ashkenazi Jewish descent.
 
-**Common symptoms**:
+**Common symptoms:**
 
 * Dizziness and lightheadedness
 * Fainting or near-fainting episodes
@@ -31,7 +31,7 @@ The ANS is responsible for regulating various involuntary bodily functions, incl
 
 The diagnosis of dysautonomia typically involves a thorough medical evaluation, which may include a detailed medical history, physical examination, autonomic function tests, and sometimes specialized testing like tilt-table tests or thermoregulatory sweat tests.
 
-**Treatment may include**:
+**Treatment may include:**
 
 * Lifestyle modifications, such as increasing fluid and salt intake
 * Medications to manage symptoms, like beta-blockers or medications to increase blood volume

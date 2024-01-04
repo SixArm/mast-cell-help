@@ -1,43 +1,43 @@
 # Glossary: units of measurement
 
-**Some common units**:
+**Some common units:**
 
-* **g**: gram is for mass
+* **g:** gram is for mass
 
-* **l**: litre is for liquid volume
+* **l:** litre is for liquid volume
 
-* **s**: second is for time
+* **s:** second is for time
 
-* **m**: metre is for length
+* **m:** metre is for length
 
-* **A**: ampere is for electric current
+* **A:** ampere is for electric current
 
-* **K**: kelvin is for temperature
+* **K:** kelvin is for temperature
 
-* **mol**: mole is for amount of a substance
+* **mol:** mole is for amount of a substance
 
-* **cd**: candela is for luminous intensity
+* **cd:** candela is for luminous intensity
 
-**Some common prefixes**:
+**Some common prefixes:**
 
-* **n**: nano means 1/1000000000 a.k.a. $10^{-9}$
+* **n:** nano means 1/1000000000 a.k.a. $10^{-9}$
   
 * **μ**: micro means 1/1000000 a.k.a. $10^{-6}$
   
-* **m**: milli means 1/1000 a.k.a. $10^{-3}$
+* **m:** milli means 1/1000 a.k.a. $10^{-3}$
 
-* **k**: kilo means 1000 a.k.a. $10^{3}$
+* **k:** kilo means 1000 a.k.a. $10^{3}$
   
-* **M**: mega means 1000000 a.k.a. $10^{6}$
+* **M:** mega means 1000000 a.k.a. $10^{6}$
   
-* **G**: giga means 1000000000 a.k.a $10^{9}$
+* **G:** giga means 1000000000 a.k.a $10^{9}$
  
-**Some common ratios**:
+**Some common ratios:**
 
-* **g/L**: grams per liter
+* **g/L:** grams per liter
 
-* **U/L**: units per liter
+* **U/L:** units per liter
 
-* **IU/L**: international units per liter
+* **IU/L:** international units per liter
 
-* **INR**: international normalized ratio (measures blood clotting time)
+* **INR:** international normalized ratio (measures blood clotting time)

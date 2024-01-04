@@ -7,8 +7,14 @@ complementary and alternative medicine (CAM)
 lymph
 lymph nodes
 lymph vessels
+adrenal insufficiency / adrenal fatigue / cortisol deficiency
+Restless Leg Syndrome
 
 [Glossary](glossary/)
+
+Glossary items:
+* **RBC:** red blood cell
+* **WBC:** white blood cell
 
 Phosphatidylcholine
 

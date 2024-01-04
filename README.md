@@ -45,6 +45,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Symptoms](topics/mast-cell-activation-syndrome-symptoms)
 * [Diagnosis](topics/mast-cell-activation-syndrome-diagnosis)
+* [Diagnosis via clinical evaluation](topics/mast-cell-activation-syndrome-diagnosis-via-clinical-evaluation)
+* [Diagnosis via laboratory tests](topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests)
+* [Diagnosis consensus 2 criteria](topics/mast-cell-activation-syndrome-diagnosis-consensus-2-criteria)
 * [Severity](topics/mast-cell-activation-syndrome-severity)
 * [Treatments](topics/mast-cell-activation-syndrome-treatments)
 * [Medications](topics/mast-cell-activation-syndrome-medications)

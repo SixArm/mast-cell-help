@@ -4,10 +4,10 @@ The treatment of Mast Cell Activation Syndrome (MCAS) typically focuses on relie
 
 It's important to work with a healthcare provider who is knowledgeable about MCAS and can develop an individualized treatment plan tailored to your specific symptoms and needs. MCAS management may require ongoing adjustments to address the evolving nature of the condition and to provide the best possible quality of life.
 
-**Typical treatments**:
+**Typical treatments:**
 
-* **Dietary modifications**: These can include a low-histamine diet, and also a diet that helps identify food triggers.
+* **Dietary modifications:** These can include a low-histamine diet, and also a diet that helps identify food triggers.
 
-* **Medications**: These can include antihistamines, mast cell stabilizers, leukotriene modifiers, proton pump Inhibitors (PPIs), and adrenaline auto-injectors.
+* **Medications:** These can include antihistamines, mast cell stabilizers, leukotriene modifiers, proton pump Inhibitors (PPIs), and adrenaline auto-injectors.
 
-* **Supportive measures**: These can include stress management, avoidance of triggers, regular moderate exercise, health monitoring and medical follow-up.
+* **Supportive measures:** These can include stress management, avoidance of triggers, regular moderate exercise, health monitoring and medical follow-up.

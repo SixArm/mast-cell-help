@@ -6,11 +6,11 @@ Local anesthesia is administered to numb the skin and underlying tissue, usually
 
 The collected samples are then sent to a laboratory for analysis by pathologists and other specialists. Most patients can resume normal activities shortly after. There may be some discomfort at the biopsy site for a day or two.
 
-**Purposes**:
+**Purposes:**
 
-* **Diagnosis**: A bone marrow biopsy may be conducted to diagnose and evaluate a wide range of conditions, such as blood disorders (e.g., anemia, leukemia, lymphoma), bone marrow disorders, and certain infectious diseases.
+* **Diagnosis:** A bone marrow biopsy may be conducted to diagnose and evaluate a wide range of conditions, such as blood disorders (e.g., anemia, leukemia, lymphoma), bone marrow disorders, and certain infectious diseases.
 
-* **Staging and Monitoring**: In individuals already diagnosed with conditions like leukemia or lymphoma, a bone marrow biopsy can help determine the extent of the disease and monitor treatment response.
+* **Staging and Monitoring:** In individuals already diagnosed with conditions like leukemia or lymphoma, a bone marrow biopsy can help determine the extent of the disease and monitor treatment response.
 
-* **Identification of Cytogenetic Abnormalities**: The bone marrow sample can be used to analyze the genetic and chromosomal characteristics of the bone marrow cells, which can be important for treatment decisions and prognosis.
+* **Identification of Cytogenetic Abnormalities:** The bone marrow sample can be used to analyze the genetic and chromosomal characteristics of the bone marrow cells, which can be important for treatment decisions and prognosis.
 

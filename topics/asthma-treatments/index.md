@@ -1,6 +1,6 @@
 # Asthma treatments
 
-Asthma is a chronic respiratory condition, and its treatment typically involves a combination of medications, lifestyle management, and the development of an asthma action plan. The goal of asthma treatment is to achieve and maintain good asthma control, which means having minimal or no symptoms and being able to engage in daily activities without limitations.
+Asthma is a chronic respiratory condition. Treatment typically involves a combination of medications.
 
 **Quick-Relief (Rescue) Medications:**
 
@@ -20,4 +20,4 @@ Asthma is a chronic respiratory condition, and its treatment typically involves 
 
 **Biologics:**
 
-* In severe asthma cases, biologic medications may be considered. These are targeted therapies that aim to address specific inflammatory pathways. Examples: omalizumab, mepolizumab, reslizumab, benralizumab.
+* **Targeted therapies:** In severe asthma cases, biologic medications may be considered that aim to address specific inflammatory pathways. Examples: omalizumab, mepolizumab, reslizumab, benralizumab.

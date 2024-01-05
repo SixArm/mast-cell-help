@@ -6,7 +6,7 @@
 
 * **Remove Potential Triggers:** Identify and eliminate foods that contribute to inflammation, such as processed foods, refined sugars, gluten, and dairy. 
   
-* **Emphasize Good Foods:** Focus on a whole foods-based diet rich in vegetables, fruits, lean proteins, and healthy fats. Include nutrient-dense foods that support gut health, such as bone broth, fermented foods (e.g., sauerkraut, kimchi, kefir), and foods rich in fiber (e.g., vegetables, fruits, whole grains).
+* **Emphasize Good Foods:** Try a whole foods-based diet rich in vegetables, fruits, lean proteins, and healthy fats. Try foods that support gut health, such as bone broth, fermented foods (e.g., sauerkraut, kimchi, kefir), and high-fiber foods.
 
 * **Prebiotics:** Try prebiotic-rich foods that promote the growth of beneficial gut bacteria. Examples: garlic, onions, leeks, asparagus, bananas.
 
@@ -15,7 +15,7 @@ Examples: yogurt, kefir, kombucha, sauerkraut, pickles, miso, tempeh, kimchi.
 
 * **Gut-Supportive Supplements:** Try supplements to support gut health. Examples: glutamine, quercetin, aloe vera, slippery elm.
 
-* **Hydration:** Stay well-hydrated for overall health and to support the mucosal lining of the gut.
+* **Hydration:** This supports the mucosal lining of the gut.
 
 * **Stress Management:** Practice stress-reducing techniques, as chronic stress can impact gut health. Try meditation, deep breathing exercises, yoga, or mindfulness.
 

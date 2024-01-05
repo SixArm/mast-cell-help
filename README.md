@@ -299,8 +299,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
-* [Cholestyramine](topics/cholestyramine)
-* [Colesevelam (a.k.a. Welchol)](topics/colesevelam)
+* [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol)
 * [Activated charcoal](topics/activated-charcoal)
 
 ### [Biotoxin treatments](biotoxin-treatments)

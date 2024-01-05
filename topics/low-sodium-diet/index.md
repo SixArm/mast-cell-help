@@ -20,137 +20,35 @@ A low-sodium diet, often referred to as a low-salt diet, is a dietary approach t
 
 
 # Low-sodium diet: foods to choose
+* **Vegetables:** fresh and frozen vegetables without sauces, potatoes, low-sodium canned vegetables, sauces, and juices.
 
-Vegetables:
+* **Fruits:** most fresh/frozen/canned fruit, dried fruits.
 
-* Fresh and frozen vegetables without sauces
+* **Proteins:** most fresh or frozen meat (beef, lamb, pork, poultry), fish, eggs, low-sodium peanut butter, dry peas and beans (not canned), low-sodium canned meats and fish.
 
-* Low-sodium canned vegetables, sauces, and juices
+* **Dairy:** milk, yogurt, ice cream, ice milk, low-sodium cheeses.
 
-* Fresh potatoes, frozen French fries and instant mashed potatoes
+* **Grains etc…:** unsalted breads (loafs, bagels, rolls, muffins), most ready-to-eat cereals
+all rice and pasta (but do not add salt when cooking), low-sodium tortillas, low-sodium noodles, low-sodium or unsalted snacks (popcorn, chips, pretzels, crackers, breadsticks).
 
-* Low-salt tomato juice, low-salt V-8 juice
+* **Soups:** low-sodium canned and dehydrated soups (also broth, bouillon), homemade soups without added salt.
 
-Fruits:
-
-* Most fresh, frozen, and canned fruit
-
-* Dried fruits
-
-Proteins:
-
-* Any fresh or frozen beef, lamb, pork, poultry, fish
-
-* Eggs and egg substitutes
-
-* Low-sodium peanut butter
-
-* Dry peas and beans (not canned)
-
-* Low-sodium canned fish
-
-* Drained canned fish or poultry, packed in water or oil
-
-Dairy:
-
-* Milk, yogurt, ice cream and ice milk
-
-* Low-sodium cheeses, cream cheese, ricotta cheese, mozzarella
-
-Grains etc…
-
-* Breads, bagels, and rolls, all without salted tops
-
-* Muffins
-
-* Most ready-to-eat cereals
-
-* All rice and pasta, but do not to add salt when cooking
-
-* Low-sodium corn tortillas, flour tortillas
-
-* Low-sodium noodles
-
-* Low-sodium crackers and breadsticks
-
-* Unsalted popcorn, chips, pretzels
-
-Soups:
-
-* Low-sodium canned and dehydrated soups, broth, bouillon
-
-* Homemade soups without added salt
-
-Condiments:
-
-* Vinegar
-
-* Unsalted butter or margarine
-
-* Vegetable oils and low sodium sauces and salad dressings
-
-* Mayonnaise
-
-* All desserts made without salt
+* **Condiments:** vinegar, unsalted butter or margarine, vegetable oils, low sodium sauces and salad dressings, mayonnaise.
+  
+* **Sweets:** desserts made without salt.
 
 # Low-sodium diet: foods to avoid
 
-Vegetables:
+* **Vegetables:** regular canned vegetables and canned vegetable juices, olives, pickles, sauerkraut, pickled vegetables, packaged mixes (such as potatoes, hash browns, tater tots), commercially-prepared sauces and salsas
 
-* Regular canned vegetables and canned vegetable juices
+* **Proteins:** smoked/cured/salted/canned meat/poultry/fish, bacon, cold cuts, ham, frankfurters, sausage, sardines, caviar, anchovies, frozen breaded meats and dinners (such as burritos and pizza), canned entrees (such as ravioli, spam, chili), nuts with salt, beans with salt.
 
-* Olives, pickles, sauerkraut, and other pickled vegetables
+* **Dairy:** buttermilk, regular and processed cheese (including spreads and sauces), cottage cheese.
 
-* Packaged mixes, such as scalloped or au gratin potatoes, frozen hash browns and Tater Tots
+* **Grains etc.:** bread and rolls with salted tops, quick breads, self-rising flour, biscuit, pancake and waffle mixes, pizza, croutons, salted crackers, prepackaged processed mixes (for potatoes, rice, pasta, stuffing).
 
-* Commercially-prepared pasta sauces, tomato sauces, and salsa
+* **Soups:** regular canned and dehydrated soup (including broth and bouillon), cup of noodles, seasoned ramen mixes.
 
-Proteins:
+* **Condiments:** soy sauce, seasoning salt, many sauces and marinades, many bottled salad dressings, bacon bits, salted butter and margarine, large portions of ketchup and mustard.
 
-* Smoked, cured, salted or canned meat, fish or poultry including bacon, cold cuts, ham, frankfurters, sausage, sardines, caviar and anchovies
-
-* Frozen breaded meats and dinners, such as burritos and pizza
-
-* Canned entrees, such as ravioli, spam and chili
-
-* Nuts with salt added
-
-* Beans with salt added
-
-Dairy:
-
-* Buttermilk
-
-* Regular and processed cheese, cheese spreads and sauces
-
-* Cottage cheese
-
-Grains etc.:
-
-* Bread and rolls with salted tops
-
-* Quick breads, self-rising flour, biscuit, pancake and waffle mixes
-
-* Pizza, croutons, salted crackers
-
-* Prepackaged processed mixes for potatoes, rice, pasta and stuffing
-
-Soups:
-
-* Regular canned and dehydrated soup, broth and bouillon
-
-* Cup of noodles, seasoned ramen mixes
-
-Condiments:
-
-* Soy sauce, seasoning salt, other sauces, and marinades
-
-* Bottled salad dressings, regular salad dressing with bacon bits
-
-* Salted butter or margarine
-
-Desserts:
-
-* Instant pudding and cake
-
-* Large portions of ketchup, mustard, sauces
+* **Desserts:** instant pudding and cake.

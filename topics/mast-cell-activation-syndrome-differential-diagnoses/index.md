@@ -1,4 +1,4 @@
-# Mast Cell Activation Syndrome: differential diagnoses
+# Mast Cell Activation Syndrome (MCAS): differential diagnoses
 
 * diabetes mellitus
 * porphyria

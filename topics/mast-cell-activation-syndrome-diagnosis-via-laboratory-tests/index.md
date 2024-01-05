@@ -1,19 +1,17 @@
 
-# Mast Cell Activation Syndrome: diagnosis via laboratory tests
+# Mast Cell Activation Syndrome (MCAS): diagnosis via laboratory tests
 
-The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because the symptoms can overlap with many other medical conditions, and there is no single definitive test to diagnose it. MCAS is typically diagnosed through a combination of clinical evaluation, laboratory tests, and sometimes specialized assessments.
+Mast Cell Activation Syndrome (MCAS) can be challenging to diagnose because the symptoms can overlap with many other medical conditions.
 
 **Laboratory tests:**
 
-* **Serum Tryptase:** Tryptase is an enzyme released by mast cells during activation. Elevated serum tryptase levels may suggest mast cell activation. However, normal levels do not rule out MCAS, as not all MCAS cases show elevated tryptase.
+* **Tryptase:** Tryptase is an enzyme released by mast cells during activation. Elevated serum tryptase levels suggest mast cell activation. Elevated plasma tryptase levels may also be considered.
 
-* **Urinary N-Methylhistamine (uNMH) or Histamine Metabolites:** Histamine is broken down in the body, and measuring its metabolites, such as N-methylhistamine, in urine can provide an indirect indication of mast cell activity.
+* **Plasma Histamine:** Direct measurement of histamine levels in plasma can be performed. Elevated plasma histamine, especially during symptom flare-ups, support a diagnosis of MCAS.
 
-* **Plasma Histamine:** Direct measurement of histamine levels in plasma can be performed. Elevated plasma histamine, especially during symptom flare-ups, may support a diagnosis of MCAS.
+* **Histamine Metabolites:** Histamine is broken down in the body, and measuring its metabolites, such as N-methylhistamine, in urine provide an indication of mast cell activity.
 
-* **Prostaglandin D2 (PGD2):** Prostaglandin D2 is another mediator released by mast cells. Elevated levels in urine or blood may suggest mast cell activation.
-
-* **Plasma Tryptase:** In addition to serum tryptase, measuring plasma tryptase levels may be considered. Plasma tryptase can be more stable and provide additional information.
+* **Prostaglandin D2 (PGD2):** Prostaglandin D2 is another mediator released by mast cells. Elevated levels in urine or blood suggest mast cell activation.
 
 * **Plasma Chromogranin A:** Chromogranin A is a protein released by neuroendocrine cells, including mast cells. Elevated levels may be associated with mast cell activation.
 
@@ -21,4 +19,4 @@ The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because
 
 * **Comprehensive Allergy Testing:** Allergy tests, including skin prick tests and specific IgE blood tests, may help identify specific allergens triggering mast cell activation.
 
-* **Genetic Testing:** Some individuals with MCAS may have genetic predispositions that affect their ability to regulate mast cell activity. Genetic testing for mutations associated with mast cell disorders may be considered.
+* **Genetic Testing:** Some individuals with MCAS may have genetic predispositions that affect their ability to regulate mast cell activity. Genetic testing for mutations may be considered.

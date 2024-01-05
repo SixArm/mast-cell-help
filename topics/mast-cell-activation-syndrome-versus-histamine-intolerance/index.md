@@ -1,6 +1,6 @@
-# Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)
+# Mast Cell Activation Syndrome (MCAS) versus Histamine Intolerance (HI)
 
-Mast Cell Activation Syndrome (MCAS) and Histamine Intolerance (HI) are two distinct conditions related to histamine dysregulation, but they have different underlying mechanisms and clinical features. 
+Mast Cell Activation Syndrome (MCAS) and Histamine Intolerance (HI) are both conditions related to histamine dysregulation, but they have different underlying mechanisms and clinical features. 
 
 **Key points:**
 

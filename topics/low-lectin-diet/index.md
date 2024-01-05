@@ -10,96 +10,34 @@ It's important to note that the evidence regarding the health impact of lectins 
 
 It's essential to emphasize that a strict low-lectin diet can be quite restrictive, potentially limiting the intake of various nutritious foods. If you are considering a low-lectin diet, it's advisable to consult with a healthcare professional or registered dietitian who can provide guidance, ensure that your dietary choices meet your nutritional needs, and monitor your progress. Additionally, it's important to be mindful of the potential consequences of eliminating entire food groups from your diet, as this can affect overall dietary balance and health.
 
+
 # Low-lectin diet: foods to choose
 
-Vegetables:
+* **Vegetables:** leafy greens (spinach, kale, lettuce, swiss chard), cruciferous vegetables (broccoli, cauliflower, Brussels sprouts), zucchini, summer squash, carrots, sweet potatoes (moderation), yams (moderation).
 
-* Leafy greens: Spinach, kale, lettuce, Swiss chard.
-* Cruciferous vegetables: Broccoli, cauliflower, Brussels sprouts.
-* Zucchini and summer squash.
-* Bell peppers.
+* **Fruits:** bananas (ripe), blueberries, raspberries, strawberries.
 
-Fruits:
+* **Protein:** beef, pork, lamb, chicken, turkey, most types of fish, some seafood (shrimp, crab, lobster), eggs.
 
-* Bananas (ripe).
-* Blueberries.
-* Raspberries.
-* Strawberries.
+* **Animal Dairy:** lactose-free dairy products, butter, ghee.
 
-Animal Protein:
+* **Grains and Pseudograins:** white rice (long-grain and short-grain), quinoa (small servings, as it contains some lectins), oats (limited intake, preferably certified gluten-free).
 
-* Meat: Beef, pork, lamb, poultry (chicken, turkey).
-* Fish: Most types of fish.
-* Seafood: Shrimp, crab, lobster.
-* Eggs: Eggs are lectin-free.
+* **Legumes and Nuts:** peanuts (lightly roasted or boiled), cashews, macadamia nuts, sunflower seeds (hulled), almonds (after soaking and peeling, which reduces lectin content).
 
-Animal Dairy:
-
-* Lactose-free dairy products.
-* Butter and ghee are generally considered low in lectins.
-
-Grains and Pseudograins:
-
-* White rice (long-grain and short-grain).
-* Quinoa (small servings, as it contains some lectins).
-* Oats (limited intake, preferably certified gluten-free).
-
-Legumes and Nuts:
-
-* Peanuts (lightly roasted or boiled).
-* Cashews.
-* Macadamia nuts.
-* Sunflower seeds (hulled).
-* Almonds (after soaking and peeling, which reduces lectin content).
-
-Tubers and Root Vegetables:
-
-* Sweet potatoes (moderation).
-* Yams (moderation).
-* Carrots.
 
 # Low-lectin diet: foods to avoid
 
-Legumes:
+* **Legumes:** beans (e.g, kidney beans, black beans, pinto beans), lentils, chickpeas, peas.
 
-* Beans (e.g., kidney beans, black beans, pinto beans)
-* Lentils
-* Chickpeas
-* Peas
+* **Grains:** wheat, barley, rye, oats, quinoa (contains some lectins), rice (particularly brown rice).
 
-Grains:
+* **Nightshades:** tomatoes, eggplants, bell peppers, potatoes (especially the skin).
 
-* Wheat
-* Barley
-* Rye
-* Oats
-* Quinoa (contains some lectins)
-* Rice (particularly brown rice)
+* **Nuts and Seeds:** peanuts, cashews, almonds, sunflower seeds (particularly the shell), chia seeds.
 
-Nightshades:
+* **Fruits:** fruits in the Solanaceae family, such as certain types of tomatoes, may contain higher lectin levels, Aged fruits, such as overripe bananas, may have increased lectin content.
 
-* Tomatoes
-* Eggplants
-* Bell peppers
-* Potatoes (especially the skin)
+* **Dairy:** Some dairy products, like cheese, may contain trace amounts of lectins, but they are not typically a primary source.
 
-Nuts and Seeds:
-
-* Peanuts
-* Cashews
-* Almonds
-* Sunflower seeds (particularly the shell)
-* Chia seeds
-
-Fruits:
-
-* Fruits in the Solanaceae family, such as certain types of tomatoes, may contain higher lectin levels.
-* Aged fruits, such as overripe bananas, may have increased lectin content.
-
-Animal Dairy:
-
-* Some dairy products, like cheese, may contain trace amounts of lectins, but they are not typically a primary source.
-
-Grains and Cereals:
-
-* Some breakfast cereals, granola bars, and processed grains may contain higher lectin levels due to processing.
+* **Grains and Cereals:** some breakfast cereals, some granola bars, and processed grains may contain higher lectin levels due to processing.

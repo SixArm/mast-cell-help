@@ -14,128 +14,40 @@ If you are considering a low-oxalate diet, it's advisable to work with a healthc
 
 # Low-oxalate diet: foods to choose
 
-Low-Oxalate Vegetables:
+* **Vegetables:** asparagus, broccoli, cauliflower, cabbage, green beans, peppers (red, green, yellow), zucchini, lettuce (most types), radishes, snow peas.
 
-* Asparagus
-* Broccoli
-* Cauliflower
-* Cabbage
-* Green beans
-* Peppers (red, green, yellow)
-* Zucchini
-* Lettuce (most types)
-* Radishes
-* Snow peas
+* **Fruits:** apples, blueberries, grapes, pears, pineapple, watermelon, strawberries, kiwi.
 
-Low-Oxalate Fruits:
+* **Protein:** most meats, chicken, turkey, pork, most fresh fish, eggs.
 
-* Apples
-* Blueberries
-* Grapes
-* Pears
-* Pineapple
-* Watermelon
-* Strawberries
-* Kiwi
+* **Dairy:** low-fat milk, low-fat yogurt, low-fat cheese (in moderation).
 
-Protein Sources:
+* **Grains and Starches:** white rice, white bread, pasta (without tomato-based sauces), oats.
 
-* Most meats, including chicken, turkey, and pork
-* Most fresh fish
-* Eggs
+* **Beverages:** water, herbal teas (without strong oxalate-containing herbs), lemonade made with low-oxalate fruits.
 
-Dairy:
+* **Fats and Oils:** butter, olive oil.
 
-* Low-fat milk
-* Low-fat yogurt
-* Low-fat cheese (in moderation)
+* **Spices and Seasonings:** most herbs and spices (without excessive oxalates).
 
-Grains and Starches:
-
-* White rice
-* White bread
-* Pasta (without tomato-based sauces)
-* Oats
-
-Beverages:
-
-* Water
-* Herbal teas (without strong oxalate-containing herbs)
-* Lemonade made with low-oxalate fruits
-
-Fats and Oils:
-
-* Butter
-* Olive oil
-
-Spices and Seasonings:
-
-* Most herbs and spices (without excessive oxalates)
-
-Sweets and Desserts (in moderation):
-
-* Vanilla ice cream
-* Sorbet made from low-oxalate fruits
-* Most cakes and cookies made with low-oxalate ingredients
+* **Sweets and Desserts (in moderation):** vanilla ice cream, sorbet made from low-oxalate fruits, most cakes and cookies made with low-oxalate ingredients.
 
 # Low-oxalate diet: foods to avoid
 
-Vegetables:
+* **Vegetables:** spinach, swiss chard, beet greens, collard greens, kale, okra, sweet potatoes.
 
-* Spinach
-* Swiss chard
-* Beet greens
-* Collard greens
-* Kale
-* Okra
-* Sweet potatoes
+* **Fruits:** rhubarb, blackberries, raspberries, fig, kiwifruit, tangerines, persimmons
 
-Fruits:
+* **Nuts and Seeds:** almonds, peanuts, cashews, chia seeds, pumpkin seeds, sesame seeds.
 
-* Rhubarb
-* Blackberries
-* Raspberries
-* Fig
-* Kiwifruit
-* Tangerines
-* Persimmons
+* **Grains:** whole wheat, bran cereals
 
-Nuts and Seeds:
+* **Legumes:** beans (all types), lentils.
 
-* Almonds
-* Peanuts
-* Cashews
-* Chia seeds
-* Pumpkin seeds
-* Sesame seeds
+* **Beverages:** tea (black tea, green tea, herbal teas with high-oxalate herbs, dark beer, dark colas.
 
-Grains:
+* **Dairy Alternatives:** some almond milk and soy milk products (check labels for oxalate content).
 
-* Whole wheat
-* Bran cereals
+* **Spices and Seasonings:** cinnamon, curry, nutmeg, dill.
 
-Legumes:
-
-* Beans (all types)
-* Lentils
-
-Beverages:
-
-* Tea (black tea, green tea, and herbal teas that contain High-oxalate herbs)
-* Dark beer
-* Dark colas
-
-Dairy Alternatives:
-
-* Some almond milk and soy milk products (check labels for oxalate content)
-
-High-oxalate Spices and Seasonings:
-
-* Cinnamon
-* Curry
-* Nutmeg
-* Dill
-
-Chocolate and Cocoa: These are high in oxalates and should be avoided.
-
-Avoid Excessive Salt: A high-sodium diet can increase the risk of kidney stone formation, so it's advisable to limit your salt intake.
+* **Sweets**: chocolate, cocoa.

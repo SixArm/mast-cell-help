@@ -110,12 +110,24 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Dietary supplements](topics/dietary-supplements)
 
 * [Considerations](topics/dietary-supplements-considerations)
-* [Multivitamin](topics/multivitamin)
+* [Prebiotic supplements](topics/prebiotic-supplements)
+* [Probiotic supplements](topics/probiotic-supplements)
+* [Electrolytes](topics/electrolytes)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
 * [Omega-3](topics/omega-3)
 * [Quercetin](topics/quercetin)
 * [Glutathione](topics/glutathione)
 * [Turmeric](topics/turmeric)
+* [Calcium](topics/calcium)
+* [Calcium D-glucarate](topics/calcium-d-glucarate)
+* [Copper](topics/copper)
+* [Magnesium glycinate](topics/magnesium-glycinate)
+* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
+* [Zinc](topics/zinc)
+
+### Vitamin supplements
+
+* [Multivitamin](topics/multivitamin)
 * [B vitamins](topics/b-vitamins)
 * [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine)
 * [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin)
@@ -127,15 +139,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
 * [Vitamin C](topics/vitamin-c)
 * [Vitamin C - low-histamine forms](topics/vitamin-c-low-histamine-forms)
-* [Calcium](topics/calcium)
-* [Calcium D-glucarate](topics/calcium-d-glucarate)
-* [Copper](topics/copper)
-* [Magnesium glycinate](topics/magnesium-glycinate)
-* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
-* [Zinc](topics/zinc)
-* [Prebiotic supplements](topics/prebiotic-supplements)
-* [Probiotic supplements](topics/probiotic-supplements)
-* [Electrolytes](topics/electrolytes)
+
+### Herbal supplements
+
 * [Berberine](topics/berberine)
 * [Butterbur](topics/butterbur)
 * [Stinging nettle](topics/stinging-nettle)
@@ -261,7 +267,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 <img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
 
-## [Diagnostics](topics/diagnostics)
+### [Diagnostics](topics/diagnostics)
 
 * [Allergy testing](topics/allergy-testing)
 * [Histamine testing](topics/histamine-testing)
@@ -299,8 +305,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 
-* [Cholestyramine](topics/cholestyramine)
-* [Colesevelam (a.k.a. Welchol)](topics/colesevelam)
+* [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol)
 * [Activated charcoal](topics/activated-charcoal)
 
 ### [Biotoxin treatments](biotoxin-treatments)

@@ -20,140 +20,42 @@ A low-FODMAP diet is a dietary approach designed to manage and alleviate gastroi
 
 * **3. Maintenance Phase:** Develop a personalized long-term diet that includes foods low in FODMAPs that can be consumed without triggering symptoms, and limits foods that are triggers or are high in FODMAPs.
 
+
 # Low-FODMAP diet: foods to choose
 
-Vegetables:
+* **Vegetables:** bell peppers, carrots, cucumbers, lettuce (all types), spinach, zucchini.
 
-* Bell peppers
-* Carrots
-* Cucumbers
-* Lettuce (all types)
-* Spinach
-* Zucchini
+* **Fruits:** bananas (unripe), blueberries, grapes, kiwi, oranges, strawberries.
 
-Fruits:
+* **Proteins:** beef, lamb, pork, poultry (e.g. chicken, turkey), eggs, fish (e.g. salmon, cod), tofu (firm or extra firm).
 
-* Bananas (unripe)
-* Blueberries
-* Grapes
-* Kiwi
-* Oranges
-* Strawberries
+* **Grains:** gluten-free oats (small servings), quinoa (small servings), rice (white or brown).
 
-Proteins:
+* **Dairy Alternatives:** almond/oat/hemp/rice milk (unflavored and unsweetened), lactose-free dairy products (e.g., lactose-free milk, yogurt, cheese).
 
-* Chicken
-* Eggs
-* Fish (e.g., salmon, cod)
-* Tofu (firm or extra firm)
-* Turkey
+* **Nuts and Seeds:** macadamia nuts, pumpkin seeds, sunflower seeds, walnuts.
 
-Grains:
+* **Sweeteners:** glucose (corn syrup), maple syrup (pure), stevia.
 
-* Gluten-free oats (small servings)
-* Quinoa (small servings)
-* Rice (white or brown)
+* **Condiments:** mustard, olive oil, salt (in moderation), vinegar (balsamic, red wine, white wine).
 
-Dairy Alternatives:
+* **Seafood:** clams, mussels, shrimp, squid.
 
-* Almond milk (unsweetened)
-* Lactose-free dairy products (e.g., lactose-free milk, yogurt)
-* Oat milk (unflavored and unsweetened)
-* Rice milk (unflavored and unsweetened)
-
-Nuts and Seeds:
-
-* Macadamia nuts
-* Pumpkin seeds
-* Sunflower seeds
-* Walnuts
-
-Sweeteners:
-
-* Glucose (corn syrup)
-* Maple syrup (pure)
-* Stevia
-
-Condiments and Spices:
-
-* Mustard
-* Olive oil
-* Salt (in moderation)
-* Vinegar (balsamic, red wine, white wine)
-
-Meats and Poultry:
-
-* Beef
-* Lamb
-* Pork
-* Poultry (chicken, turkey)
-
-Seafood:
-
-* Clams
-* Mussels
-* Shrimp
-* Squid
 
 # Low-FODMAP diet: foods to avoid
 
-Vegetables:
+* **Vegetables:** artichokes, asparagus, cauliflower, garlic, onions (including red, white,  shallots), sugar snap peas.
 
-* Artichokes
-* Asparagus
-* Cauliflower
-* Garlic
-* Onions (including red, white, and shallots)
-* Sugar snap peas
+* **Fruits:** apples, apricots, cherries, mangoes, pears, watermelons.
 
-Fruits:
+* **Legumes:** baked beans, black beans, chickpeas, lentils, kidney beans, soybeans.
 
-* Apples
-* Apricots
-* Cherries
-* Mangoes
-* Pears
-* Watermelons
+* **Dairy:** cow milk, ice cream, soft cheeses (e.g. ricotta, cottage cheese), yogurt.
 
-Legumes:
+* **Grains:** barley, rye, wheat (products containing wheat, including bread and pasta).
 
-* Baked beans
-* Black beans
-* Chickpeas
-* Lentils
-* Kidney beans
-* Soybeans
+* **Sweeteners:** high-fructose corn syrup, honey, sorbitol, xylitol, isomalt, mannitol.
 
-Dairy:
+* **Nuts and Seeds:** cashews, pistachios.
 
-* Cow milk
-* Ice cream
-* Soft cheeses (e.g., ricotta, cottage cheese)
-* Yogurt
-
-Grains:
-
-* Barley
-* Rye
-* Wheat (products containing wheat, including bread and pasta)
-
-Sweeteners:
-
-* High-fructose corn syrup
-* Honey
-* Sorbitol
-* Xylitol
-
-Nuts and Seeds:
-
-* Cashews
-* Pistachios
-
-Artificial Sweeteners:
-
-* Isomalt
-* Mannitol
-
-Processed Foods:
-
-* Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it's essential to check labels and ingredient lists
+* **Processed Foods:** Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it's essential to check labels and ingredient lists

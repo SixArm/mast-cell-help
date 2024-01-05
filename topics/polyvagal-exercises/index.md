@@ -4,7 +4,7 @@ Polyvagal exercises are activities to influence the functioning of the the polyv
 
 **Some exercises:**
 
-* **Breathing Exercises:** Engage in slow, diaphragmatic breathing to stimulate the vagus nerve and activate the parasympathetic nervous system. Focus on long exhales to promote relaxation.
+* **Breathing Exercises:** Engage in slow diaphragmatic breathing with long exhales, to stimulate the vagus nerve long exhales to promote relaxation.
 
 * **Vocal Toning:** Use gentle vocalizations, humming, or chanting. The vibrations from vocalizations can stimulate the vagus nerve.
 
@@ -12,7 +12,7 @@ Polyvagal exercises are activities to influence the functioning of the the polyv
 
 * **Social Engagement:** Engage in positive social interactions, whether in person or virtually. Meaningful connections with others can activate the ventral vagal complex.
 
-* **Mindfulness and Grounding Techniques:** Practice mindfulness and grounding exercises to bring attention to the present moment, promoting a sense of safety.
+* **Mindfulness and Grounding Techniques:** Practice mindfulness and grounding exercises to bring attention to the present.
 
 * **Gargling:** Gargling with water may stimulate the vagus nerve, as it involves the muscles connected to the vagus nerve.
 

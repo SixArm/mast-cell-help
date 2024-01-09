@@ -353,6 +353,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Glossary](topics/glossary/)
 
 * [Glossary: medical role titles](topics/glossary-medical-role-titles)
+* [Glossary: medical time](topics/glossary-medical-time)
 * [Glossary: units of measurement](topics/glossary-units-of-measurement)
 
 

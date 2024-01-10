@@ -9,8 +9,8 @@ titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-cover-image: "../../../../assets/images/splash/1600x2500.jpg"
-logo: "../../../../assets/images/splash/1600x2500.jpg"
+cover-image: "../../../../assets/images/cover/1600x2500.jpg"
+logo: "../../../../assets/images/cover/1600x2500.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:

@@ -2,14 +2,15 @@
 
 **When to do treatments:**
 
-* **ac:**	before meals
-* **pc:**	after meals
-* **am**: ante-meridian a.k.a. before noon a.k.a. in the morning
-* **pm**: post-meridian a.k.a. after noon a.k.a. in the evening
-* **prn**: as needed
-* **ud**: as directed
+* **ac:** "ante cibum" means before meals
+* **pc:** "psot cibum" means after meals
+* **am**: "ante-meridian" means before noon, such as morning
+* **pm**: "post-meridian" means after noon, such as evening
+* **prn**: "pro re nata” means as the thing is needed
+* **ud**: "ut dictum" means as directed
+* **qs**: "quantum sufficit" means as much as is sufficient
 
-**WHen to repeat treatments:**
+**When to repeat treatments:**
 
 * **o:** once
 * **q:** every
@@ -26,8 +27,8 @@
 * **qod**: every other day a.k.a. alternating days
 * **qoh**: every other hour a.k.a. alternating hours
 
-**Doses:**
+**How many items:**
 
-* **i:** 1 tablet
-* **ii:** 2 tablets
-* **iii:** 3 tablets
+* **i:** 1 tablet, pill, item, etc.
+* **ii:** 2 tablets, pills, items, etc.
+* **iii:** 3 tablets, pills, items, etc.

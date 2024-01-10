@@ -10,11 +10,11 @@ Histamine intolerance treatment typically involve identifying and addressing fac
 
 * **Diamine Oxidase (DAO) Supplements:** DAO is the enzyme responsible for breaking down histamine in the digestive tract.
 
-* **Probiotics:** Probiotic supplements or foods rich in probioticsmay be beneficial to maintain a healthy gut.
+* **Probiotics:** Probiotic supplements or foods rich in probiotics may be beneficial to maintain a healthy gut.
 
 * **Address Gut Issues:** Treat conditions like small intestinal bacterial overgrowth (SIBO) or leaky gut syndrome.
 
-* **Antihistamine Medications:** Use medicationss such as cetirizine (H1 blocker) or ranitidine (H2 blocker).
+* **Antihistamine Medications:** Use medications such as cetirizine (H1 blocker) or ranitidine (H2 blocker).
 
 * **Avoid Alcohol:** Limit alcohol because it can interfere with histamine metabolism and contribute to symptom exacerbation.
 

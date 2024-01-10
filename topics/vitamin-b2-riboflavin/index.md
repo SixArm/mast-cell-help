@@ -16,4 +16,4 @@ Dietary sources of riboflavin include dairy products, lean meats, poultry, fish,
 
 * **Red Blood Cell Production:** Riboflavin plays a role in the formation of red blood cells.
 
-* **Deficiency:** Riboflavin deficiency causes symptoms such as sore throat, cracked lips, and inflammationo of the mouth and tongue. It can also result in a condition called ariboflavinosis.
+* **Deficiency:** Riboflavin deficiency causes symptoms such as sore throat, cracked lips, and inflammation of the mouth and tongue. It can also result in a condition called ariboflavinosis.

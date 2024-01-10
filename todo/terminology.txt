@@ -1,7 +1,11 @@
+Examination:
+* **Ht:** height
+* **Wt:** weight
+* **TPR:** temperature, pulse, respiration
+
+
 # 	broken bone (fracture)
-A&E 	accident and emergency
-a.c. 	before meals
-a.m., am, AM 	morning
+
 AF 	atrial fibrillation
 AMHP 	approved mental health professional
 APTT 	activated partial thromboplastin time (a measure of how long it takes your blood to clot)
@@ -11,54 +15,46 @@ b.i.d., bid, bd 	twice a day / twice daily / 2 times daily
 
 BMI 	body mass index
 BP 	blood pressure
-
-
 BNO 	bowels not open
 BO 	bowels open
-CMHN 	community mental health nurse
-CPN 	community psychiatric nurse
-CSF 	cerebrospinal fluid
-CSU 	catheter stream urine sample
-CT scan 	computerised tomography scan
-CVP 	central venous pressure
-CXR 	chest X-ray
-DNACPR 	do not attempt cardiopulmonary resuscitation
-DNAR 	do not attempt resuscitation
-DNR 	do not resuscitate
-Dr 	doctor
-DVT 	deep vein thrombosis
+
+Tests:
 ECG 	electrocardiogram
-ED 	emergency department
 EEG 	electroencephalogram
 EMU 	early morning urine sample
 ESR 	erythrocyte sedimentation rate (a type of blood test used to help diagnose conditions associated with inflammation)
 EUA 	examination under anaesthetic
 FBC 	full blood count (a type of blood test)
+
+CSF 	cerebrospinal fluid
+CSU 	catheter stream urine sample
+CVP 	central venous pressure
+
+DNACPR 	do not attempt cardiopulmonary resuscitation
+DNAR 	do not attempt resuscitation
+DNR 	do not resuscitate
+
+DVT 	deep vein thrombosis
+
+
+ED 	emergency department
 FY1 FY2 	foundation doctor
 GA 	general anaesthetic
 gtt., gtt 	drop(s)
-h., h 	hour
 h/o 	history of
 Hb 	haemoglobin (a substance in red blood cells that moves oxygen around the body)
-HCA 	healthcare assistant
-HCSW 	healthcare support worker
+LDL 	low-density lipoprotein (a type of cholesterol)
 HDL 	high-density lipoprotein (a type of cholesterol)
 HRT 	hormone replacement therapy
-Ht 	height
-i 	1 tablet
-ii 	2 tablets
-iii 	3 tablets
 i.m., IM 	injection into a muscle
 i.v., IV 	injection directly to a vein
 INR 	international normalised ratio (a measure of how long blood takes to clot)
 IVI 	intravenous infusion
 IVP 	intravenous pyelogram (an X-ray of your urinary tract)
 LA 	local anaesthetic
-LDL 	low-density lipoprotein (a type of cholesterol)
 LFT 	liver function test (a type of blood test measuring enzymes and proteins in your liver)
 LMP 	last menstrual period
 M/R 	modified release
-MRI 	magnetic resonance imaging
 MRSA 	methicillin-resistant Staphylococcus aureus
 MSU 	mid-stream urine sample
 n.p.o., npo, NPO 	nothing by mouth / not by oral administration
@@ -66,37 +62,14 @@ NAD 	nothing abnormal discovered
 NAI 	non-accidental injury
 NBM 	nil by mouth
 NG 	nasogastric (running between your nose and stomach)
-nocte 	every night
 NoF 	neck of femur
 NSAID 	non-steroidal anti-inflammatory drug
-o.d., od, OD 	once a day
 o/e 	on examination
-OT 	occupational therapist
-p.c. 	after food
-p.m., pm, PM 	afternoon or evening
-p.o., po, PO 	orally / by mouth / oral administration
-p.r., pr, PR 	rectally
-p.r.n., prn, PRN 	as needed
 p/c 	presenting complaint
 physio 	physiotherapist
 POP 	plaster of paris
 PTT 	partial thromboplastin time (a measure of how quickly your blood clots)
 PU 	passed urine
-q. 	every
-q.1.d., q1d 	every day
-q.1.h., q1h 	every hour
-q.2.h., q2h 	every 2 hours
-q.4.h., q4h 	every 4 hours
-q.6.h., q6h 	every 6 hours
-q.8.h., q8h 	every 8 hours
-q.d., qd 	every day / daily
-q.d.s, qds, QDS 	4 times a day
-q.h., qh 	every hour, hourly
-q.i.d, qid 	4 times a day
-q.o.d., qod 	every other day / alternate days
-q.s., qs 	a sufficient quantity (enough)
-RN 	registered nurse
-RNLD 	learning disability nurse
 ROSC 	return of spontaneous circulation
 RTA 	road traffic accident
 s.c., SC 	injection under the skin
@@ -110,13 +83,26 @@ t.i.d., tid 	3 times a day
 TCI 	to come in
 TFT 	thyroid function test
 TPN 	total parenteral nutrition
-TPR 	temperature, pulse and respiration
 TTA 	to take away
 TTO 	to take out
 U&E 	urea and electrolytes
-u.d., ud 	as directed
-UCC 	urgent care centre
+
 UTI 	urinary tract infection
-VLDL 	very-low density lipoprotein (a type of cholesterol)
 VTE 	venous thromboembolism (a blood clot that forms in a vein)
-Wt 	weight
+
+
+Roles:
+CMHN 	community mental health nurse
+CPN 	community psychiatric nurse
+HCA 	healthcare assistant
+HCSW 	healthcare support worker
+OT 	occupational therapist
+RN 	registered nurse
+RNLD registered nurse for learning disability
+
+Places:
+A&E 	accident and emergency
+ED, ER  emergency department, emergency room
+OD, OR  operating department, operating room
+UC urgent care
+UCC urgent care centre

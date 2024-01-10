@@ -299,9 +299,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Methylene blue](topics/methylene-blue)
 
-## [Asthma medications](topics/asthma-medications)
+### [Asthma medications](topics/asthma-medications)
 
-* [Omalizumab (brand name Xolair)](topics/malizumab)
+* [Omalizumab (brand name Xolair)](topics/omalizumab)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants)
 

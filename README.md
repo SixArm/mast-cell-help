@@ -4,7 +4,11 @@
 
 Mast Cell Help: this guide is for mast cell information about health symptoms, diagnoses, treatments, medications, conditions, and supportive measures. This guide explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free e-book file [EPUB](mast-cell-help.epub) or [PDF](mast-cell-help.pdf).
+* Get the book: 
+  [Free EPUB](https://github.com/SixArm/mast-cell-help/raw/main/mast-cell-help.epub), 
+  [Free PDF](https://github.com/SixArm/mast-cell-help/raw/main/mast-cell-help.pdf),
+  [Kindle](https://www.amazon.com/dp/B0CMNW438Z), 
+  [Paperback](https://www.amazon.com/dp/B0CRZ8VWLG).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 * For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson).

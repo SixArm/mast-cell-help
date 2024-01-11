@@ -8,3 +8,6 @@
 
 [The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More - By Dr. Becky Campbell](/the-4-phase-histamine-reset-plan-by-becky-campbell/)
 
+[Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan, M.D.](/toxic-by-neil-nathan)
+
+[The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](/the-trifecta-passport-by-amber-walker)

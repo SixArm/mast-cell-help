@@ -337,8 +337,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Videos](topics/videos)
 
-* [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation)
+* [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan)
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
+* [Management of Mast Cell Activation Syndrome (MCAS) - Presented by David Saperstein, M.D.](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein)
+* [Community Voices: Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/community-voices-by-kate-robinson)
 
 
 ### [Books](topics/books)
@@ -348,6 +350,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)
 * [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
+* [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker)
 
 
 ### [Glossary](topics/glossary/)

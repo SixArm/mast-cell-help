@@ -1,6 +1,8 @@
-# What is the role of mast cells in inflammation?
+# What is the role of mast cells in inflammation? - By Animated Biology with Arpan
 
-<https://www.youtube.com/watch?v=7xB9Db-PHLI> - By [Animated Biology with Arpan](https://www.youtube.com/@animatedbiologywitharpan)
+[What is the role of mast cells in inflammation?](https://www.youtube.com/watch?v=7xB9Db-PHLI)
+
+By [Animated Biology with Arpan](https://www.youtube.com/@animatedbiologywitharpan)
 
 In this video we'll talk about mast cells, which are involved in the allergic response…
 

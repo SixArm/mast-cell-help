@@ -1,75 +1,21 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome symptoms | mastcell.help | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome (MCAS): symptoms | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="mast-cell-activation-syndrome-symptoms">Mast Cell Activation Syndrome symptoms</h1>
-<p>Mast Cell Activation Syndrome (MCAS) is a condition characterized by the inappropriate activation of mast cells, which are immune cells that play a role in the body’s allergic and inflammatory responses. MCAS can lead to a wide range of symptoms that can affect various organ systems. These symptoms can vary from person to person and may be mild or severe.</p>
-<p>Skin Symptoms:</p>
+<h1 id="mast-cell-activation-syndrome-mcas-symptoms">Mast Cell Activation Syndrome (MCAS): symptoms</h1>
+<p>Mast Cell Activation Syndrome (MCAS) can lead to a wide range of symptoms that can affect various organ systems. These symptoms can vary from person to person and may be mild or severe.</p>
 <ul>
-<li>Itching (pruritus)</li>
-<li>Flushing or redness of the skin</li>
-<li>Hives (urticaria)</li>
-<li>Swelling (angioedema)</li>
-<li>Skin rashes</li>
-</ul>
-<p>Gastrointestinal Symptoms:</p>
-<ul>
-<li>Abdominal pain or cramping</li>
-<li>Diarrhea</li>
-<li>Nausea and vomiting</li>
-<li>Gastroesophageal reflux (GERD)</li>
-<li>Food intolerances or sensitivities</li>
-</ul>
-<p>Respiratory Symptoms:</p>
-<ul>
-<li>Wheezing</li>
-<li>Shortness of breath</li>
-<li>Coughing</li>
-<li>Congestion</li>
-<li>Sinus symptoms</li>
-</ul>
-<p>Cardiovascular Symptoms:</p>
-<ul>
-<li>Rapid or irregular heartbeat (tachycardia, arrhythmias)</li>
-<li>Low blood pressure (hypotension)</li>
-<li>Fainting or near-fainting (syncope)</li>
-</ul>
-<p>Neurological Symptoms:</p>
-<ul>
-<li>Headaches</li>
-<li>Migraines</li>
-<li>Brain fog or cognitive impairment</li>
-<li>Dizziness</li>
-<li>Anxiety or panic attacks</li>
-<li>Neuropathic pain</li>
-</ul>
-<p>Musculoskeletal Symptoms:</p>
-<ul>
-<li>Joint pain (arthralgia)</li>
-<li>Muscle pain (myalgia)</li>
-<li>Bone pain</li>
-<li>Weakness</li>
-</ul>
-<p>Urological Symptoms:</p>
-<ul>
-<li>Frequent urination</li>
-<li>Painful urination</li>
-<li>Interstitial cystitis-like symptoms</li>
-</ul>
-<p>Endocrine and Autonomic Symptoms:</p>
-<ul>
-<li>Fatigue</li>
-<li>Insomnia</li>
-<li>Temperature dysregulation (feeling too hot or too cold)</li>
-<li>Sweating</li>
-<li>Weight fluctuations</li>
-</ul>
-<p>Allergic Reactions:</p>
-<ul>
-<li>Anaphylaxis (severe and potentially life-threatening allergic reaction)</li>
-<li>Increased sensitivity to allergens and other triggers</li>
+<li><p><strong>Skin Symptoms:</strong> Itching (pruritus), flushing or redness of the skin. hives (urticaria). swelling (angioedema), rashes.</p></li>
+<li><p><strong>Gastrointestinal Symptoms:</strong> Abdominal pain or cramping, diarrhea, nausea and vomiting, gastroesophageal reflux (GERD), food intolerances or sensitivities.</p></li>
+<li><p><strong>Respiratory Symptoms:</strong> Wheezing, shortness of breath, coughing, congestion, sinus symptoms.</p></li>
+<li><p><strong>Cardiovascular Symptoms:</strong> Rapid or irregular heartbeat (tachycardia, arrhythmias), low blood pressure (hypotension), fainting or near-fainting (syncope).</p></li>
+<li><p><strong>Neurological Symptoms:</strong> Headaches, migraines, brain fog, cognitive impairment, dizziness, anxiety, panic attacks, neuropathic pain.</p></li>
+<li><p><strong>Musculoskeletal Symptoms:</strong> Joint pain (arthralgia), muscle pain (myalgia), bone pain, weakness.</p></li>
+<li><p><strong>Urological Symptoms:</strong> Frequent urination, painful urination, interstitial cystitis-like symptoms.</p></li>
+<li><p><strong>Endocrine and Autonomic Symptoms:</strong> Fatigue, insomnia, temperature dysregulation (feeling too hot or too cold), sweating, weight fluctuations.</p></li>
+<li><p><strong>Allergic Reactions:</strong> Anaphylaxis (severe and potentially life-threatening allergic reaction), increased sensitivity to allergens and other triggers</p></li>
 </ul>
 
 </div>

@@ -9,5 +9,7 @@
 <p><a href="/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten/">Understanding Histamine Intolerance &amp; Mast Cell Activation - By Mariska Wild-Scholten</a></p>
 <p><a href="/never-bet-against-occam-by-lawrence-afrin">Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity - By Lawrence B. Afrin M.D.</a></p>
 <p><a href="/the-4-phase-histamine-reset-plan-by-becky-campbell/">The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More - By Dr. Becky Campbell</a></p>
+<p><a href="/toxic-by-neil-nathan">Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan, M.D.</a></p>
+<p><a href="/the-trifecta-passport-by-amber-walker">The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker</a></p>
 
 </div>

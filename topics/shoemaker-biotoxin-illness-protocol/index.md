@@ -14,4 +14,4 @@ The Shoemaker Biotoxin Illness Protocol is a treatment approach developed by Dr.
 
 * **Antifungal Medications:** Antifungal medications may be prescribed to address fungal infections. These medications may include azoles such as fluconazole or itraconazole.
 
-* **Lifestyle Changes:** Lifestyle modifications, including dietary changes, nutiritional supplements, stress management, and sufficient sleep, are emphasized as part of the protocol.
+* **Lifestyle Changes:** Lifestyle modifications, including dietary changes, nutritional supplements, stress management, and sufficient sleep, are emphasized as part of the protocol.

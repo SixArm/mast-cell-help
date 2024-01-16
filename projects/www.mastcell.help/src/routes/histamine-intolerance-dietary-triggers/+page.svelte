@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>Dietary triggers | mastcell.help | mastcell.help</title>
+    <title>Histamine intolerance: dietary triggers | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="dietary-triggers">Dietary triggers</h1>
+<h1 id="histamine-intolerance-dietary-triggers">Histamine intolerance: dietary triggers</h1>
 <p>Histamine is present in various foods and beverages, and some individuals may find relief from their symptoms by following a low-histamine diet. Common histamine-rich foods and drinks include:</p>
 <ul>
 <li><p>Aged cheeses</p></li>

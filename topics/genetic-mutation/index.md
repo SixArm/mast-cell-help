@@ -10,5 +10,5 @@ A genetic mutation is an alteration in the DNA sequence of an organism's genome.
 
 * **Effects:** Silent mutations have no observable impact. Missense mutations result in the substitution of one amino acid for another in the protein encoded by the gene, potentially altering protein function. Nonsense mutations create a premature stop codon, resulting in a truncated, non-functional protein. Frameshift mutations alter the reading frame of the gene, affecting all amino acids downstream.
 
-* **Inheritance:** Somatic mutationss occur in non-reproductive cells and are not passed on to offspring. They can lead to diseases like cancer. Germline mutations mutations occur in the reproductive cells (sperm and eggs) and can be inherited by offspring.
+* **Inheritance:** Somatic mutations occur in non-reproductive cells and are not passed on to offspring. They can lead to diseases like cancer. Germline mutations mutations occur in the reproductive cells (sperm and eggs) and can be inherited by offspring.
 

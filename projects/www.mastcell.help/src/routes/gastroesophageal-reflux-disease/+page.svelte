@@ -5,21 +5,20 @@
 <div class="prose">
 
 <h1 id="gastroesophageal-reflux-disease-gerd">Gastroesophageal Reflux Disease (GERD)</h1>
-<p>Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. The esophagus is the tube that carries food and liquids from the mouth to the stomach. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn’t function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus. This can lead to various symptoms and potential complications.</p>
-<p>Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett’s esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).</p>
-<p>GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications, which reduce stomach acid production or provide a protective barrier for the esophagus. In some cases, surgery may be considered to strengthen the LES.</p>
-<p>Common symptoms:</p>
+<p>Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn’t function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus.</p>
+<p>GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications. Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett’s esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).</p>
+<p><strong>Common symptoms:</strong></p>
 <ul>
-<li><p><strong>Heartburn</strong>: A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.</p></li>
-<li><p><strong>Regurgitation</strong>: The sensation of stomach contents coming back into the mouth or throat.</p></li>
-<li><p><strong>Acid Indigestion</strong>: Discomfort in the upper abdomen.</p></li>
-<li><p><strong>Chest Pain</strong>: Chest pain that may be mistaken for a heart-related issue. It’s important to distinguish GERD-related chest pain from heart-related chest pain, so a healthcare provider should be consulted.</p></li>
-<li><p><strong>Difficulty Swallowing</strong>: Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.</p></li>
-<li><p><strong>Chronic Cough</strong>: Some people with GERD experience a persistent cough.</p></li>
-<li><p><strong>Sore Throat</strong>: Frequent acid exposure can lead to throat irritation and a sore throat.</p></li>
-<li><p><strong>Laryngitis</strong>: Inflammation of the voice box, which can cause hoarseness.</p></li>
-<li><p><strong>Asthma</strong>: GERD can trigger or worsen asthma symptoms in some individuals.</p></li>
-<li><p><strong>Dental Problems</strong>: Frequent exposure to stomach acid can lead to tooth decay and other dental issues.</p></li>
+<li><p><strong>Heartburn:</strong> A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.</p></li>
+<li><p><strong>Regurgitation:</strong> The sensation of stomach contents coming back into the mouth or throat.</p></li>
+<li><p><strong>Acid Indigestion:</strong> Discomfort in the upper abdomen.</p></li>
+<li><p><strong>Chest Pain:</strong> Chest pain that may be mistaken for a heart issue.</p></li>
+<li><p><strong>Difficulty Swallowing:</strong> Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.</p></li>
+<li><p><strong>Chronic Cough:</strong> Some people experience a persistent cough.</p></li>
+<li><p><strong>Sore Throat:</strong> Frequent acid exposure can cause throat irritation.</p></li>
+<li><p><strong>Laryngitis:</strong> Inflammation of the voice box can cause hoarseness.</p></li>
+<li><p><strong>Asthma:</strong> GERD can trigger or worsen asthma symptoms.</p></li>
+<li><p><strong>Dental Problems:</strong> Stomach acid can cause tooth decay.</p></li>
 </ul>
 
 </div>

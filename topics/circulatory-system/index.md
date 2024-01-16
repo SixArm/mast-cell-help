@@ -8,7 +8,7 @@ The circulatory system, also known as the cardiovascular system, is a vital orga
 
 * **Blood:** Blood is a fluid that flows through blood vessels. Blood consists of various components, including red blood cells (erythrocytes) that carry oxygen, white blood cells (leukocytes) that fight infection, platelets that help in clotting, and plasma that contains water, electrolytes, and proteins.
 
-**Transportation**: Transport oxygen from the lungs to body tissues. Transport carbon dioxide from tissues to the lungs for elimination. Carry nutrients from the digestive system to cells. Remove metabolic waste products.
+* **Transportation**: Transport oxygen from the lungs to body tissues. Transport carbon dioxide from tissues to the lungs for elimination. Carry nutrients from the digestive system to cells. Remove metabolic waste products.
 
 * **Hormone Distribution:** Hormones produced by endocrine glands are released into the bloodstream and distributed throughout the body.
 

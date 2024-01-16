@@ -6,7 +6,7 @@
 
 <h1 id="vitamin-c-low-histamine-forms">Vitamin C: low-histamine forms</h1>
 <p>For individuals with histamine intolerance or sensitivity, certain forms of vitamin C may be preferred as they are considered lower in histamine.</p>
-<p><strong>Key forms</strong>:</p>
+<p><strong>Key forms:</strong></p>
 <ul>
 <li><p>Ascorbic Acid (Pure Vitamin C): Ascorbic acid is the most common and purest form of vitamin C. It is generally well-tolerated by individuals with histamine intolerance.</p></li>
 <li><p>Sodium Ascorbate: Sodium ascorbate is a buffered form of vitamin C that is less acidic than ascorbic acid. It is often recommended for individuals who may experience stomach irritation with ascorbic acid.</p></li>

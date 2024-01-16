@@ -5,7 +5,8 @@
 <div class="prose">
 
 <h1 id="understanding-mast-cell-activation-disorders---by-niaid">Understanding Mast Cell Activation Disorders - By NIAID</h1>
-<p><a href="https://www.youtube.com/watch?v=tQbMGfEMVx4">Understanding Mast Cell Activation Disorders</a> - By <a href="https://www.youtube.com/@niaid">NIAID</a></p>
+<p><a href="https://www.youtube.com/watch?v=tQbMGfEMVx4">Understanding Mast Cell Activation Disorders</a></p>
+<p>By <a href="https://www.youtube.com/@niaid">NIAID</a></p>
 <p>Mast cells, part of the body’s immune system, are packed with inflammatory chemicals that cause allergy symptoms when released. Mast cell activation disorders occur when the cells release too much of their contents.</p>
 <p>Joshua Milner and Jonathan Lyons are physician-scientists at NIH’s National Institute of Allergy and Infectious Diseases.</p>
 <p>“My lab is very focused on finding answers about allergy by studying patients who have what look like genetic problems with allergy.”</p>

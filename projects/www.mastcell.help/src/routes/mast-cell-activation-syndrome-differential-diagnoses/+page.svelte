@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>Mast Cell Activation Syndrome: differential diagnoses | mastcell.help | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome (MCAS): differential diagnoses | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="mast-cell-activation-syndrome-differential-diagnoses">Mast Cell Activation Syndrome: differential diagnoses</h1>
+<h1 id="mast-cell-activation-syndrome-mcas-differential-diagnoses">Mast Cell Activation Syndrome (MCAS): differential diagnoses</h1>
 <ul>
 <li>diabetes mellitus</li>
 <li>porphyria</li>

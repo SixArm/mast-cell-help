@@ -1,8 +1,8 @@
-# The SHINE protocol
+# SHINE protocol
 
 The SHINE protocol is an acronym that stands for Sleep, Hormones, Infections, Nutrition, and Exercise. It can improve the health of individuals who are experiencing conditions like Chronic Fatigue Syndrome (CFS) or Myalgic Encephalomyelitis (ME).
 
-**Overview:**
+**SHINE stands for:**
 
 * **Sleep:** Restorative sleep is crucial for overall health. Sleep disturbances are common in conditions like CFS and ME. The SHINE protocol emphasizes strategies for improving sleep quality, including addressing issues like sleep apnea, insomnia, and circadian rhythm disruptions.
 

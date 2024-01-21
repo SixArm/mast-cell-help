@@ -5,7 +5,7 @@ Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that plays a 
 **Key aspects:**
 
 * **Antioxidant Properties:** Vitamin C is a potent antioxidant, which means it helps protect cells from oxidative damage.
-  
+
 * **Immune Support:** Vitamin C helps stimulate the production of white blood cells, enhances the function of immune cells, and helps defend against infections.
 
 * **Collagen Production:** Vitamin C essential for the synthesis of collagen, a protein that plays a key role in wound healing, skin health, bone health, and tissue health.

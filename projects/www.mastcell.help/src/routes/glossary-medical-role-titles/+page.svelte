@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>Glossary: medical role titles | mastcell.help | mastcell.help</title>
+    <title>Glossary of medical role titles | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="glossary-medical-role-titles">Glossary: medical role titles</h1>
+<h1 id="glossary-of-mmedical-role-titles">Glossary of medical role titles</h1>
 <p><strong>Doctor physician titles:</strong></p>
 <ul>
 <li><p><strong>MD:</strong> Medical Doctor. Focus is allopathic western medicine.</p></li>

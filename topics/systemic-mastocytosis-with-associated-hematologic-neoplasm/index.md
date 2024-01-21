@@ -10,8 +10,8 @@ Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN) is a rare an
 
 * **Bone Marrow Involvement:** SM-AHN often involves the bone marrow, where mast cells and abnormal hematopoietic cells (blood-forming cells) may accumulate. The bone marrow biopsy is a key diagnostic tool to assess the extent of involvement.
 
-* **Diagnosis:** Diagnosis involves a combination of clinical evaluation, laboratory tests, imaging studies, and often a bone marrow biopsy. 
+* **Diagnosis:** Diagnosis involves a combination of clinical evaluation, laboratory tests, imaging studies, and often a bone marrow biopsy.
 
-* **Treatment:** Treatment is complex and may involve managing symptoms, addressing the associated hematologic neoplasm, and sometimes considering targeted therapies. 
-  
-* **Prognosis:** Some cases may have a relatively indolent course, while others may be aggressive, depending on the specific features of the disease, the extent of organ involvement, and the response to treatment. 
+* **Treatment:** Treatment is complex and may involve managing symptoms, addressing the associated hematologic neoplasm, and sometimes considering targeted therapies.
+
+* **Prognosis:** Some cases may have a relatively indolent course, while others may be aggressive, depending on the specific features of the disease, the extent of organ involvement, and the response to treatment.

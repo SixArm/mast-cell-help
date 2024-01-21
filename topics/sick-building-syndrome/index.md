@@ -10,7 +10,7 @@
 
 * **Chemical and Biological Pollutants:** Building materials, furnishings, cleaning products, and other indoor sources can release chemical pollutants. Additionally, biological contaminants like mold and bacteria can thrive in damp or poorly ventilated areas.
 
-* **Diagnosis:** Diagnosis is based on the presence of symptoms that improve when individuals leave the building. It may involve investigations into indoor air quality and potential sources of pollutants. 
+* **Diagnosis:** Diagnosis is based on the presence of symptoms that improve when individuals leave the building. It may involve investigations into indoor air quality and potential sources of pollutants.
 
 * **Management:** May involve improving ventilation, identifying and removing sources of pollutants, and addressing issues like moisture and mold.
 

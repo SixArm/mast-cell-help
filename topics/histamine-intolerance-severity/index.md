@@ -15,5 +15,5 @@ The severity of histamine intolerance can vary widely among individuals.
 * **Underlying Health Conditions:** Certain underlying health conditions, such as gastrointestinal disorders, mast cell disorders, or other immune system dysregulations, can contribute to histamine intolerance.
 
 * **Medication Interactions:** Some medications can interfere with histamine metabolism or increase histamine release, potentially exacerbating symptoms.
-  
+
 * **Stress and Environmental Factors:** Stress and environmental factors may impact immune function and increase the likelihood of symptom flare-ups.

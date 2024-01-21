@@ -1,6 +1,6 @@
 # Stress management
 
-Stress management is crucial for maintaining physical well-being and mental well-being. Stress is a part of life, and some level of stress is normal, but chronic stress can lead to a range of health problems. 
+Stress management is crucial for maintaining physical well-being and mental well-being. Stress is a part of life, and some level of stress is normal, but chronic stress can lead to a range of health problems.
 
 **Some techniques:**
 
@@ -31,7 +31,7 @@ Stress management is crucial for maintaining physical well-being and mental well
 * **Laugh:** Laughter and humor can be powerful stress relievers.
 
 * **Set Boundaries:** Learn to say "no" when necessary.
-  
+
 * **Practice Gratitude:** Focus on positive aspects of your life.
 
 * **Get Outdoors:** Nature and fresh air can have a calming effect.

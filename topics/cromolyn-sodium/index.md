@@ -14,6 +14,6 @@ Cromolyn sodium, also known simply as cromolyn, is a medication that belongs to 
 
 * **Limited Relief:** Cromolyn sodium is generally used for prevention rather than providing immediate relief of acute symptoms. It may take some time to be effective.
 
-* **Administration:** Cromolyn sodium is available as nasal sprays for allergic rhinitis, eye drops for allergic conjunctivitis, and inhalation solutions for asthma. 
+* **Administration:** Cromolyn sodium is available as nasal sprays for allergic rhinitis, eye drops for allergic conjunctivitis, and inhalation solutions for asthma.
 
 * **Safety:** Cromolyn sodium is generally well-tolerated, and it has a low risk of causing adverse effects.

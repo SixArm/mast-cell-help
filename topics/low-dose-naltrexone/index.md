@@ -1,6 +1,6 @@
 # Low-dose naltrexone (LDN)
 
-Low-dose naltrexone (LDN) may be a novel anti-inflammatory agent in the central nervous system, via action on microglial cells. Effects appear to be entirely independent from naltrexone’s better-known activity on opioid receptors. 
+Low-dose naltrexone (LDN) may be a novel anti-inflammatory agent in the central nervous system, via action on microglial cells. Effects appear to be entirely independent from naltrexone’s better-known activity on opioid receptors.
 
 **Key points:**
 

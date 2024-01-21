@@ -7,7 +7,7 @@ Vasoactive Intestinal Peptide (VIP) is a neuropeptide that plays a crucial role 
 * **Receptors:** VIP receptors are present on various cell types, including smooth muscle cells, immune cells, and glandular cells.
 
 * **Gastrointestinal Effects:** In the gastrointestinal tract, VIP has several effects, including the relaxation of smooth muscle, stimulation of secretion from glands, and modulation of nutrient absorption.
-  
+
 * **Vasodilation:** VIP acts as a vasodilator, meaning it relaxes blood vessels, leading to an increase in blood flow.
 
 * **Effects:** VIP has immunomodulatory properties, influencing the activity of immune cells. It can suppress inflammation and enhance anti-inflammatory responses.

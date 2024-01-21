@@ -13,7 +13,7 @@ Diverticulosis is a common condition characterized by the presence of small, bul
 * **Diagnosis:** A colonoscopy may be used to visualize the colon and identify the presence of diverticula. A CT scan can provide detailed images of the colon and help diagnose diverticulosis or complications like diverticulitis.
 
 * **Treatment:** Fiber supplements or stool softeners may be recommended to help manage symptoms.
-  
+
 * **Prevention:** Consume a high-fiber diet with plenty of fruits, vegetables, and whole grains. Stay hydrated. Get regular exercise. Maintain a healthy weight.
 
 * **Antibiotics:** If diverticulitis occurs and is associated with infection, antibiotics may be prescribed.

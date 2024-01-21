@@ -5,7 +5,7 @@ Dysautonomia, also known as autonomic nervous system dysfunction or autonomic ne
 **Key points:**
 
 * **Causes:** May include pure autonomic failure, multiple system atrophy, Parkinson's disease, neuropathies, Postural Orthostatic Tachycardia Syndrome (POTS), neurocardiogenic syncope, or familial dysautonomia (Riley-Day Syndrome).
-  
+
 * **Symptoms:** May include dizziness and lightheadedness, fainting or near-fainting episodes, fast heart rate (tachycardia) or slow heart rate (bradycardia), blood pressure changes, gastrointestinal symptoms (nausea, bloating, constipation), temperature regulation issues, vision problems, sleep disturbances, sweating abnormalities, fatigue, weakness.
 
 * **Diagnosis**: May involve a thorough medical evaluation, physical examination, autonomic function tests, and sometimes specialized testing like tilt-table tests or thermoregulatory sweat tests.

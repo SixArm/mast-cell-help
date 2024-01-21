@@ -8,7 +8,7 @@ Bradycardia means an abnormally slow heart rate, typically a resting heart rate 
 
 * **Medications:** Some medications, particularly those used to treat high blood pressure and certain heart conditions, can slow the heart rate as a side effect.
 
-* **Heart Block:** This is a condition where the electrical signals that control the heartbeat are delayed or blocked as they move through the heart's electrical system. 
+* **Heart Block:** This is a condition where the electrical signals that control the heartbeat are delayed or blocked as they move through the heart's electrical system.
 
 * **Sick Sinus Syndrome:** This is a disorder of the heart's electrical system that can cause the heart to beat too slowly, too fast, or irregularly.
 

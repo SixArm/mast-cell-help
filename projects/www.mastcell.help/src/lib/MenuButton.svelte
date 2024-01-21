@@ -9,7 +9,7 @@
     <span class="sr-only">Open main menu</span>
     {#if isOpen}
         <Open />
-    {:else}    
+    {:else}
         <Shut />
     {/if}
 </button>

@@ -12,4 +12,4 @@ Hypertryptasemia refers to the presence of abnormally high levels of tryptase in
 
 * **Diagnosis:** Hypertryptasemia is typically diagnosed through blood tests that measure tryptase levels.
 
-* **Treatment:** If elevated tryptase is associated with an underlying medical condition like CML, treatment will be directed at managing that condition. Systemic mastocytosis treatment may involve medications to manage symptoms and complications, such as antihistamines and mast cell stabilizers. Anaphylaxis treatment uses emergency adrenaline and emergency care. 
+* **Treatment:** If elevated tryptase is associated with an underlying medical condition like CML, treatment will be directed at managing that condition. Systemic mastocytosis treatment may involve medications to manage symptoms and complications, such as antihistamines and mast cell stabilizers. Anaphylaxis treatment uses emergency adrenaline and emergency care.

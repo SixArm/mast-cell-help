@@ -10,7 +10,7 @@ Histamine N-methyltransferase (HNMT) is an enzyme that is responsible for breaki
 
 * **Tissue Distribution:**  HNMT is an enzyme found in various tissues, including the liver, kidney, and central nervous system. The highest levels are found in the liver, where the majority of systemic histamine metabolism takes place.
 
-* **Genetic Variation:** Genetic variations in the HNMT gene can influence the activity of the enzyme. 
+* **Genetic Variation:** Genetic variations in the HNMT gene can influence the activity of the enzyme.
 
 * **Role in Allergic Responses:** While histamine is involved in allergic responses, HNMT is not the primary enzyme responsible for histamine release. The main enzyme involved in histamine release is histidine decarboxylase.
 

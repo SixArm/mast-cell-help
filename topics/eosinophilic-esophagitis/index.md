@@ -4,7 +4,7 @@ Eosinophilic esophagitis (EoE) is a chronic immune-mediated inflammatory conditi
 
 **Key points:**
 
-* **Symptoms:** May include difficulty swallowing (dysphagia), food impaction (getting food stuck in the esophagus), chest pain, heartburn, regurgitation, and food-related discomfort. 
+* **Symptoms:** May include difficulty swallowing (dysphagia), food impaction (getting food stuck in the esophagus), chest pain, heartburn, regurgitation, and food-related discomfort.
 
 * **Triggers:** EoE is often triggered by allergic reactions to specific foods, such as milk, eggs, wheat, soy, and nuts. The immune system's response to these allergens results in inflammation and the accumulation of eosinophils in the esophagus.
 

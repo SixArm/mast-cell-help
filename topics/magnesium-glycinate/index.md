@@ -4,7 +4,7 @@ Magnesium glycinate is a form of magnesium supplement that is bound to the amino
 
 **Key points:**
 
-* **Bioavailability:** The body can absorb and utilize a significant portion of the magnesium in this form. 
+* **Bioavailability:** The body can absorb and utilize a significant portion of the magnesium in this form.
 
 * **Glycine Content:** Glycine is an amino acid that has calming and relaxing effects.
 

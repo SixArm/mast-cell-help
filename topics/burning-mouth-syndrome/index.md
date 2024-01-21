@@ -6,7 +6,7 @@ Burning Mouth Syndrome (BMS) is a complex and often painful condition characteri
 
 * **Symptoms:** Burning sensation in the mouth or other oral discomforts, such as dry mouth, altered taste (dysgeusia), or a metallic taste.
 
-* **Location:**  The burning sensation can affect various areas of the oral cavity, including the tongue, lips, palate, gums, and throat. 
+* **Location:**  The burning sensation can affect various areas of the oral cavity, including the tongue, lips, palate, gums, and throat.
 
 * **Triggered by Eating:**  Symptoms may worsen or be triggered by eating or drinking, especially hot, spicy, or acidic foods and beverages.
 

@@ -1,10 +1,10 @@
 # Probiotic supplements
 
-Probiotics are live microorganisms, mainly bacteria and yeast, that confer health benefits when consumed in adequate amounts. Probiotic supplements are formulations designed to provide a concentrated source of these beneficial microorganisms. 
+Probiotics are live microorganisms, mainly bacteria and yeast, that confer health benefits when consumed in adequate amounts. Probiotic supplements are formulations designed to provide a concentrated source of these beneficial microorganisms.
 
 **Key points:**
 
-* **Types:** Probiotics can include various strains, such as Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus rhamnosus, Bifidobacterium bifidum, Bifidobacterium longum, and others. 
+* **Types:** Probiotics can include various strains, such as Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus rhamnosus, Bifidobacterium bifidum, Bifidobacterium longum, and others.
 
 * **Live Cultures:** To be effective, probiotics must contain live and viable cultures of microorganisms. The number of colony-forming units (CFUs) indicates the quantity of live microorganisms present in a probiotic supplement.
 
@@ -12,4 +12,4 @@ Probiotics are live microorganisms, mainly bacteria and yeast, that confer healt
 
 * **Targeted Formulation**s: Some probiotic supplements are formulated for specific purposes, such as women's health, immune support, or infant health. These formulations may contain strains believed to address particular health needs.
 
-* **Dietary Sources:** Probiotics can also be obtained from certain foods, including yogurt, kefir, sauerkraut, kimchi, and other fermented foods. 
+* **Dietary Sources:** Probiotics can also be obtained from certain foods, including yogurt, kefir, sauerkraut, kimchi, and other fermented foods.

@@ -11,7 +11,7 @@ Activated charcoal, also known as activated carbon, is a form of carbon that has
 * **Side effects:** When taken internally, it can also lead to potential side effects, including constipation, black stools, and gastrointestinal discomfort. It can also interfere with the absorption of medications and nutrients when taken internally.
 
 * **Teeth whitening**: Activated charcoal is sometimes used in dental products, such as toothpaste and mouthwash, as a potential teeth-whitening agent.
-  
+
 * **Skin Care**: Some skin care products, including face masks and cleansers, contain activated charcoal. It is believed to help remove impurities from the skin and unclog pores.
 
 * **Purification**: Activated charcoal is used in water purification systems and air filters to remove impurities, chemicals, and odors. It is known for its high adsorption capacity.

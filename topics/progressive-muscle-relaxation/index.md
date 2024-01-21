@@ -4,7 +4,7 @@ Progressive Muscle Relaxation (PMR) is a relaxation technique. It involves syste
 
 **Key steps:**
 
-* **Get Comfortable:** Find a quiet space where you won't be disturbed. Sit in a comfortable chair or lie down on your back. 
+* **Get Comfortable:** Find a quiet space where you won't be disturbed. Sit in a comfortable chair or lie down on your back.
 
 * **Deep Breathing:** Inhale slowly through your nose, allowing your lungs to fill with air. Exhale slowly through your mouth, releasing tension as you breathe out.
 

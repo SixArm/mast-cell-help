@@ -1,4 +1,4 @@
-# Glossary: units of measurement
+# Glossary of units of measurement
 
 **Some common units:**
 
@@ -21,17 +21,17 @@
 **Some common prefixes:**
 
 * **n:** nano means 1/1000000000 a.k.a. $10^{-9}$
-  
+
 * **μ**: micro means 1/1000000 a.k.a. $10^{-6}$
-  
+
 * **m:** milli means 1/1000 a.k.a. $10^{-3}$
 
 * **k:** kilo means 1000 a.k.a. $10^{3}$
-  
+
 * **M:** mega means 1000000 a.k.a. $10^{6}$
-  
+
 * **G:** giga means 1000000000 a.k.a $10^{9}$
- 
+
 **Some common ratios:**
 
 * **g/L:** grams per liter

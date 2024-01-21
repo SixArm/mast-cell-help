@@ -12,7 +12,7 @@ GERD can often be managed with lifestyle and dietary changes, as well as over-th
 
 * **Acid Indigestion:** Discomfort in the upper abdomen.
 
-* **Chest Pain:** Chest pain that may be mistaken for a heart issue. 
+* **Chest Pain:** Chest pain that may be mistaken for a heart issue.
 
 * **Difficulty Swallowing:** Known as dysphagia, this can occur due to damage to the esophagus from chronic acid exposure.
 

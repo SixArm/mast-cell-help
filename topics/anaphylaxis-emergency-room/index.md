@@ -16,4 +16,3 @@ Search instead for bronchodilators (e.g. albuterol).
 6. Administer H1 and H2 blockers as supportive therapy. Prefer IV administration. Include diphenhydramine as an H1 blocker, given 25mg-50mg (or hydroxyzine/fexofenadine), and 1mg/kg; given very slow IV diluted in normal saline over 2-5 minutes. H2 antagonist, ranitidine/cimetidine, IV, should also be given.
 
 7. Administer corticosteroids (e.g. prednisone) because they may prevent prolonged anaphylaxis.
-   

@@ -1,4 +1,4 @@
-# Histamine intolerance
+# Histamine intolerance (HI)
 
 Histamine intolerance is a condition in which an individual experiences a variety of symptoms in response to the consumption of foods or other substances that contain histamine or trigger the release of histamine in the body.
 

@@ -1,25 +1,17 @@
 # TODO
 
-complementary and alternative medicine (CAM)
+colorless Benadryl
 
-<li>Foundational information on Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia</li>
+Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia
 
-lymph
-lymph nodes
-lymph vessels
-adrenal insufficiency / adrenal fatigue / cortisol deficiency
+adrenal fatigue / cortisol deficiency
+
 Restless Leg Syndrome
 
-[Glossary](glossary/)
-
-Glossary items:
-* **RBC:** red blood cell
-* **WBC:** white blood cell
+malabsorption
 
 Phosphatidylcholine
 
-C-reactive protein (CRP)
-interleukin-6 (IL-6)
 transforming growth factor beta-1 (TGF-B1)
 
 ## References
@@ -45,9 +37,9 @@ Medical journal articles that are innovating:
 
 ### Nose-throat scope
 
-Nose-throat testing can be done by an ear-nose-throat (ENT) specialist or similar head-neck specialist:
+Do nose-throat scope testing. This can be done by an ear-nose-throat (ENT) specialist or head-neck specialist:
 
-- [ ] Test for GERD, acid reflux, structural abnormalities, etc.
+- [ ] Test for acid reflux, structural abnormalities, GERD, EoS, etc.
 
   - Typically this can be done by using a nose-throat scope during a routine office visit.
 
@@ -104,7 +96,7 @@ Daily medications:
 
 Also:
 
-- [ ] Adrenaline (a.ka. epinephrine) emergency auto-injector (a.k.a. brand name EpiPen)
+- [ ] Adrenaline (a.k.a. epinephrine) emergency auto-injector (a.k.a. brand name EpiPen)
 
 
 ### Anti-fungal herbal agents
@@ -132,14 +124,14 @@ Allergy testing a.k.a. histamine-response testing can be done by an allergy spec
 
   - This is more comprehensive and more accurate than typical allergy blood tests.
 
-  - This is best done after a week or so without taking any antihistamines, because antihistimes tend to interfere with the skin prick testing.
+  - This is best done after a week or so without taking any antihistamines, because antihistamines tend to interfere with the skin prick testing.
 
 
 ## Gut cleanse
 
 Gut bile cleaning via bile acid sequestrants.
 
-- [ ] Cholestyramine (Rx) is a popular choice.
+- [ ] Cholestyramine (Rx) is a popular choice, and also helps lower cholesterol.
 
 - [ ] Colesevelam (a.k.a. Welchol) (Rx) is a similar choice, and may be better-tolerated.
 
@@ -152,8 +144,6 @@ Estimate 2-4 weeks to feel results.
 * [Mast Cell Activation Syndrome diagnosis consensus-2 criteria](mast-cell-activation-syndrome-diagnosis-consensus-2-criteria)
 
 Dysautonomia
-
-Postural Orthostatic Tachycardia Syndrome
 
 Allergy testing
 * skin prick testing
@@ -185,8 +175,6 @@ Current research areas
 
 Rheumatoid arthritis
 
-Chronic inflammation
-
 Rhinitis
 
 How does familial hypertryptasemia fit into the mast cell disease construct? Hereditary alpha-tryptasemia”  [HAT, a prevalent condition featuring (1) redundancy of the TPSAB1 gene expressing alpha-tryptase and (2) many of the same clinical features as MCAS]
@@ -200,7 +188,6 @@ primary (i.e. clonal) MCAS proven by the presently very limited range of laborat
 
 Comorbidities:
 
-* myalgic encephalitis/chronic fatigue syndrome (ME/CFS)
 * fibromyalgia
 * irritable bowel syndrome (IBS)
 * postural orthostatic tachycardia syndrome (POTS)

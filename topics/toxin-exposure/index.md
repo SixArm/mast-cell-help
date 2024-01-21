@@ -11,7 +11,7 @@ Toxin exposure refers to the contact or ingestion of substances that can be harm
 * **Agricultural chemicals:** Pesticides and herbicides.
 
 * **Heavy Metals:** Lead, mercury, and cadmium, often through contaminated food or water.
-  
+
 * **Radon Gas:** Radon is a naturally occurring radioactive gas that can enter homes and become a health hazard when inhaled.
 
 * **Foodborne Pathogens:** Bacteria, viruses, and parasites in food.
@@ -21,7 +21,7 @@ Toxin exposure refers to the contact or ingestion of substances that can be harm
 * **Biological Toxins:** Such as venom produced by snakes, spiders, or bees.
 
 * **Cleaning Products:** Household cleaners, if ingested or inhaled.
-  
+
 * **Lead Paint:** Lead-based paint, if ingested or inhaled as dust.
 
 * **Carbon Monoxide:** An odorless gas can be emitted by faulty appliances.

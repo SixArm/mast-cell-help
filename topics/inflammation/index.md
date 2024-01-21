@@ -1,6 +1,6 @@
 # Inflammation
 
-Inflammation is a complex biological response that is triggered by the body's immune system when it detects an injury, infection, or other harmful stimuli. It is a crucial part of the body's defense mechanism and plays a key role in protecting the body from potential threats. 
+Inflammation is a complex biological response that is triggered by the body's immune system when it detects an injury, infection, or other harmful stimuli. It is a crucial part of the body's defense mechanism and plays a key role in protecting the body from potential threats.
 
 Common causes include infections, injuries, autoimmune disorders, unhealthy diets, smoking, alcoholism, lack of exercise, pollution, and exposure to toxins.
 

@@ -5,7 +5,7 @@ The limbic system is a network of structures in the brain that plays a crucial r
 **Potential consequences:**
 
 * **Emotional Disturbances:** Dysfunction can result in mood disorders, such as depression, anxiety, agitation, bipolar disorder, emotional instability, or aggression.
-  
+
 * **Memory Problems:** The limbic system, particularly the hippocampus, is vital for the formation and retrieval of memories. Impairment in this region can result in memory deficits.
 
 * **Post-Traumatic Stress:** The limbic system is implicated in the development of post-traumatic stress disorder (PTSD). Traumatic experiences can lead to intrusive memories, emotional numbing, and heightened arousal responses.

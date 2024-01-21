@@ -1,6 +1,6 @@
 # Endometriosis
 
-Endometriosis is a medical condition in which tissue similar to the lining of the uterus (endometrium) grows outside the uterus. This tissue, called endometrial implants, may grow on organs in the pelvic and abdominal areas, such as the ovaries, fallopian tubes, and the outer surface of the uterus, as well as on the intestines and other abdominal structures. Endometriosis is a chronic condition that can cause pain and may lead to fertility issues. 
+Endometriosis is a medical condition in which tissue similar to the lining of the uterus (endometrium) grows outside the uterus. This tissue, called endometrial implants, may grow on organs in the pelvic and abdominal areas, such as the ovaries, fallopian tubes, and the outer surface of the uterus, as well as on the intestines and other abdominal structures. Endometriosis is a chronic condition that can cause pain and may lead to fertility issues.
 
 **Key points:**
 

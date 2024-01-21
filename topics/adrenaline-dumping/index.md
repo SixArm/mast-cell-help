@@ -13,7 +13,7 @@
 * **Duration:** The effects of adrenaline are usually short-lived, and the body returns to its normal state once the perceived threat or stressor is no longer present.
 
 * **Chronic Stress:** Chronic or repeated activation of the stress response can have negative effects on long-term health.
-  
+
 * **Management:** Managing stress through relaxation techniques, mindfulness, regular exercise, and adequate sleep can help.
 
 * **Medical Conditions:** Conditions such as panic disorder, post-traumatic stress disorder (PTSD), and certain anxiety disorders may involve an abnormal release of adrenaline.

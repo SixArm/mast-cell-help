@@ -12,9 +12,9 @@ Adrenal insufficiency, also known as Addison's disease, is a rare but serious co
 
 * **Diagnosis:** Diagnosis involves blood tests to measure cortisol and adrenocorticotropic hormone (ACTH) levels. Imaging tests such as CT scans may also be used to identify any damage or abnormalities in the adrenal glands.
 
-* **Treatment:** The main treatment for adrenal insufficiency is hormone replacement therapy. 
+* **Treatment:** The main treatment for adrenal insufficiency is hormone replacement therapy.
 
 * **Emergency Situations:** Adrenal crisis is a life-threatening situation that can occur when cortisol levels drop significantly. It requires immediate medical attention and treatment with intravenous (IV) corticosteroids and fluids.
 
 * **Lifelong Condition:** Addison's disease is typically a chronic, lifelong condition. With proper treatment and management, individuals with adrenal insufficiency can lead normal and healthy lives.
-* 
+*

@@ -34,7 +34,7 @@ all rice and pasta (but do not add salt when cooking), low-sodium tortillas, low
 * **Soups:** low-sodium canned and dehydrated soups (also broth, bouillon), homemade soups without added salt.
 
 * **Condiments:** vinegar, unsalted butter or margarine, vegetable oils, low sodium sauces and salad dressings, mayonnaise.
-  
+
 * **Sweets:** desserts made without salt.
 
 # Low-sodium diet: foods to avoid

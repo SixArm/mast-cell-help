@@ -1,6 +1,6 @@
 # Hereditary Alpha-Tryptasemia (HαT)
 
-Hereditary Alpha-Tryptasemia (HαT) is a genetic condition characterized by elevated levels of alpha-tryptase in the blood. Alpha-tryptase is a protein produced by mast cells, a type of white blood cell that plays a key role in the immune response, particularly in allergic and inflammatory reactions. 
+Hereditary Alpha-Tryptasemia (HαT) is a genetic condition characterized by elevated levels of alpha-tryptase in the blood. Alpha-tryptase is a protein produced by mast cells, a type of white blood cell that plays a key role in the immune response, particularly in allergic and inflammatory reactions.
 
 **Key points:**
 
@@ -15,5 +15,5 @@ Hereditary Alpha-Tryptasemia (HαT) is a genetic condition characterized by elev
 * **Management:** For individuals with HαT who are experiencing symptoms, management may involve addressing specific symptoms or underlying conditions.
 
 * **Association with Other Conditions:** HαT has been associated with an increased risk of mast cell activation syndrome (MCAS).
-  
+
 * **Genetic Testing:** Genetic testing for HαT typically involves analyzing the number of TPSAB1 gene copies to confirm the diagnosis.

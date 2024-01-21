@@ -7,7 +7,7 @@ Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS) is a te
 * **Staphylococcus Species:** Staphylococci are a group of bacteria commonly found on the skin and mucous membranes. Some species are harmless; others can cause infections.
 
 * **Antibiotic Resistance:** MARCoNS is of particular concern due to its resistance to commonly used antibiotics.
-  
+
 * **Association with Chronic Infections:** MARCoNS is often associated with chronic infections, including chronic sinus infections. It has been identified in some cases where individuals experience persistent or recurrent infections that are challenging to treat.
 
 * **Biofilm Formation:** Staphylococci, including CoNS, are capable of forming biofilms. Biofilms are protective structures that bacteria create, making them more resistant to antibiotics and the immune system.

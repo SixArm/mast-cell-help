@@ -1,6 +1,6 @@
 # Asthma medications
 
-Asthma often involves a combination of medications, including those that provide immediate relief (rescue medications) and those that control inflammation and prevent symptoms (controller medications). 
+Asthma often involves a combination of medications, including those that provide immediate relief (rescue medications) and those that control inflammation and prevent symptoms (controller medications).
 
 **Common types:**
 

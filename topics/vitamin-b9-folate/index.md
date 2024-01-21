@@ -14,6 +14,6 @@ Vitamin B9, also known as folate, is a water-soluble B-vitamin. Folate is especi
 
 * **Mental Health:** Some research has suggested a potential link between folate and mental health, as low levels of folate are associated with mood disorders.
 
-* **Deficiency:** This can lead to anemia, fatigue, and an increased risk of birth defects in newborns. Deficiency can result from an inadequate diet, alcoholism, malabsorption conditions, and certain medications that interfere with absorption. 
-  
+* **Deficiency:** This can lead to anemia, fatigue, and an increased risk of birth defects in newborns. Deficiency can result from an inadequate diet, alcoholism, malabsorption conditions, and certain medications that interfere with absorption.
+
 Dietary sources of folate include a wide range of foods, such as leafy green vegetables (e.g. spinach), legumes (e.g. beans), citrus fruits, and fortified cereals.

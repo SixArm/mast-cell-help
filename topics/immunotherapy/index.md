@@ -2,7 +2,7 @@
 
 Immunotherapy is a type of medical treatment that harnesses the power of the body's immune system to fight diseases. Immunotherapy can be used to enhance the immune system's natural ability to identify and destroy abnormal or harmful cells.
 
-Immunotherapy can offer several advantages, such as potentially fewer side effects compared to traditional treatments like chemotherapy and radiation therapy. 
+Immunotherapy can offer several advantages, such as potentially fewer side effects compared to traditional treatments like chemotherapy and radiation therapy.
 
 **Common kinds:**
 

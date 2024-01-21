@@ -1,14 +1,15 @@
-# Glossary: medical time
+# Glossary of medical time
 
 **When to do treatments:**
 
 * **ac:** "ante cibum" means before meals
-* **pc:** "psot cibum" means after meals
+* **pc:** "post cibum" means after meals
 * **am**: "ante-meridian" means before noon, such as morning
 * **pm**: "post-meridian" means after noon, such as evening
 * **prn**: "pro re nata” means as the thing is needed
 * **ud**: "ut dictum" means as directed
 * **qs**: "quantum sufficit" means as much as is sufficient
+* **asa:** "as soon as possible"
 
 **When to repeat treatments:**
 
@@ -27,8 +28,8 @@
 * **qod**: every other day a.k.a. alternating days
 * **qoh**: every other hour a.k.a. alternating hours
 
-**How many items:**
+**How many times:**
 
-* **i:** 1 tablet, pill, item, etc.
-* **ii:** 2 tablets, pills, items, etc.
-* **iii:** 3 tablets, pills, items, etc.
+* **i:** 1 time, such as 1 item, tablet, pill, etc.
+* **ii:** 2 times, such as 2 items, tablets, pills, etc.
+* **iii:** 3 times, such as 3 items, tablets, pills, etc.

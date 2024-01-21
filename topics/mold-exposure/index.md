@@ -8,10 +8,10 @@ Mold exposure occurs when individuals come into contact with mold spores, either
 
 * **Mycotoxins:** Certain molds produce mycotoxins, which are toxic substances that can be harmful to humans and animals.
 
-* **Health Effects:** Mold exposure can lead to a range of health effects, including allergic reactions, respiratory symptoms, more severe health problems. 
+* **Health Effects:** Mold exposure can lead to a range of health effects, including allergic reactions, respiratory symptoms, more severe health problems.
 
 * **Diagnosis:** Blood tests can check for mold exposure, or skin prick tests for allergies.
 
-* **Prevention:** Remove mold-infested materials. Fix water leaks. Improve ventilation.Ensure proper ventilation. Use dehumidifiers in damp areas. 
+* **Prevention:** Remove mold-infested materials. Fix water leaks. Improve ventilation.Ensure proper ventilation. Use dehumidifiers in damp areas.
 
 * **Professional Assessment:** If mold is suspected or visible, it's advisable to consult with professionals in mold remediation or indoor air quality.

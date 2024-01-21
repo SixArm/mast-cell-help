@@ -19,12 +19,9 @@ BNO 	bowels not open
 BO 	bowels open
 
 Tests:
-ECG 	electrocardiogram
-EEG 	electroencephalogram
 EMU 	early morning urine sample
 ESR 	erythrocyte sedimentation rate (a type of blood test used to help diagnose conditions associated with inflammation)
 EUA 	examination under anaesthetic
-FBC 	full blood count (a type of blood test)
 
 CSF 	cerebrospinal fluid
 CSU 	catheter stream urine sample
@@ -37,35 +34,28 @@ DNR 	do not resuscitate
 DVT 	deep vein thrombosis
 
 
-ED 	emergency department
 FY1 FY2 	foundation doctor
 GA 	general anaesthetic
 gtt., gtt 	drop(s)
 h/o 	history of
-Hb 	haemoglobin (a substance in red blood cells that moves oxygen around the body)
-LDL 	low-density lipoprotein (a type of cholesterol)
-HDL 	high-density lipoprotein (a type of cholesterol)
+
 HRT 	hormone replacement therapy
 i.m., IM 	injection into a muscle
 i.v., IV 	injection directly to a vein
+
 INR 	international normalised ratio (a measure of how long blood takes to clot)
 IVI 	intravenous infusion
 IVP 	intravenous pyelogram (an X-ray of your urinary tract)
+
 LA 	local anaesthetic
-LFT 	liver function test (a type of blood test measuring enzymes and proteins in your liver)
 LMP 	last menstrual period
 M/R 	modified release
-MRSA 	methicillin-resistant Staphylococcus aureus
 MSU 	mid-stream urine sample
 n.p.o., npo, NPO 	nothing by mouth / not by oral administration
-NAD 	nothing abnormal discovered
 NAI 	non-accidental injury
 NBM 	nil by mouth
 NG 	nasogastric (running between your nose and stomach)
 NoF 	neck of femur
-NSAID 	non-steroidal anti-inflammatory drug
-o/e 	on examination
-p/c 	presenting complaint
 physio 	physiotherapist
 POP 	plaster of paris
 PTT 	partial thromboplastin time (a measure of how quickly your blood clots)
@@ -90,15 +80,6 @@ U&E 	urea and electrolytes
 UTI 	urinary tract infection
 VTE 	venous thromboembolism (a blood clot that forms in a vein)
 
-
-Roles:
-CMHN 	community mental health nurse
-CPN 	community psychiatric nurse
-HCA 	healthcare assistant
-HCSW 	healthcare support worker
-OT 	occupational therapist
-RN 	registered nurse
-RNLD registered nurse for learning disability
 
 Places:
 A&E 	accident and emergency

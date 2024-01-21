@@ -5,61 +5,58 @@ If you're sick, you need help now. Use this page as a checklist of what may help
 Try to find out what triggers your symptoms, and what harms you or helps you. Keep track of your foods and beverages, your exposures to allergens and irritants, and your sensations and emotions.
 
 **Plan your meals:**
-[food diary],
-[elimination diet],
-[low-histamine diet].
+* [elimination diet]
+* [low-histamine diet]
+* [food diary]
 
-**Know your exposures:**
-[household sensitivities],
-[chemical sensitivities].
+**Know your limits:**
+* [household sensitivities]
+* [chemical sensitivities]
+* [environmental sensitivities]
 
 **Clean your home:** 
-[allergy cleaning], 
-[air filters],
-[water filters].
+* [allergy cleaning]
+* [air filters]
+* [water filters]
 
 **Calm your mind:**
-[meditation],
-[self-soothing],
-[sleep hygiene].
+* [meditation]
+* [self-soothing]
+* [sleep hygiene]
 
 **Relax your body:**
-[stress management],
-[polyvagal exercises].
-
-**Balance your energy:**
-[acupuncture],
-[cupping].
+[stress management]
+[polyvagal exercises]
 
 **Boost your nutrition:**
-[dietary supplements],
-[nutritional shakes].
+* [dietary supplements]
+* [nutritional shakes]
 
 **Take your vitamins and minerals:** 
-[multivitamin],
-[quercetin],
-[glutathione],
-[diamine oxidase],
-[vitamin C],
-[omega-3],
-[turmeric],
-[calcium],
-[copper],
-[magnesium glycinate],
-[n-acetyl cysteine (NAC)],
+[multivitamin]
+[quercetin]
+[glutathione]
+[diamine oxidase]
+[vitamin C]
+[omega-3]
+[turmeric]
+[calcium]
+[copper]
+[magnesium glycinate]
+[n-acetyl cysteine (NAC)]
 [zinc]
 
 **Power your gut:**
-[prebiotic supplements],
-[probiotic supplements].
+* [prebiotic supplements],
+* [probiotic supplements].
 
 **Try natural herbs:** 
-[berberine],
-[butterbur],
-[stinging nettle].
+* [berberine]
+* [butterbur]
+* [stinging nettle]
 
 **Learn more:** 
-[books],
-[videos],
-[support groups],
-[Facebook groups].
+* [books]
+* [videos]
+* [support groups]
+* [Facebook groups]

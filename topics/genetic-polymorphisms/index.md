@@ -10,11 +10,11 @@ Genetic polymorphisms, also known as genetic variations or genetic variants, are
 
 * **Copy Number Variations (CNVs):** These polymorphisms involve the duplication or deletion of larger DNA segments, ranging from a few hundred base pairs to several megabases.
 
-* **Chromosomal Rearrangements:** These polymorphisms involve more extensive structural changes in chromosomes, such as translocations, inversions, and deletions or duplications of entire genes or chromosomal segments. 
+* **Chromosomal Rearrangements:** These polymorphisms involve more extensive structural changes in chromosomes, such as translocations, inversions, and deletions or duplications of entire genes or chromosomal segments.
 
 **Key considerations:**
 
-* **Functional Consequences:** Many genetic polymorphisms have functional consequences. They can affect gene expression, protein structure and function, traits, and disease susceptibilities. 
+* **Functional Consequences:** Many genetic polymorphisms have functional consequences. They can affect gene expression, protein structure and function, traits, and disease susceptibilities.
 
 * **Pharmacogenetics:** Genetic polymorphisms play a role in how individuals respond to medications.
 

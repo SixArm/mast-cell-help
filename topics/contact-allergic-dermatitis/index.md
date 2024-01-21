@@ -1,6 +1,6 @@
 # Contact allergic dermatitis
 
-Contact allergic dermatitis, also known as contact hypersensitivity, is a type of skin reaction that occurs when the skin comes into contact with a substance to which an individual is allergic. 
+Contact allergic dermatitis, also known as contact hypersensitivity, is a type of skin reaction that occurs when the skin comes into contact with a substance to which an individual is allergic.
 
 **Key aspects:**
 

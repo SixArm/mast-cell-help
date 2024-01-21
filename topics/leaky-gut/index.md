@@ -4,8 +4,8 @@
 
 **Key treatments:**
 
-* **Remove Potential Triggers:** Identify and eliminate foods that contribute to inflammation, such as processed foods, refined sugars, gluten, and dairy. 
-  
+* **Remove Potential Triggers:** Identify and eliminate foods that contribute to inflammation, such as processed foods, refined sugars, gluten, and dairy.
+
 * **Emphasize Good Foods:** Try a whole foods-based diet rich in vegetables, fruits, lean proteins, and healthy fats. Try foods that support gut health, such as bone broth, fermented foods (e.g., sauerkraut, kimchi, kefir), and high-fiber foods.
 
 * **Prebiotics:** Try prebiotic-rich foods that promote the growth of beneficial gut bacteria. Examples: garlic, onions, leeks, asparagus, bananas.

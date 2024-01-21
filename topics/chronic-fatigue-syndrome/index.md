@@ -1,6 +1,6 @@
 # Chronic Fatigue Syndrome (CFS)
 
-Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is a complex and debilitating medical condition characterized by persistent and unexplained fatigue that is not alleviated by rest. CFS is a chronic condition. 
+Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is a complex and debilitating medical condition characterized by persistent and unexplained fatigue that is not alleviated by rest. CFS is a chronic condition.
 
 **Key points:**
 
@@ -16,6 +16,6 @@ Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is
 
 * **Unknown Cause:** CFS is complex condition with multiple potential contributing factors, including viral infections, immune system dysfunction, hormonal imbalances, and genetic predisposition.
 
-* **Multidisciplinary Approach:** Management of CFS often involves a multidisciplinary approach. This may include symptom management, cognitive-behavioral therapy (CBT), graded exercise therapy (GET), and lifestyle adjustments. 
-  
+* **Multidisciplinary Approach:** Management of CFS often involves a multidisciplinary approach. This may include symptom management, cognitive-behavioral therapy (CBT), graded exercise therapy (GET), and lifestyle adjustments.
+
 * **Supportive Care:** Supportive care is crucial for individuals with CFS. This may include managing sleep disturbances, addressing pain and other symptoms, and providing emotional support.

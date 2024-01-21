@@ -1,4 +1,4 @@
-# Glossary: medical terminology
+# Glossary of medical terminology
 
 **Medical chart notation:**
 
@@ -20,28 +20,28 @@
 
 * **Ix:** investigation
 
-**Medical imaging:**
+**Medical exam shorthand:**
 
-* **CT:** computerized tomography
+* **p/c:** presenting complaint
 
-* **MRI:** magnetic resonance imaging
+* **c/o:** complains of
 
-* **PET:** positron emission tomography
+* **s/s:** signs and symptoms
 
-**Medical terminology:**
+* **o/e:** on examination
 
-* **ED:** Emergency Department
+* **d/t:** due to
 
-* **ER:** Emergency Room
+* **w/n:** within
 
-* **IM:** intra-muscular
+* **w/u:** workup
 
-* **IV:** intravenous
+* **r/o:** rule out
 
-* **MC:** mast cell
+* **f/u:** follow-up
 
-* **MCA:** mast cell activation
+* **u/o:** under observation
 
-* **MCAS:** mast cell activation syndrome
+* **d/c:** discontinue
 
-* **OTC:** over the counter
+* **s/p:** status post (previous condition)

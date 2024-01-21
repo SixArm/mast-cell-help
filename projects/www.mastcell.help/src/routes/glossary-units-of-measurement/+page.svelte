@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>Glossary: units of measurement | mastcell.help | mastcell.help</title>
+    <title>Glossary of units of measurement | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="glossary-units-of-measurement">Glossary: units of measurement</h1>
+<h1 id="glossary-of-munits-of-measurement">Glossary of units of measurement</h1>
 <p><strong>Some common units:</strong></p>
 <ul>
 <li><p><strong>g:</strong> gram is for mass</p></li>

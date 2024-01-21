@@ -1,6 +1,6 @@
 # Bone marrow biopsy
 
-A bone marrow biopsy is a medical procedure in which a small sample of bone marrow tissue is extracted for examination. The bone marrow is the spongy tissue found within the cavities of certain bones, such as the hipbone, sternum (breastbone), and the long bones of the arms and legs. 
+A bone marrow biopsy is a medical procedure in which a small sample of bone marrow tissue is extracted for examination. The bone marrow is the spongy tissue found within the cavities of certain bones, such as the hipbone, sternum (breastbone), and the long bones of the arms and legs.
 
 Local anesthesia is administered to numb the skin and underlying tissue, usually at the biopsy site. A special needle is inserted through the skin and into the bone, and a syringe is used to aspirate (draw out) a small amount of liquid bone marrow. A larger, hollow needle is used to obtain a small core of bone marrow tissue. This may cause some pressure or brief discomfort.
 

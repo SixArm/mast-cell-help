@@ -19,7 +19,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Start here](topics/start-here)
 
-### [Start here with your doctors](topics/start-here-with-your-doctors)
+* [Start here for your nutrition](topics/start-here-for-your-nutrition)
+* [Start here with your doctors](topics/start-here-with-your-doctors)
 
 ### [What are mast cells?](topics/what-are-mast-cells)
 
@@ -29,23 +30,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Multisystem disease](topics/multisystem-disease)
 * [Support groups](topics/support-groups)
 * [Facebook groups](topics/facebook-groups)
-
-### [Circulatory system](topics/circulatory-system)
-
-* [Blood cells](topics/blood-cells)
-* [White blood cell (WBC)](topics/white-blood-cell)
-* [Red blood cell (RBC)](topics/red-blood-cell)
-* [Platelet](topics/platelet)
-
-### [Lymphatic system](topics/lymphatic-system)
-
-* [Lymph](topics/lymph)
-* [Lymph node](topics/lymph-node)
-
-### [Limbic system](topics/limbic-system)
-
-* [Limbic system impairment](topics/limbic-system-impairment)
-
 
 <img src="assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="firefighters" style="width: 100%;"/>
 
@@ -94,10 +78,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Myers' Cocktail](topics/myers-cocktail)
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-iv-therapy)
 
-### [Allergy cleaning](topics/allergy-cleaning)
+### [Trigger cleaning](topics/trigger-cleaning)
 
-* [Household sensitivities](topics/household-sensitivities)
-* [Chemical sensitivities](topics/chemical-sensitivities)
+* [Household triggers](topics/household-triggers)
+* [Chemical triggers](topics/chemical-triggers)
+* [Environmental triggers](topics/environmental-triggers)
+* [Food triggers](topics/food-triggers)
 * [Air filters](topics/air-filters)
 * [Water filters](topics/water-filters)
 * [Activated carbon filters](topics/activated-carbon-filters)
@@ -165,7 +151,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B9 = Folate](topics/vitamin-b9-folate)
 * [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
 * [Vitamin C](topics/vitamin-c)
-* [Vitamin C - low-histamine forms](topics/vitamin-c-low-histamine-forms)
+* [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms)
 
 ### Herbal supplements
 
@@ -196,7 +182,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
 * [Wool allergy](topics/wool-allergy)
 * [Textile dermatitis](topics/textile-dermatitis)
-
+* [Hypoallergenic products](topics/hypoallergenic-products)
+  
 ### [Anaphylaxis](topics/anaphylaxis)
 
 * [Symptoms](topics/anaphylaxis-symptoms)
@@ -372,6 +359,23 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
+
+
+### [Circulatory system](topics/circulatory-system)
+
+* [Blood cells](topics/blood-cells)
+* [White blood cell (WBC)](topics/white-blood-cell)
+* [Red blood cell (RBC)](topics/red-blood-cell)
+* [Platelet](topics/platelet)
+
+### [Lymphatic system](topics/lymphatic-system)
+
+* [Lymph](topics/lymph)
+* [Lymph node](topics/lymph-node)
+
+### [Limbic system](topics/limbic-system)
+
+* [Limbic system impairment](topics/limbic-system-impairment)
 
 
 ### [Videos](topics/videos)

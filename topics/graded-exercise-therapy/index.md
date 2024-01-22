@@ -12,7 +12,7 @@ Graded Exercise Therapy (GET) is an approach to managing certain medical conditi
 
 * **Supervised or Self-Guided:** GET can be supervised by a healthcare professional, such as a physiotherapist or occupational therapist, or it can be guided as a self-help program.
 
-* **Pacing:** GET involves finding a balance between activity and rest to prevent overexertion. The focus is on avoiding a boom-and-bust cycle, where individuals may push themselves too hard during periods of increased energy and then experience a crash in symptoms.
+* **Pacing:** GET involves finding a balance between activity and rest to prevent overexertion and a crash in symptoms.
 
 * **Controversy:** GET has been a topic of controversy. Some patients report benefits, while others argue that it can exacerbate symptoms.
 

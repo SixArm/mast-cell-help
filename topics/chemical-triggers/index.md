@@ -1,19 +1,25 @@
-# Chemical sensitivities 
+# Chemical triggers 
 
-Chemical sensitivities refer to adverse reactions triggered by exposure to certain chemicals. Individuals with chemical sensitivities may experience symptoms ranging from mild irritation to severe allergic reactions. Chemical sensitivities can involve sensitivity to various substances, including household products, fragrances, cleaning agents, and industrial chemicals. 
+Chemical triggers refer to adverse reactions triggered by exposure to certain chemicals. Individuals with chemical sensitivities may experience symptoms ranging from mild irritation to severe allergic reactions.
 
-**Key points:**
+**Examples:**
 
-* **Common Triggers:** Chemical allergies can be triggered by a wide range of substances, including fragrances, preservatives, formaldehyde, dyes, cleaning agents, pesticides, latex, and industrial chemicals.
+* **Fragrances:** Perfumes, colognes, scented lotions, air fresheners, and other fragranced products.
 
-* **Symptoms:** Symptoms of chemical allergies can vary and may include skin rashes, itching, redness, hives, nasal congestion, sneezing, coughing, wheezing, headache, dizziness, nausea, fatigue, and in severe cases, anaphylaxis.
- 
-* **Environmental Sensitivities:** Some individuals may develop environmental sensitivities, often referred to as Multiple Chemical Sensitivity (MCS), where they experience adverse reactions to a broad range of chemicals at lower exposure levels than typically tolerated by the general population.
+* **Cleaning Products:** Chemicals in household cleaning products, including surface cleaners, detergents, bleach, and chlorine.
 
-* **Skin Allergies:** Contact dermatitis is a type of skin allergy caused by contact with allergens, including certain chemicals. Common allergens include nickel, preservatives, and fragrances in personal care products.
+* **Outdoor Chemicals:** Pesticides, herbicides, insecticides, insect repellents, and bug sprays.
 
-* **Diagnosis:** Patch testing and other allergy tests may be conducted to identify specific allergens.
+* **Paints, Solvents, Varnishes:** Volatile organic compounds (VOCs) used in construction and home improvement projects can be problematic for some individuals.
 
-* **Management:** The primary management strategy for chemical allergies involves avoiding exposure to the allergens. This may include using fragrance-free and hypoallergenic products, choosing natural cleaning agents, and minimizing exposure to known triggers.
+* **Formaldehyde:** Formaldehyde is a common indoor air pollutant found in certain building materials, furniture, and household products. 
 
-* **Air Quality Considerations:** Individuals with chemical allergies may benefit from improving indoor air quality by using air purifiers with activated carbon filters and maintaining good ventilation. Avoiding smoking and minimizing exposure to indoor pollutants can also contribute to a healthier indoor environment.
+* **Smoke:** Smoke from cigarettes, candles, and fires, contains numerous chemicals and irritants.
+
+* **Personal Care Products:** Certain ingredients in personal care products such as shampoos, conditioners, lotions,  deodorants, toothpaste, and makeup.
+
+* **Mold and Mildew:** Mold and mildew in indoor environments can release spores and mycotoxins.
+
+* **New Furniture and New Carpets:** Newly manufactured furniture and carpets may release VOCs and other chemicals, known as outgasses.
+
+* **Petrochemicals:** Plastics, synthetic materials, synthetic latex, and fuels.

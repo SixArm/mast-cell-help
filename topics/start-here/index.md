@@ -1,62 +1,37 @@
 # Start here
 
-If you're sick, you need help now. Use this page as a checklist of what may help you now, and what may help you get better in the future.
+If you're sick and you need help now, start here. If you're experiencing severe symptoms, or anaphylaxis, then you need immediate emergency medical help. Call an ambulance or go to a hospital.
 
-Try to find out what triggers your symptoms, and what harms you or helps you. Keep track of your foods and beverages, your exposures to allergens and irritants, and your sensations and emotions.
+**Track your triggers:**
 
-**Plan your meals:**
-* [elimination diet]
-* [low-histamine diet]
-* [food diary]
+* [household triggers](//household-triggers)
+* [chemical triggers](//chemical-triggers)
+* [environmental triggers](//environmental-triggers)
+* [food triggers](//food-triggers)
 
-**Know your limits:**
-* [household sensitivities]
-* [chemical sensitivities]
-* [environmental sensitivities]
+**Clean your space:** 
 
-**Clean your home:** 
-* [allergy cleaning]
-* [air filters]
-* [water filters]
-
-**Calm your mind:**
-* [meditation]
-* [self-soothing]
-* [sleep hygiene]
+* [trigger cleaning](//trigger-cleaning)
+* [air filters](//air-filters)
+* [water filters](//water-filters)
 
 **Relax your body:**
-[stress management]
-[polyvagal exercises]
 
-**Boost your nutrition:**
-* [dietary supplements]
-* [nutritional shakes]
+* [stress management](//stress-management)
+* [self-soothing](//self-soothing)
+* [polyvagal exercises](//polyvagal-exercises)
+* [sleep hygiene](//sleep-hygiene)
 
-**Take your vitamins and minerals:** 
-[multivitamin]
-[quercetin]
-[glutathione]
-[diamine oxidase]
-[vitamin C]
-[omega-3]
-[turmeric]
-[calcium]
-[copper]
-[magnesium glycinate]
-[n-acetyl cysteine (NAC)]
-[zinc]
+**Plan your meals:**
 
-**Power your gut:**
-* [prebiotic supplements],
-* [probiotic supplements].
+* [elimination diet](//elimination-diet)
+* [low-histamine diet](//low-histamine-diet)
+* [dietary supplements](//dietary-supplements)
+* [food diary](//food-diary)
 
-**Try natural herbs:** 
-* [berberine]
-* [butterbur]
-* [stinging nettle]
+**Learn more:**
 
-**Learn more:** 
-* [books]
-* [videos]
-* [support groups]
-* [Facebook groups]
+* [books](//books)
+* [videos](//videos)
+* [support groups](//support-groups)
+* [Facebook groups](//facebook-groups)

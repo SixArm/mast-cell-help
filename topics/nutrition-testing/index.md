@@ -12,15 +12,15 @@ Nutrition testing involves assessing an individual's nutritional status to ident
 
 * **Omega-3 Fatty Acid:** Measure omega-3 fatty acids (EPA and DHA) in the blood, which are crucial for cardiovascular and brain health.
 
-* **Amino Acids:** Evaluate the levels of individual amino acids in the blood, providing insights into protein metabolism and potential deficiencies.
+* **Amino Acids:** Evaluate the levels of individual amino acids in the blood, providing insights into protein metabolism.
 
-* **Nutrigenomics:** Analyze genetic variations that may impact nutrient metabolism and utilization, offering personalized dietary recommendations based on genetic factors.
+* **Nutrigenomics:** Analyze genetic variations that may impact nutrient metabolism and nutrient utilization.
 
-* **Food Sensitivities:** Identifies specific foods that may trigger immune responses or sensitivities, helping individuals tailor their diets to avoid potential allergens.
+* **Food Sensitivities:** Identifies specific foods that may trigger immune responses or sensitivities.
 
-* **Body Composition:** Assessments such as Dual-Energy X-ray Absorptiometry (DEXA), bioelectrical impedance analysis (BIA), or skinfold caliper measurements can provide information about body fat percentage, lean muscle mass, and overall body composition.
+* **Body Composition:** Dual-Energy X-ray Absorptiometry (DEXA), bioelectrical impedance analysis (BIA), or skinfold caliper measurements can provide information about body fat percentage, lean muscle mass, and body composition.
 
-* **Micronutrients:** Specialized tests that evaluate levels of various micronutrients in the blood, including vitamins, minerals, and antioxidants.
+* **Micronutrients:** Evaluate levels of various micronutrients in the blood, including vitamins, minerals, and antioxidants.
 
-* **Functional Testing:** Comprehensive functional testing may include assessments of gut health, hormone levels, and metabolic markers to identify underlying factors that could impact nutritional status.
+* **Functional Testing:** Assess gut health, hormone levels, and metabolic markers to identify underlying factors that could impact nutrition.
 

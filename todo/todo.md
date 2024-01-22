@@ -6,6 +6,8 @@ Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia
 
 adrenal fatigue / cortisol deficiency
 
+Xolair
+
 Restless Leg Syndrome
 
 malabsorption

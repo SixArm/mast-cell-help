@@ -1,22 +1,22 @@
-# Allergy cleaning
+# Trigger cleaning
 
-"Allergy cleaning" refers to a set of cleaning practices and measures aimed at reducing or eliminating allergens from the environment, particularly those that commonly trigger allergic reactions in individuals. Allergens can include dust mites, pet dander, pollen, mold spores, and other particles that may contribute to allergy symptoms.
+Trigger cleaning refers to a set of cleaning practices and measures aimed at reducing or eliminating allergens and irritants from the environment. 
 
 **Key points:**
 
-* **Clean Well:** Establish a regular cleaning routine, including dusting, vacuuming, and cleaning surfaces.
+* **Clean Well:** Regularly dust, vacuum, and wipe surfaces. Use hypoallergenic cleaners.
 
-* **Remove Dust:** Dust surfaces frequently using damp cloths or electrostatic dusters. Dampening the cloth helps prevent the dispersion of dust into the air.
+* **Remove Dust:** Use damp cloths or electrostatic dusters. Dampening the cloth helps prevent the dispersion of dust into the air.
 
-* **Vacuum:** Use a vacuum cleaner equipped with a high-efficiency particulate air (HEPA) filter to trap small particles, including allergens.
+* **Vacuum:** Ideally use a vacuum cleaner with a HEPA filter to trap small particles, including allergens.
 
-* **Wash Linens:** Wash all linens, bedding, pillowcases, and curtains regularly in hot water to kill dust mites. 
+* **Wash Linens:** Wash all linens, bedding, pillowcases, and curtains regularly in hot water and hypoallergenic detergent to kill dust mites. 
  
 * **Protect Beds:** Consider using allergen-proof mattress and pillow covers to reduce exposure to dust mites and their allergens.
 
-* **Use Purifiers:** Install air purifiers with HEPA filters to capture airborne allergens. Air purifiers can be particularly beneficial in bedrooms and other commonly occupied spaces. Keep windows closed during high pollen seasons to prevent outdoor allergens from entering the indoor environment.
+* **Use Purifiers:** Install air purifiers with HEPA filters to capture airborne allergens. Keep windows closed when outdoor air is high in triggers.
 
-* **Pet Allergens:** If you have pets, groom them regularly to reduce shedding. Consider using allergen-reducing pet shampoos. Designate pet-free zones in the home, especially in bedrooms.
+* **Pet Allergens:** Groom pets often to reduce shedding. Use allergen-reducing pet shampoos. Designate pet-free zones in the home, especially in bedrooms.
 
 * **Prevent Mold:** Address moisture issues promptly to prevent mold growth. Use dehumidifiers in damp areas and ensure proper ventilation. Clean and remove visible mold using appropriate cleaning solutions.
 

@@ -4,7 +4,7 @@ Histamine is a biologically active compound that acts as a neurotransmitter and 
 
 Histamine receptors are found throughout the body, and their activation can have various effects. The different effects depend on the type of histamine receptor and its location in the body.
 
-**Key aspects:**
+**Key points:**
 
 * **Allergic Response:** Histamine is a central mediator in the body's response to allergens. When allergens come into contact with mast cells, these cells release histamine. Histamine then causes a cascade of reactions that lead to the typical symptoms of allergies.
 

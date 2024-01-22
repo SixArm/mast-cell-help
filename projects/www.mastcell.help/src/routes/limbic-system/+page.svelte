@@ -6,7 +6,7 @@
 
 <h1 id="limbic-system">Limbic system</h1>
 <p>The limbic system is a complex network of structures in the brain that plays a central role in regulating emotions, motivation, learning, and memory. It is sometimes referred to as the “emotional brain” or the “emotional center” of the brain.</p>
-<p><strong>Key components:</strong></p>
+<p><strong>Key aspects:</strong></p>
 <ul>
 <li><p><strong>Amygdala:</strong> This is a small almond-shaped structure deep within the brain. It is critical for processing and regulating emotions, particularly fear and the formation of emotional memories. The amygdala is involved in the body’s fight-or-flight response and can trigger fear and anxiety.</p></li>
 <li><p><strong>Hippocampus:</strong> This is essential for the formation of new memories and plays a role in spatial navigation. It helps consolidate information from short-term memory to long-term memory.</p></li>

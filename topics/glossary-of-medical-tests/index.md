@@ -1,14 +1,14 @@
-## Glossary of medical tests
+# Glossary of medical tests
 
 **Blood work**:
 
-* **CBC:** complete blood count (a type of blood test)
+* **CBC:** complete blood count
 
-* **FBC:** full blood count (a type of blood test)
+* **FBC:** full blood count
 
 **Common tests:**
 
-* **LFT:** liver function test (a type of blood test measuring enzymes and proteins in your liver)
+* **LFT:** liver function test
 
 * **ECG:** electrocardiogram
 
@@ -32,7 +32,7 @@
 
 * **BP:**  blood pressure
 
-* **CRP:** [C-reactive protein (CRP)](topics/c-reactive-protein) blood test marker of inflammation
+* **CRP:** [C-reactive protein (CRP)](./c-reactive-protein) blood test marker of inflammation
 
 * **Hb:** hemoglobin (a substance in red blood cells that moves oxygen around the body)
 
@@ -40,7 +40,7 @@
 
 * **WBC:** white blood cell
 
-* **LDL:** low-density lipoprotein (a "bad" type of cholesterol)
+* **LDL:** low-density lipoprotein (a.k.a. bad cholesterol)
 
-* **HDL:** high-density lipoprotein (a "good" type of cholesterol)
+* **HDL:** high-density lipoprotein (a.k.a. good cholesterol)
 

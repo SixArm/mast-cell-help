@@ -2,7 +2,7 @@
 
 Textile dermatitis, also known as allergic contact dermatitis from textiles, is a type of skin irritation or inflammation that occurs as a result of direct contact with certain fabrics or materials. It is a form of contact dermatitis, which is a localized skin reaction caused by exposure to an allergen or irritant.
 
-**Key aspects:**
+**Key points:**
 
 * **Chemical causes:** Textile dermatitis can be caused by substances present in fabrics, including dyes, finishing agents, flame retardants, waterproofing treatments, formaldehyde resins, and other chemicals.
 

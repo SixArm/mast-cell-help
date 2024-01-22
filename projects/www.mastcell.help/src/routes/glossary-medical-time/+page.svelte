@@ -4,7 +4,7 @@
 
 <div class="prose">
 
-<h1 id="glossary-of-mmedical-time">Glossary of medical time</h1>
+<h1 id="glossary-of-medical-time">Glossary of medical time</h1>
 <p><strong>When to do treatments:</strong></p>
 <ul>
 <li><strong>ac:</strong> “ante cibum” means before meals</li>

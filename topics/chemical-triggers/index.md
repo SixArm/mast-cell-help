@@ -1,6 +1,7 @@
 # Chemical triggers 
 
-Chemical triggers refer to adverse reactions triggered by exposure to certain chemicals. Individuals with chemical sensitivities may experience symptoms ranging from mild irritation to severe allergic reactions.
+Chemical triggers refer to adverse reactions triggered by exposure to certain chemicals. 
+Symptoms can range from mild irritation to severe allergic reactions.
 
 **Examples:**
 
@@ -12,7 +13,7 @@ Chemical triggers refer to adverse reactions triggered by exposure to certain ch
 
 * **Paints, Solvents, Varnishes:** Volatile organic compounds (VOCs) used in construction and home improvement projects can be problematic for some individuals.
 
-* **Formaldehyde:** Formaldehyde is a common indoor air pollutant found in certain building materials, furniture, and household products. 
+* **Formaldehyde:** Formaldehyde is an indoor air pollutant found in building materials, furniture, and household products. 
 
 * **Smoke:** Smoke from cigarettes, candles, and fires, contains numerous chemicals and irritants.
 
@@ -20,6 +21,6 @@ Chemical triggers refer to adverse reactions triggered by exposure to certain ch
 
 * **Mold and Mildew:** Mold and mildew in indoor environments can release spores and mycotoxins.
 
-* **New Furniture and New Carpets:** Newly manufactured furniture and carpets may release VOCs and other chemicals, known as outgasses.
+* **New Furniture and New Carpets:** New furniture and carpets may release VOCs and other chemicals, known as outgasses.
 
-* **Petrochemicals:** Plastics, synthetic materials, synthetic latex, and fuels.
+* **Petrochemicals:** Plastics, synthetic materials, latex, and fuels.

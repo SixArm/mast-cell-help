@@ -2,7 +2,7 @@
 
 Ehlers-Danlos syndrome (EDS) is a group of rare genetic connective tissue disorders that affect the body's collagen, which is a key component of the connective tissues supporting the skin, bones, blood vessels, and organs. EDS results in a range of symptoms and can vary in severity from person to person.
 
-**Key aspects:**
+**Key points:**
 
 * **Symptoms:** Common symptoms may include joint hypermobility, joint dislocations, chronic pain, skin problems (such as hyperelasticity, easy bruising, and poor wound healing), and various complications related to connective tissue weaknesses. Some forms of EDS, especially the vascular type, can be life-threatening due to the risk of organ and blood vessel ruptures.
 

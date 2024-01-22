@@ -2,11 +2,11 @@
 
 Sjögren's syndrome is a chronic autoimmune condition characterized by inflammation of the glands that produce moisture, such as the salivary and lacrimal glands. The primary symptoms involve dryness of the eyes and mouth, but the condition can also affect other parts of the body.
 
-**Key features:**
+**Key points:**
 
-* **Dry Eyes:** Individuals with Sjögren's syndrome often experience dry eyes, which can lead to a gritty or burning sensation. There may also be an increased sensitivity to light.
+* **Dry Eyes:** Individuals with Sjögren's syndrome often experience dry eyes, which can lead to a gritty or burning sensation, and increased light sensitivity.
 
-* **Dry Mouth:** Reduced saliva production can result in a dry or sticky feeling in the mouth. This can contribute to difficulties in swallowing and an increased risk of dental issues.
+* **Dry Mouth:** Reduced saliva production can result in a dry or sticky mouth. This can cause difficulties swallowing and dental issues.
 
 * **Other Symptoms:** Joint pain and stiffness, fatigue, dry skin, skin rashes, persistent cough, vaginal dryness.
 
@@ -14,6 +14,6 @@ Sjögren's syndrome is a chronic autoimmune condition characterized by inflammat
 
 * **Autoimmune Nature:** Sjögren's syndrome is an autoimmune disorder where the immune system mistakenly attacks and damages healthy tissues. It is often associated with other autoimmune conditions such as rheumatoid arthritis and lupus.
 
-Diagnosis of Sjögren's syndrome involves a combination of clinical evaluation, blood tests, and specialized tests to assess saliva and tear production. There is no cure for Sjögren's syndrome, but treatment focuses on. This may include:
+* **Diagnosis:** This uses combination of clinical evaluation, blood tests, and specialized tests to assess saliva and tear production.
 
-* **Treatment:** Treatment focuses on managing symptoms and preventing complications. Artificial tears and lubricating eye drops are to relieve dry eyes. Saliva substitutes are for dry mouth. Medications can stimulate saliva and tear production. *Immunosuppressive drugs can help modulate severe immune responses.
+* **Treatment:** Artificial tears and lubricating eye drops are to relieve dry eyes. Saliva substitutes are for dry mouth. Medications can stimulate saliva and tear production. Immunosuppressive drugs can help modulate severe immune responses.

@@ -2,7 +2,7 @@
 
 Vitamin B3, also known as niacin or nicotinic acid, is one of the water-soluble B-vitamins. Niacin is involved in several important functions, including energy production, DNA repair, and the maintenance of healthy skin and nervous system.
 
-**Key aspects:**
+**Key points:**
 
 * **Energy Metabolism:** Niacin is a key component of the coenzymes NAD (nicotinamide adenine dinucleotide) and NADP (nicotinamide adenine dinucleotide phosphate). These coenzymes play a vital role in converting carbohydrates, fats, and proteins into energy.
 

@@ -4,7 +4,7 @@ The carnivore diet is a type of diet that emphasizes the consumption of animal p
 
 Proponents of the carnivore diet suggest potential benefits such as improved energy levels, weight loss, and relief from certain health issues.
 
-**Key features:**
+**Key points:**
 
 * **Eat Animal Products:** Focus on consumption of animal products, including red meat, poultry, fish, eggs, and dairy (if tolerated).
 

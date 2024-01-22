@@ -2,7 +2,7 @@
 
 Vitamin B6, also known as pyridoxine, is one of the water-soluble B-vitamins. Pyridoxine is required for the metabolism of amino acids, carbohydrates, and fats. It also contributes to the synthesis of neurotransmitters and helps in maintaining a healthy immune system.
 
-**Key aspects:**
+**Key points:**
 
 * **Amino Acid Metabolism:** Pyridoxine is crucial for the metabolism of amino acids, the building blocks of proteins. It helps convert one amino acid into another and plays a role in the synthesis of nonessential amino acids.
 

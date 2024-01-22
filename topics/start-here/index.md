@@ -4,34 +4,28 @@ If you're sick and you need help now, start here. If you're experiencing severe 
 
 **Track your triggers:**
 
-* [household triggers](//household-triggers)
-* [chemical triggers](//chemical-triggers)
-* [environmental triggers](//environmental-triggers)
-* [food triggers](//food-triggers)
+* [Household triggers](./household-triggers)
+* [Chemical triggers](./chemical-triggers)
+* [Environmental triggers](./environmental-triggers)
+* [Food triggers](./food-triggers)
 
 **Clean your space:** 
 
-* [trigger cleaning](//trigger-cleaning)
-* [air filters](//air-filters)
-* [water filters](//water-filters)
+* [Trigger cleaning](./trigger-cleaning)
+* [Air filters](./air-filters)
+* [Water filters](./water-filters)
 
 **Relax your body:**
 
-* [stress management](//stress-management)
-* [self-soothing](//self-soothing)
-* [polyvagal exercises](//polyvagal-exercises)
-* [sleep hygiene](//sleep-hygiene)
-
-**Plan your meals:**
-
-* [elimination diet](//elimination-diet)
-* [low-histamine diet](//low-histamine-diet)
-* [dietary supplements](//dietary-supplements)
-* [food diary](//food-diary)
+* [Stress management](./stress-management)
+* [Self-soothing](./self-soothing)
+* [Polyvagal exercises](./polyvagal-exercises)
+* [Limbic system retraining](./limbic-system-retraining)
+* [Sleep hygiene](./sleep-hygiene)
 
 **Learn more:**
 
-* [books](//books)
-* [videos](//videos)
-* [support groups](//support-groups)
-* [Facebook groups](//facebook-groups)
+* [Books](./books)
+* [Videos](./videos)
+* [Support groups](./support-groups)
+* [Facebook groups](./facebook-groups)

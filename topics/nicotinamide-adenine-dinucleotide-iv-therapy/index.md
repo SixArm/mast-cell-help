@@ -12,6 +12,4 @@ Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy supplies an in
 
 * **Addiction Treatment Claims:** NAD+ IV therapy has been used in some addiction treatment centers as part of detoxification protocols, particularly for individuals recovering from substance use disorders.
 
-**Administration:** NAD+ IV therapy involves the intravenous infusion of NAD+. The duration and frequency of infusions can vary, and the therapy should be administered under the supervision of qualified healthcare professionals.
-
 * **Safety Considerations:** The safety profile of NAD+ IV therapy is not fully understood, and potential side effects or long-term effects are areas of ongoing research.

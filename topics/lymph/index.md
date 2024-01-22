@@ -4,7 +4,7 @@ Lymph is a colorless fluid that circulates in the body, to maintain tissue healt
 
 When the body fights an infection or deals with inflammation, the lymphatic system can become more active, resulting in symptoms like swollen lymph nodes and increased production of lymphocytes to combat the infection.
 
-**Key aspects:**
+**Key points:**
 
 * **Fluid Balance:** Lymph helps regulate the balance of fluids in the body by collecting excess fluid, proteins, and waste products that have leaked from blood vessels and surrounding tissues. This excess fluid is returned to the bloodstream.
 

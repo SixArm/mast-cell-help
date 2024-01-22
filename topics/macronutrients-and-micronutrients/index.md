@@ -11,7 +11,7 @@ Macronutrients are required by the body in relatively large amounts, to provide 
 
 * **Fats:** Fats are a concentrated source of energy and are important for hormone production, cell structure, and nutrient absorption. Sources: oils, butter, avocados, nuts, seeds, fatty fish, and certain dairy products.
 
-* **Micronutrient types**:
+**Micronutrient types**:
 
 * **Vitamins:** Vitamins are organic compounds that support various physiological processes. They are crucial for metabolism, immune function, and other biochemical reactions. Examples: vitamin A, vitamin C, vitamin D, vitamin E, and the B-vitamins (such as B1, B2, B6, B12).
 

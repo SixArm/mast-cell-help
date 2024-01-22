@@ -2,7 +2,7 @@
 
 Bradycardia means an abnormally slow heart rate, typically a resting heart rate of less than 60 beats per minute (BPM) in adults.
 
-**Key aspects:**
+**Key points:**
 
 * **Normal Physiological Variations:** A heart rate below 60 BPM may be normal, especially in well-trained athletes, or during deep sleep, or older people.
 

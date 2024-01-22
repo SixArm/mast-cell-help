@@ -4,7 +4,7 @@ Dynamic Neural Retraining System (DNRS) is a neuroplasticity-based therapy progr
 
 The program is based on the concept of neuroplasticity, which is the brain's ability to rewire itself in response to learning and experience. The scientific evidence supporting DNRS is limited, and more research is needed to validate its effectiveness.
 
-**Key aspects:**
+**Key points:**
 
 * **Understanding Limbic System Dysfunction:** DNRS is centered around the idea that chronic health conditions can be influenced by a malfunctioning limbic system. The limbic system is a part of the brain responsible for processing emotions, memories, and the body's response to stress.
 

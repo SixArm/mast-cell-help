@@ -6,11 +6,13 @@ If you're sick, you need help now. Use this page a starter checklist of what may
 [SHINE protocol],
 [Shoemaker Biotoxin Illness Protocol].
 
-**Do differential diagnosis:** 
+**Do diagnoses:** 
 [anaphylaxis],
 [histamine intolerance (HI)],
 [allergies],
+[contact allergic dermatitis],
 [asthma],
+[dysautonomia],
 [Lyme disease],
 [mastocytosis],
 [mold exposure],
@@ -23,6 +25,7 @@ If you're sick, you need help now. Use this page a starter checklist of what may
 [allergy testing],
 [histamine testing],
 [nutrition testing],
+[microbiome testing],
 [serum tryptase testing],
 [complement C4-A blood testing],
 [mast cell tryptase stimulation testing],
@@ -39,18 +42,23 @@ If you're sick, you need help now. Use this page a starter checklist of what may
 [bronchodilators],
 [corticosteroids],
 [low-dose naltrexone (LDN)],
-[cromolyn sodium].
+[cromolyn sodium],
+[Myers' Cocktail],
+[Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy].
 
-**Think outside of the box:** 
+**Consider more modalities:** 
 [alternative therapies],
 [functional medicine],
 [integrative medicine],
 [complementary and alternative medicine (CAM)],
 [Traditional Chinese Medicine (TCM)],
 [acupuncture], 
-[cupping],
+[cupping].
+
+**Think outside the box:** 
 [Somatic Experiencing (SE)],
 [Cognitive-Behavioral Therapy (CBT)],
-[Dynamic Neural Retraining System (DNRS)],
-[Myers' Cocktail],
-[Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy].
+[Limbic system retraining],
+[Gupta brain retraining],
+[Dynamic Neural Retraining System (DNRS)].
+[Polyvagal Theory].

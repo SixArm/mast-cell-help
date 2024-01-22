@@ -2,7 +2,7 @@
 
 Vitamin B7, also known as biotin, is a water-soluble vitamin that plays a crucial role in various metabolic functions within the body. Biotin is essential for the metabolism of fats, carbohydrates, and proteins. It also plays a role in maintaining healthy hair, skin, and nails.
 
-**Key aspects:**
+**Key points:**
 
 * **Metabolism:** Biotin serves as a coenzyme in several carboxylation reactions that are involved in the metabolism of fats, carbohydrates, and certain amino acids. It assists enzymes in breaking down substances for energy production.
 

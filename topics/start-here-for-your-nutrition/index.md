@@ -1,32 +1,41 @@
 # Start here for your nutrition
 
+
+**Track your intake:**
+
+* [Food diary](./food-diary)
+* [Elimination diet](./elimination-diet)
+* [Elemental diet](./elemental-diet)
+
 **Boost your nutrition:**
 
-* [dietary supplements](//dietary-supplements)
-* [nutritional shakes](//nutritional-shakes)
+* [Dietary supplements](./dietary-supplements)
+* [Macronutrients and micronutrients](macronutrients-and-micronutrients/)
+* [Nutritional shakes](./nutritional-shakes)
+* [Electrolytes](./electrolytes)
 
 **Take your vitamins and minerals:** 
 
-* [multivitamin](//multivitamin)
-* [quercetin](//quercetin)
-* [glutathione](//glutathione)
-* [diamine oxidase](//diamine oxidase)
-* [vitamin C low-histamine forms](//vitamin-c-low-histamine forms)
-* [omega-3](//omega-3)
-* [turmeric](//turmeric)
-* [calcium](//calcium)
-* [copper](//copper)
-* [magnesium glycinate](//magnesium-glycinate)
-* [n-acetyl cysteine (NAC)](//n-acetyl-cysteine)
-* [zinc](//zinc)
+* [Multivitamin](./multivitamin)
+* [Quercetin](./quercetin)
+* [Glutathione](./glutathione)
+* [Diamine oxidase](./diamine-oxidase)
+* [Vitamin C low-histamine forms](./vitamin-c-low-histamine-forms)
+* [Omega-3](./omega-3)
+* [Turmeric](./turmeric)
+* [Calcium](./calcium)
+* [Copper](./copper)
+* [Magnesium glycinate](./magnesium-glycinate)
+* [N-acetyl cysteine (NAC)](./n-acetyl-cysteine)
+* [Zinc](./zinc)
 
 **Power your gut:**
 
-* [prebiotic supplements](//prebiotic-supplements)
-* [probiotic supplements](//probiotic-supplements)
+* [Prebiotic supplements](./prebiotic-supplements)
+* [Probiotic supplements](./probiotic-supplements)
 
 **Try natural herbs:** 
 
-* [berberine](//berberine)
-* [butterbur](//butterbur)
-* [stinging nettle](//stinging-nettle)
+* [Berberine](./berberine)
+* [Butterbur](./butterbur)
+* [Stinging nettle](./stinging-nettle)

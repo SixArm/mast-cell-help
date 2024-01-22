@@ -2,7 +2,7 @@
 
 Vitamin B5, also known as pantothenic acid, is a water-soluble B-vitamin that is essential for various bodily functions. Pantothenic acid is a key component of coenzyme A (CoA), which plays a critical role in many metabolic processes.
 
-**Key aspects:**
+**Key points:**
 
 * **Energy Metabolism:** Pantothenic acid is a crucial component of coenzyme A (CoA), which is involved in the conversion of carbohydrates, fats, and proteins into energy. CoA is also necessary for the synthesis of fatty acids, which are used for energy storage and other cellular processes.
 

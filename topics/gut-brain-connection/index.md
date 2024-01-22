@@ -4,7 +4,7 @@ The gut-brain connection refers to the bidirectional interaction between the gas
 
 Gut problems are implicated in mental health conditions such as stress and depression. Mental problems are implicated in gut health conditions such as stomachaches and bloating.
 
-**Key aspects:**
+**Key points:**
 
 * **Enteric Nervous System (ENS):** The ENS, often referred to as the "second brain," is a complex network of neurons that lines the GI tract. It plays a crucial role in controlling digestive functions.
 

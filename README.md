@@ -73,7 +73,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Somatic Experiencing (SE)](topics/somatic-experiencing)
 * [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy)
 * [Gut-brain connection](topics/gut-brain-connection)
-* [Food diary](topics/food-diary)
 * [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
 * [Myers' Cocktail](topics/myers-cocktail)
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-iv-therapy)
@@ -84,6 +83,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Chemical triggers](topics/chemical-triggers)
 * [Environmental triggers](topics/environmental-triggers)
 * [Food triggers](topics/food-triggers)
+* [Allergens, irritants, toxins](topics/allergens-irritants/toxins)
 * [Air filters](topics/air-filters)
 * [Water filters](topics/water-filters)
 * [Activated carbon filters](topics/activated-carbon-filters)
@@ -97,16 +97,25 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Sleep hygiene](topics/sleep-hygiene)
 * [SHINE protocol](topics/shine-protocol)
 * [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy)
-* [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
 * [Buteyko breathing method](topics/buteyko-breathing-method)
 * [Vagus nerve reset](topics/vagus-nerve-reset)
 * [Polyvagal theory](topics/polyvagal-theory)
 * [Polyvagal exercises](topics/polyvagal-exercises)
 
+### [Limbic system retraining](topics/limbic-system-retraining)
+
+* [Gupta Brain Retraining](topics/gupta-brain-retraining/)
+* [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
+
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
-### [Elimination diet](topics/elimination-diet)
+### [Food diary](topics/food-diary)
 
+* [Elimination diet](topics/elimination-diet)
+* [Elemental diet](topics/elemental-diet)
+* [Ketogenic diet](topics/ketogenic-diet)
+* [Carnivore diet](topics/carnivore-diet)
+* [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet)
 * [Low-histamine diet](topics/low-histamine-diet)
 * [Low-allergen diet](topics/low-allergen-diet)
 * [Low-amylose diet](topics/low-amylose-diet)
@@ -121,11 +130,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Dietary supplements](topics/dietary-supplements)
 
 * [Considerations](topics/dietary-supplements-considerations)
-* [Prebiotic supplements](topics/prebiotic-supplements)
-* [Probiotic supplements](topics/probiotic-supplements)
 * [Electrolytes](topics/electrolytes)
+* [Macronutrients and micronutrients](topics/macronutrients-and-micronutrients/)
 * [Nutritional shakes](topics/nutritional-shakes)
 * [Neocate Splash](topics/neocate-splash)
+* [Prebiotic supplements](topics/prebiotic-supplements)
+* [Probiotic supplements](topics/probiotic-supplements)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
 * [Omega-3](topics/omega-3)
 * [Quercetin](topics/quercetin)
@@ -162,9 +172,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
 
-
 ## Conditions
-
 
 ### [Histamine intolerance (HI)](topics/histamine-intolerance)
 
@@ -258,11 +266,21 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Scar tissue adhesions](topics/scar-tissue-adhesions)
 
+### [Sjögren's syndrome](topics/sjögrens-syndrome)
+
 ### [Sulfur intolerance](topics/sulfur-intolerance)
 
 ### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans)
 
 ### [Toxin exposure](topics/toxin-exposure)
+
+## Components
+
+### [α-melanocyte stimulating hormone (α-MSH)](topics/α-melanocyte-stimulating-hormone)
+
+### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors)
+
+### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine)
 
 
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
@@ -299,6 +317,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Mast cell tryptase stimulation testing](topics/mast-cell-tryptase-stimulation-testing)
 * [Nasal swab](topics/nasal-swab)
 * [Nutrition testing](topics/nutrition-testing)
+* [Microbiome testing](topics/microbiome-testing)
 * [N-methylhistamine testing](topics/n-methylhistamine-testing)
 * [Prostaglandin D2 (PGD2) testing](topics/prostaglandin-d2-pgd2-testing)
 * [Serum tryptase testing](topics/serum-tryptase-testing)
@@ -348,8 +367,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Immunotherapy](topics/immunotherapy)
 
-### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors)
-
 ### [Mast cell genetics](topics/mast-cell-genetics)
 
 * [Genetic mutation](topics/genetic-mutation)
@@ -377,7 +394,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Limbic system impairment](topics/limbic-system-impairment)
 
-
 ### [Videos](topics/videos)
 
 * [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan)
@@ -396,11 +412,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker)
 
 
-### [Glossary](topics/glossary/)
+### [Glossary](topics/glossary)
 
-* [Glossary of medical roles](topics/glossary-of-mmedical-roles)
-* [Glossary of medical times](topics/glossary-of-mmedical-times)
-* [Glossary of medical tests](topics/glossary-of-mmedical-tests)
+* [Glossary of medical roles](topics/glossary-of-medical-roles)
+* [Glossary of medical times](topics/glossary-of-medical-times)
+* [Glossary of medical tests](topics/glossary-of-medical-tests)
 * [Glossary of units of measurement](topics/glossary-of-munits-of-measurement)
 
 

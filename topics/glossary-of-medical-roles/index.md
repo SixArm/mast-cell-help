@@ -4,9 +4,9 @@
 
 * **MD:** Medical Doctor. Focus is allopathic western medicine.
 
-* **DO:** Doctor of Osteopathy. Focus is holistic wellness and musculoskeletal areas.
+* **DO:** Doctor of Osteopathy. Focus is holistic wellness.
 
-* **ND:** Naturopathic Doctor. Focus is natural remedies to help the body heal itself.
+* **ND:** Naturopathic Doctor. Focus is natural remedies.
 
 **Doctor roles:**
 
@@ -25,10 +25,6 @@
 * **FNP:** Family Nurse Practitioner.
 
 * **ANP:** Adult Nurse Practitioner.
-
-* **GNP:** Geriatric Nurse Practitioner.
-
-* **AGACNP:** Adult-Gerontology Acute Care Nurse Practitioner.
 
 * **PNP:** Psychiatric Nurse Practitioner.
 

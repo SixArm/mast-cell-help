@@ -4,7 +4,7 @@
 
 <div class="prose">
 
-<h1 id="glossary-of-mmedical-terminology">Glossary of medical terminology</h1>
+<h1 id="glossary-of-medical-terminology">Glossary of medical terminology</h1>
 <p><strong>Medical chart notation:</strong></p>
 <ul>
 <li><p><strong>CC:</strong> chief complaint</p></li>

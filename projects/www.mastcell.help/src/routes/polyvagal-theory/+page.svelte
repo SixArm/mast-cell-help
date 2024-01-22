@@ -6,7 +6,7 @@
 
 <h1 id="polyvagal-theory">Polyvagal Theory</h1>
 <p>The Polyvagal Theory explores the functioning of the vagus nerve and autonomic nervous system (ANS), and their roles in social behavior, emotional regulation, and stress responses. The Polyvagal Theory is influential in the fields of psychology, psychiatry, and trauma therapy.</p>
-<p><strong>Key components:</strong></p>
+<p><strong>Key aspects:</strong></p>
 <ul>
 <li><p><strong>Fight-Flight and Freeze Responses:</strong> The Polyvagal Theory describes how the autonomic nervous system influences responses to stress and danger. It suggests that the more primitive “shutdown” response (immobilization) evolved before the “fight-or-flight” response.</p></li>
 <li><p><strong>Role in Emotional Regulation:</strong> The theory posits that the vagus nerve plays a crucial role in emotional regulation. The ability to engage with others, feel safe, and form social bonds is associated with the functioning of the Smart Vagus.</p></li>

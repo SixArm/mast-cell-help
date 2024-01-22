@@ -4,7 +4,7 @@
 
 <div class="prose">
 
-<h1 id="glossary-of-mmedical-role-titles">Glossary of medical role titles</h1>
+<h1 id="glossary-of-medical-role-titles">Glossary of medical role titles</h1>
 <p><strong>Doctor physician titles:</strong></p>
 <ul>
 <li><p><strong>MD:</strong> Medical Doctor. Focus is allopathic western medicine.</p></li>

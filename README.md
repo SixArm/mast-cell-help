@@ -19,15 +19,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Start here](topics/start-here)
 
+* [Start here for over-the-counter treatments](topics/start-here-for-over-the-counter-treatments)
 * [Start here for your nutrition](topics/start-here-for-your-nutrition)
-* [Start here with your doctors](topics/start-here-with-your-doctors)
+* [Start here for your doctors](topics/start-here-for-your-doctors)
 
 ### [What are mast cells?](topics/what-are-mast-cells)
 
 * [Where are mast cells?](topics/where-are-mast-cells)
 * [What doctors and providers can help?](topics/what-doctors-and-providers-can-help)
 * [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider)
-* [Multisystem disease](topics/multisystem-disease)
 * [Support groups](topics/support-groups)
 * [Facebook groups](topics/facebook-groups)
 
@@ -248,7 +248,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Leaky gut](topics/leaky-gut)
 
-### [Lyme disease](topics/lyme-disease)
+### [Lyme disease with Borrelia, Bartonella, Babesia](topics/lyme-disease-with-borrelia-bartonella-babesia/)
+
+* [Lyme disease](topics/lyme-disease)
+* [Bartonella](topics/bartonella)
+
 
 ### [Mastocytosis](topics/mastocytosis)
 
@@ -262,6 +266,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
+
+### [Multisystem disease](topics/multisystem-disease)
 
 ### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome)
 
@@ -288,10 +294,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors)
 
 ### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine)
-
-### [Vasoactive Intestinal Polypeptide (VIP)](topics/vasoactive-intestinal-peptide)
-
-### [Bartonella](topics/bartonella)
 
 
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
@@ -377,7 +379,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Cromolyn sodium](topics/cromolyn-sodium)
 
+### [Famotidine](topics/famotidine)
+
 ### [Immunotherapy](topics/immunotherapy)
+
+### [Levocetirizine](topics/levocetirizine)
 
 ### [Mast cell genetics](topics/mast-cell-genetics)
 

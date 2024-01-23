@@ -18,6 +18,7 @@ If you're sick, you need help now. Use this page a starter checklist of what may
 [mold exposure],
 [multisystem inflammatory syndrome (MIS)],
 [toxin exposure],
+[Lyme, Borrelia, Bartonella, Babesia],
 [rheumatoid arthritis (RA)],
 [scar tissue adhesions].
 

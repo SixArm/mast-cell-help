@@ -72,10 +72,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Meditation](topics/meditation)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing)
 * [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy)
-* [Gut-brain connection](topics/gut-brain-connection)
+* [Ketamine therapy](topics/ketamine-therapy)
 * [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
 * [Myers' Cocktail](topics/myers-cocktail)
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-iv-therapy)
+* [Gut-brain connection](topics/gut-brain-connection)
+* [Fecal microbiota transplantation (FMT)](fecal-microbiota-transplantation)
 
 ### [Trigger cleaning](topics/trigger-cleaning)
 
@@ -124,6 +126,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Low-FODMAP diet](topics/low-fodmap-diet)
 * [Low-salicylate diet](topics/low-salicylate-diet)
 * [Low-sodium diet](topics/low-sodium-diet)
+* [Intermittent fasting (IF)](topics/intermittent-fasting)
 
 <img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
 
@@ -215,6 +218,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Treatments](topics/asthma-treatments)
 * [Lifestyle management](topics/asthma-lifestyle-management)
 
+### [Bartonellosis](topics/bartonellosis)
+
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
 
 ### [Chronic Inflammatory Response Syndrome (CIRS)](chronic-inflammatory-response-syndrome)
@@ -226,6 +231,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Diverticulosis](topics/diverticulosis)
 
 ### [Dysautonomia](topics/dysautonomia)
+
+### [Dysbiosis](topics/dysbiosis)
 
 ### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome)
 
@@ -282,6 +289,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine)
 
+### [Vasoactive Intestinal Polypeptide (VIP)](topics/vasoactive-intestinal-peptide)
+
+### [Bartonella](topics/bartonella)
+
 
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
@@ -313,14 +324,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Allergy testing](topics/allergy-testing)
 * [Histamine testing](topics/histamine-testing)
-* [Complement C4-A blood testing](topics/complement-c4-a-blood-testing)
-* [Mast cell tryptase stimulation testing](topics/mast-cell-tryptase-stimulation-testing)
+* [Complement C4-A blood test](topics/complement-c4-a-blood-test)
+* [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test)
 * [Nasal swab](topics/nasal-swab)
 * [Nutrition testing](topics/nutrition-testing)
 * [Microbiome testing](topics/microbiome-testing)
-* [N-methylhistamine testing](topics/n-methylhistamine-testing)
-* [Prostaglandin D2 (PGD2) testing](topics/prostaglandin-d2-pgd2-testing)
-* [Serum tryptase testing](topics/serum-tryptase-testing)
+* [Genetic Environmental Illness (GENIE) test](genetic-environmental-illness-test)
+* [N-methylhistamine test](topics/n-methylhistamine-test)
+* [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-pgd2-test)
+* [Serum tryptase test](topics/serum-tryptase-test)
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics)
@@ -393,6 +405,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Limbic system](topics/limbic-system)
 
 * [Limbic system impairment](topics/limbic-system-impairment)
+
+### [Microbiota](topics/microbiota)
 
 ### [Videos](topics/videos)
 

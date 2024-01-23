@@ -5,7 +5,7 @@
 
 * [Food diary](./food-diary)
 * [Elimination diet](./elimination-diet)
-* [Elemental diet](./elemental-diet)
+* [Intermittent fasting (IF)](topics/intermittent-fasting)
 
 **Boost your nutrition:**
 

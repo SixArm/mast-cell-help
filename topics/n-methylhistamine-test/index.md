@@ -1,6 +1,6 @@
-# N-methylhistamine testing
+# N-methylhistamine test
 
-N-methylhistamine testing is a diagnostic tool used to measure the levels of N-methylhistamine in urine or blood. N-methylhistamine is a metabolite of histamine, a chemical released by mast cells during allergic and inflammatory responses. Elevated levels of N-methylhistamine may indicate increased histamine activity in the body, which can be associated with conditions such as mastocytosis or mast cell activation syndrome (MCAS).
+The N-methylhistamine test is a diagnostic tool used to measure the levels of N-methylhistamine in urine or blood. N-methylhistamine is a metabolite of histamine, a chemical released by mast cells during allergic and inflammatory responses. Elevated levels of N-methylhistamine may indicate increased histamine activity in the body, which can be associated with conditions such as mastocytosis or mast cell activation syndrome (MCAS).
 
 **Overview:**
 

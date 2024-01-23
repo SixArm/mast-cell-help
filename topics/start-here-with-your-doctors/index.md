@@ -52,13 +52,15 @@ If you're sick, you need help now. Use this page a starter checklist of what may
 [integrative medicine],
 [complementary and alternative medicine (CAM)],
 [Traditional Chinese Medicine (TCM)],
-[acupuncture], 
-[cupping].
+[acupuncture],
+[cupping],
+[ketamine therapy],
+[Fecal microbiota transplantation (FMT)](fecal-microbiota-transplantation).
 
 **Think outside the box:** 
 [Somatic Experiencing (SE)],
 [Cognitive-Behavioral Therapy (CBT)],
-[Limbic system retraining],
+[limbic system retraining],
 [Gupta brain retraining],
 [Dynamic Neural Retraining System (DNRS)].
-[Polyvagal Theory].
+[Polyvagal Theory],

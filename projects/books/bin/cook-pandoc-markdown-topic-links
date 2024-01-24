@@ -1,15 +1,18 @@
 #!/bin/sh
 set -euf
 
-# Our Markdown topic pages use relative links such as:
+# Our Markdown topic pages use sibling-directory links, such as:
 #
-#    [Foo Goo](./foo-goo)
+#    [Foo Goo](../foo-goo)
 #
 #
-# Pandoc Markdown PDF expects internal PDF links such as:
+# Pandoc Markdown PDF cannot correctly parse the sibling-directory links.
+# Instead, the parser needs internal PDF link brackets that correspond
+# to internal Pandoc-generated page headlines, such as:
 #
 #    [Foo Goo]
 #
-# This script cooks the build file by deleting all internal link URLs.
+# This script cooks the build file, by deleting all of the
+# sibling-directory URLS. This makes the parser successful.
 
-sed -i.bak 's/\](\.\/[^)]*)/]/g' "$@"
+sed -i.bak 's#\](\.\./[^)]*)#]#g' "$@"

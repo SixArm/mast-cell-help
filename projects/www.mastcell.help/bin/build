@@ -38,6 +38,19 @@ do_slug() {
     input_file="$topics_dir/$slug/index.md"
     title=$("$project_dir/bin/markdown-read-to-headline" "$input_file")"$title_suffix"
     do_pandoc "$template_file" "$title" "$input_file" "$output_file"
+    # Cook all the sibling-directory links, to revise 
+    # each link to go to its top-level route.
+    # This is because it looks prettier for users.
+    #
+    # Before:
+    #
+    #    <a href="../foo">
+    #
+    # After:
+    #
+    #    <a href="/foo">
+    #
+    sed -i.bak 's#<a href="\.\./#<a href="/#g' "$output_file"
     #"$project_dir/bin/file-escape-html" "$output_file"
     return 0
 }

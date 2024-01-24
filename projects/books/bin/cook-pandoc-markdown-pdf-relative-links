@@ -1,0 +1,15 @@
+#!/bin/sh
+set -euf
+
+# Our Markdown topic pages use relative links such as:
+#
+#    [Foo Goo](./foo-goo)
+#
+#
+# Pandoc Markdown PDF expects internal PDF links such as:
+#
+#    [Foo Goo]
+#
+# This script cooks the build file by deleting all internal link URLs.
+
+sed -i.bak 's/\](\.\/[^)]*)/]/g' "$@"

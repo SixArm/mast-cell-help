@@ -1,16 +1,15 @@
 # Start here for your nutrition
 
-
 **Track your intake:**
 
 * [Food diary](./food-diary)
 * [Elimination diet](./elimination-diet)
-* [Intermittent fasting (IF)](topics/intermittent-fasting)
+* [Intermittent fasting (IF)](./intermittent-fasting)
 
 **Boost your nutrition:**
 
 * [Dietary supplements](./dietary-supplements)
-* [Macronutrients and micronutrients](macronutrients-and-micronutrients/)
+* [Macronutrients and micronutrients](./macronutrients-and-micronutrients)
 * [Nutritional shakes](./nutritional-shakes)
 * [Electrolytes](./electrolytes)
 

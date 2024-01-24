@@ -7,3 +7,5 @@
 * [Management of Mast Cell Activation Syndrome (MCAS) - Presented by David Saperstein, M.D.](./management-of-mast-cell-activation-syndrome-by-david-saperstein)
 
 * [Community Voices: Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](./community-voices-by-kate-robinson)
+
+* [Mast Cell Activation Disorders - By Anne Maitland](./mast-cell-activation-disorders-by-anne-maitland)

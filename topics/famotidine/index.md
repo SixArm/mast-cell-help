@@ -10,7 +10,7 @@ Famotidine is available over-the-counter in lower doses for short-term relief of
 
 * **Indications:** Famotidine is often prescribed to treat Gastroesophageal Reflux Disease (GERD), a condition where stomach acid flows back into the esophagus, causing symptoms like heartburn. Famotidine is used in the treatment and prevention of peptic ulcers (ulcers in the stomach or duodenum), and also Zollinger-Ellison Syndrome.
 
-* **Dosage Forms:** It is available in various forms, including oral tablets, oral suspension, and intravenous (IV) injection.
+* **Forms:** It is available in various forms, including oral tablets, oral suspension, and intravenous (IV) injection.
 
 * **Side Effects:** Common side effects may include headache, dizziness, constipation, or diarrhea. Serious side effects are rare but may include changes in heart rate, confusion, or allergic reactions.
 

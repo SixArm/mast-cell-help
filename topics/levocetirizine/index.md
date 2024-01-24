@@ -10,7 +10,7 @@ Levocetirizine is available over-the-counter. In the United States, see brand na
 
 * **Indications:** Levocetirizine is used for the relief of symptoms associated with allergic conditions, including allergic rhinitis (hay fever), chronic idiopathic urticaria (chronic hives), and allergic conjunctivitis.
 
-* **Dosage Forms:** It is available in various forms, including oral tablets and oral solutions.
+* **Forms:** It is available in various forms, including oral tablets and oral solutions.
 
 * **Timing:** Levocetirizine generally has a rapid onset of action, and its effects can last for 24 hours. It is often taken once daily.
 

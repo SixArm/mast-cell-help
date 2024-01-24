@@ -2,11 +2,11 @@
 
 colorless Benadryl
 
-Lyme and co-infections: The big 3: Borrelia, Bartonella and Babesia
-
 adrenal fatigue / cortisol deficiency
 
 Xolair
+
+ (i) hypometabolism; (ii) defective apoptosis; and (iii) the pro-thrombotic basis for cerebral neuronal loss
 
 Restless Leg Syndrome
 

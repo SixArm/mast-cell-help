@@ -12,4 +12,4 @@ Bartonellosis is an infectious disease caused by bacteria of the genus Bartonell
 
 * **Diagnosis:** Diagnosis is often challenging. Serological tests and molecular diagnostics, such as polymerase chain reaction (PCR), may be used for diagnosis.
 
-**Treatment:**  Antibiotics are the primary treatment for Bartonellosis. 
+* **Treatment:**  Antibiotics are the primary treatment for Bartonellosis. 

@@ -19,7 +19,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Start here](topics/start-here)
 
-* [Start here for over-the-counter treatments](topics/start-here-for-over-the-counter-treatments)
+* [Start here for over-the-counter help](topics/start-here-for-over-the-counter-help)
 * [Start here for your nutrition](topics/start-here-for-your-nutrition)
 * [Start here for your doctors](topics/start-here-for-your-doctors)
 
@@ -85,7 +85,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Chemical triggers](topics/chemical-triggers)
 * [Environmental triggers](topics/environmental-triggers)
 * [Food triggers](topics/food-triggers)
-* [Allergens, irritants, toxins](topics/allergens-irritants/toxins)
+* [Allergens, irritants, toxins](topics/allergens-irritants-toxins)
 * [Air filters](topics/air-filters)
 * [Water filters](topics/water-filters)
 * [Activated carbon filters](topics/activated-carbon-filters)
@@ -333,7 +333,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Microbiome testing](topics/microbiome-testing)
 * [Genetic Environmental Illness (GENIE) test](genetic-environmental-illness-test)
 * [N-methylhistamine test](topics/n-methylhistamine-test)
-* [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-pgd2-test)
+* [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test)
 * [Serum tryptase test](topics/serum-tryptase-test)
 * [Bone marrow biopsy](topics/bone-marrow-biopsy)
 
@@ -379,6 +379,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Cromolyn sodium](topics/cromolyn-sodium)
 
+### [Diphenhydramine](topics/diphenhydramine)
+
 ### [Famotidine](topics/famotidine)
 
 ### [Immunotherapy](topics/immunotherapy)
@@ -420,7 +422,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
 * [Management of Mast Cell Activation Syndrome (MCAS) - Presented by David Saperstein, M.D.](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein)
 * [Community Voices: Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/community-voices-by-kate-robinson)
-
+* [Mast Cell Activation Disorders - By Anne Maitland](topics/mast-cell-activation-disorders-by-anne-maitland)
 
 ### [Books](topics/books)
 

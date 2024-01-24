@@ -14,8 +14,8 @@ It is available over-the-counter. In the United States, see brand name Benadryl.
 
 * **Sedative Effect:** Diphenhydramine has a sedative effect and can cause drowsiness. Because of this, it is often used as a sleep aid.
 
-* **Timing:** The effects of diphenhydramine typically last for about 4 to 6 hours.
+* **Timing:** Effects typically last for 4-6 hours.
 
 * **Side Effects:** Common side effects may include drowsiness, dry mouth, blurred vision, constipation, or urinary retention. It may also cause excitability, especially in children.
 
-**Interactions:** Diphenhydramine may interact with other medications, including central nervous system depressants. 
+* **Interactions:** Diphenhydramine may interact with other medications, including central nervous system depressants. 

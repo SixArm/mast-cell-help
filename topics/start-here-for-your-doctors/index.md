@@ -3,65 +3,65 @@
 If you're sick, you need help now. Use this page a starter checklist of what may help you now, and what may help you get better in the future.
 
 **Try protocols:**
-[SHINE protocol],
-[Shoemaker Biotoxin Illness Protocol].
+[SHINE protocol](./shine-protocol),
+[Shoemaker Biotoxin Illness Protocol](./shoemaker-biotoxin-illnessprotocol).
 
 **Do diagnoses:** 
-[anaphylaxis],
-[histamine intolerance (HI)],
-[allergies],
-[contact allergic dermatitis],
-[asthma],
-[dysautonomia],
-[Lyme disease],
-[mastocytosis],
-[mold exposure],
-[multisystem inflammatory syndrome (MIS)],
-[toxin exposure],
-[Lyme, Borrelia, Bartonella, Babesia],
-[rheumatoid arthritis (RA)],
-[scar tissue adhesions].
+[anaphylaxis](./anaphylaxis),
+[histamine intolerance (HI)](./histamine-intolerance),
+[allergies](./allergies),
+[contact allergic dermatitis](./contact-allergic-dermatitis),
+[asthma](./asthma),
+[dysautonomia](./dysautonomia),
+[Lyme disease](./lyme-disease),
+[mastocytosis](./mastocytosis),
+[mold exposure](./mold-exposure),
+[multisystem inflammatory syndrome (MIS)](./multisystem-inflammatory-syndrome),
+[toxin exposure](./toxin-exposure),
+[Lyme, Borrelia, Bartonella, Babesia](./lyme-borrelia-bartonella-babesia),
+[rheumatoid arthritis (RA)](./rheumatoid-arthritis),
+[scar tissue adhesions](./scar-tissue-adhesions).
 
 **Order tests:** 
-[allergy testing],
-[histamine testing],
-[nutrition testing],
-[microbiome testing],
-[serum tryptase testing],
-[complement C4-A blood testing],
-[mast cell tryptase stimulation testing],
-[n-methylhistamine testing],
-[prostaglandin D2 (PGD2) testing],
-[Environmental Relative Moldiness Index (ERMI)].
+[allergy testing](./allergy-testing),
+[histamine testing](./histamine-testing),
+[nutrition testing](./nutrition-testing),
+[microbiome testing](./microbiome-testing),
+[serum tryptase test](./serum-tryptase-test),
+[complement C4-A blood test](./complement-c4-a-blood-test),
+[mast cell tryptase stimulation test](./mast-cell-tryptase-stimulation-test),
+[n-methylhistamine test](./n-methylhistamine-test),
+[prostaglandin D2 (PGD2) test](./prostaglandin-d2-test),
+[Environmental Relative Moldiness Index (ERMI)](./environmental-relative-moldiness-index).
 
 **Get medications:**
-[adrenaline emergency auto-injector],
-[antihistamine medications],
-[antifungal medications],
-[bile acid sequestrants],
-[biotoxin treatments],
-[bronchodilators],
-[corticosteroids],
-[low-dose naltrexone (LDN)],
-[cromolyn sodium],
-[Myers' Cocktail],
-[Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy].
+[adrenaline emergency auto-injector](./adrenaline-emergency-auto-injector),
+[antihistamine medications](./antihistamine-medications),
+[antifungal medications](./antifungal-medications),
+[bile acid sequestrants](./bile-acid-sequestrants),
+[biotoxin treatments](./biotoxin-treatments),
+[bronchodilators](./bronchodilators),
+[corticosteroids](./corticosteroids),
+[low-dose naltrexone (LDN)](./low-dose-naltrexone),
+[cromolyn sodium](./cromolyn-sodium),
+[Myers' Cocktail](./myers-cocktail),
+[Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](./nicotinamide-adenine-dinucleotide-intravenous-therapy).
 
 **Consider more modalities:** 
-[alternative therapies],
-[functional medicine],
-[integrative medicine],
-[complementary and alternative medicine (CAM)],
-[Traditional Chinese Medicine (TCM)],
-[acupuncture],
-[cupping],
-[ketamine therapy],
-[Fecal microbiota transplantation (FMT)](fecal-microbiota-transplantation).
+[alternative therapies](./alternative-therapies),
+[functional medicine](./functional-medicine),
+[integrative medicine](./integrative-medicine),
+[complementary and alternative medicine (CAM)](./complementary-and-alternative=medicine),
+[Traditional Chinese Medicine (TCM)](./traditional-chinese-medicine),
+[acupuncture](./acupuncture),
+[cupping](./cupping),
+[ketamine therapy](./ketamine-therapy),
+[Fecal microbiota transplantation (FMT)](./fecal-microbiota-transplantation).
 
 **Think outside the box:** 
-[Somatic Experiencing (SE)],
-[Cognitive-Behavioral Therapy (CBT)],
-[limbic system retraining],
-[Gupta brain retraining],
-[Dynamic Neural Retraining System (DNRS)].
-[Polyvagal Theory],
+[Somatic Experiencing (SE)](./somatic-experiencing),
+[Cognitive-Behavioral Therapy (CBT)](./cognitive-behavioral-therapy),
+[limbic system retraining](./limbic-system-retraining),
+[Gupta brain retraining](./gupta-brain-retraining),
+[Dynamic Neural Retraining System (DNRS)](./dynamic-neural-retraining-system).
+[Polyvagal Theory](./polyvagal-theory).

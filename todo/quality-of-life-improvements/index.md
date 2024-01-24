@@ -91,6 +91,21 @@ Got a new mattress that was hypoallergenic and not spring.
 
 yoga
 
+###
+
+The books are done. All furniture is done unless it is completely metal and glass. This goes double for big soft things, like your couch and mattress.
+
+Get rid of all that you can bare to part with. All of it.
+
+For the things you must keep, they should go into storage away from where you live and sleep. So your bone collection. Unless it has extreme sentimental irreplaceable value, everything you store should be nonporous. No furniture, clothes, or books. Be real with yourself and keep what truly matters. You may never be able to reclaim what is in storage and you don’t want to be endlessly paying for storage on it.
+
+It is going to be easier on your mental and physical health if you move out and embrace a minimalist lifestyle. Sleep on an air mattress. Start with 3 days worth of clothes and just do laundry nearly everyday. You need your health more than you need any of these things.
+
+Some people are able to keep much more. Those people tend to not be as sick, tend to not have been in mold as long, and/or tend to not have some of the more dangerous molds. Gently but bluntly, it does not seem that you have many, if any, of those factors going for you.
+
+Once you have healed a bit, you can start testing yourself by removing things from 
+
+###
 tai chi
 
 A major iron infusion. When my ferritin and iron levels were boosted, some of my allergies calmed down almost immediately.

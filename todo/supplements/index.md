@@ -16,7 +16,7 @@ Supplements for typical mornings:
 
 * [ ] [Turmeric](topics/turmeric)
 
-* [ ] [B vitamins](topics/b-vitamins)
+* [ ] [B vitamins](topics/vitamin-b-complex)
 
 * [ ] [Calcium](topics/calcium)
 

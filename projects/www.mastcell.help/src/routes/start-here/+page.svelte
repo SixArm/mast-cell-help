@@ -1,0 +1,38 @@
+<svelte:head>
+    <title>Start here | mastcell.help | mastcell.help</title>
+</svelte:head>
+
+<div class="prose">
+
+<h1 id="start-here">Start here</h1>
+<p>If you’re sick and you need help now, start here. If you’re experiencing severe symptoms, or anaphylaxis, then you need immediate emergency medical help. Call an ambulance or go to a hospital.</p>
+<p><strong>Track your triggers:</strong></p>
+<ul>
+<li><a href="/household-triggers">Household triggers</a></li>
+<li><a href="/chemical-triggers">Chemical triggers</a></li>
+<li><a href="/environmental-triggers">Environmental triggers</a></li>
+<li><a href="/food-triggers">Food triggers</a></li>
+</ul>
+<p><strong>Clean your space:</strong></p>
+<ul>
+<li><a href="/trigger-cleaning">Trigger cleaning</a></li>
+<li><a href="/air-filters">Air filters</a></li>
+<li><a href="/water-filters">Water filters</a></li>
+</ul>
+<p><strong>Relax your body:</strong></p>
+<ul>
+<li><a href="/stress-management">Stress management</a></li>
+<li><a href="/self-soothing">Self-soothing</a></li>
+<li><a href="/polyvagal-exercises">Polyvagal exercises</a></li>
+<li><a href="/limbic-system-retraining">Limbic system retraining</a></li>
+<li><a href="/sleep-hygiene">Sleep hygiene</a></li>
+</ul>
+<p><strong>Learn more:</strong></p>
+<ul>
+<li><a href="/books">Books</a></li>
+<li><a href="/videos">Videos</a></li>
+<li><a href="/support-groups">Support groups</a></li>
+<li><a href="/facebook-groups">Facebook groups</a></li>
+</ul>
+
+</div>

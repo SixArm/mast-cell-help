@@ -8,7 +8,7 @@ Household triggers refer to adverse reactions that individuals experience due to
    
 * **Toiletries:** Many ingredients found in many shampoos, soaps, toothpastes, lotions, and other personal care products.
 
-* **Detergents:** Residual laundry detergent on clothing and bedding can come into contact with the skin, leading to skin sensitivities. Laundry detergents may also include ragrances, dyes, and certain enzymes that may be triggers.
+* **Detergents:** Residual laundry detergent on clothing and bedding can come into contact with the skin, leading to skin sensitivities. Laundry detergents may include fragrances, dyes, and certain enzymes that may be triggers.
 
 * **Cleaners:** Cleaning agents often contain various chemicals, such as surfactants, disinfectants, and solvents.
 

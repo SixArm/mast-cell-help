@@ -1,6 +1,6 @@
 # Toxic - By  Neil Nathan
 
-Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness
+Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness
 
 By Neil Nathan, MD.
 

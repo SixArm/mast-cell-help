@@ -32,7 +32,7 @@
 
 * **BP:**  blood pressure
 
-* **CRP:** [C-reactive protein (CRP)](./c-reactive-protein) blood test marker of inflammation
+* **CRP:** [C-reactive protein (CRP)](../c-reactive-protein) blood test marker of inflammation
 
 * **Hb:** hemoglobin (a substance in red blood cells that moves oxygen around the body)
 

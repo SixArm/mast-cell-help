@@ -1,4 +1,4 @@
-# Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Sholten
+# Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten
 
 Understanding Histamine Intolerance & Mast Cell Activation
 

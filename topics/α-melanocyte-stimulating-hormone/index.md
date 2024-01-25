@@ -6,7 +6,7 @@
 
 * **Pigmentation:** α-MSH stimulates melanocytes, the pigment-producing cells in the skin, hair, and eyes. It promotes the production of melanin, the pigment responsible for skin, hair, and eye color.
 
-* **Immunomodulation:** α-MSH can modulate immune cell activityand can reduce inflammation in various tissues.
+* **Immunomodulation:** α-MSH can modulate immune cell activity and can reduce inflammation in various tissues.
 
 * **Appetite Regulation:** α-MSH interacts with receptors in the hypothalamus, a region of the brain involved in appetite regulation. It has anorexigenic effects, meaning it can suppress appetite.
 

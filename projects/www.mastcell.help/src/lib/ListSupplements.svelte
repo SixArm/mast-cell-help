@@ -6,7 +6,7 @@
     <li><a href="/quercetin">Quercetin</a></li>
     <li><a href="/glutathione">Glutathione</a></li>
     <li><a href="/turmeric">Turmeric</a></li>
-    <li><a href="/b-vitamins">B vitamins</a></li>
+    <li><a href="/vitamin-b-complex">B vitamins</a></li>
     <li><a href="/calcium">Calcium</a></li>
     <li><a href="/copper">Copper</a></li>
     <li><a href="/zinc">Zinc</a></li>

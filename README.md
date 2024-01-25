@@ -75,7 +75,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ketamine therapy](topics/ketamine-therapy)
 * [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
 * [Myers' Cocktail](topics/myers-cocktail)
-* [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-iv-therapy)
+* [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy)
 * [Gut-brain connection](topics/gut-brain-connection)
 * [Fecal microbiota transplantation (FMT)](fecal-microbiota-transplantation)
 
@@ -222,7 +222,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
 
-### [Chronic Inflammatory Response Syndrome (CIRS)](chronic-inflammatory-response-syndrome)
+### [Chronic Inflammatory Response Syndrome (CIRS)](topics/chronic-inflammatory-response-syndrome)
 
 ### [Chronic Fatigue Syndrome (CFS)](topics/chronic-fatigue-syndrome)
 
@@ -279,7 +279,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Scar tissue adhesions](topics/scar-tissue-adhesions)
 
-### [Sjögren's syndrome](topics/sjögrens-syndrome)
+### [Sjögren's syndrome](topics/sjogrens-syndrome)
 
 ### [Sulfur intolerance](topics/sulfur-intolerance)
 
@@ -420,8 +420,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan)
 * [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
-* [Management of Mast Cell Activation Syndrome (MCAS) - Presented by David Saperstein, M.D.](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein)
-* [Community Voices: Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/community-voices-by-kate-robinson)
+* [Management of Mast Cell Activation Syndrome (MCAS) - By David Saperstein](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein)
+* [Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/living-with-heds-mcas-and-a-low-histamine-diet-by-kate-robinson)
 * [Mast Cell Activation Disorders - By Anne Maitland](topics/mast-cell-activation-disorders-by-anne-maitland)
 
 ### [Books](topics/books)
@@ -430,7 +430,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
 * [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
 * [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)
-* [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities , and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
+* [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
 * [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker)
 
 
@@ -439,7 +439,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Glossary of medical roles](topics/glossary-of-medical-roles)
 * [Glossary of medical times](topics/glossary-of-medical-times)
 * [Glossary of medical tests](topics/glossary-of-medical-tests)
-* [Glossary of units of measurement](topics/glossary-of-munits-of-measurement)
+* [Glossary of units of measurement](topics/glossary-of-units-of-measurement)
 
 
 ### [Conclusion](topics/conclusion)

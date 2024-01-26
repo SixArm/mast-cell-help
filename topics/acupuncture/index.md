@@ -1,6 +1,6 @@
 # Acupuncture
 
-Acupuncture is a Traditional Chinese Medicine (TCM) practice that involves the insertion of thin, sterile needles into specific points on the body. It can help alleviate various health conditions and promote overall well-being.
+Acupuncture is a [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/) practice that involves the insertion of thin, sterile needles into specific points on the body. It can help alleviate various health conditions and promote overall well-being.
 
 **Key points:**
 
@@ -12,6 +12,6 @@ Acupuncture is a Traditional Chinese Medicine (TCM) practice that involves the i
 
 * **Mechanism of Action:** Acupuncture is thought to stimulate the body's natural healing responses by affecting the nervous system, promoting blood circulation, and releasing endorphins (natural pain-relieving chemicals).
 
-* **Conditions Treated:** Acupuncture can help pain management (such as back pain, headaches, and osteoarthritis), stress reduction, nausea associated with chemotherapy, allergies and asthma, and fertility and reproductive health.
+* **Conditions Treated:** Acupuncture can help pain management (such as back pain, headaches, and osteoarthritis), stress reduction, nausea associated with chemotherapy, [allergies](../allergies/) and [asthma](../asthma/), and fertility and reproductive health.
 
 * **Safety and Sterility:** Acupuncture is generally considered safe when performed by trained practitioners. In many countries, acupuncturists must be licensed and must adhere to safety standards.

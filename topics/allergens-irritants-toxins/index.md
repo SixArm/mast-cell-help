@@ -4,7 +4,7 @@ Allergens, irritants, and toxins are terms used to describe substances that can 
 
 **Allergens:**
 
-* **Definition:** Allergens are substances that can trigger an allergic reaction in individuals with sensitivities or allergies. The immune system of susceptible individuals reacts to these substances, leading to symptoms such as sneezing, itching, hives, or more severe reactions.
+* **Definition:** Allergens are substances that can trigger an allergic reaction in individuals with sensitivities or [allergies](../allergies/). The immune system of susceptible individuals reacts to these substances, leading to symptoms such as sneezing, itching, hives, or more severe reactions.
    
 * **Examples:** Common allergens include pollen, pet dander, mold spores, certain foods (e.g., nuts, shellfish), insect venom, and certain medications.
 
@@ -18,4 +18,4 @@ Allergens, irritants, and toxins are terms used to describe substances that can 
 
 * **Definition:** Toxins are substances produced by living organisms (biotoxins) or created synthetically (man-made toxins) that can cause harm to the body. Toxins can affect various organs and systems and may have acute or chronic effects.
 
-* **Examples:** Biotoxins produced by bacteria, fungi, or plants (e.g., bacterial toxins, mycotoxins, plant toxins), as well as man-made toxins such as certain chemicals and pollutants, can be considered toxins.
+* **Examples:** [Biotoxins](../biotoxins/) produced by bacteria, fungi, or plants (e.g., bacterial toxins, mycotoxins, plant toxins), as well as man-made toxins such as certain chemicals and pollutants, can be considered toxins.

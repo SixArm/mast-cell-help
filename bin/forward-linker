@@ -1,0 +1,10 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+find "$top/topics" -type f -name index.md | sort | grep -v 'start-here' | 
+while read -r file; do
+    key=$(basename "$(dirname "$file")")
+    headline=$(~/git/sixarm/markdown-read-to-headline/markdown-read-to-headline "$file")
+    echo "\n### $key $headline"
+    rg -l "$headline" "$top/topics" -g "!*/$key/*" | grep -v 'start-here' || true
+done

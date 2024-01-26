@@ -1,12 +1,12 @@
 # Antihistamine types
 
-Antihistamines are available in two main types: first-generation and second-generation. Antihistamines are available in two main durations of action: short-acting and long-acting. Antihistamines are available in two main ways to purchase: over the counter and by prescription.
+[Antihistamines](../antihistamines/) are available in two main types: first-generation and second-generation. Antihistamines are available in two main durations of action: short-acting and long-acting. Antihistamines are available in two main ways to purchase: over the counter and by prescription.
 
 **Generations:**
 
-* **First-generation antihistamines:** These are older antihistamines, such as diphenhydramine (Benadryl) and chlorpheniramine (Chlor-Trimeton). They are effective but can cause drowsiness as a side effect.
+* **First-generation antihistamines:** These are older antihistamines, such as [diphenhydramine](../diphenhydramine/) (brand name Benadryl) and [chlorpheniramine](../chlorpheniramine/) (brand name Chlor-Trimeton). They are effective but can cause drowsiness as a side effect.
 
-* **Second-generation antihistamines:** These are newer medications, such as cetirizine (Zyrtec), loratadine (Claritin), and fexofenadine (Allegra). They are less likely to cause drowsiness and are often preferred for daytime use.
+* **Second-generation antihistamines:** These are newer medications, such as [cetirizine](../cetirizine/) (brand name Zyrtec), [loratadine](../loratadine/) (brand name Claritin), and [fexofenadine](../fexofenadine/) (brand name Allegra). They are less likely to cause drowsiness and are often preferred for daytime use.
 
 **Durations:**
 

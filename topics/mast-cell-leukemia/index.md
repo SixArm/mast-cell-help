@@ -12,4 +12,4 @@ Mast Cell Leukemia (MCL) is an extremely rare and aggressive form of systemic ma
 
 * **Prognosis:** MCL is considered a highly aggressive condition, and the prognosis is generally poor. Progression of the disease is rapid. Treatment options are limited.
 
-* **Treatment:** The treatment of MCL is challenging due to its aggressiveness. It may involve antihistamines, corticosteroids, and medications to stabilize mast cells. Allogeneic stem cell transplantation (bone marrow transplant) may be considered.
+* **Treatment:** The treatment of MCL is challenging due to its aggressiveness. It may involve [antihistamines](../antihistamines/), [corticosteroids](../corticosteroids/), and medications to stabilize mast cells. Allogeneic stem cell transplantation (bone marrow transplant/) may be considered.

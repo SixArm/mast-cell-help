@@ -10,7 +10,7 @@ Common treatments:
 
 * **Long-Acting Bronchodilator Medications:** Long-acting beta-2 agonists (LABAs), such as salmeterol and formoterol, provide bronchodilation over an extended period and are typically used for long-term maintenance in conditions like asthma or COPD. Long-acting muscarinic anticholinergics (LAMAs) like tiotropium offer prolonged bronchodilation and are often prescribed for chronic respiratory conditions.
 
-* **Inhaled Corticosteroids:** Anti-Inflammatory Medications: Inhaled corticosteroids, such as fluticasone and budesonide, help reduce airway inflammation. They are often used as part of long-term management in conditions like asthma.
+* **Inhaled Corticosteroids:** Anti-Inflammatory Medications: Inhaled [corticosteroids](../corticosteroids/), such as fluticasone and budesonide, help reduce airway inflammation. They are often used as part of long-term management in conditions like asthma.
 
 * **Oral Corticosteroids:** In severe cases of bronchospasm or acute exacerbations, a short course of oral corticosteroids, such as prednisone, may be prescribed to reduce inflammation.
 

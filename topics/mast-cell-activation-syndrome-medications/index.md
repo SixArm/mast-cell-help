@@ -2,7 +2,7 @@
 
  Mast Cell Activation Syndrome (MCAS) treatments can use medications such as:
 
-* **Antihistamines:** Non-sedating, second-generation antihistamines like cetirizine (Zyrtec), loratadine (Claritin), or fexofenadine (Allegra) are commonly used to block the effects of histamine and manage symptoms such as itching, flushing, and hives.
+* **Antihistamines:** Non-sedating, second-generation [antihistamines](../antihistamines/) like cetirizine (Zyrtec/), loratadine (Claritin), or fexofenadine (Allegra) are commonly used to block the effects of histamine and manage symptoms such as itching, flushing, and hives.
 
 * **Mast Cell Stabilizers:** Medications like cromolyn sodium (Gastrocrom) or ketotifen (Zaditor) can help stabilize mast cells and reduce their reactivity.
 

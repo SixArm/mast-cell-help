@@ -146,7 +146,7 @@ Magnesium supplements certainly reduced chronic pain (inflammation) and helped w
 
 Loratadine
 
-Contact method redlight therapy (for MCAS allergic asthma) 
+Contact method redlight therapy (for MCAS allergic [asthma](../asthma/)) 
 
 https://diaryofrecovery.com/2024/01/18/redlight/
 We also have a xyzal / Pepcid / Benadryl / dao / bromelin / quercetin / inhaler / low histamine food regimen but those are all the supporting cast to Xolair. 
@@ -217,7 +217,7 @@ When you are in a flare, you first need to be able to consume nutrition that doe
 
 * **Symptoms:** Skin reactions (rashes, itching, redness), respiratory symptoms (coughing, sneezing, wheezing), eye irritation, nasal congestion, headaches, and fatigue.
 
-* **Symptoms:** Symptoms of chemical allergies can vary and may include skin rashes, itching, redness, hives, nasal congestion, sneezing, coughing, wheezing, headache, dizziness, nausea, fatigue, and in severe cases, anaphylaxis.
+* **Symptoms:** Symptoms of chemical allergies can vary and may include skin rashes, itching, redness, hives, nasal congestion, sneezing, coughing, wheezing, headache, dizziness, nausea, fatigue, and in severe cases, [[anaphylaxis](../anaphylaxis/)](../anaphylaxis/).
 
 * **Environmental Sensitivities:** Some individuals may develop environmental sensitivities, often referred to as Multiple Chemical Sensitivity (MCS), where they experience adverse reactions to a broad range of chemicals at lower exposure levels than typically tolerated by the general population.
 

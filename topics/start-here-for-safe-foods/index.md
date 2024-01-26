@@ -4,24 +4,23 @@
 
 **Safe foods to try first:**
 
-* **Gluten-Free Oatmeal.**
-
-* **Honeycrisp Apples.** Ideally organic and GMO-free.
-
-* **Cucumbers.** Ideally organic and GMO-free.
+* **Golden Delicious Apples.** Ideally organic and GMO-free. Wash thoroughly or peel.
 
 * **Egg yolks.** Ideally organic and free-range.
 
-* **Boiled Chicken.** No artificial hormones. Ideally organic and free-range.
+* **Boiled Chicken.** No artificial hormones. Ideally free-range. Ideally fresh or flash-frozen.
 
-* **Boiled Salmon.** No artificial hormones. Ideally wild-caught, either same-day or flash-frozen.
+* **Boiled Salmon.** No artificial hormones. Ideally wild-caught. Ideally fresh or flash-frozen.
 
 * **Rice.** Ideally basmati rice or jasmine rice. Ideally organic and GMO-free.
 
 * **Sweet potatoes.** Ideally organic.
 
+* **Cucumbers.** Ideally organic and GMO-free.
+
 * **Popcorn.** No microwave bags. No artificial colors/flavors. Ideally organic and GMO-free.
 
+* **Gluten-Free Oatmeal.** Be aware that oat avenin protein is similar to gluten, and that oats can carry mold.
 
 **Tips:**
 
@@ -37,3 +36,4 @@
 
 * **No chemical biocides:** No chemical pesticides, chemical herbicides, chemical fungicides.
 
+* **Cross-Contamination Caution:** Be aware that processed products may have intermingled with others.

@@ -1,12 +1,12 @@
 # Water filters
 
-Water filters are devices designed to remove impurities, contaminants, and undesirable substances from water, making it suitable for consumption, cooking, and various household uses. There are many types of water filters, such as for home use pitchers, sink faucets, or for whole-building filtration.
+Water filters are devices designed to remove impurities, contaminants, and undesirable substances from water, making it suitable for consumption, cooking, and various household uses. There are many types of water filters, such as for home use pitchers, sink faucets, or for whole-building filtration. See also [activated carbon filters](../activated-carbon-filters/).
 
 **Common types:**
 
 * **Reverse Osmosis (RO) Filters:** RO filters use a semipermeable membrane to remove a wide range of impurities, including minerals, salts, heavy metals, and contaminants. They are effective in producing high-quality drinking water.
 
-* **Activated Carbon Filters:** Activated carbon filters, often used in pitcher filters and faucet attachments, work through adsorption to remove chlorine, organic compounds, and some odors and tastes.
+* **Activated Carbon Filters:** These often used in pitcher filters and faucet attachments, work through adsorption to remove chlorine, organic compounds, and some odors and tastes.
 
 * **Ceramic Filters:** Ceramic filters have small pores that can trap particles, bacteria, and cysts. They are often used in gravity-fed systems for point-of-use water purification. These are effective against larger particles, bacteria, and parasites.
 

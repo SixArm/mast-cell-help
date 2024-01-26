@@ -1,4 +1,4 @@
-# Famotidine
+# Famotidine (brand name Pepcid)
 
 Famotidine is a medication that belongs to a class of drugs known as histamine-2 (H2) blockers. It is commonly used to reduce the production of stomach acid and is prescribed for various gastrointestinal conditions.
 

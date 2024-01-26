@@ -1,4 +1,4 @@
-# Levocetirizine
+# Levocetirizine (brand name Xyzal)
 
 Levocetirizine is an antihistamine medication that is commonly used to relieve symptoms associated with allergic conditions. It is the active enantiomer of cetirizine and belongs to the second-generation antihistamine class. 
 
@@ -16,4 +16,4 @@ Levocetirizine is available over-the-counter. In the United States, see brand na
 
 * **Side Effects:** Common side effects may include drowsiness, dry mouth, headache, or fatigue. Most people tolerate levocetirizine well, and serious side effects are rare.
 
-* **Effect on Cognitive Function:** Levocetirizine is considered a non-sedating antihistamine, meaning it is less likely to cause sedation compared to some other antihistamines. However, individual responses may vary, and caution is advised, especially when performing activities that require mental alertness.
+* **Effect on Cognitive Function:** Levocetirizine is considered a non-sedating antihistamine, meaning it is less likely to cause sedation compared to some other [antihistamines](../antihistamines/). However, individual responses may vary, and caution is advised, especially when performing activities that require mental alertness.

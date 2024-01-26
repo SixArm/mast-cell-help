@@ -12,7 +12,7 @@ Functional medicine practitioners aim to identify and address the underlying imb
 
 * **Nutrition and Lifestyle:** Practitioners often provide guidance on nutrition, exercise, and stress management to promote overall well-being.
 
-* **Use of Complementary Therapies:** Functional medicine integrates a wide range of therapeutic approaches, including dietary supplements, herbal medicine, acupuncture, and other therapies.
+* **Use of Complementary Therapies:** Functional medicine integrates a wide range of therapeutic approaches, including [dietary supplements](../dietary-supplements/), [herbal medicine](../herbal-medicine/), [acupuncture](../acupuncture/), and other therapies.
 
 * **In-Depth Testing:** Practitioners often use extensive laboratory testing to assess a patient's health, including tests that may not be part of traditional medical assessments.
 

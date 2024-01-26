@@ -14,7 +14,7 @@ Textile dermatitis, also known as allergic contact dermatitis from textiles, is 
 
 * **Diagnosis:** Diagnosis is typically based on a thorough medical history, including information about exposure to specific fabrics, and clinical examination. In some cases, patch testing may be done to identify the specific allergens causing the reaction.
 
-* **Topical Treatments:** Over-the-counter or prescription topical corticosteroids and antihistamines may be used to alleviate symptoms of itching and inflammation associated with textile dermatitis.
+* **Topical Treatments:** Over-the-counter or prescription topical corticosteroids and [antihistamines](../antihistamines/) may be used to alleviate symptoms of itching and inflammation associated with textile dermatitis.
 
 * **Treatment:** The primary treatment strategy for textile dermatitis is to avoid contact with the problematic fabrics or triggers.
 

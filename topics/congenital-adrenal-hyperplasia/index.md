@@ -1,4 +1,8 @@
-# Congenital Adrenal Hyperplasia (CAH) refers to a group of genetic disorders that affect the adrenal glands, leading to an imbalance in the production of certain hormones. The most common form of CAH is due to a deficiency of an enzyme called 21-hydroxylase, which is involved in the production of cortisol and aldosterone. This deficiency results in an overproduction of androgens (male sex hormones) and a lack of cortisol and aldosterone. Here are key points about Congenital Adrenal Hyperplasia:
+# Congenital Adrenal Hyperplasia (CAH)
+
+Congenital Adrenal Hyperplasia (CAH) refers to a group of genetic disorders that affect the adrenal glands, leading to an imbalance in the production of certain hormones. The most common form of CAH is due to a deficiency of an enzyme called 21-hydroxylase, which is involved in the production of cortisol and aldosterone. This deficiency results in an overproduction of androgens (male sex hormones) and a lack of cortisol and aldosterone. 
+
+**Key points:**
 
 **Types of CAH:**
 1. **Classic CAH:** The severe form of CAH, which can result in a life-threatening condition in newborns if not diagnosed and treated promptly.

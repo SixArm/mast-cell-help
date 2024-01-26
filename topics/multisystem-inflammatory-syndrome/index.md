@@ -10,7 +10,7 @@ Multisystem Inflammatory Syndrome (MIS) is a rare and severe medical condition c
 
 * **Diagnostic Criteria:** Tests looks for elevated inflammatory markers, and evidence of recent or current SARS-CoV-2 infection or exposure. Imaging studies may assess organ involvement.
 
-* **Treatment:** Treatment often involves hospitalization, and may include medications to reduce inflammation (such as intravenous immunoglobulin or corticosteroids), as well as interventions to manage specific organ system involvement.
+* **Treatment:** Treatment often involves hospitalization, and may include medications to reduce inflammation (such as intravenous immunoglobulin or [corticosteroids](../corticosteroids/)), as well as interventions to manage specific organ system involvement.
 
 * **Outcomes:** With early diagnosis and appropriate treatment, most individuals with MIS recover, although the severity and duration of symptoms can vary.
 

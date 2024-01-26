@@ -15,435 +15,468 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## Contents
 
-### [Introduction](topics/introduction)
+### [Introduction](topics/introduction/)
 
-### [Start here](topics/start-here)
+### [Start here](topics/start-here/)
 
-* [Start here for over-the-counter help](topics/start-here-for-over-the-counter-help)
-* [Start here for your nutrition](topics/start-here-for-your-nutrition)
-* [Start here for your doctors](topics/start-here-for-your-doctors)
+* [Start here for over-the-counter](topics/start-here-for-over-the-counter/)
+* [Start here for safe foods](topics/start-here-for-safe-foods/)
+* [Start here for nutrition](topics/start-here-for-nutrition/)
+* [Start here for doctors](topics/start-here-for-doctors/)
 
-### [What are mast cells?](topics/what-are-mast-cells)
+### [What are mast cells?](topics/what-are-mast-cells/)
 
-* [Where are mast cells?](topics/where-are-mast-cells)
-* [What doctors and providers can help?](topics/what-doctors-and-providers-can-help)
-* [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider)
-* [Support groups](topics/support-groups)
-* [Facebook groups](topics/facebook-groups)
+* [Where are mast cells?](topics/where-are-mast-cells/)
+* [What doctors and providers can help?](topics/what-doctors-and-providers-can-help/)
+* [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider/)
+* [Support groups](topics/support-groups/)
+* [Facebook groups](topics/facebook-groups/)
 
 <img src="assets/images/pexels/pexels-pixabay-260367/1920x960.jpg" alt="firefighters" style="width: 100%;"/>
 
-### [Mast cell activation syndrome (MCAS)](topics/mast-cell-activation-syndrome)
+### [Mast cell activation syndrome (MCAS)](topics/mast-cell-activation-syndrome/)
 
-* [Symptoms](topics/mast-cell-activation-syndrome-symptoms)
-* [Diagnosis](topics/mast-cell-activation-syndrome-diagnosis)
-* [Diagnosis via clinical evaluation](topics/mast-cell-activation-syndrome-diagnosis-via-clinical-evaluation)
-* [Diagnosis via laboratory tests](topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests)
-* [Diagnosis consensus 2 criteria](topics/mast-cell-activation-syndrome-diagnosis-consensus-2-criteria)
-* [Severity](topics/mast-cell-activation-syndrome-severity)
-* [Treatments](topics/mast-cell-activation-syndrome-treatments)
-* [Medications](topics/mast-cell-activation-syndrome-medications)
-* [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications)
-* [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures)
-* [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses)
+* [Symptoms](topics/mast-cell-activation-syndrome-symptoms/)
+* [Diagnosis](topics/mast-cell-activation-syndrome-diagnosis/)
+* [Diagnosis via clinical evaluation](topics/mast-cell-activation-syndrome-diagnosis-via-clinical-evaluation/)
+* [Diagnosis via laboratory tests](topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests/)
+* [Diagnosis consensus 2 criteria](topics/mast-cell-activation-syndrome-diagnosis-consensus-2-criteria/)
+* [Severity](topics/mast-cell-activation-syndrome-severity/)
+* [Treatments](topics/mast-cell-activation-syndrome-treatments/)
+* [Medications](topics/mast-cell-activation-syndrome-medications/)
+* [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications/)
+* [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures/)
+* [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses/)
 * [Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)](mast-cell-activation-syndrome-versus-histamine-intolerance)
 
-### [Inflammation](topics/inflammation)
+### [Inflammation](topics/inflammation/)
 
-* [Histamine](topics/histamine)
-* [Antihistamine](topics/antihistamine)
-* [Antihistamine types](topics/antihistamine-types)
-* [Diamine oxidase](topics/diamine-oxidase)
-* [Tryptase](topics/tryptase)
-* [Heparin](topics/heparin)
-* [C-reactive protein (CRP)](topics/c-reactive-protein)
-* [Interleukin-6 (IL-6)](topics/interleukin-6)
+* [Histamine](topics/histamine/)
+* [Antihistamines](topics/antihistamines/)
+* [Antihistamines: types](topics/antihistamines-types/)
+* [Diamine oxidase](topics/diamine-oxidase/)
+* [Tryptase](topics/tryptase/)
+* [Heparin](topics/heparin/)
+* [C-reactive protein (CRP)](topics/c-reactive-protein/)
+* [Interleukin-6 (IL-6)](topics/interleukin-6/)
 
 <img src="assets/images/pexels/pexels-shvets-production-7176026/1920x960.jpg" alt="therapy" style="width: 100%;"/>
 
-### [Alternative therapies](topics/alternative-therapies)
+### [Alternative therapies](topics/alternative-therapies/)
 
-* [Functional medicine](topics/functional-medicine)
-* [Integrative medicine](topics/integrative-medicine)
-* [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine)
-* [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine)
-* [Acupuncture](topics/acupuncture)
-* [Cupping](topics/cupping)
-* [Meditation](topics/meditation)
-* [Somatic Experiencing (SE)](topics/somatic-experiencing)
-* [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy)
-* [Ketamine therapy](topics/ketamine-therapy)
-* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone)
-* [Myers' Cocktail](topics/myers-cocktail)
-* [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy)
-* [Gut-brain connection](topics/gut-brain-connection)
+* [Functional medicine](topics/functional-medicine/)
+* [Integrative medicine](topics/integrative-medicine/)
+* [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine/)
+* [Compounding pharmacy](topics/compounding-pharmacy/)
+* [Meditation](topics/meditation/)
+* [Somatic Experiencing (SE)](topics/somatic-experiencing/)
+* [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy/)
+* [Ketamine therapy](topics/ketamine-therapy/)
+* [Ibogaine therapy](topics/ibogaine-therapy/)
+* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone/)
+* [Myers' Cocktail](topics/myers-cocktail/)
+* [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy/)
+* [Gut-brain connection](topics/gut-brain-connection/)
 * [Fecal microbiota transplantation (FMT)](fecal-microbiota-transplantation)
 
-### [Trigger cleaning](topics/trigger-cleaning)
+### [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine/)
 
-* [Household triggers](topics/household-triggers)
-* [Chemical triggers](topics/chemical-triggers)
-* [Environmental triggers](topics/environmental-triggers)
-* [Food triggers](topics/food-triggers)
-* [Allergens, irritants, toxins](topics/allergens-irritants-toxins)
-* [Air filters](topics/air-filters)
-* [Water filters](topics/water-filters)
-* [Activated carbon filters](topics/activated-carbon-filters)
-* [Volatile organic compounds (VOCs)](topics/volatile-organic-compounds)
+* [Acupuncture](topics/acupuncture/)
+* [Cupping](topics/cupping/)
+* [Qigong](topics/qigong/)
+* [Tai Chi](topics/tai-chi/)
+* [Tui Na](topics/tui-na/)
+
+### [Trigger cleaning](topics/trigger-cleaning/)
+
+* [Household triggers](topics/household-triggers/)
+* [Chemical triggers](topics/chemical-triggers/)
+* [Environmental triggers](topics/environmental-triggers/)
+* [Food triggers](topics/food-triggers/)
+* [Allergens, irritants, toxins](topics/allergens-irritants-toxins/)
+* [Air filters](topics/air-filters/)
+* [Water filters](topics/water-filters/)
+* [Activated carbon filters](topics/activated-carbon-filters/)
+* [Volatile organic compounds (VOCs)](topics/volatile-organic-compounds/)
 * [Ventilation](ventilation)
 
-### [Stress Management](topics/stress-management)
+### [Stress Management](topics/stress-management/)
 
 * [Progressive Muscle Relaxation (PMR)](progressive-muscle-relaxation)
-* [Self-soothing](topics/self-soothing)
-* [Sleep hygiene](topics/sleep-hygiene)
-* [SHINE protocol](topics/shine-protocol)
-* [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy)
-* [Buteyko breathing method](topics/buteyko-breathing-method)
-* [Vagus nerve reset](topics/vagus-nerve-reset)
-* [Polyvagal theory](topics/polyvagal-theory)
-* [Polyvagal exercises](topics/polyvagal-exercises)
+* [Self-soothing](topics/self-soothing/)
+* [Sleep hygiene](topics/sleep-hygiene/)
+* [SHINE protocol](topics/shine-protocol/)
+* [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy/)
+* [Buteyko breathing method](topics/buteyko-breathing-method/)
+* [Vagus nerve reset](topics/vagus-nerve-reset/)
+* [Polyvagal theory](topics/polyvagal-theory/)
+* [Polyvagal exercises](topics/polyvagal-exercises/)
 
-### [Limbic system retraining](topics/limbic-system-retraining)
+### [Limbic system retraining](topics/limbic-system-retraining/)
 
 * [Gupta Brain Retraining](topics/gupta-brain-retraining/)
-* [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system)
+* [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system/)
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
-### [Food diary](topics/food-diary)
+### [Food diary](topics/food-diary/)
 
-* [Elimination diet](topics/elimination-diet)
-* [Elemental diet](topics/elemental-diet)
-* [Ketogenic diet](topics/ketogenic-diet)
-* [Carnivore diet](topics/carnivore-diet)
-* [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet)
-* [Low-histamine diet](topics/low-histamine-diet)
-* [Low-allergen diet](topics/low-allergen-diet)
-* [Low-amylose diet](topics/low-amylose-diet)
-* [Low-oxalate diet](topics/low-oxalate-diet)
-* [Low-lectin diet](topics/low-lectin-diet)
-* [Low-FODMAP diet](topics/low-fodmap-diet)
-* [Low-salicylate diet](topics/low-salicylate-diet)
-* [Low-sodium diet](topics/low-sodium-diet)
-* [Intermittent fasting (IF)](topics/intermittent-fasting)
+* [Elimination diet](topics/elimination-diet/)
+* [Elemental diet](topics/elemental-diet/)
+* [Ketogenic diet](topics/ketogenic-diet/)
+* [Carnivore diet](topics/carnivore-diet/)
+* [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet/)
+* [Low-histamine diet](topics/low-histamine-diet/)
+* [Low-allergen diet](topics/low-allergen-diet/)
+* [Low-amylose diet](topics/low-amylose-diet/)
+* [Low-oxalate diet](topics/low-oxalate-diet/)
+* [Low-lectin diet](topics/low-lectin-diet/)
+* [Low-FODMAP diet](topics/low-fodmap-diet/)
+* [Low-salicylate diet](topics/low-salicylate-diet/)
+* [Low-sodium diet](topics/low-sodium-diet/)
+* [Intermittent fasting (IF)](topics/intermittent-fasting/)
 
 <img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
 
-### [Dietary supplements](topics/dietary-supplements)
+### [Dietary supplements](topics/dietary-supplements/)
 
-* [Considerations](topics/dietary-supplements-considerations)
-* [Electrolytes](topics/electrolytes)
+* [Considerations](topics/dietary-supplements-considerations/)
+* [Electrolytes](topics/electrolytes/)
 * [Macronutrients and micronutrients](topics/macronutrients-and-micronutrients/)
-* [Nutritional shakes](topics/nutritional-shakes)
-* [Neocate Splash](topics/neocate-splash)
-* [Prebiotic supplements](topics/prebiotic-supplements)
-* [Probiotic supplements](topics/probiotic-supplements)
-* [Diamine oxidase supplements](topics/diamine-oxidase-supplements)
-* [Omega-3](topics/omega-3)
-* [Quercetin](topics/quercetin)
-* [Glutathione](topics/glutathione)
-* [Turmeric](topics/turmeric)
-* [Calcium](topics/calcium)
-* [Calcium D-glucarate](topics/calcium-d-glucarate)
-* [Copper](topics/copper)
-* [Magnesium glycinate](topics/magnesium-glycinate)
-* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
-* [Zinc](topics/zinc)
+* [Nutritional shakes](topics/nutritional-shakes/)
+* [Neocate Splash](topics/neocate-splash/)
+* [Prebiotic supplements](topics/prebiotic-supplements/)
+* [Probiotic supplements](topics/probiotic-supplements/)
+* [Diamine oxidase supplements](topics/diamine-oxidase-supplements/)
+* [Omega-3](topics/omega-3/)
+* [Quercetin](topics/quercetin/)
+* [Glutathione](topics/glutathione/)
+* [Turmeric](topics/turmeric/)
+* [Calcium](topics/calcium/)
+* [Calcium D-glucarate](topics/calcium-d-glucarate/)
+* [Copper](topics/copper/)
+* [Magnesium glycinate](topics/magnesium-glycinate/)
+* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
+* [Zinc](topics/zinc/)
 
 ### Vitamin supplements
 
-* [Multivitamin](topics/multivitamin)
-* [Vitamin B complex](topics/vitamin-b-complex)
-* [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine)
-* [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin)
-* [Vitamin B3 = Niacin](topics/vitamin-b3-niacin)
-* [Vitamin B5 = Pantothenic acid](topics/vitamin-b5-pantothenic-acid)
-* [Vitamin B6 = Pyridoxine](topics/vitamin-b6-pyridoxine)
-* [Vitamin B7 = Biotin](topics/vitamin-b7-biotin)
-* [Vitamin B9 = Folate](topics/vitamin-b9-folate)
-* [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin)
-* [Vitamin C](topics/vitamin-c)
-* [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms)
+* [Multivitamin](topics/multivitamin/)
+* [Vitamin A = Retinol](topics/vitamin-a-retinol/)
+* [Vitamin B complex](topics/vitamin-b-complex/)
+* [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine/)
+* [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin/)
+* [Vitamin B3 = Niacin](topics/vitamin-b3-niacin/)
+* [Vitamin B5 = Pantothenic acid](topics/vitamin-b5-pantothenic-acid/)
+* [Vitamin B6 = Pyridoxine](topics/vitamin-b6-pyridoxine/)
+* [Vitamin B7 = Biotin](topics/vitamin-b7-biotin/)
+* [Vitamin B9 = Folate](topics/vitamin-b9-folate/)
+* [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin/)
+* [Vitamin C](topics/vitamin-c/)
+* [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms/)
+* [Vitamin D](topics/vitamin-d/)
+* [Vitamin D](topics/vitamin-e/)
 
 ### Herbal supplements
 
-* [Berberine](topics/berberine)
-* [Butterbur](topics/butterbur)
-* [Stinging nettle](topics/stinging-nettle)
-* [Antimicrobial herbs](topics/antimicrobial-herbs)
+* [Berberine](topics/berberine/)
+* [Butterbur](topics/butterbur/)
+* [Stinging nettle](topics/stinging-nettle/)
+* [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
 
 ## Conditions
 
-### [Histamine intolerance (HI)](topics/histamine-intolerance)
+### [Histamine intolerance (HI)](topics/histamine-intolerance/)
 
-* [Symptoms](topics/histamine-intolerance-symptoms)
-* [Dietary triggers](topics/histamine-intolerance-dietary-triggers)
-* [Diagnosis](topics/histamine-intolerance-diagnosis)
-* [Severity](topics/histamine-intolerance-severity)
-* [Treatments](topics/histamine-intolerance-treatments)
+* [Symptoms](topics/histamine-intolerance-symptoms/)
+* [Dietary triggers](topics/histamine-intolerance-dietary-triggers/)
+* [Diagnosis](topics/histamine-intolerance-diagnosis/)
+* [Severity](topics/histamine-intolerance-severity/)
+* [Treatments](topics/histamine-intolerance-treatments/)
 
-### [Allergies](topics/allergies)
+### [Allergies](topics/allergies/)
 
-* [Allergy types](topics/allergy-types)
-* [Allergic reactions](topics/allergic-reactions)
-* [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops)
-* [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots)
-* [Wool allergy](topics/wool-allergy)
-* [Textile dermatitis](topics/textile-dermatitis)
-* [Hypoallergenic products](topics/hypoallergenic-products)
-  
-### [Anaphylaxis](topics/anaphylaxis)
+* [Allergy types](topics/allergy-types/)
+* [Allergic reactions](topics/allergic-reactions/)
+* [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops/)
+* [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots/)
+* [Wool allergy](topics/wool-allergy/)
+* [Textile dermatitis](topics/textile-dermatitis/)
+* [Hypoallergenic products](topics/hypoallergenic-products/)
+* [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
 
-* [Symptoms](topics/anaphylaxis-symptoms)
-* [Diagnosis](topics/anaphylaxis-diagnosis)
-* [Severity](topics/anaphylaxis-severity)
-* [Treatments](topics/anaphylaxis-treatments)
+### [Anaphylaxis](topics/anaphylaxis/)
 
-### [Anaphylaxis emergency treatment](topics/anaphylaxis-emergency-treatment)
+* [Symptoms](topics/anaphylaxis-symptoms/)
+* [Diagnosis](topics/anaphylaxis-diagnosis/)
+* [Severity](topics/anaphylaxis-severity/)
+* [Treatments](topics/anaphylaxis-treatments/)
 
-* [Anaphylaxis emergency room](topics/anaphylaxis-emergency-room)
-* [Anaphylaxis emergency grades](topics/anaphylaxis-emergency-grades)
+### [Anaphylaxis emergency treatment](topics/anaphylaxis-emergency-treatment/)
 
-### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome)
+* [Anaphylaxis emergency room](topics/anaphylaxis-emergency-room/)
+* [Anaphylaxis emergency grades](topics/anaphylaxis-emergency-grades/)
 
-### [Asthma](topics/asthma)
+### [Antiphospholipid syndrome (APS)](topics/antiphospholipid-syndrome/)
 
-* [Symptoms](topics/asthma-symptoms)
-* [Triggers](topics/asthma-triggers)
-* [Diagnosis](topics/asthma-diagnosis)
-* [Severity](topics/asthma-severity)
-* [Treatments](topics/asthma-treatments)
-* [Lifestyle management](topics/asthma-lifestyle-management)
+### [Asthma](topics/asthma/)
 
-### [Bartonellosis](topics/bartonellosis)
+* [Symptoms](topics/asthma-symptoms/)
+* [Triggers](topics/asthma-triggers/)
+* [Diagnosis](topics/asthma-diagnosis/)
+* [Severity](topics/asthma-severity/)
+* [Treatments](topics/asthma-treatments/)
+* [Lifestyle management](topics/asthma-lifestyle-management/)
 
-### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome)
+### [Bartonellosis](topics/bartonellosis/)
 
-### [Chronic Inflammatory Response Syndrome (CIRS)](topics/chronic-inflammatory-response-syndrome)
+### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome/)
 
-### [Chronic Fatigue Syndrome (CFS)](topics/chronic-fatigue-syndrome)
+### [Chronic Inflammatory Response Syndrome (CIRS)](topics/chronic-inflammatory-response-syndrome/)
+
+### [Chronic Fatigue Syndrome (CFS)](topics/chronic-fatigue-syndrome/)
+
+### [Congenital Adrenal Hyperplasia (CAH)](topics/congenital-adrenal-hyperplasia/)
 
 ### [Contact allergic dermatitis](contact-allergic-dermatitis)
 
-### [Diverticulosis](topics/diverticulosis)
+### [Cricopharyngeal spasm](topics/cricopharyngeal-spasm)
 
-### [Dysautonomia](topics/dysautonomia)
+### [Diverticulosis](topics/diverticulosis/)
 
-### [Dysbiosis](topics/dysbiosis)
+### [Dysautonomia](topics/dysautonomia/)
 
-### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome)
+### [Dysbiosis](topics/dysbiosis/)
 
-### [Endometriosis](topics/endometriosis)
+### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome/)
 
-### [Endosalpingiosis](topics/endosalpingiosis)
+### [Endometriosis](topics/endometriosis/)
 
-### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis)
+### [Endosalpingiosis](topics/endosalpingiosis/)
 
-### [Ferroptosis](topics/ferroptosis)
+### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis/)
 
-### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease)
+### [Ferroptosis](topics/ferroptosis/)
 
-### [Leaky gut](topics/leaky-gut)
+### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)
+
+### [Leaky gut](topics/leaky-gut/)
 
 ### [Lyme disease with Borrelia, Bartonella, Babesia](topics/lyme-disease-with-borrelia-bartonella-babesia/)
 
-* [Lyme disease](topics/lyme-disease)
-* [Bartonella](topics/bartonella)
+* [Lyme disease](topics/lyme-disease/)
+* [Borrelia](topics/borrelia/)
+* [Bartonella](topics/bartonella/)
+* [Babesia](topics/babesia/)
 
+### [Mastocytosis](topics/mastocytosis/)
 
-### [Mastocytosis](topics/mastocytosis)
-
-* [Cutaneous mastocytosis (CM)](topics/cutaneous-mastocytosis)
-* [Systemic mastocytosis (SM)](topics/systemic-mastocytosis)
-* [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis)
-* [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia)
+* [Cutaneous mastocytosis (CM)](topics/cutaneous-mastocytosis/)
+* [Systemic mastocytosis (SM)](topics/systemic-mastocytosis/)
+* [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis/)
+* [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia/)
 
 ### [Mold exposure](mold-exposure)
 
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
-### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome)
+### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome/)
 
-### [Multisystem disease](topics/multisystem-disease)
+### [Multisystem disease](topics/multisystem-disease/)
 
-### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome)
+### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome/)
 
-### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome)
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome/)
 
-### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis)
+### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis/)
 
 ### [Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)](systemic-mastocytosis-with-associated-hematologic-neoplasm)
 
-### [Scar tissue adhesions](topics/scar-tissue-adhesions)
+### [Scar tissue adhesions](topics/scar-tissue-adhesions/)
 
-### [Sjögren's syndrome](topics/sjogrens-syndrome)
+### [Sjögren's syndrome](topics/sjogrens-syndrome/)
 
-### [Sulfur intolerance](topics/sulfur-intolerance)
+### [Sulfur intolerance](topics/sulfur-intolerance/)
 
-### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans)
+### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans/)
 
-### [Toxin exposure](topics/toxin-exposure)
+### [Toxin exposure](topics/toxin-exposure/)
 
 ## Components
 
-### [α-melanocyte stimulating hormone (α-MSH)](topics/α-melanocyte-stimulating-hormone)
+### [α-melanocyte stimulating hormone (α-MSH)](topics/α-melanocyte-stimulating-hormone/)
 
-### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors)
+### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors/)
 
-### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine)
+### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine/)
 
 
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 
 ## Symptoms
 
-### [Adrenal insufficiency](topics/adrenal-insufficiency)
+### [Adrenal insufficiency](topics/adrenal-insufficiency/)
 
-### [Adrenaline dumping](topics/adrenaline-dumping)
+### [Adrenaline dumping](topics/adrenaline-dumping/)
 
-### [Bradycardia](topics/bradycardia)
+### [Bradycardia](topics/bradycardia/)
 
-### [Brain fog](topics/brain-fog)
+### [Brain fog](topics/brain-fog/)
 
-### [Bronchospasm](topics/bronchospasm)
+### [Bronchospasm](topics/bronchospasm/)
 
-* [Bronchospasm treatment](topics/bronchospasm-treatment)
+* [Bronchospasm treatment](topics/bronchospasm-treatment/)
 
-### [Hypertryptasemia](topics/hypertryptasemia)
+### [Hypertryptasemia](topics/hypertryptasemia/)
 
-### [Hypotension](topics/hypotension)
+### [Hypotension](topics/hypotension/)
 
-* [Hypotension causes](topics/hypotension-causes)
+* [Hypotension causes](topics/hypotension-causes/)
 
-### [Presyncope](topics/presyncope)
+### [Presyncope](topics/presyncope/)
 
 <img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
 
-### [Diagnostics](topics/diagnostics)
+### [Diagnostics](topics/diagnostics/)
 
-* [Allergy testing](topics/allergy-testing)
-* [Histamine testing](topics/histamine-testing)
-* [Complement C4-A blood test](topics/complement-c4-a-blood-test)
-* [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test)
-* [Nasal swab](topics/nasal-swab)
-* [Nutrition testing](topics/nutrition-testing)
-* [Microbiome testing](topics/microbiome-testing)
+* [Allergy testing](topics/allergy-testing/)
+* [Histamine testing](topics/histamine-testing/)
+* [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
+* [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
+* [Nasal swab](topics/nasal-swab/)
+* [Nutrition testing](topics/nutrition-testing/)
+* [Microbiome testing](topics/microbiome-testing/)
 * [Genetic Environmental Illness (GENIE) test](genetic-environmental-illness-test)
-* [N-methylhistamine test](topics/n-methylhistamine-test)
-* [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test)
-* [Serum tryptase test](topics/serum-tryptase-test)
-* [Bone marrow biopsy](topics/bone-marrow-biopsy)
+* [N-methylhistamine test](topics/n-methylhistamine-test/)
+* [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test/)
+* [Serum tryptase test](topics/serum-tryptase-test/)
+* [Bone marrow biopsy](topics/bone-marrow-biopsy/)
 
-### [Mold exposure diagnostics](topics/mold-exposure-diagnostics)
+### [Mold exposure diagnostics](topics/mold-exposure-diagnostics/)
 
-* [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index)
+* [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index/)
 
-* [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2)
+* [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)
 
 
 <img src="assets/images/pexels/pexels-castorly-stock-4058229/1920x960.jpg" alt="antihistamines" style="width: 100%;"/>
 
 ## Treatment types
 
-### [Adrenaline emergency auto-injector](topics/adrenaline-emergency-auto-injector)
+### [Adrenaline emergency auto-injector](topics/adrenaline-emergency-auto-injector/)
 
-### [Antihistamine medications](topics/antihistamine-medications)
+### [Antihistamine medications](topics/antihistamine-medications/)
 
-* [Ketotifen](topics/ketotifen)
-* [Histamine N-methyltransferase (HNMT)](histamine-n-methyltransferase)
+* [Azelastine](topics/azelastine/) (brand name Astelin)
+* [Bilastine](topics/bilastine/) (brand name Blexten)
+* [Cetirizine](topics/cetirizine/) (brand name Zyrtec)
+* [Chlorpheniramine](topics/chlorpheniramine/) (brand name Chlor-Trimeton)
+* [Clemastine](topics/clemastine/) (brand name Tavist)
+* [Cyproheptadine](topics/cyproheptadine/) (brand name Periactin)
+* [Desloratadine](topics/desloratadine/) (brand name Clarinex)
+* [Diphenhydramine](topics/diphenhydramine/) (brand name Benadryl)
+* [Fexofenadine](topics/fexofenadine/) (brand name Allegra)
+* [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
+* [Ketotifen](topics/ketotifen/) (brand name Zaditor)
+* [Levocetirizine](topics/levocetirizine/) (brand name Xyzal)
+* [Loratadine](topics/loratadine/) (brand name Claritin)
+* [Olopatadine](topics/olopatadine/) (brand name Patanase)
+* [Promethazine](topics/promethazine/) (brand name Phenergan)
 
 ### [Antifungal medications](antifungal-medications)
 
-* [Methylene blue](topics/methylene-blue)
+* [Methylene blue](topics/methylene-blue/)
 
-### [Asthma medications](topics/asthma-medications)
+### [Asthma medications](topics/asthma-medications/)
 
-* [Omalizumab (brand name Xolair)](topics/omalizumab)
+* [Omalizumab](topics/omalizumab/) (brand name Xolair)
 
-### [Bile acid sequestrants](topics/bile-acid-sequestrants)
+### [Bile acid sequestrants](topics/bile-acid-sequestrants/)
 
-* [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol)
-* [Activated charcoal](topics/activated-charcoal)
+* [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol/)
+* [Activated charcoal](topics/activated-charcoal/)
 
 ### [Biotoxin treatments](biotoxin-treatments)
 
-* [Shoemaker Biotoxin Illness Protocol](topics/shoemaker-biotoxin-illness-protocol)
-* [Vasoactive Intestinal Peptide (VIP)](topics/vasoactive-intestinal-peptide)
+* [Shoemaker Biotoxin Illness Protocol](topics/shoemaker-biotoxin-illness-protocol/)
+* [Vasoactive Intestinal Peptide (VIP)](topics/vasoactive-intestinal-peptide/)
 
-### [Bronchodilators](topics/bronchodilators)
+### [Bronchodilators](topics/bronchodilators/)
 
-### [Corticosteroids](topics/corticosteroids)
+### [Corticosteroids](topics/corticosteroids/)
 
-### [Cromolyn sodium](topics/cromolyn-sodium)
+* [Fludrocortisone](topics/fludrocortisone/)
 
-### [Diphenhydramine](topics/diphenhydramine)
+### [Cromolyn sodium](topics/cromolyn-sodium/)
 
-### [Famotidine](topics/famotidine)
+### [Decongestants](topics/decongestants/)
 
-### [Immunotherapy](topics/immunotherapy)
+### [Famotidine](topics/famotidine/) (brand name Pepcid)
 
-### [Levocetirizine](topics/levocetirizine)
+### [Immunotherapy](topics/immunotherapy/)
 
-### [Mast cell genetics](topics/mast-cell-genetics)
+### [Mast cell genetics](topics/mast-cell-genetics/)
 
-* [Genetic mutation](topics/genetic-mutation)
-* [Genetic polymorphisms](topics/genetic-polymorphisms)
-* [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia)
-* [KIT-D816X](topics/kit-d816x)
+* [Genetic mutation](topics/genetic-mutation/)
+* [Genetic polymorphisms](topics/genetic-polymorphisms/)
+* [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia/)
+* [KIT-D816X](topics/kit-d816x/)
+* [MTHFR gene](topics/nthfr-gene/)
+
+### [Mineralcorticoids](topics/mineralocorticoids/))
 
 
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 
-### [Circulatory system](topics/circulatory-system)
+### [Circulatory system](topics/circulatory-system/)
 
-* [Blood cells](topics/blood-cells)
-* [White blood cell (WBC)](topics/white-blood-cell)
-* [Red blood cell (RBC)](topics/red-blood-cell)
-* [Platelet](topics/platelet)
+* [Blood cells](topics/blood-cells/)
+* [White blood cell (WBC)](topics/white-blood-cell/)
+* [Red blood cell (RBC)](topics/red-blood-cell/)
+* [Platelet](topics/platelet/)
 
-### [Lymphatic system](topics/lymphatic-system)
+### [Lymphatic system](topics/lymphatic-system/)
 
-* [Lymph](topics/lymph)
-* [Lymph node](topics/lymph-node)
+* [Lymph](topics/lymph/)
+* [Lymph node](topics/lymph-node/)
 
-### [Limbic system](topics/limbic-system)
+### [Limbic system](topics/limbic-system/)
 
-* [Limbic system impairment](topics/limbic-system-impairment)
+* [Limbic system impairment](topics/limbic-system-impairment/)
 
-### [Microbiota](topics/microbiota)
+### [Microbiota](topics/microbiota/)
 
-### [Videos](topics/videos)
+### [Videos](topics/videos/)
 
-* [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan)
-* [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid)
-* [Management of Mast Cell Activation Syndrome (MCAS) - By David Saperstein](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein)
-* [Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/living-with-heds-mcas-and-a-low-histamine-diet-by-kate-robinson)
-* [Mast Cell Activation Disorders - By Anne Maitland](topics/mast-cell-activation-disorders-by-anne-maitland)
+* [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan/)
+* [Understanding Mast Cell Activation Disorders - By NIAID](topics/understanding-mast-cell-activation-disorders-by-niaid/)
+* [Management of Mast Cell Activation Syndrome (MCAS) - By David Saperstein](topics/management-of-mast-cell-activation-syndrome-by-david-saperstein/)
+* [Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson](topics/living-with-heds-mcas-and-a-low-histamine-diet-by-kate-robinson/)
+* [Mast Cell Activation Disorders - By Anne Maitland](topics/mast-cell-activation-disorders-by-anne-maitland/)
 
-### [Books](topics/books)
+### [Books](topics/books/)
 
-* [Mast Cells United - By Amber Walker](topics/mast-cells-united-by-amber-walker)
-* [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten)
-* [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin)
-* [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell)
-* [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan)
-* [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker)
-
-
-### [Glossary](topics/glossary)
-
-* [Glossary of medical roles](topics/glossary-of-medical-roles)
-* [Glossary of medical times](topics/glossary-of-medical-times)
-* [Glossary of medical tests](topics/glossary-of-medical-tests)
-* [Glossary of units of measurement](topics/glossary-of-units-of-measurement)
+* [Mast Cells United - By Amber Walker](topics/mast-cells-united-by-amber-walker/)
+* [Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten](topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten/)
+* [Never Bet Against Occam - By Lawrence Afrin](topics/never-bet-against-occam-by-lawrence-afrin/)
+* [The 4-Phase Histamine Reset Plan - By Becky Campbell](topics/the-4-phase-histamine-reset-plan-by-becky-campbell/)
+* [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan/)
+* [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker/)
 
 
-### [Conclusion](topics/conclusion)
+### [Glossary](topics/glossary/)
 
-* [About the editor](topics/about-the-editor)
-* [About the AI](topics/about-the-ai)
-* [About the ebook](topics/about-the-ebook-pdf)
+* [Glossary of medical roles](topics/glossary-of-medical-roles/)
+* [Glossary of medical times](topics/glossary-of-medical-times/)
+* [Glossary of medical tests](topics/glossary-of-medical-tests/)
+* [Glossary of units of measurement](topics/glossary-of-units-of-measurement/)
+
+
+### [Conclusion](topics/conclusion/)
+
+* [About the editor](topics/about-the-editor/)
+* [About the AI](topics/about-the-ai/)
+* [About the ebook](topics/about-the-ebook-pdf/)

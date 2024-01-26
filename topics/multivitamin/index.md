@@ -4,7 +4,7 @@ A multivitamin is a dietary supplement that contains a combination of essential 
 
 **Key points:**
 
-* **Nutrient Variety:** Multivitamins typically contain a mix of vitamins and minerals, which can include vitamin A, vitamin C, vitamin D, vitamin E, vitamin K, various B vitamins (like B1, B2, B3, B6, B12), and essential minerals like calcium, magnesium, iron, zinc, and more.
+* **Nutrient Variety:** Multivitamins typically contain a mix of vitamins and minerals, which can include [vitamin A](../vitamin-a/), [vitamin C](../vitamin-c/), [vitamin D](../vitamin-d/), [vitamin E](../vitamin-e/), [vitamin K](../vitamin-k/), [vitamin B complex](../vitamin-b-complex/) (like B1, B2, B3, B6, B12), and essential minerals like [calcium](../calcium/), [magnesium](../magnesium/), [iron](../iron/), [zinc](../zinc/), and more.
 
 * **Daily Intake:** The composition of multivitamins is often based on recommended daily intakes (RDIs) or dietary reference intakes (DRIs) established by health authorities. The specific amounts and ratios of nutrients can vary between different products.
 

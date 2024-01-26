@@ -16,4 +16,4 @@ Telangiectasia Macularis Eruptiva Perstans (TMEP) is a rare skin disorder charac
 
 * **Diagnosis:** May include a skin biopsy and specific tests to detect mast cell disorders.
 
-* **Treatment:** Focus on controlling symptoms, including the use of antihistamines to reduce itching, and avoiding triggers that may cause flushing.
+* **Treatment:** Focus on controlling symptoms, including the use of [antihistamines](../antihistamines/) to reduce itching, and avoiding triggers that may cause flushing.

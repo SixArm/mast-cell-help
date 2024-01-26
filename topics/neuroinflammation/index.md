@@ -20,6 +20,6 @@ Neuroinflammation can result from various causes, including:
 
 * **Consequences:** Chronic neuroinflammation can lead to neuronal damage and loss, disrupt neural circuits, and contribute to the progression of various neurological diseases. It can also lead to symptoms such as cognitive impairment, pain, and motor dysfunction.
 
-* **Treatment:** Managing neuroinflammation may involve addressing the underlying cause, such as treating infections, managing autoimmune conditions, or reducing exposure to toxins. Anti-inflammatory medications, including corticosteroids or disease-modifying drugs, may also be used in some cases. Lifestyle factors like a healthy diet, exercise, and stress management can help reduce inflammation and support brain health.
+* **Treatment:** Managing neuroinflammation may involve addressing the underlying cause, such as treating infections, managing autoimmune conditions, or reducing exposure to toxins. Anti-inflammatory medications, including [corticosteroids](../corticosteroids/) or disease-modifying drugs, may also be used in some cases. Lifestyle factors like a healthy diet, exercise, and stress management can help reduce inflammation and support brain health.
 
 * **Research:** Neuroinflammation is an active area of research, and scientists are exploring potential therapies to modulate and control inflammation in neurological diseases. This includes investigating the use of anti-inflammatory drugs and immune-modulating treatments.

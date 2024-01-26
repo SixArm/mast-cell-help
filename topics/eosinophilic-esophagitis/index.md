@@ -10,6 +10,6 @@ Eosinophilic esophagitis (EoE) is a chronic immune-mediated inflammatory conditi
 
 * **Diagnosis:** The diagnosis of EoE typically involves an upper endoscopy and biopsy. During an endoscopy, a thin, flexible tube with a camera is inserted through the mouth and into the esophagus to visualize the tissue. Biopsy samples are taken to assess the presence of eosinophils in the esophageal lining.
 
-* **Treatment:** May include dietary modifications, where specific allergenic foods are eliminated from the diet, or medications such as proton pump inhibitors (PPIs), swallowed topical corticosteroids, and biologics that target specific immune pathways.
+* **Treatment:** May include dietary modifications, where specific allergenic foods are eliminated from the diet, or medications such as proton pump inhibitors (PPIs), swallowed topical [corticosteroids](../corticosteroids/), and biologics that target specific immune pathways.
 
 * **Complications:** If left untreated, EoE can lead to esophageal strictures or narrowing, which can cause further difficulties with swallowing. In severe cases, chronic inflammation can result in damage to the esophagus.

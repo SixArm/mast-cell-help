@@ -1,6 +1,6 @@
 # Lyme disease with Borrelia, Bartonella, Babesia
 
-Lyme disease is caused by the tick-borne bacterium Borrelia burgdorferi, often with co-infections by microorganisms Bartonella and Babesia.
+[Lyme disease](../lyme-disease/) is caused by the tick-borne bacterium [Borrelia](../borrelia/)  burgdorferi, often with co-infections by microorganisms [Bartonella](../bartonella/) and [Babesia](../babesia/).
 
 **Borrelia:**
 

@@ -20,6 +20,6 @@ Corticosteroids can have side effects such as weight gain, increased blood press
 
 * **Respiratory Conditions:** Asthma and chronic obstructive pulmonary disease (COPD).
 
-* **Skin Conditions:** Topical corticosteroids are applied to the skin to treat conditions like eczema, psoriasis, and contact dermatitis.
+* **Skin Conditions:** Topical [corticosteroids](../corticosteroids/) are applied to the skin to treat conditions like eczema, psoriasis, and contact dermatitis.
 
 * **Organ Transplants:** Corticosteroid immunosuppressive regimens help prevent transplant organ rejection.

@@ -26,7 +26,7 @@
 * [ ] Dried legumes: chickpeas, black beans, kidney beans
 
 
-## Foods to eat because of low histatime
+## Foods to eat because of low histamine
 
 * Fresh fruit: Apples, pomegranates, grapes, cherries, pears, plums, peaches (any fruit except citrus fruits, strawberries, avocado)
 

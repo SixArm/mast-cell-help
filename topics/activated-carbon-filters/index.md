@@ -1,6 +1,6 @@
 # Activated carbon filters
 
-Activated carbon filters, also known as activated charcoal filters, are specialized air and water purification filters that use activated carbon to remove certain impurities from the air or water.
+Activated carbon filters, also known as [activated charcoal](../activated-charcoal/) filters, are specialized air and water purification filters that use activated carbon to remove certain impurities from the air or water.
 
 **Key points:**
 

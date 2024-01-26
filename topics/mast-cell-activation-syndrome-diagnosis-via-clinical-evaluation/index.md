@@ -12,4 +12,4 @@ The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because
 
 * **Physical Examination:** This can help identify any physical signs that may be associated with MCAS, such as skin changes, swelling, or other visible symptoms.
 
-* **Response to Treatment:** Response to treatment with antihistamines or mast cell stabilizers may be used as a diagnostic tool. If symptoms improve with treatment, it suggests the presence of mast cell activation.
+* **Response to Treatment:** Response to treatment with [antihistamines](../antihistamines/) or mast cell stabilizers may be used as a diagnostic tool. If symptoms improve with treatment, it suggests the presence of mast cell activation.

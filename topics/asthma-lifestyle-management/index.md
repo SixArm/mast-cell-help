@@ -1,6 +1,6 @@
 # Asthma lifestyle management
 
-Asthma lifestyle management means you can adjust your daily activities to help improve your asthma condition.
+Asthma lifestyle management means you can adjust your daily activities to help improve your [asthma](../asthma/) condition.
 
 **Key steps:**
 

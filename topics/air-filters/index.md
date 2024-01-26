@@ -2,7 +2,7 @@
 
 Air filters are devices designed to remove particles, allergens, contaminants, and pollutants from the air, improving indoor air quality. These filters are commonly used in air purifiers and HVAC (Heating, Ventilation, and Air Conditioning) systems,
 
-When choosing an air filter for an air purifier, consider the specific pollutants you want to target, the size of particles to be filtered, and the clean air delivery rate (CADR) of the purifier.
+When choosing an air filter for an air purifier, consider the specific pollutants you want to target, the size of particles to be filtered, and the clean air delivery rate (CADR) of the purifier. See also [activated carbon filters](../activated-carbon-filters/).
 
 **Common types:**
 
@@ -10,7 +10,7 @@ When choosing an air filter for an air purifier, consider the specific pollutant
 
 * **MERV-Rated Filters:** MERV (Minimum Efficiency Reporting Value) ratings indicate the effectiveness of air filters. MERV-rated filters are commonly used in HVAC systems, with higher ratings indicating better filtration.
 
-* **Activated Carbon Filters:** Activated carbon filters excel in removing gases, odors, and volatile organic compounds (VOCs) from the air. They are often used in air purifiers and HVAC systems.
+* **Activated Carbon Filters:** These excel in removing gases, odors, and volatile organic compounds (VOCs) from the air. They are often used in air purifiers and HVAC systems.
 
 * **Electrostatic Filters:** Electrostatic filters use an electric charge to attract and capture particles. They may be washable or disposable and are commonly used in HVAC systems.
 

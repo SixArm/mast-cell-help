@@ -12,7 +12,7 @@ Asthma is a chronic respiratory condition. Treatment typically involves a combin
 
 * **Inhaled Corticosteroids:** These anti-inflammatory medications reduce airway inflammation. Examples: fluticasone, budesonide, beclomethasone.
 
-* **Long-Acting Beta-Agonists (LABAs):** LABAs are often prescribed in combination with inhaled corticosteroids to improve lung function and provide additional symptom control. Examples: salmeterol, formoterol.
+* **Long-Acting Beta-Agonists (LABAs):** LABAs are often prescribed in combination with inhaled [corticosteroids](../corticosteroids/) to improve lung function and provide additional symptom control. Examples: salmeterol, formoterol.
 
 * **Leukotriene Modifiers:** These reduce inflammation and improve airflow in the airways. Example: montelukast.
 

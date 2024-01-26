@@ -16,6 +16,6 @@ A wool allergy is an allergic reaction to proteins found in the fibers of wool. 
 
 * **Management:** The primary management strategy for a wool allergy is to avoid contact with wool and wool-containing products.
 
-* **Treatment:** Over-the-counter or prescription antihistamines and topical corticosteroids may be used to manage symptoms of contact dermatitis.
+* **Treatment:** Over-the-counter or prescription [antihistamines](../antihistamines/) and topical corticosteroids may be used to manage symptoms of contact dermatitis.
 
 * **Prevention:** Individuals with a known wool allergy should read clothing labels carefully, choose hypoallergenic fabrics, and avoid direct contact with wool.

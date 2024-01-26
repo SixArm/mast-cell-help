@@ -2,39 +2,39 @@
 
 Supplements for typical mornings:
 
-* [ ] [Multivitamin](topics/multivitamin)
+* [ ] [Multivitamin](topics/multivitamin/)
 
 * [ ] [Vitamin C - low-histamine forms](vitamin-c-low-histamine-forms)
 
-* [ ] [Quercetin](topics/quercetin)
+* [ ] [Quercetin](topics/quercetin/)
 
-* [ ] [Glutathione](topics/glutathione)
+* [ ] [Glutathione](topics/glutathione/)
 
-* [ ] [Diamine oxidase](topics/diamine-oxidase-supplements)
+* [ ] [Diamine oxidase](topics/diamine-oxidase-supplements/)
 
-* [ ] [Omega-3](topics/omega-3)
+* [ ] [Omega-3](topics/omega-3/)
 
-* [ ] [Turmeric](topics/turmeric)
+* [ ] [Turmeric](topics/turmeric/)
 
-* [ ] [B vitamins](topics/vitamin-b-complex)
+* [ ] [B vitamins](topics/vitamin-b-complex/)
 
-* [ ] [Calcium](topics/calcium)
+* [ ] [Calcium](topics/calcium/)
 
-* [ ] [Calcium D-glucarate](topics/calcium-d-glucarate)
+* [ ] [Calcium D-glucarate](topics/calcium-d-glucarate/)
 
-* [ ] [Copper](topics/copper)
+* [ ] [Copper](topics/copper/)
 
-* [ ] [Zinc](topics/zinc)
+* [ ] [Zinc](topics/zinc/)
 
-* [ ] [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine)
+* [ ] [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
 
-* [ ] [Electrolytes](topics/electrolytes)
+* [ ] [Electrolytes](topics/electrolytes/)
 
-* [ ] [Butterbur](topics/butterbur)
+* [ ] [Butterbur](topics/butterbur/)
 
-* [ ] [Stinging nettle](topics/stinging-nettle)
+* [ ] [Stinging nettle](topics/stinging-nettle/)
 
-* [ ] [Antimicrobial herbs](topics/antimicrobial-herbs)
+* [ ] [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 Research:
 

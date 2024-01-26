@@ -1,6 +1,6 @@
 # Asthma diagnosis
 
-The diagnosis of asthma typically involves a combination of medical history, physical examination, and various diagnostic tests.
+[Asthma](../asthma/) diagnosis typically involves a combination of [medical history](../medical-history/), [physical examination](../physical-examination/), and [diagnostic tests](../diagnostic-tests/).
 
 **Key points:**
 

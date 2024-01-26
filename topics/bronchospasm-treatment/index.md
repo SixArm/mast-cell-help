@@ -1,10 +1,10 @@
 # Bronchospasm treatment
 
-Treatment of bronchospasm typically involves:
+[Bronchospasm](../bronchospasm/) treatment typically involves:
 
 * **Bronchodilators:** These medications, such as short-acting beta-2 agonists (e.g., albuterol) and anticholinergics (e.g., ipratropium), are used to relax the airway smooth muscles and quickly relieve bronchospasm. Long-acting bronchodilators may also be prescribed for long-term management.
 
-* **Anti-inflammatory Medications:** In conditions like asthma, corticosteroids (inhaled or oral) may be used to reduce airway inflammation and prevent bronchospasm.
+* **Anti-inflammatory Medications:** In conditions like asthma, [corticosteroids](../corticosteroids/) (inhaled or oral/) may be used to reduce airway inflammation and prevent bronchospasm.
 
 * **Allergen Avoidance:** For individuals with allergic asthma, identifying and avoiding allergens can help prevent bronchospasm.
 

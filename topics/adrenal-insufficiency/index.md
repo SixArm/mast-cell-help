@@ -14,6 +14,6 @@ Adrenal insufficiency, also known as Addison's disease, is a rare but serious co
 
 * **Treatment:** The main treatment is hormone replacement therapy.
 
-* **Emergency Situations:** Adrenal crisis is a life-threatening situation that can occur when cortisol levels drop significantly. It requires immediate medical attention and treatment with intravenous (IV) corticosteroids and fluids.
+* **Emergency Situations:** Adrenal crisis is a life-threatening situation that can occur when cortisol levels drop significantly. It requires immediate medical attention and treatment with intravenous (IV) [corticosteroids](../corticosteroids/) and fluids.
 
 * **Chronic:** Addison's disease is typically a chronic, lifelong condition.

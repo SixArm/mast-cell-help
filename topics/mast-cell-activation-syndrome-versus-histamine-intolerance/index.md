@@ -12,4 +12,4 @@ Mast Cell Activation Syndrome (MCAS) and Histamine Intolerance (HI) are both con
 
 * **Triggers:** MCAS triggers can include stress, infections, certain foods, medications, and environmental exposures. HI triggers are typically allergens, or medications that interfere with DAO function.
 
-* **Treatment:** MCAS treatment involves a combination of antihistamines, mast cell stabilizers, and medications that target specific symptoms. HI treatment involves avoiding histamine-rich foods, minimizing triggers, and possibly taking DAO supplements.
+* **Treatment:** MCAS treatment involves a combination of [antihistamines](../antihistamines/), mast cell stabilizers, and medications that target specific symptoms. HI treatment involves avoiding histamine-rich foods, minimizing triggers, and possibly taking DAO supplements.

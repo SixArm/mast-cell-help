@@ -1,6 +1,6 @@
 # Household triggers
 
-Household triggers refer to adverse reactions that individuals experience due to exposure to certain household products. Triggers can cause a range of symptoms, from mild irritation to severe anaphylaxis.
+Household triggers refer to adverse reactions that individuals experience due to exposure to certain household products. Triggers can cause a range of symptoms, from mild irritation to severe reactions or[anaphylaxis](../anaphylaxis/).
 
 **Examples:**
 

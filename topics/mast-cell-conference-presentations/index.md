@@ -297,7 +297,7 @@
 "Infectious Mast Cell Triggers and MCAS Approaches"
 
 * Foundational information on Lyme and co-infections
-* **The big 3:** Borrelia, Bartonella and Babesia
+* **The big 3:** [Borrelia](../borrelia/), [Bartonella](../bartonella/) and [Babesia](../babesia/)
 * Testing and treatment options for MCAS patients							
 
 "Improving Your GI system"
@@ -525,7 +525,7 @@ drafrin@armonkmed.com
 "The Intersection of SIBO and MCAS: Histamine, Biome and Biofilms"
 
 * How SIBO can trigger and worsen MCAS
-* Can dysautonomia and connective tissue disorders contribute to SIBO?
+* Can [dysautonomia](../dysautonomia/) and connective tissue disorders contribute to SIBO?
 * Causes, targeted treatments and possibly a cure!							
 
 
@@ -533,6 +533,6 @@ drafrin@armonkmed.com
 
 "The Intersection of MCAS, hEDS and Dysautonomia: Spiky-Leaky Syndrome"
 
-* Link between dysautonomia, MCAS and hypermobile Ehlers-Danlos syndrome (hEDS)
+* Link between [dysautonomia](../dysautonomia/), MCAS and hypermobile Ehlers-Danlos syndrome (hEDS)
 * How these conditions can lead to craniocervical instability and airway loss
 * Understanding spiky-leaky syndrome and how to address it							

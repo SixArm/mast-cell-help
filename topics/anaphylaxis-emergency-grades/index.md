@@ -1,6 +1,6 @@
 # Anaphylaxis emergency grades
 
-Anaphylaxis emergency grades for communicating with emergency healthcare providers:
+[Anaphylaxis](../anaphylaxis/) emergency grades for communicating with emergency healthcare providers:
 
 * **Grade 1:** hives, rash, itching, swelling of mouth/throat.
 

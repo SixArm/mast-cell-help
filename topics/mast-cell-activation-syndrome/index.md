@@ -12,4 +12,4 @@ Mast Cell Activation Syndrome (MCAS) is a medical condition that involves the in
 
 * **Diagnosis:** Diagnosing MCAS can be challenging because the symptoms overlap with many other conditions. It often requires a comprehensive clinical evaluation, including a detailed medical history, physical examination, and laboratory tests to assess mast cell mediator levels.
 
-* **Treatment:** The primary treatment for MCAS involves avoiding triggers and using medications to control symptoms. Medications may include antihistamines, mast cell stabilizers, and sometimes corticosteroids. Identifying and avoiding specific triggers is also an important part of managing the condition.
+* **Treatment:** The primary treatment for MCAS involves avoiding triggers and using medications to control symptoms. Medications may include [antihistamines](../antihistamines/), mast cell stabilizers, and sometimes [corticosteroids](../corticosteroids/). Identifying and avoiding specific triggers is also an important part of managing the condition.

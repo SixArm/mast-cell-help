@@ -8,8 +8,8 @@ Bronchodilators can be administered through various methods, including inhalers,
 
 There are three main types of bronchodilators:
 
-* **Beta-2 Agonists:** These drugs stimulate beta-2 receptors in the airway muscles, causing them to relax and dilate. Short-acting beta-2 agonists are often used for quick relief of acute symptoms, while long-acting ones are used for maintenance therapy. Short-acting beta-2 agonists (SABAs) include albuterol and levalbuterol. Long-acting beta-2 agonists (LABAs) include formoterol and salmeterol.
+* **Beta-2 Agonists**: These drugs stimulate beta-2 receptors in the airway muscles, causing them to relax and dilate. Short-acting beta-2 agonists are often used for quick relief of acute symptoms, while long-acting ones are used for maintenance therapy. Short-acting beta-2 agonists (SABAs) include albuterol and levalbuterol. Long-acting beta-2 agonists (LABAs) include formoterol and salmeterol.
 
-* **Anticholinergics:** These medications work by blocking the action of acetylcholine, a neurotransmitter that causes airway muscles to contract. They are often used in COPD and asthma treatment. Short-acting anticholinergics (SAMA) include ipratropium. Long-acting anticholinergics (LAMA) include tiotropium and umeclidinium.
+* **Anticholinergics**: These medications work by blocking the action of acetylcholine, a neurotransmitter that causes airway muscles to contract. They are often used in COPD and asthma treatment. Short-acting anticholinergics (SAMA) include ipratropium. Long-acting anticholinergics (LAMA) include tiotropium and umeclidinium.
 
-* **Methylxanthines:** This group of bronchodilators includes theophylline. They work by relaxing the airway muscles and reducing inflammation.
+* **Methylxanthines**: This group of bronchodilators includes theophylline. They work by relaxing the airway muscles and reducing inflammation.

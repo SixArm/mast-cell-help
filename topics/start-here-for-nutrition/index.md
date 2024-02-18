@@ -13,7 +13,7 @@
 * [Nutritional shakes](../nutritional-shakes/)
 * [Electrolytes](../electrolytes/)
 
-**Take your vitamins and minerals:** 
+**Take your vitamins and minerals**:
 
 * [Multivitamin](../multivitamin/)
 * [Quercetin](../quercetin/)
@@ -33,7 +33,7 @@
 * [Prebiotic supplements](../prebiotic-supplements/)
 * [Probiotic supplements](../probiotic-supplements/)
 
-**Try natural herbs:** 
+**Try natural herbs**:
 
 * [Berberine](../berberine/)
 * [Butterbur](../butterbur/)

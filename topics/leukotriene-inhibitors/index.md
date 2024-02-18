@@ -8,7 +8,7 @@ Leukotriene inhibitors are a class of medications used to manage inflammatory co
 
 * **Asthma**: Leukotriene inhibitors are often used as maintenance therapy to manage asthma, particularly in individuals with mild to moderate persistent asthma or exercise-induced bronchoconstriction.
 
-* **Allergic Rhinitis**: Leukotriene inhibitors are also used to treat allergic rhinitis, especially when symptoms are not adequately controlled with antihistamines or intranasal corticosteroids. 
+* **Allergic Rhinitis**: Leukotriene inhibitors are also used to treat allergic rhinitis, especially when symptoms are not adequately controlled with antihistamines or intranasal corticosteroids.
 
 * **Other Conditions**: Leukotriene inhibitors may have other potential uses in conditions such as chronic urticaria (hives), atopic dermatitis (eczema), and exercise-induced bronchoconstriction.
 
@@ -17,6 +17,6 @@ Leukotriene inhibitors are a class of medications used to manage inflammatory co
 **Two main types:**
 
 * **Leukotriene receptor antagonists (LTRAs)** block the action of leukotriene receptors on target cells, preventing leukotrienes from exerting their inflammatory effects. Examples: montelukast, zafirlukast, pranlukast.
-  
+
 * **Leukotriene synthesis inhibitors (LTSIs)** inhibit the enzyme 5-lipoxygenase, which is responsible for the synthesis of leukotrienes from arachidonic acid. Example: zileuton.
 

@@ -1,6 +1,6 @@
 # Asthma triggers
 
-Asthma may be triggered or worsened by various factors, including:
+[Asthma](../asthma/) may be triggered or worsened by various factors, including:
 
 * Allergens (e.g., pollen, dust mites, pet dander)
 

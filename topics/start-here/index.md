@@ -9,7 +9,7 @@ If you're sick and you need help now, start here. If you're experiencing severe 
 * [Environmental triggers](../environmental-triggers/)
 * [Food triggers](../food-triggers/)
 
-**Clean your space:** 
+**Clean your space**:
 
 * [Trigger cleaning](../trigger-cleaning/)
 * [Air filters](../air-filters/)

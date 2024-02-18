@@ -8,7 +8,7 @@ Activated charcoal, also known as activated carbon, is a form of carbon that has
 
 * **Over-the-Counter products**: Activated charcoal is available over the counter in various forms, such as capsules and powder. Some people use it as a dietary supplement or for digestive issues.
 
-* **Side effects:** When taken internally, it can also lead to potential side effects, including constipation, black stools, and gastrointestinal discomfort. It can also interfere with the absorption of medications and nutrients when taken internally.
+* **Side effects**: When taken internally, it can also lead to potential side effects, including constipation, black stools, and gastrointestinal discomfort. It can also interfere with the absorption of medications and nutrients when taken internally.
 
 * **Teeth whitening**: Activated charcoal is sometimes used in dental products, such as toothpaste and mouthwash, as a potential teeth-whitening agent.
 

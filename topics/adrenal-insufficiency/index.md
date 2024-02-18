@@ -4,16 +4,16 @@ Adrenal insufficiency, also known as Addison's disease, is a rare but serious co
 
 **Key points:**
 
-* **Causes:** The most common causes include autoimmune disorders where the body's immune system mistakenly attacks and damages the adrenal glands. Other causes may include infections, tumors, or certain medications.
+* **Causes**: The most common causes include autoimmune disorders where the body's immune system mistakenly attacks and damages the adrenal glands. Other causes may include infections, tumors, or certain medications.
 
-* **Symptoms:** Fatigue, loss of appetite, low blood pressure, salt cravings, nausea, vomiting, and darkening of the skin.
+* **Symptoms**: Fatigue, loss of appetite, low blood pressure, salt cravings, nausea, vomiting, and darkening of the skin.
 
-* **Cortisol and Aldosterone Deficiency:** Cortisol is a hormone essential for regulating metabolism, blood sugar, and stress response. Aldosterone helps regulate sodium and potassium levels in the body, affecting blood pressure and fluid balance.
+* **Cortisol and Aldosterone Deficiency**: Cortisol is a hormone essential for regulating metabolism, blood sugar, and stress response. Aldosterone helps regulate sodium and potassium levels in the body, affecting blood pressure and fluid balance.
 
-* **Diagnosis:** Blood tests measure cortisol and adrenocorticotropic hormone (ACTH) levels. Imaging tests such as CT scans may identify damage or abnormalities in the adrenal glands.
+* **Diagnosis**: Blood tests measure cortisol and adrenocorticotropic hormone (ACTH) levels. Imaging tests such as CT scans may identify damage or abnormalities in the adrenal glands.
 
-* **Treatment:** The main treatment is hormone replacement therapy.
+* **Treatment**: The main treatment is hormone replacement therapy.
 
-* **Emergency Situations:** Adrenal crisis is a life-threatening situation that can occur when cortisol levels drop significantly. It requires immediate medical attention and treatment with intravenous (IV) [corticosteroids](../corticosteroids/) and fluids.
+* **Emergency Situations**: Adrenal crisis is a life-threatening situation that can occur when cortisol levels drop significantly. It requires immediate medical attention and treatment with intravenous (IV) [corticosteroids](../corticosteroids/) and fluids.
 
-* **Chronic:** Addison's disease is typically a chronic, lifelong condition.
+* **Chronic**: Addison's disease is typically a chronic, lifelong condition.

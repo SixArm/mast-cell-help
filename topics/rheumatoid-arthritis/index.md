@@ -4,14 +4,14 @@ Rheumatoid arthritis (RA) is an autoimmune disease that primarily affects the jo
 
 **Key points:**
 
-* **Symptoms:** Common symptoms of RA include joint pain, swelling, and stiffness, which are often more pronounced in the morning or after periods of inactivity.
+* **Symptoms**: Common symptoms of RA include joint pain, swelling, and stiffness, which are often more pronounced in the morning or after periods of inactivity.
 
-* **Diagnosis:** Blood tests look for rheumatoid factor and anti-cyclic citrullinated peptide or anti-CCP antibodies. Imaging studies can help.
+* **Diagnosis**: Blood tests look for rheumatoid factor and anti-cyclic citrullinated peptide or anti-CCP antibodies. Imaging studies can help.
 
-* **Treatment:** Treatment for RA aims to reduce inflammation, relieve pain, slow down joint damage, and improve the patient's quality of life. Common treatments include disease-modifying antirheumatic drugs (DMARDs), nonsteroidal anti-inflammatory drugs (NSAIDs), and biologic therapies. Lifestyle modifications include physical therapy, stopping smoking, stress management, and exercise.
+* **Treatment**: Treatment for RA aims to reduce inflammation, relieve pain, slow down joint damage, and improve the patient's quality of life. Common treatments include disease-modifying antirheumatic drugs (DMARDs), nonsteroidal anti-inflammatory drugs (NSAIDs), and biologic therapies. Lifestyle modifications include physical therapy, stopping smoking, stress management, and exercise.
 
-* **Autoimmune Disease:** In RA, the body's immune system mistakenly attacks healthy tissues, primarily the synovium, causing inflammation.
+* **Autoimmune Disease**: In RA, the body's immune system mistakenly attacks healthy tissues, primarily the synovium, causing inflammation.
 
-* **Progressive Joint Damage:** Over time, persistent inflammation can lead to joint damage and deformities. This joint damage can be irreversible.
+* **Progressive Joint Damage**: Over time, persistent inflammation can lead to joint damage and deformities. This joint damage can be irreversible.
 
-* **Extra-Articular Manifestations:** RA can affect organs and systems outside the joints, leading to complications such as inflammation of the heart lining (pericarditis), lung disease, and an increased risk of cardiovascular disease.
+* **Extra-Articular Manifestations**: RA can affect organs and systems outside the joints, leading to complications such as inflammation of the heart lining (pericarditis), lung disease, and an increased risk of cardiovascular disease.

@@ -4,12 +4,12 @@ Sulfur intolerance, also known as sulfur sensitivity, is a condition in which an
 
 **Common symptoms:**
 
-* **Gastrointestinal symptoms:** abdominal pain, bloating, diarrhea, nausea.
+* **Gastrointestinal symptoms**: abdominal pain, bloating, diarrhea, nausea.
 
-* **Skin symptoms:** hives, itchy skin, eczema.
+* **Skin symptoms**: hives, itchy skin, eczema.
 
-* **Respiratory symptoms:** coughing, wheezing, shortness of breath, nasal congestion.
+* **Respiratory symptoms**: coughing, wheezing, shortness of breath, nasal congestion.
 
-* **Other symptoms:** headache, fatigue, muscle pain, joint pain, brain fog.
+* **Other symptoms**: headache, fatigue, muscle pain, joint pain, brain fog.
 
 Sulfur intolerance is distinct from sulfite sensitivity or sulfite allergy, which is a specific reaction to sulfites commonly found in processed foods and beverages. Sulfite sensitivity can cause asthma-like symptoms and is characterized by a more immediate and severe allergic response.

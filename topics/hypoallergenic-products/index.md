@@ -4,27 +4,27 @@
 
 **Examples:**
 
-* **Soaps:** Formulated to remove dirt and makeup without causing irritation. 
+* **Soaps**: Formulated to remove dirt and makeup without causing irritation.
 
-* **Deodorant:** Free of fragrances, dyes, aluminum, and zirconium.
-  
-* **Toothpaste:** Free of artificial flavors, artificial colors, and microplastics.
+* **Deodorant**: Free of fragrances, dyes, aluminum, and zirconium.
 
-* **Laundry Detergents:** Formulated to be gentle on the skin and free from harsh chemicals, dyes, and fragrances.
+* **Toothpaste**: Free of artificial flavors, artificial colors, and microplastics.
 
-* **Dishwasher Detergents:** Formulated to be non-toxic and free from rinse-aid, harsh chemicals, dyes, and fragrances.
+* **Laundry Detergents**: Formulated to be gentle on the skin and free from harsh chemicals, dyes, and fragrances.
 
-* **Moisturizers:** Formulated to provide hydration without common allergens. 
-  
+* **Dishwasher Detergents**: Formulated to be non-toxic and free from rinse-aid, harsh chemicals, dyes, and fragrances.
+
+* **Moisturizers**: Formulated to provide hydration without common allergens.
+
 * **Sunscreens**: Designed for sensitive skin with minimal chemical additives or fragrance.
 
-* **Makeup:** Formulated without common allergens, fragrances, and harsh chemicals.
-  
-* **Mascara:** Designed for sensitive eyes and contact lens wearers.
+* **Makeup**: Formulated without common allergens, fragrances, and harsh chemicals.
 
-* **Shampoo:** Formulated without common allergens, fragrances, and harsh detergents.
+* **Mascara**: Designed for sensitive eyes and contact lens wearers.
 
-* **Baby Products:** Designed for sensitive baby skin.
+* **Shampoo**: Formulated without common allergens, fragrances, and harsh detergents.
 
-* **Household Cleaners:** Fewer harsh chemicals, dyes, and fragrances.
+* **Baby Products**: Designed for sensitive baby skin.
+
+* **Household Cleaners**: Fewer harsh chemicals, dyes, and fragrances.
 

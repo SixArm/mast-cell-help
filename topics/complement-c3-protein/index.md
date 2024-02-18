@@ -15,7 +15,7 @@ The activity of complement C3 is tightly regulated by various complement regulat
 **Activation pathways**:
 
 * **Classical Pathway**: Activation occurs when complement protein C1 binds to antibodies attached to the surface of pathogens, leading to the sequential cleavage of C4 and C2 and the formation of the C3 convertase (C4b2a), which cleaves C3 into C3a and C3b.
- 
+
 * **Alternative Pathway**: Activation occurs spontaneously when C3 undergoes a slow hydrolysis reaction, generating C3(H2O), which can bind to factors B and D to form the alternative pathway C3 convertase (C3(H2O)Bb), leading to further cleavage of C3.
 
 * **Lectin Pathway**: Activation occurs when mannose-binding lectin (MBL) or ficolins bind to carbohydrate structures on the surface of pathogens, leading to the recruitment of MBL-associated serine proteases (MASPs) and the formation of the lectin pathway C3 convertase (C4b2a).

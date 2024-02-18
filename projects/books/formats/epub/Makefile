@@ -20,7 +20,6 @@ ${links}:
 
 ${bound}:
 	book-binder start.yml ${links} ${bound} "${top}/topics"
-	"${bin}/cook-pandoc-markdown-topic-links" ${bound}
 
 ${output}:
 	${pandoc} ${bound} -o ${output}

@@ -2,45 +2,45 @@
 
 **Blood work**:
 
-* **CBC:** complete blood count
+* **CBC**: complete blood count
 
-* **FBC:** full blood count
+* **FBC**: full blood count
 
 **Common tests:**
 
-* **LFT:** liver function test
+* **LFT**: liver function test
 
-* **ECG:** electrocardiogram
+* **ECG**: electrocardiogram
 
-* **EEG:** electroencephalogram
+* **EEG**: electroencephalogram
 
-* **EMG:** electromyogram
+* **EMG**: electromyogram
 
 **Imaging:**
 
-* **CT:** computerized tomography
+* **CT**: computerized tomography
 
-* **MRI:** magnetic resonance imaging
+* **MRI**: magnetic resonance imaging
 
-* **PET:** positron emission tomography
+* **PET**: positron emission tomography
 
 **Markers:**
 
-* **ABG:** arterial blood gas
+* **ABG**: arterial blood gas
 
-* **BMR:** basal metabolism rate
+* **BMR**: basal metabolism rate
 
-* **BP:**  blood pressure
+* **BP**:  blood pressure
 
-* **CRP:** [C-reactive protein (CRP)](../c-reactive-protein/) blood test marker of inflammation
+* **CRP**: [C-reactive protein (CRP)](../c-reactive-protein/) blood test marker of inflammation
 
-* **Hb:** hemoglobin (a substance in red blood cells that moves oxygen around the body)
+* **Hb**: hemoglobin (a substance in red blood cells that moves oxygen around the body)
 
-* **RBC:** red blood cell
+* **RBC**: red blood cell
 
-* **WBC:** white blood cell
+* **WBC**: white blood cell
 
-* **LDL:** low-density lipoprotein (a.k.a. bad cholesterol)
+* **LDL**: low-density lipoprotein (a.k.a. bad cholesterol)
 
-* **HDL:** high-density lipoprotein (a.k.a. good cholesterol)
+* **HDL**: high-density lipoprotein (a.k.a. good cholesterol)
 

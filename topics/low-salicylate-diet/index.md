@@ -2,9 +2,9 @@
 
 A low-salicylate diet, sometimes called a low-salicylic acid diet, is a dietary approach that restricts foods and beverages with high levels of salicylates. Salicylates are naturally occurring chemicals found in various plants and foods. In some people, salicylates can cause headaches, skin rashes, digestive issues, and other discomfort.
 
-* **Foods to choose:** low-salicylate fruits (e.g. pears, papayas, melons), Low-salicylate vegetables (e.g. carrots, sweet potatoes, zucchini), lean proteins (e.g. chicken, turkey, fish), dairy products (if tolerated), grains (e.g. rice, rice noodles, and oatmeal), non-caffeinated beverages (e.g. water, herbal teas), oils, and fats.
+* **Foods to choose**: low-salicylate fruits (e.g. pears, papayas, melons), Low-salicylate vegetables (e.g. carrots, sweet potatoes, zucchini), lean proteins (e.g. chicken, turkey, fish), dairy products (if tolerated), grains (e.g. rice, rice noodles, and oatmeal), non-caffeinated beverages (e.g. water, herbal teas), oils, and fats.
 
-* **Foods to avoid:** high-salicylate fruits and vegetables, most spices and herbs, high-salicylate nuts (e.g. almonds, peanuts), some grains (e.g. wheat, rye), caffeinated beverages (e.g. coffee, black tea), alcohol, certain food additives, and processed foods with artificial colors and flavors.
+* **Foods to avoid**: high-salicylate fruits and vegetables, most spices and herbs, high-salicylate nuts (e.g. almonds, peanuts), some grains (e.g. wheat, rye), caffeinated beverages (e.g. coffee, black tea), alcohol, certain food additives, and processed foods with artificial colors and flavors.
 
 Salicylates are found in a wide range of foods, including fruits (especially berries, grapes, and citrus), vegetables (tomatoes, peppers, and eggplants), spices, herbs (e.g., mint, oregano), some nuts, and certain flavorings and food additives.
 
@@ -14,15 +14,15 @@ Before starting a low-salicylate diet, it is advisable to consult with a healthc
 
 # Low-salicylate diet: foods to choose
 
-* **Vegetables:** carrots, sweet potatoes, zucchini.
+* **Vegetables**: carrots, sweet potatoes, zucchini.
 
-* **Fruits:** pears, papayas, melons.
+* **Fruits**: pears, papayas, melons.
 
-* **Proteins:** lean chicken, turkey, fish.
+* **Proteins**: lean chicken, turkey, fish.
 
 * **Grains**: rice, rice noodles, oatmeal.
 
-* **Beverages:** water, non-caffeinated herbal teas.
+* **Beverages**: water, non-caffeinated herbal teas.
 
 # Low-salicylate diet: foods to avoid
 

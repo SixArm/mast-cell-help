@@ -4,12 +4,12 @@ Cholestyramine (a.k.a. brand name Questran), colesevelam (a.k.a. brand name Welc
 
 **Key points:**
 
-* **Uses:** These are prescribed to individuals with high cholesterol, specifically high levels of low-density lipoprotein (LDL) cholesterol.
+* **Uses**: These are prescribed to individuals with high cholesterol, specifically high levels of low-density lipoprotein (LDL) cholesterol.
 
-* **Administration:** These are generally taken with meals to maximize its cholesterol-lowering effects. To prevent interactions, take other medications at least one hour before or four to six hours after taking colesevelam.
+* **Administration**: These are generally taken with meals to maximize its cholesterol-lowering effects. To prevent interactions, take other medications at least one hour before or four to six hours after taking colesevelam.
 
-* **Side Effects:** Common side effects may include constipation, stomach discomfort, gas, and nausea. Colesevelam may interfere with the absorption of certain fat-soluble vitamins (A, D, E, K) and of certain medications.
+* **Side Effects**: Common side effects may include constipation, stomach discomfort, gas, and nausea. Colesevelam may interfere with the absorption of certain fat-soluble vitamins (A, D, E, K) and of certain medications.
 
-* **Contraindications:** These should not be used in individuals with a history of bowel obstructions or certain gastrointestinal disorders.
+* **Contraindications**: These should not be used in individuals with a history of bowel obstructions or certain gastrointestinal disorders.
 
-* **Duration of Use:** These are generally used as a long-term treatment. The duration of use is determined by a healthcare provider based on individual needs and response to treatment.
+* **Duration of Use**: These are generally used as a long-term treatment. The duration of use is determined by a healthcare provider based on individual needs and response to treatment.

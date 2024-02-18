@@ -5,7 +5,7 @@ Biofilm busters are substances or compounds that are capable of disrupting or br
 **Examples**:
 
 * **Enzymes**: Certain enzymes, such as DNase (deoxyribonuclease) and dispersin B, can degrade the extracellular DNA and polysaccharides that make up the biofilm matrix.
-  
+
 * **Antimicrobial Agents**: Some antimicrobial agents, such as antibiotics, antimicrobial peptides, and quorum sensing inhibitors, can target and kill the microorganisms within the biofilm.
 
 * **Chelating Agents**: Chelating agents, such as ethylenediaminetetraacetic acid (EDTA) or citric acid, can bind to metal ions that are essential for biofilm formation and growth.
@@ -14,4 +14,4 @@ Biofilm busters are substances or compounds that are capable of disrupting or br
 
 * **Natural Products**: Some natural products, such as essential oils, plant extracts, and microbial metabolites, can break down biofilms via enzymatic degradation, antimicrobial activity, or interference with quorum sensing.
 
-* **Physical Methods**: Physical methods, such as ultrasonication, mechanical agitation, or high-pressure water jets, can be used to physically disrupt or remove biofilms from surfaces. 
+* **Physical Methods**: Physical methods, such as ultrasonication, mechanical agitation, or high-pressure water jets, can be used to physically disrupt or remove biofilms from surfaces.

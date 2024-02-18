@@ -14,6 +14,5 @@
 
 * [La Croix Sparkling Water](https://www.lacroixwater.com/)
 
-* Any caffeine-free zero-sugar soda
+* Any caffeine-free zero-sugar soda, ideally additive-free, preservative-free, dye-free
 
-* Coke Zero

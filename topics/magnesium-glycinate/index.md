@@ -4,14 +4,14 @@ Magnesium glycinate is a form of magnesium supplement that is bound to the amino
 
 **Key points:**
 
-* **Bioavailability:** The body can absorb and utilize a significant portion of the magnesium in this form.
+* **Bioavailability**: The body can absorb and utilize a significant portion of the magnesium in this form.
 
-* **Glycine Content:** Glycine is an amino acid that has calming and relaxing effects.
+* **Glycine Content**: Glycine is an amino acid that has calming and relaxing effects.
 
-* **Muscle and Nerve Function:** Magnesium is crucial for proper muscle contractions and nerve electrical activity.
+* **Muscle and Nerve Function**: Magnesium is crucial for proper muscle contractions and nerve electrical activity.
 
-* **Bone Health:** Magnesium works in conjunction with calcium and vitamin D to support bone formation and to maintain bone density.
+* **Bone Health**: Magnesium works in conjunction with calcium and vitamin D to support bone formation and to maintain bone density.
 
-* **Energy Production:**   Magnesium is a cofactor for various enzymes involved in energy production, including the synthesis of adenosine triphosphate (ATP).
+* **Energy Production**:   Magnesium is a cofactor for various enzymes involved in energy production, including the synthesis of adenosine triphosphate (ATP).
 
-* **Cardiovascular Health:** Magnesium helps regulate blood pressure, supports the normal functioning of the heart, and may have vasodilatory effects.
+* **Cardiovascular Health**: Magnesium helps regulate blood pressure, supports the normal functioning of the heart, and may have vasodilatory effects.

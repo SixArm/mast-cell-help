@@ -4,12 +4,12 @@ Tryptase is an enzyme that is primarily found in mast cells, a type of white blo
 
 **Key points:**
 
-* **Allergic Reactions:** Elevated levels of tryptase can be detected in the blood during allergic reactions, including anaphylaxis, a severe and potentially life-threatening allergic response.
+* **Allergic Reactions**: Elevated levels of tryptase can be detected in the blood during allergic reactions, including anaphylaxis, a severe and potentially life-threatening allergic response.
 
-* **Diagnosis and Monitoring:** Tryptase levels can be measured in clinical practice to help diagnose and monitor certain conditions. For example, in cases of suspected mast cell disorders or systemic mastocytosis (a rare condition where excessive mast cells accumulate in various tissues), measuring tryptase levels can be useful.
+* **Diagnosis and Monitoring**: Tryptase levels can be measured in clinical practice to help diagnose and monitor certain conditions. For example, in cases of suspected mast cell disorders or systemic mastocytosis (a rare condition where excessive mast cells accumulate in various tissues), measuring tryptase levels can be useful.
 
-* **Normal Range:** In healthy individuals, the normal range for tryptase in the blood is relatively low. Elevated levels may be an indication of an allergic or inflammatory response, or, in some cases, an underlying medical condition involving mast cells.
+* **Normal Range**: In healthy individuals, the normal range for tryptase in the blood is relatively low. Elevated levels may be an indication of an allergic or inflammatory response, or, in some cases, an underlying medical condition involving mast cells.
 
-* **Tissue and Mast Cell Types:** Tryptase comes in different forms, including alpha and beta tryptase, with alpha tryptase being the most abundant form in humans. Alpha tryptase is primarily found in mast cells, whereas beta tryptase is also found in other tissues.
+* **Tissue and Mast Cell Types**: Tryptase comes in different forms, including alpha and beta tryptase, with alpha tryptase being the most abundant form in humans. Alpha tryptase is primarily found in mast cells, whereas beta tryptase is also found in other tissues.
 
-* **Treatment:** In cases of severe allergic reactions or anaphylaxis, the treatment often includes medications like adrenaline to counter the effects of tryptase and other inflammatory mediators released during the allergic response.
+* **Treatment**: In cases of severe allergic reactions or anaphylaxis, the treatment often includes medications like adrenaline to counter the effects of tryptase and other inflammatory mediators released during the allergic response.

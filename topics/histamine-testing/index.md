@@ -4,10 +4,10 @@ Histamine testing is often done to assess the levels of histamine in the body, p
 
 **Common methods:**
 
-* **Blood Plasma Histamine Test:** Blood is drawn, and the sample is analyzed to determine if histamine levels are within the normal range.
+* **Blood Plasma Histamine Test**: Blood is drawn, and the sample is analyzed to determine if histamine levels are within the normal range.
 
-* **Blood Diamine Oxidase (DAO) Activity Test:** DAO is an enzyme that breaks down histamine in the body. A blood test can measure the activity of DAO, and low DAO activity may suggest an inability to effectively break down histamine, potentially contributing to histamine intolerance.
+* **Blood Diamine Oxidase (DAO) Activity Test**: DAO is an enzyme that breaks down histamine in the body. A blood test can measure the activity of DAO, and low DAO activity may suggest an inability to effectively break down histamine, potentially contributing to histamine intolerance.
 
-* **Urine Test:** Some tests measure histamine and its metabolites in urine. Elevated levels in urine may suggest an excess of histamine in the body.
+* **Urine Test**: Some tests measure histamine and its metabolites in urine. Elevated levels in urine may suggest an excess of histamine in the body.
 
-* **Provocation Test:** A patient is given a controlled dose of histamine, usually through injection or ingestion, and their response is observed.
+* **Provocation Test**: A patient is given a controlled dose of histamine, usually through injection or ingestion, and their response is observed.

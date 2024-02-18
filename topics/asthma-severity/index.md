@@ -1,6 +1,6 @@
 # Asthma severity
 
-Asthma can vary in severity from person to person.
+[Asthma](../asthma/) can vary in severity from person to person.
 
 **Intermittent Asthma:**
 

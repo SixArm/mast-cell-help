@@ -4,13 +4,17 @@ Triggers refers to whatever causes your symptoms. Some triggers are easy to find
 
 **Typical types:**
 
-* **Ingestions:** such as foods, drinks, ingredients, additives, preservatives, artificial colors and flavors and sweeteners, lactose, gluten, sulfites, salicylates, caffeine, nightshades, shellfish, soy, eggs, nuts.
+* **Ingestions**: such as foods, drinks, ingredients, additives, preservatives, artificial colors and flavors and sweeteners, lactose, gluten, sulfites, salicylates, caffeine, nightshades, shellfish, soy, eggs, nuts, oats, wheat, nickel.
 
-* **Encounters:** such as environmental allergens, irritants, toxins, chemicals, dyes, bee stings, snake bites, household products, pollens, mold, mildew, dust, mites, pet dander, pollution, smoke, excess carbon monoxide, fragrances, cleaners, fabric treatments, pesticides, herbicides, insecticides, bug sprays, paints, solvents, varnishes, volatile organic compounds (VOCs), formaldehyde, outgasses, plastics, synthetic materials, latex, fuels, metals.
+* **Encounters**: such as environmental allergens, irritants, toxins, chemicals, dyes, bee stings, snake bites, household products, pollens, mold, mildew, dust, mites, pet dander, pollution, smoke, excess carbon monoxide,
 
-* **Sensations:** overheating, overexertion, overtiredness, overwork, temperature changes, air pressure changes, weather changes, vibrations, sounds, smells, stress, fear, anxiety, frustration, electromagnetic fields (EMFs).
-  
-* **Internals:** such as microbiome imbalance, gastrointestinal distress, mycotoxins, bacteria, germs, viruses, parasites, algae, Lyme disease with Borrelia or Bartonella or Babesia.
+* **Chemicals**: such as sodium lauryl sulphate, parabens, phthalates, synthetic fragrances, synthetic colors, synthetic materials, triclosan, propylene glycol, fragrances, makeup, shampoo, soap, cleaners, fabric treatments, pesticides, herbicides, insecticides, bug sprays, paints, solvents, varnishes, volatile organic compounds (VOCs), formaldehyde, outgasses, plastics, , latex, fuels, metals.
+
+* **Medications**: such as penicillin, sulfa drugs, aspirin, ibuprofen, naproxen, nonsteroidal anti-inflammatory drugs (NSAIDs), insulin, iodine, birth control, hormone replacement therapy, seizure medications, x-ray contrast dyes, medical additives and preservatives, medication coloring or flavoring, tablet binders especially dextrose a.k.a. corn sugar.
+
+* **Sensations**: such as overheating, overexertion, overtiredness, overwork, temperature changes, air pressure changes, weather changes, vibrations, sounds, smells, stress, fear, anxiety, frustration, electromagnetic fields (EMFs).
+
+* **Internals**: such as hormonal changes, microbiome imbalance, gastrointestinal distress, mycotoxins, bacteria, germs, viruses, parasites, algae, Lyme disease with Borrelia or Bartonella or Babesia.
 
 **Trigger triage:**
 

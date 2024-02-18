@@ -12,14 +12,14 @@ Corticosteroids can have side effects such as weight gain, increased blood press
 
 **Treatable conditions:**
 
-* **Inflammatory Disorders:** Rheumatoid arthritis, systemic lupus erythematosus (SLE), and inflammatory bowel disease.
+* **Inflammatory Disorders**: Rheumatoid arthritis, systemic lupus erythematosus (SLE), and inflammatory bowel disease.
 
-* **Allergic Reactions:** Acute allergic reactions and chronic conditions such as asthma and allergic rhinitis.
+* **Allergic Reactions**: Acute allergic reactions and chronic conditions such as asthma and allergic rhinitis.
 
-* **Autoimmune Diseases:** Diseases where the immune system attacks the body's own tissues, such as multiple sclerosis.
+* **Autoimmune Diseases**: Diseases where the immune system attacks the body's own tissues, such as multiple sclerosis.
 
-* **Respiratory Conditions:** Asthma and chronic obstructive pulmonary disease (COPD).
+* **Respiratory Conditions**: Asthma and chronic obstructive pulmonary disease (COPD).
 
-* **Skin Conditions:** Topical [corticosteroids](../corticosteroids/) are applied to the skin to treat conditions like eczema, psoriasis, and contact dermatitis.
+* **Skin Conditions**: Topical [corticosteroids](../corticosteroids/) are applied to the skin to treat conditions like eczema, psoriasis, and contact dermatitis.
 
-* **Organ Transplants:** Corticosteroid immunosuppressive regimens help prevent transplant organ rejection.
+* **Organ Transplants**: Corticosteroid immunosuppressive regimens help prevent transplant organ rejection.

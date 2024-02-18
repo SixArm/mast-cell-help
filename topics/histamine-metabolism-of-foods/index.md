@@ -31,7 +31,7 @@ for treatment, because different mechanisms may need different treatments.
   Even healthy people can react to liberators if the dose is strong enough.
   Medication: H1 antihistamines, cromoglicic acid (or its salt sodium
   cromoglicate or cromolyn sodium), ibuprofen. DAOSIN has no direct effect.
-  
+
 * **Diamine oxidase inhibitors**: Diamine oxidase is a sensitive molecule that
   can be inhibited in its activity by chemical influences. Foods and additives can
   block the breakdown of histamine by the DAO. It is still too little known about

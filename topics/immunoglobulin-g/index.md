@@ -1,13 +1,13 @@
 # Immunoglobulin G (IgG)
 
-Immunoglobulin G (IgG) is the most abundant class of antibodies found in the bloodstream and extracellular fluids. It plays a crucial role in the adaptive immune response, providing defense against pathogens such as bacteria, viruses, and toxins. 
+Immunoglobulin G (IgG) is the most abundant class of antibodies found in the bloodstream and extracellular fluids. It plays a crucial role in the adaptive immune response, providing defense against pathogens such as bacteria, viruses, and toxins.
 
 **Key points:**
 
 * **Neutralization**: IgG antibodies can neutralize pathogens by binding to them and blocking their ability to infect host cells.
-   
+
 * **Opsonization**: IgG antibodies can coat pathogens, marking them for destruction by phagocytes (such as macrophages and neutrophils) through a process called opsonization.
-   
+
 * **Activation of Complement**: IgG antibodies can activate the complement system, a group of proteins that enhances the immune response by promoting inflammation, attracting immune cells to the site of infection, and directly lysing pathogens.
 
 * **Antibody-Dependent Cellular Cytotoxicity (ADCC)**: IgG antibodies can stimulate immune cells such as natural killer (NK) cells to recognize and destroy cells coated with antibodies, such as virus-infected cells or tumor cells.

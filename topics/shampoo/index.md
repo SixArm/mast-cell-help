@@ -15,3 +15,13 @@ Shampoo recommended by mast cell people:
 * [SEEN -  Shampoo, Fragrance Free](https://helloseen.com/products/shampoo-fragrance-free)
 
 * [No Nothing - Very Sensitive Repair Shampoo](https://nonothing.us/products/no-nothing-very-sensitive-repair-shampoo)
+
+* [Innersense - Clarity Hairbath - hypoallergenic and fragrance-free](https://innersensebeauty.com/product/clarity-hairbath/)
+
+* [Vunella - Shampoo Bar](https://vunella.com/products/vunella-shampoo-bar)
+
+* [Field Day Products - Fragrance Free Shampoo](https://www.fielddayproducts.com/our-products/product.fragrance-free-shampoo-042563604486.html)
+
+* [Jessicurl - Gentle Lather Shampoo](https://jessicurl.com/products/gentle-lather-shampoo)
+
+* [Earth Science Beauty - Fragrance Free Shampoo](https://earthsciencebeauty.com/products/fragrance-free-shampoo)

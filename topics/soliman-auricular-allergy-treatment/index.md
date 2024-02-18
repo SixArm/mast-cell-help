@@ -8,8 +8,8 @@ Soliman Auricular Allergy Treatment (SAAT) is a technique developed by Dr. Nader
 
 * **Allergy Treatment**: Specific points on the ear are targeted to address allergic reactions and related symptoms. These points may be selected based on the individual's specific allergy triggers, symptoms, and overall health status.
 
-* **Action**: The mechanism is thought to involve the modulation of the immune response and the release of neurotransmitters and endorphins. 
-  
+* **Action**: The mechanism is thought to involve the modulation of the immune response and the release of neurotransmitters and endorphins.
+
 * **Procedure**: During a SAAT session, fine acupuncture needles may be inserted into or near specific points on the ear corresponding to the patient's allergies. Alternatively, acupressure or other stimulation techniques may be used to activate these points without needles.
 
 * **Effectiveness**: Evidence supporting the effectiveness of SAAT specifically is limited. More research is needed.

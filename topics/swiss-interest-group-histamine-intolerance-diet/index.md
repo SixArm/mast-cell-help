@@ -10,7 +10,7 @@ amines and DAO inhibitors in their diet.
 Mast cell activation disorders are often mistaken for histamine intolerance. In
 case of histamine sensitivity due to mast cell activation disorders (MCAD) this
 dietary guideline is not sufficient. See the detailed list, which additionally
-takes histamine liberators into consideration as completely as possible. 
+takes histamine liberators into consideration as completely as possible.
 
 [www.mastzellaktivierung.info](https://www.mastzellaktivierung.info)
 

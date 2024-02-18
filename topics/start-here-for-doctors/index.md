@@ -6,7 +6,7 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [SHINE protocol](../shine-protocol/),
 [Shoemaker Biotoxin Illness Protocol](../shoemaker-biotoxin-illness-protocol/).
 
-**Do diagnoses:** 
+**Do diagnoses**:
 [anaphylaxis](../anaphylaxis/),
 [histamine intolerance (HI)](../histamine-intolerance/),
 [allergies](../allergies/),
@@ -21,7 +21,7 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [rheumatoid arthritis (RA)](../rheumatoid-arthritis/),
 [scar tissue adhesions](../scar-tissue-adhesions/).
 
-**Order tests:** 
+**Order tests**:
 [allergy testing](../allergy-testing/),
 [histamine testing](../histamine-testing/),
 [nutrition testing](../nutrition-testing/),
@@ -41,21 +41,23 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [biotoxin treatments](../biotoxin-treatments/),
 [bronchodilators](../bronchodilators/),
 [corticosteroids](../corticosteroids/),
-[low-dose naltrexone (LDN)](../low-dose-naltrexone/),
 [cromolyn sodium](../cromolyn-sodium/),
+[leukotriene inhibitors](../leukotriene-inhibitors/),
+[low-dose naltrexone (LDN)](../low-dose-naltrexone/),
 [Myers' Cocktail](../myers-cocktail/),
 [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](../nicotinamide-adenine-dinucleotide-intravenous-therapy/).
 
-**Consider more modalities:** 
+**Consider more modalities**:
 [alternative therapies](../alternative-therapies/),
 [functional medicine](../functional-medicine/),
 [integrative medicine](../integrative-medicine/),
 [complementary and alternative medicine (CAM)](../complementary-and-alternative-medicine/),
 [ketamine therapy](../ketamine-therapy/),
-[ketamine therapy](../ibogaine-therapy/),
-[Fecal microbiota transplantation (FMT)](../fecal-microbiota-transplantation/).
+[ibogaine therapy](../ibogaine-therapy/),
+[Fecal microbiota transplantation (FMT)](../fecal-microbiota-transplantation/),
+[Soliman Auricular Allergy Treatment (SAAT)](../soliman-auricular-allergy-treatment).
 
-**Try TCM:** 
+**Try TCM**:
 [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/),
 [acupuncture](../acupuncture/),
 [cupping](../cupping/),
@@ -63,7 +65,7 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [Tai Chi](../tai-chi/),
 [Tui Na](../tui-na/).
 
-**Think outside the box:** 
+**Think outside the box**:
 [Somatic Experiencing (SE)](../somatic-experiencing/),
 [Cognitive-Behavioral Therapy (CBT)](../cognitive-behavioral-therapy/),
 [limbic system retraining](../limbic-system-retraining/),

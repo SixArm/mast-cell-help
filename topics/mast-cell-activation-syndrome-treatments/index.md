@@ -6,8 +6,8 @@ It's important to work with a healthcare provider who is knowledgeable about MCA
 
 **Typical treatments:**
 
-* **Dietary modifications:** These can include a low-histamine diet, and also a diet that helps identify food triggers.
+* **Dietary modifications**: These can include a low-histamine diet, and also a diet that helps identify food triggers.
 
-* **Medications:** These can include [antihistamines](../antihistamines/), mast cell stabilizers, leukotriene modifiers, proton pump Inhibitors (PPIs/), and adrenaline auto-injectors.
+* **Medications**: These can include [antihistamines](../antihistamines/), mast cell stabilizers, leukotriene modifiers, proton pump Inhibitors (PPIs/), and adrenaline auto-injectors.
 
-* **Supportive measures:** These can include stress management, avoidance of triggers, regular moderate exercise, health monitoring and medical follow-up.
+* **Supportive measures**: These can include stress management, avoidance of triggers, regular moderate exercise, health monitoring and medical follow-up.

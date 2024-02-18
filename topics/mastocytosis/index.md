@@ -4,9 +4,9 @@ Mastocytosis is a rare disorder characterized by the abnormal accumulation and p
 
 **Two main forms:**
 
-* **Cutaneous mastocytosis:** This primarily affects the skin and is more common in children.
+* **Cutaneous mastocytosis**: This primarily affects the skin and is more common in children.
 
-* **Systemic mastocytosis:** This affects the skin and also other organs and tissues in the body.
+* **Systemic mastocytosis**: This affects the skin and also other organs and tissues in the body.
 
 Symptoms of mastocytosis can vary widely. Common symptoms may include skin rashes, itching, flushing, abdominal pain, diarrhea, nausea, vomiting, and in some cases, more severe systemic symptoms, such as anaphylaxis.
 

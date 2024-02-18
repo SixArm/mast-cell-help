@@ -1,4 +1,4 @@
-# Myers' Cocktail 
+# Myers' Cocktail
 
 Myers' Cocktail is an intravenous (IV) nutrient therapy that typically consists of a combination of vitamins and minerals. It is named after Dr. John Myers, a physician who developed the original formula in the 1960s. The Myers' Cocktail is administered directly into the bloodstream through an IV, allowing for faster absorption of nutrients compared to oral supplementation.
 

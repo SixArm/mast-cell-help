@@ -6,12 +6,12 @@ The Gupta Program incorporates elements of neuroplasticity and mind-body techniq
 
 **Key points:**
 
-* **Amygdala Retraining:** Focus on calming the amygdala, which is believed to be involved in perpetuating the symptoms of conditions like CFS and ME.
+* **Amygdala Retraining**: Focus on calming the amygdala, which is believed to be involved in perpetuating the symptoms of conditions like CFS and ME.
 
-* **Mind-Body Techniques:** Techniques such as meditation, mindfulness, and visualization are often included to promote relaxation and reduce stress.
+* **Mind-Body Techniques**: Techniques such as meditation, mindfulness, and visualization are often included to promote relaxation and reduce stress.
 
-* **Cognitive Restructuring:** Participants may engage in cognitive exercises to challenge and change negative thought patterns associated with their symptoms.
+* **Cognitive Restructuring**: Participants may engage in cognitive exercises to challenge and change negative thought patterns associated with their symptoms.
 
-* **Graded Exposure:** Gradual exposure to stimuli that may trigger symptoms is sometimes incorporated to help individuals gradually increase their tolerance.
+* **Graded Exposure**: Gradual exposure to stimuli that may trigger symptoms is sometimes incorporated to help individuals gradually increase their tolerance.
 
-* **Breathing Exercises:** Techniques to promote diaphragmatic breathing and relaxation.
+* **Breathing Exercises**: Techniques to promote diaphragmatic breathing and relaxation.

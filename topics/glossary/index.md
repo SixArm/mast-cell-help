@@ -2,46 +2,46 @@
 
 **Medical chart summarization:**
 
-* **CC:** chief complaint
+* **CC**: chief complaint
 
-* **Pt:** patient
+* **Pt**: patient
 
-* **Hx:** history
+* **Hx**: history
 
-* **Sx:** symptom
+* **Sx**: symptom
 
-* **Tx:** treatment
+* **Tx**: treatment
 
-* **Dx:** diagnosis
+* **Dx**: diagnosis
 
-* **Rx:** prescription
+* **Rx**: prescription
 
-* **Px:** prognosis
+* **Px**: prognosis
 
-* **Ix:** investigation
+* **Ix**: investigation
 
 **Medical examination shorthand:**
 
-* **p/c:** presenting complaint
+* **p/c**: presenting complaint
 
-* **c/o:** complains of
+* **c/o**: complains of
 
-* **s/s:** signs and symptoms
+* **s/s**: signs and symptoms
 
-* **o/e:** on examination
+* **o/e**: on examination
 
-* **d/t:** due to
+* **d/t**: due to
 
-* **w/n:** within
+* **w/n**: within
 
-* **w/u:** workup
+* **w/u**: workup
 
-* **r/o:** rule out
+* **r/o**: rule out
 
-* **f/u:** follow-up
+* **f/u**: follow-up
 
-* **u/o:** under observation
+* **u/o**: under observation
 
-* **d/c:** discontinue
+* **d/c**: discontinue
 
-* **s/p:** status post (previous condition)
+* **s/p**: status post (previous condition)

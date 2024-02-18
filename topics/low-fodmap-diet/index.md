@@ -4,58 +4,46 @@ A low-FODMAP diet is a dietary approach designed to manage and alleviate gastroi
 
 **FODMAP stands for:**
 
-* **Fermentable Oligosaccharides:** Found in foods like wheat, rye, onions, garlic, and legumes.
+* **Fermentable Oligosaccharides**: Found in foods like wheat, rye, onions, garlic, and legumes.
 
-* **Disaccharides:** Lactose-containing products such as milk, yogurt, and some soft cheeses.
+* **Disaccharides**: Lactose-containing products such as milk, yogurt, and some soft cheeses.
 
-* **Monosaccharides:** Fruits like apples, pears, and honey that contain excess fructose.
+* **Monosaccharides**: Fruits like apples, pears, and honey that contain excess fructose.
 
-* **Polyols:** Found in certain fruits (e.g., cherries, peaches) and sugar alcohols (e.g., sorbitol, mannitol).
+* **Polyols**: Found in certain fruits (e.g., cherries, peaches) and sugar alcohols (e.g., sorbitol, mannitol).
 
 **Key phases:**
 
-* **1. Elimination Phase:** Restrict high-FODMAP foods for 2-6 weeks to allow the gastrointestinal system to settle and symptoms to improve.
+* **1. Elimination Phase**: Restrict high-FODMAP foods for 2-6 weeks to allow the gastrointestinal system to settle and symptoms to improve.
 
-* **2. Reintroduction (Challenge) Phase:** Reintroduce specific FODMAPs in a controlled manner, to identify which ones trigger symptoms in the individual.
+* **2. Reintroduction (Challenge) Phase**: Reintroduce specific FODMAPs in a controlled manner, to identify which ones trigger symptoms in the individual.
 
-* **3. Maintenance Phase:** Develop a personalized long-term diet that includes foods low in FODMAPs that can be consumed without triggering symptoms, and limits foods that are triggers or are high in FODMAPs.
+* **3. Maintenance Phase**: Develop a personalized long-term diet that includes foods low in FODMAPs that can be consumed without triggering symptoms, and limits foods that are triggers or are high in FODMAPs.
 
 
 # Low-FODMAP diet: foods to choose
 
-* **Vegetables:** bell peppers, carrots, cucumbers, lettuce (all types), spinach, zucchini.
+* **Vegetables**: eggplant, potatoes, tomatoes, cucumbers, zucchini.
 
-* **Fruits:** bananas (unripe), blueberries, grapes, kiwi, oranges, strawberries.
+* **Fruits**: grapes, oranges, strawberries, blueberries, pineapple.
 
-* **Proteins:** beef, lamb, pork, poultry (e.g. chicken, turkey), eggs, fish (e.g. salmon, cod), tofu (firm or extra firm).
+* **Proteins**: eggs in general, meat in general.
 
-* **Grains:** gluten-free oats (small servings), quinoa (small servings), rice (white or brown).
+* **Grains**: rice, oats, quinoa.
 
-* **Dairy Alternatives:** almond/oat/hemp/rice milk (unflavored and unsweetened), lactose-free dairy products (e.g., lactose-free milk, yogurt, cheese).
-
-* **Nuts and Seeds:** macadamia nuts, pumpkin seeds, sunflower seeds, walnuts.
-
-* **Sweeteners:** glucose (corn syrup), maple syrup (pure), stevia.
-
-* **Condiments:** mustard, olive oil, salt (in moderation), vinegar (balsamic, red wine, white wine).
-
-* **Seafood:** clams, mussels, shrimp, squid.
+* **Dairy Alternatives**: almond/flax/hemp/oat/rice milk (unflavored and unsweetened), lactose-free dairy products (e.g., lactose-free milk, yogurt, cheese).
 
 
 # Low-FODMAP diet: foods to avoid
 
-* **Vegetables:** artichokes, asparagus, cauliflower, garlic, onions (including red, white,  shallots), sugar snap peas.
+* **Vegetables**: artichokes, asparagus, onions, garlic.
 
-* **Fruits:** apples, apricots, cherries, mangoes, pears, watermelons.
+* **Fruits**: apples, cherries, pears, peaches.
 
-* **Legumes:** baked beans, black beans, chickpeas, lentils, kidney beans, soybeans.
+* **Legumes**: beans in general, lentils.
 
-* **Dairy:** cow milk, ice cream, soft cheeses (e.g. ricotta, cottage cheese), yogurt.
+* **Dairy**: cow milk, cow yogurt, cow ice cream.
 
-* **Grains:** barley, rye, wheat (products containing wheat, including bread and pasta).
+* **Grains**: wheat-based products such as cereal, bread, crackers.
 
-* **Sweeteners:** high-fructose corn syrup, honey, sorbitol, xylitol, isomalt, mannitol.
-
-* **Nuts and Seeds:** cashews, pistachios.
-
-* **Processed Foods:** Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it's essential to check labels and ingredient lists
+* **Processed Foods**: Many processed and pre-packaged foods may contain high-FODMAP ingredients and additives, so it's essential to check labels and ingredient lists

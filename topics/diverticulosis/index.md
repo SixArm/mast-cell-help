@@ -4,16 +4,16 @@ Diverticulosis is a common condition characterized by the presence of small, bul
 
 **Key points:**
 
-* **Prevalence:** Diverticulosis becomes more common with age, and it is more prevalent in industrialized countries where diets are typically lower in fiber.
+* **Prevalence**: Diverticulosis becomes more common with age, and it is more prevalent in industrialized countries where diets are typically lower in fiber.
 
-* **Risk Factors:** low-fiber diet, older age, potential genetic predisposition, lack of physical activity, and obesity.
+* **Risk Factors**: low-fiber diet, older age, potential genetic predisposition, lack of physical activity, and obesity.
 
-* **Complications:** The diverticula can become inflamed or infected, leading to a condition called diverticulitis. This can cause symptoms such as abdominal pain, fever, and changes in bowel habits.
+* **Complications**: The diverticula can become inflamed or infected, leading to a condition called diverticulitis. This can cause symptoms such as abdominal pain, fever, and changes in bowel habits.
 
-* **Diagnosis:** A colonoscopy may be used to visualize the colon and identify the presence of diverticula. A CT scan can provide detailed images of the colon and help diagnose diverticulosis or complications like diverticulitis.
+* **Diagnosis**: A colonoscopy may be used to visualize the colon and identify the presence of diverticula. A CT scan can provide detailed images of the colon and help diagnose diverticulosis or complications like diverticulitis.
 
-* **Treatment:** Fiber supplements or stool softeners may be recommended to help manage symptoms.
+* **Treatment**: Fiber supplements or stool softeners may be recommended to help manage symptoms.
 
-* **Prevention:** Consume a high-fiber diet with plenty of fruits, vegetables, and whole grains. Stay hydrated. Get regular exercise. Maintain a healthy weight.
+* **Prevention**: Consume a high-fiber diet with plenty of fruits, vegetables, and whole grains. Stay hydrated. Get regular exercise. Maintain a healthy weight.
 
-* **Antibiotics:** If diverticulitis occurs and is associated with infection, antibiotics may be prescribed.
+* **Antibiotics**: If diverticulitis occurs and is associated with infection, antibiotics may be prescribed.

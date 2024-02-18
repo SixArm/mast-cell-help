@@ -8,10 +8,10 @@ There are four main types of histamine receptors (H1, H2, H3, and H4), but antih
 
 **Common uses:**
 
-* **Allergic Rhinitis:** Antihistamines are often used to relieve symptoms of seasonal and perennial allergies, commonly known as hay fever or allergic rhinitis.
+* **Allergic Rhinitis**: Antihistamines are often used to relieve symptoms of seasonal and perennial allergies, commonly known as hay fever or allergic rhinitis.
 
-* **Allergic Conjunctivitis:** They can help alleviate itching and redness of the eyes associated with allergies.
+* **Allergic Conjunctivitis**: They can help alleviate itching and redness of the eyes associated with allergies.
 
-* **Urticaria (Hives):** Antihistamines are effective in reducing the itching and swelling of hives.
+* **Urticaria (Hives)**: Antihistamines are effective in reducing the itching and swelling of hives.
 
-* **Itching:** They can be used to relieve itching associated with various allergic skin conditions, insect bites, and contact dermatitis.
+* **Itching**: They can be used to relieve itching associated with various allergic skin conditions, insect bites, and contact dermatitis.

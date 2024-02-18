@@ -94,6 +94,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Trigger cleaning](topics/trigger-cleaning/)
 
+* [Trigger triage](topics/trigger-triage/)
 * [Household triggers](topics/household-triggers/)
 * [Chemical triggers](topics/chemical-triggers/)
 * [Environmental triggers](topics/environmental-triggers/)

@@ -1,4 +1,4 @@
-# Azelastine
+# Azelastine (brand name Astelin)
 
 Azelastine is a medication primarily used for the treatment of allergic rhinitis, commonly known as hay fever, and allergic conjunctivitis. Here are some key points about azelastine:
 

@@ -33,3 +33,10 @@
 * [Dove 0% Aluminum Deodorant Stick Sensitive](https://www.dove.com/us/en/p/dove-0-aluminum-deodorant-stick-sensitive.html/00079400469755)
 
 * [Routine -Superstar Deodorant Jar - activated charcoal, magnesium, prebiotics](https://routinecream.ca/products/superstar-activated-charcoal-magnesium-prebiotics?variant=14897481941055)
+
+* mineral salts 
+
+* magnesium spray
+
+* shea butter
+

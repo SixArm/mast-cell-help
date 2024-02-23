@@ -1,8 +1,6 @@
 # Ketotifen
 
-Ketotifen is a medication that has several medical uses, primarily as an antihistamine and mast cell stabilizer. It is available in various forms, including oral tablets and eye drops, and it is used to manage various conditions.
-
-In the United States, see brand name Zaditor.
+Ketotifen is a medication that has several medical uses, primarily as an antihistamine and mast cell stabilizer. It is available in various forms, including oral tablets and eye drops, and it is used to manage various conditions. Brand name: Zaditor.
 
 Ketotifen works by blocking the action of histamine, a chemical that the body releases during an allergic reaction. Additionally, as a mast cell stabilizer, it helps prevent mast cells from releasing histamine and other inflammatory mediators, reducing inflammation and symptoms.
 

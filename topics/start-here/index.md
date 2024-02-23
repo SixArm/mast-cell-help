@@ -12,6 +12,7 @@ If you're sick and you need help now, start here. If you're experiencing severe 
 **Clean your space**:
 
 * [Trigger cleaning](../trigger-cleaning/)
+* [Allergens, irritants, toxins](../allergens-irritants-toxins/)
 * [Air filters](../air-filters/)
 * [Water filters](../water-filters/)
 

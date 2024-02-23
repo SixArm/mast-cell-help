@@ -1,8 +1,6 @@
 # Hydroxychloroquine (brand name Plaquenil)
 
-Hydroxychloroquine, which is an antimalarial and immunomodulatory drug. It is primarily used to treat or prevent malaria. It is also used for the treatment of certain autoimmune diseases, particularly systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA).
-
-In the United States, see brand name Plaquenil.
+Hydroxychloroquine, which is an antimalarial and immunomodulatory drug. It is primarily used to treat or prevent malaria. It is also used for the treatment of certain autoimmune diseases, particularly systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). Brand name: Plaquenil.
 
 **Key points:**
 

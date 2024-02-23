@@ -2,7 +2,7 @@
 title: "Mast Cell Help"
 subtitle: "Symptoms • Conditions • Treatments"
 author: "Edited by Joel Parker Henderson"
-date: "2024-01-01"
+date: "2024-03-01"
 description: "Mast Cell Help is a guidebook, a glossary for patients, caregivers, doctors, and healthcare providers."
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -23,7 +23,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Joel Parker Henderson"
+footer-left: "© 2023-2024 Joel Parker Henderson"
 footer-center: "License: CC-BY-NC-SA-4.0"
 footer-right:
 subparagraph: true

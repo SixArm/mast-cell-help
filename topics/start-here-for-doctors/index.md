@@ -52,10 +52,12 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [functional medicine](../functional-medicine/),
 [integrative medicine](../integrative-medicine/),
 [complementary and alternative medicine (CAM)](../complementary-and-alternative-medicine/),
+[ozone therapy](../ozone-therapy/),
+[red light therapy](../red-light-therapy/),
 [ketamine therapy](../ketamine-therapy/),
 [ibogaine therapy](../ibogaine-therapy/),
 [Fecal microbiota transplantation (FMT)](../fecal-microbiota-transplantation/),
-[Soliman Auricular Allergy Treatment (SAAT)](../soliman-auricular-allergy-treatment).
+[Soliman Auricular Allergy Treatment (SAAT)](../soliman-auricular-allergy-treatment/).
 
 **Try TCM**:
 [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/),
@@ -71,4 +73,5 @@ Doctors can help more when they know more. Use this page a starter checklist.
 [limbic system retraining](../limbic-system-retraining/),
 [Gupta brain retraining](../gupta-brain-retraining/),
 [Dynamic Neural Retraining System (DNRS)](../dynamic-neural-retraining-system/).
-[Polyvagal Theory](../polyvagal-theory/).
+[Polyvagal Theory](../polyvagal-theory/),
+[vagal tone stimulation](../vagal-tone-stimulation/).

@@ -4,7 +4,11 @@
 
 "You’ve had a thorough workup and you're fine. You need to stop seeking specialists and move on with your life." - I had Sjögren's syndrome autoimmune disease.
 
-"There are no side effects to this drug." - I proceeded to have never-ending side effects.
+"There are no side effects to this drug." - I proceeded to have side effects.
+
+"You couldn’t possibly react to that." - I reacted to it.
+
+"You're fine. It's just allergies." -  I had Rocky Mountain Spotted Fever and Erlichiosis.
 
 "It’s postpartum depression" - When it was actually Lyme disease and my tests showed it.
 
@@ -24,6 +28,8 @@
 
 "Lyme doesn’t exist in this area so you don’t have it." - Then I got a positive Lyme iGenix test.
 
+“I think you're faking it for attention.” - My heart rate was 180 and blood pressure was 145/110.
+
 "You lose your vision when you stand up because you’re a female" - Really because of Postural Orthostatic Tachycardia Syndrome.
 
 "It's pseudo-seizures and subconscious attention seeking behavior. It can't hurt you. The ER can't really do anything for it, so you don't need to come in when you feel that way." - I was in for anaphylaxis.
@@ -33,3 +39,4 @@
 "You’re just sensitive." - Turns out I was having allergic reactions to everything.
 
 "You're just stressed." - That week I had a heart attack due to histamines.
+

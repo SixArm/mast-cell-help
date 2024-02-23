@@ -1,6 +1,6 @@
 # Cyproheptadine
 
-Cyproheptadine is a first-generation antihistamine medication with additional anticholinergic and antiserotonergic properties. 
+Cyproheptadine is a first-generation antihistamine medication with additional anticholinergic and antiserotonergic properties. It provides rapid relief of symptoms but may cause sedation and other CNS side effects. Patients should be advised to use caution when performing tasks requiring mental alertness.
 
 **Key points**:
 
@@ -17,5 +17,3 @@ Cyproheptadine is a first-generation antihistamine medication with additional an
 * **Contraindications**: Cyproheptadine is contraindicated in individuals with hypersensitivity to the active substance or any of the excipients in the formulation. It should not be used in patients with narrow-angle glaucoma, urinary retention, severe liver disease, or severe respiratory conditions such as asthma or chronic obstructive pulmonary disease (COPD).
 
 * **Special Populations**: Cyproheptadine should be used with caution in elderly patients, as they may be more susceptible to CNS side effects such as drowsiness and dizziness. Dosage adjustments may be necessary based on renal function in patients with impaired kidney function.
-
-Overall, cyproheptadine is an effective first-generation antihistamine used for the management of allergic conditions and other indications. It provides rapid relief of symptoms but may cause sedation and other CNS side effects. Patients should be advised to use caution when performing tasks requiring mental alertness, such as driving or operating machinery, while taking cyproheptadine.

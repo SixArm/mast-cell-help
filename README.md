@@ -20,9 +20,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Start here](topics/start-here/)
 
 * [Start here for over-the-counter](topics/start-here-for-over-the-counter/)
-* [Start here for triggers](topics/start-here-for-triggers/)
 * [Start here for safe foods](topics/start-here-for-safe-foods/)
 * [Start here for nutrition](topics/start-here-for-nutrition/)
+* [Start here for triggers](topics/start-here-for-triggers/)
 * [Start here for doctors](topics/start-here-for-doctors/)
 
 ### [What are mast cells?](topics/what-are-mast-cells/)
@@ -56,7 +56,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Histamine bucket](topics/histamine-bucket/)
 * [Histamine liberators](topics/histamine-liberators/)
 * [Antihistamines](topics/antihistamines/)
-* [Antihistamines: types](topics/antihistamines-types/)
+* [Antihistamines: types](topics/antihistamine-types/)
 * [Diamine oxidase](topics/diamine-oxidase/)
 * [Tryptase](topics/tryptase/)
 * [Heparin](topics/heparin/)
@@ -80,9 +80,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Myers' Cocktail](topics/myers-cocktail/)
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy/)
 * [Gut-brain connection](topics/gut-brain-connection/)
-* [Soliman Auricular Allergy Treatment (SAAT)](topcs/soliman-auricular-allergy-treatment)
+* [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment)
+* [Daith piercing](topics/daith-piercing/)
 * [Fecal microbiota transplantation (FMT)](topics/fecal-microbiota-transplantation/)
 * [Ozone therapy](topics/ozone-therapy/)
+* [Red light therapy](topics/red-light-therapy/)
+* [Patient advocates](topics/patient-advocates/)
 
 ### [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine/)
 
@@ -114,7 +117,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [SHINE protocol](topics/shine-protocol/)
 * [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy/)
 * [Buteyko breathing method](topics/buteyko-breathing-method/)
-* [Vagus nerve reset](topics/vagus-nerve-reset/)
+* [Rapid Resolution Therapy (RRT)](rapid-resolution-therapy)
+* [The Spoon Theory](the-spoon-theory)
+
+### [Vagus nerve reset](topics/vagus-nerve-reset/)
+
+* [Vagal tone stimulation](topics/vagal-tone-stimulation)
 * [Polyvagal theory](topics/polyvagal-theory/)
 * [Polyvagal exercises](topics/polyvagal-exercises/)
 
@@ -161,6 +169,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Prebiotic supplements](topics/prebiotic-supplements/)
 * [Probiotic supplements](topics/probiotic-supplements/)
 * [Serrapeptase](topics/serrapeptase/)
+* [Multivitamin](topics/multivitamin/)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements/)
 * [Omega-3](topics/omega-3/)
 * [Quercetin](topics/quercetin/)
@@ -169,18 +178,17 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Calcium](topics/calcium/)
 * [Calcium D-glucarate](topics/calcium-d-glucarate/)
 * [Copper](topics/copper/)
-* [Iodine](topics/iodine/)
-* [Iron](topics/iron/)
-* [Magnesium](topics/magnesium/)
+* [Iodine supplements](topics/iodine-supplements/)
+* [Iron supplements](topics/iron-supplements/)
+* [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
-* [Potassium](topics/potassium/)
+* [Potassium supplements](topics/potassium-supplements/)
 * [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
-* [Sodium](../topics/sodium/)
+* [Sodium supplements](topics/sodium-supplements/)
 * [Zinc](topics/zinc/)
 
-### Vitamin supplements
+### [Vitamins](topics/vitamins)
 
-* [Multivitamin](topics/multivitamin/)
 * [Vitamin A = Retinol](topics/vitamin-a-retinol/)
 * [Vitamin B complex](topics/vitamin-b-complex/)
 * [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine/)
@@ -197,12 +205,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin E](topics/vitamin-e/)
 * [Vitamin K](topics/vitamin-k/)
 
-### Herbal supplements
+### [Herbal supplements](topics/herbal-supplements/)
 
 * [Berberine](topics/berberine/)
 * [Butterbur](topics/butterbur/)
 * [Stinging nettle](topics/stinging-nettle/)
 * [Ginseng](topics/ginseng/)
+* [Milk thistle](topics/milk-thistle/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -303,6 +312,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
 
+### [Multiple Chemical Sensitivity (MCS)](topics/multiple-chemical-sensitivity/)
+
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome/)
 
 ### [Multisystem disease](topics/multisystem-disease/)
@@ -387,7 +398,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics/)
 
 * [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index/)
-
 * [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)
 
 
@@ -401,33 +411,46 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
-* [Azelastine](topics/azelastine/) (brand name Astelin)
-* [Bilastine](topics/bilastine/) (brand name Blexten)
-* [Cetirizine](topics/cetirizine/) (brand name Zyrtec)
-* [Chlorpheniramine](topics/chlorpheniramine/) (brand name Chlor-Trimeton)
-* [Clemastine](topics/clemastine/) (brand name Tavist)
-* [Cyproheptadine](topics/cyproheptadine/) (brand name Periactin)
-* [Desloratadine](topics/desloratadine/) (brand name Clarinex)
-* [Diphenhydramine](topics/diphenhydramine/) (brand name Benadryl)
-* [Fexofenadine](topics/fexofenadine/) (brand name Allegra)
+* [Azelastine](topics/azelastine/) (brand name: Astelin)
+* [Bilastine](topics/bilastine/) (brand name: Blexten)
+* [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
+* [Chlorpheniramine](topics/chlorpheniramine/) (brand name: Chlor-Trimeton)
+* [Cimetidine](topics/cimetidine) (brand name: Tagamet HB)
+* [Clemastine](topics/clemastine/) (brand name: Tavist)
+* [Cyproheptadine](topics/cyproheptadine/) (brand name: Periactin)
+* [Desloratadine](topics/desloratadine/) (brand name: Clarinex)
+* [Diphenhydramine](topics/diphenhydramine/) (brand name: Benadryl)
+* [Fexofenadine](topics/fexofenadine/) (brand name: Allegra)
 * [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
-* [Ketotifen](topics/ketotifen/) (brand name Zaditor)
-* [Levocetirizine](topics/levocetirizine/) (brand name Xyzal)
-* [Loratadine](topics/loratadine/) (brand name Claritin)
-* [Olopatadine](topics/olopatadine/) (brand name Patanase)
-* [Promethazine](topics/promethazine/) (brand name Phenergan)
+* [Hydroxyzine](topics/hydroxyzine) (brand names: Atarax, Vistaril)
+* [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
+* [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
+* [Loratadine](topics/loratadine/) (brand name: Claritin)
+* [Olopatadine](topics/olopatadine/) (brand name: Patanase)
+* [Promethazine](topics/promethazine/) (brand name: Phenergan)
+* [Prednisone](topics/prednisone/) (brand name: Rayos)
+* [Ranitidine](topics/ranitidine) (brand name: Zantac)
 
 ### [Antifungal medications](antifungal-medications)
 
 * [Methylene blue](topics/methylene-blue/)
 
+### [Anti-IgE therapy](topics/anti-ige-therapy)
+
+* [Omalizumab](topics/omalizumab) (brand name: ??)
+
 ### [Asthma medications](topics/asthma-medications/)
 
-* [Omalizumab](topics/omalizumab/) (brand name Xolair)
+* [Albuterol sulfate](topics/albuterol-sulfate/) (brand names: ProAir, Proventil, Ventolinr)
+* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
+* [Guaifenesin](topics/guaifenesin/) (brand name: Mucinex)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants/)
 
 * [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol/)
+* [Cholestyramine (brand name: Questran)](topics/cholestyramine/)
+* [Colesevelam (brand name: Welchol)](topics/colesevelam/)
+* [Colestipol (brand name: Colestid)](topics/colestipol/)
 * [Activated charcoal](topics/activated-charcoal/)
 
 ### [Biofilm busters](topics/biofilm-busters/)
@@ -440,23 +463,27 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shoemaker Biotoxin Illness Protocol](topics/shoemaker-biotoxin-illness-protocol/)
 * [Vasoactive Intestinal Peptide (VIP)](topics/vasoactive-intestinal-peptide/)
 
+### [Body Protection Compound 157 (BPC-157)](topics/body-protection-compound-157)
+
 ### [Bronchodilators](topics/bronchodilators/)
 
 ### [Corticosteroids](topics/corticosteroids/)
 
 * [Fludrocortisone](topics/fludrocortisone/)
 
-### [Cromolyn sodium](topics/cromolyn-sodium/)
+### [Cromolyn sodium](topics/cromolyn-sodium/) (brand name: Gastrocrom)
 
 ### [Decongestants](topics/decongestants/)
 
-### [Famotidine](topics/famotidine/) (brand name Pepcid)
+### [Famotidine](topics/famotidine/) (brand name: Pepcid)
 
-### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name Plaquenil)
+### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name: Plaquenil)
 
 ### [Immunotherapy](topics/immunotherapy/)
 
 ### [Leukotriene inhibitors](topics/leukotriene-inhibitors/)
+
+* [Montelukast](topics/montelukast) (brand name: Singulair)
 
 ### [Mast cell genetics](topics/mast-cell-genetics/)
 
@@ -464,11 +491,19 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Genetic polymorphisms](topics/genetic-polymorphisms/)
 * [Hereditary Alpha-Tryptasemia (HαT)](topics/hereditary-alpha-tryptasemia/)
 * [KIT-D816X](topics/kit-d816x/)
-* [MTHFR gene](topics/nthfr-gene/)
+* [MTHFR gene](topics/mthfr-gene/)
 
 ### [Mineralcorticoids](topics/mineralocorticoids/)
 
+### [Proton pump inhibitors](topics/proton-pump-inhibitors/)
+
+* [Omeprazole](topics/omeprazole/) (brand name: Prilosec)
+
 ### [Skin adhesives](topics/skin-adhesives/)
+
+### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
+
+* [Imatinib](topics/imatinib) (brand name: ??)
 
 ### [Excipients](topics/excipients/)
 
@@ -516,6 +551,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### Quotations
 
 * [Hurting](topics/hurting/)
+* [Doctor quotations](topics/doctor-quotations/)
+* [Doctor predictions](topics/doctor-predictions/)
   
 ### Shopping
 

@@ -2,7 +2,7 @@
 
 Chlorpheniramine is an antihistamine medication commonly used to relieve symptoms of allergy, hay fever, and the common cold.
 
-It is available over-the-counter. In the United States, see brand name Chlor-Trimeton.
+It is available over-the-counter. Brand name: Chlor-Trimeton.
 
 **Key points:**
 

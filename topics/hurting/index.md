@@ -21,3 +21,13 @@
 "I said you don’t get how bad it is right now. 45 minutes later I was in the ER. They said 5 minutes later I would have died."
 
 "This has been happening every night. I barely sleep my body won’t shut down. I’m stuck in this dread state and my body feels weak. I’m crawling out of my skin. I get really hot and really cold. Sometimes I have diarrhea and compulsive vomiting with it. I can’t take this anymore it’s been 5 years and I don’t know what to do."
+
+"It can be so upsetting and lonely. I dread when someone asks me how I am."
+
+"I feel like a broken record... but one that skips songs and sometimes randomly plays in reverse. It is nearly impossible for others to understand."
+
+"I can barely eat any food. I can hardly get out of bed. I’ve lost everything I own, including my pets."
+
+"I am currently praying for something to take me out the pain is so bad... only thing that helps my flares now are handfuls of benzos which overall is not a solution."
+
+"I react to everything I eat and am on h1 h2 cromolyn ketotifen and quercetin. I had to leave my job 6 months ago and am now basically bed bound. I don’t want to live like this anymore. Please send hope."

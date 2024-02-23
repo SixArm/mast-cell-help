@@ -1,41 +1,41 @@
 # Start here for safe foods
 
-"Safe foods" is the nickname for the foods that someone can eat that don't cause symptoms. Safe foods can be different for each person. Safe foods can change over time.
+"Safe foods" is the nickname for foods that someone can eat that don't cause symptoms. Safe foods can be different for each person, and can change over time.
 
-**Safe foods to try first:**
+**Try these first:**
 
-* **Golden Delicious Apples.** Ideally organic and GMO-free. Wash thoroughly or peel.
+* **Golden Delicious Apples.** Wash thoroughly or peel.
 
-* **Egg yolks.** Ideally organic and free-range.
+* **Egg yolks.** Ideally free-range. Egg whites may cause reactions.
 
-* **Boiled Chicken.** No artificial hormones. Ideally free-range, and fresh or flash-frozen.
+* **Boiled Chicken.** Ideally free-range, and fresh or flash-frozen.
 
-* **Boiled Salmon.** No artificial hormones. Ideally wild-caught, and fresh or flash-frozen.
+* **Boiled Salmon.** Ideally wild-caught, and fresh or flash-frozen.
 
-* **Rice.** Ideally basmati rice or jasmine rice. Ideally organic and GMO-free.
+* **Rice.** Ideally basmati rice or jasmine rice.
 
-* **Sweet potatoes.** Ideally organic.
+* **Sweet potatoes.** 
 
-* **Cucumbers.** Ideally organic and GMO-free.
+* **Cucumbers.** 
 
-* **Popcorn.** No microwave bags. No artificial colors/flavors. Ideally organic and GMO-free.
+* **Popcorn.** Ideally air pop. No microwave bags.
 
-* **Gluten-Free Oatmeal.** Be aware that oat avenin protein is similar to gluten, and that oats can carry mold.
+* **Coconut water.** Ideally without pulp.
 
-* **Coconut water.** Ideally without pulp. Ideally without extra flavors.
+* **Gluten-Free Oatmeal.** Be aware oat avenin protein is similar to gluten, so may cause reactions. Be aware oats can carry mold.
 
 **Tips:**
 
-* **Maximize quality**: Seek foods that are organic, or locally-grown, or GMO-free.
+* **Maximize quality**: Seek organic, locally-grown, GMO-free.
 
-* **Minimize factory farming**: For meat, prefer free range and/or grass-fed.
+* **Minimize factory farming**: Prefer free range and/or grass-fed.
 
-* **Minimize processing delays**: Buy and cook the same day, or buy pre-frozen.
+* **Minimize delays**: Buy and cook the same day, or buy pre-frozen.
 
-* **No leftovers**: This is because some foods develop some triggers over some time.
+* **No additives**: Such as colors, flavors, hormones, preservatives.
 
-* **No artificial additives**: No artificial colors, artificial flavors, artificial hormones.
+* **No leftovers**: These can develop triggers over time.
+  
+* **No biocides**: No pesticides, herbicides, fungicides.
 
-* **No chemical biocides**: No chemical pesticides, chemical herbicides, chemical fungicides.
-
-* **Cross-Contamination Caution**: Be aware that processed products may have intermingled with others.
+* **No cross-contamination**: Processed products may have intermingled with other products that are triggers.

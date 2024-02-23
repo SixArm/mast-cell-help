@@ -1,5 +1,5 @@
 # Omeprazole
 
-United States brand name Prilosec.
+Brand name: Prilosec.
 
 TODO

@@ -2,7 +2,7 @@
 
 Loratadine is an antihistamine medication used to treat allergy symptoms.
 
-It is available over-the-counter. In the United States, see brand name Claritin.
+It is available over-the-counter. Brand name: Claritin.
 
 **Key points:**
 

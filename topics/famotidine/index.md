@@ -2,7 +2,7 @@
 
 Famotidine is a medication that belongs to a class of drugs known as histamine-2 (H2) blockers. It is commonly used to reduce the production of stomach acid and is prescribed for various gastrointestinal conditions.
 
-Famotidine is available over-the-counter in lower doses for short-term relief of heartburn and acid indigestion. In the United States, see brand name Pepcid.
+Famotidine is available over-the-counter in lower doses for short-term relief of heartburn and acid indigestion. Brand name: Pepcid.
 
 **Key points:**
 

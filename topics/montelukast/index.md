@@ -1,5 +1,5 @@
 # Montelukast
 
-United States brand name Singulair.
+Brand name: Singulair.
 
 TODO.

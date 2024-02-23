@@ -2,7 +2,7 @@
 
 Diphenhydramine is an antihistamine that is commonly used to relieve symptoms associated with allergies and allergic reactions.
 
-It is available over-the-counter. In the United States, see brand name Benadryl. Be aware that some Diphenhydramine medications contain artificial colors that may affect individuals, so ask about colorless versions of the medication.
+It is available over-the-counter. Brand name: Benadryl. Be aware that some Diphenhydramine medications contain artificial colors that may affect individuals, so ask about colorless versions of the medication.
 
 **Key points:**
 

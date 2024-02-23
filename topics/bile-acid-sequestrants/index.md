@@ -1,6 +1,6 @@
 # Bile acid sequestrants
 
-Bile acid sequestrants, also known as bile acid-binding resins, or simply bile sequestrants, are a class of medications primarily used to lower high levels of cholesterol in the blood, as well as to eliminate gut toxins. Examples: Cholestyramine (a.k.a. brand name Questran), Colesevelam (a.k.a. brand name Welchol), Colestipol (a.k.a. brand name Colestid).
+Bile acid sequestrants, also known as bile acid-binding resins, or simply bile sequestrants, are a class of medications primarily used to lower high levels of cholesterol in the blood, as well as to eliminate gut toxins. Examples: [cholestyramine (brand name Questran)](../cholestyramine/), [colesevelam (brand name Welchol)](../colesevelam/), [colestipol (brand name Colestid)](../colestipol/).
 
 **Key points:**
 

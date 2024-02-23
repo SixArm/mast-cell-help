@@ -2,7 +2,7 @@
 
 Levocetirizine is an antihistamine medication that is commonly used to relieve symptoms associated with allergic conditions. It is the active enantiomer of cetirizine and belongs to the second-generation antihistamine class.
 
-Levocetirizine is available over-the-counter. In the United States, see brand name Xyzal.
+Levocetirizine is available over-the-counter. Brand name: Xyzal.
 
 **Key points:**
 

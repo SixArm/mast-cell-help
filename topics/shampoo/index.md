@@ -1,6 +1,6 @@
 # Shampoo
 
-Shampoo recommended by mast cell people:
+Shampoo recommended by mast cell people. Try to read ingredients lists carefully, because you may want to avoid citric acid, sodium laurel sulfate, or other additives.
 
 * [Renpure - Biotin Collagen Thickening Conditioner](https://www.renpure.com/products/hair/biotin-collagen-thickening-conditioner/)
 

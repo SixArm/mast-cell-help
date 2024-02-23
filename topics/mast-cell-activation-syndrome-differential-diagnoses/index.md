@@ -16,7 +16,7 @@
 * neuroendocrine cancers (carcinoid, pheochromocytoma, etc.)
 * pancreatic endocrine tumors
 * food/environmental/chemical allergy
-* asthma
+* [asthma](../asthma/)
 * allergic rhinitis
 * eosinophilic esophagitis/enteritis
 * hypereosinophilic and hyper-IgE syndromes

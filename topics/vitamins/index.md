@@ -1,31 +1,13 @@
 # Vitamins
 
-* [Vitamin A = Retinol](topics/vitamin-a-retinol/)
+Vitamins are essential organic compounds that are necessary for normal growth, development, and overall health. They are required in small amounts by the body and play crucial roles in various physiological processes, including metabolism, immune function, and cell growth.
 
-* [Vitamin B complex](topics/vitamin-b-complex/)
+There are 13 essential vitamins that the body cannot produce in sufficient quantities on its own, so they must be obtained through the diet or supplements. 
 
-* [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine/)
+**Categories**:
 
-* [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin/)
+* **Water-soluble vitamins**: These vitamins dissolve in water and are not stored in the body, so they need to be replenished regularly through the diet. Water-soluble vitamins include: [vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/), [vitamin B1 (thiamine)](../vitamin-b1-thiamine/), [vitamin B2 (riboflavin)](../vitamin-b2-riboflavin/), [vitamin B3 (niacin)](../vitamin-b3-niacin/), [vitamin B5 (pantothenic acid)](../vitamin-b5-pantothenic-acid/), [vitamin B6 (pyridoxine)](../vitamin-b6-pyridoxine/), [vitamin B7 (biotin)](../vitamin-b7-biotin/), [vitamin B9 (folate)](../vitamin-b9-folate/), [vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/).
 
-* [Vitamin B3 = Niacin](topics/vitamin-b3-niacin/)
+* **Fat-soluble vitamins**: These vitamins dissolve in fat and are stored in the body's fatty tissues and liver. They can be stored for longer periods and do not need to be consumed as frequently as water-soluble vitamins. Fat-soluble vitamins include: [vitamin A](../vitamin-a-retinol/), [vitamin D (calciferol)](vitamin-d-calciferol), [vitamin E (tocopherol)](../vitamin-e-tocopherol/), [vitamin K (phylloquinone)](../vitamin-k-phylloquinone/).
 
-* [Vitamin B5 = Pantothenic acid](topics/vitamin-b5-pantothenic-acid/)
-
-* [Vitamin B6 = Pyridoxine](topics/vitamin-b6-pyridoxine/)
-
-* [Vitamin B7 = Biotin](topics/vitamin-b7-biotin/)
-
-* [Vitamin B9 = Folate](topics/vitamin-b9-folate/)
-
-* [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin/)
-
-* [Vitamin C](topics/vitamin-c/)
-
-* [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms/)
-
-* [Vitamin D](topics/vitamin-d/)
-
-* [Vitamin E](topics/vitamin-e/)
-
-* [Vitamin K](topics/vitamin-k/)
+A balanced diet that includes a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats typically provides all the essential vitamins needed for good health. In some cases, however, supplementation may be necessary, especially for individuals with certain dietary restrictions, medical conditions, or inadequate nutrient intake.

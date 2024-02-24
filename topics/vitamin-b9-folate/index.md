@@ -1,6 +1,6 @@
-# Vitamin B9 = Folate
+# Vitamin B9 (folate)
 
-Vitamin B9, also known as folate, is a water-soluble B-vitamin. Folate is especially important for its role in DNA synthesis, cell division, and the formation of red blood cells.
+Vitamin B9 (also known as folate) is a water-soluble B-vitamin. Folate is especially important for its role in DNA synthesis, cell division, and the formation of red blood cells.
 
 **Key points:**
 

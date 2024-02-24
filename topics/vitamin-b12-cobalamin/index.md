@@ -1,6 +1,6 @@
-# Vitamin B12 = Cobalamin
+# Vitamin B12 (cobalamin)
 
-Vitamin B12, also known as cobalamin, is a water-soluble B-vitamin that plays a critical role in a variety of essential bodily functions. Cobalamin is unique among the B-vitamins because it contains cobalt, a mineral that is vital for its structure and function.
+Vitamin B12 (also known as cobalamin) is a water-soluble B-vitamin that plays a critical role in a variety of essential bodily functions. Cobalamin is unique among the B-vitamins because it contains cobalt, a mineral that is vital for its structure and function.
 
 **Key points:**
 

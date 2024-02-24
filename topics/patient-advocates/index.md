@@ -1,6 +1,6 @@
 # Patient advocates
 
-Patient advocates are individuals or organizations that work on behalf of patients to help them navigate the healthcare system, understand their rights, and ensure they receive the best possible care. Patient advocates may provide various forms of support and assistance, acting as a liaison between the patient and healthcare providers, insurers, and other entities. 
+Patient advocates are individuals or organizations that work on behalf of patients to help them navigate the healthcare system, understand their rights, and ensure they receive the best possible care. 
 
 Seeking the assistance of a patient advocate can be particularly beneficial in situations where individuals feel overwhelmed, confused, or need additional support to navigate the complexities of the healthcare system.
 

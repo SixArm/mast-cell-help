@@ -12,7 +12,7 @@ It's important to note that individual tolerance to histamine-containing foods c
 
 A low-histamine diet should be followed under the guidance of a healthcare professional, as it can be restrictive and may require supplementation to ensure you receive all necessary nutrients. Additionally, it's important to address any underlying health conditions and receive appropriate medical care in conjunction with dietary management.
 
-# Low-histamine diet: foods to choose
+## Low-histamine diet: foods to choose
 
 * **Fresh Meats**: Fresh, unprocessed meats such as chicken, turkey, beef, and pork are generally considered low in histamine.
 
@@ -26,7 +26,7 @@ A low-histamine diet should be followed under the guidance of a healthcare profe
 
 * **Olive Oil**: Olive oil is considered low-histamine and can be used for cooking.
 
-# Low-histamine diet: foods to avoid
+## Low-histamine diet: foods to avoid
 
 * **Fermented Foods**: These are among the highest histamine-containing foods. Examples include aged cheeses, sauerkraut, yogurt, and kombucha.
 

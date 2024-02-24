@@ -1,6 +1,6 @@
 # Hydroxyzine
 
-Hydroxyzine is an antihistamine medication commonly used to treat itching caused by allergies, as well as to alleviate symptoms of anxiety and tension. It belongs to the class of first-generation antihistamines. United States brand names Atarax and Vistaril.
+Hydroxyzine is an antihistamine medication commonly used to treat itching caused by allergies, as well as to alleviate symptoms of anxiety and tension. It belongs to the class of first-generation antihistamines. Brand names: Atarax, Vistaril.
 
 As an antihistamine, hydroxyzine works by blocking the effects of histamine, a substance produced by the body during allergic reactions. By inhibiting histamine's action, hydroxyzine can reduce itching, skin rash, and other allergy symptoms.
 

@@ -1,6 +1,6 @@
-# Vitamin B1 = Thiamine
+# Vitamin B1 (thiamine)
 
-Vitamin B1, also known as thiamine, is one of the eight B-vitamins essential for various bodily functions. Thiamine plays a crucial role in energy metabolism, as it is a coenzyme necessary for the conversion of carbohydrates into energy. It also helps maintain proper functioning of the nervous system.
+Vitamin B1 (also known as thiamine) is one of the eight B-vitamins essential for various bodily functions. Thiamine plays a crucial role in energy metabolism, as it is a coenzyme necessary for the conversion of carbohydrates into energy. It also helps maintain proper functioning of the nervous system.
 
 **Key points:**
 

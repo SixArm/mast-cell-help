@@ -1,4 +1,4 @@
-# Loratadine (brand name Claritin)
+# Loratadine
 
 Loratadine is an antihistamine medication used to treat allergy symptoms.
 

@@ -24,9 +24,9 @@
 
 * Cookware: No teflon. No aluminum. Prefer stainless steel pans.
   
-* Containers: No plastic. Prefer glass or stainless steel containers, storage jars.
+* Containers: No plastic. Prefer glass or stainless steel.
 
-* Wipes: Switch from paper products to all-natural organic cloth products.
+* Wipes: Switch from paper to all-natural organic cloth.
 
 **Laundry**:
  
@@ -42,7 +42,7 @@
   
 * Mattress: Sleep on an air mattresses. Dispose of any other mattresses.
   
-* **Household**:
+**Household**:
 
 * When you enter the home, remove your shoes.
 

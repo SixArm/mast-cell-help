@@ -2,8 +2,6 @@
 
 Complement C3 is a crucial protein in the complement system, a part of the immune system that helps the body fight infections and clear away damaged cells. C3 is a central component of the complement cascade, which consists of a series of proteins that work together to recognize and eliminate pathogens, opsonize (mark for destruction) microbes, and induce inflammatory responses.
 
-The activity of complement C3 is tightly regulated by various complement regulatory proteins, including factor H, factor I, membrane cofactor protein (MCP, CD46), decay-accelerating factor (DAF, CD55), and complement receptor 1 (CR1, CD35), which prevent excessive complement activation and protect host cells from complement-mediated damage.
-
 **Functions**:
 
 * **Opsonization**: C3b binds to the surface of pathogens and immune complexes, marking them for recognition and phagocytosis by phagocytic cells (e.g., macrophages, neutrophils).

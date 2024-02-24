@@ -4,7 +4,7 @@ Dietary supplements are products designed to provide nutrients that help a perso
 
 **Overview:**
 
-* **Vitamins**: These are essential organic compounds that your body needs to function properly. Examples are [vitamin C](../vitamin-c/) and [vitamin B-complex](../vitamin-b-complex/).
+* **Vitamins**: These are essential organic compounds that your body needs to function properly. Examples are [Vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/) and [vitamin B-complex](../vitamin-b-complex/).
 
 * **Minerals**: These are inorganic elements that are vital for bodily functions. Examples are [calcium](../calcium/), [iron](../iron/), [magnesium](../magnesium/), and [zinc](../zinc/).
 

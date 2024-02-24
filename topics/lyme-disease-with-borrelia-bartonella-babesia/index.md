@@ -25,3 +25,4 @@
 * **Symptoms**: Fever, chills, fatigue, and anemia. Severe cases can occur, particularly in individuals with weakened immune systems.
 
 * **Care**: Diagnosis uses blood tests to detect the parasite. Treatment uses antiparasitic medications.
+  

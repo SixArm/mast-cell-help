@@ -1,18 +1,18 @@
 # Doctor predictions
 
-"It’s just asthma." - Two days later ER myocarditis, hospital stay one month.
+"It’s just asthma." - Two days later ER myocarditis, four weeks in hospital.
 
-"You’ve had a thorough workup and you're fine. You need to stop seeking specialists and move on with your life." - I had Sjögren's syndrome autoimmune disease.
+"You’ve had a thorough workup and you're fine. You need to stop seeking specialists and move on with your life." - I had Sjögren's syndrome.
 
 "There are no side effects to this drug." - I proceeded to have side effects.
 
 "You couldn’t possibly react to that." - I reacted to it.
 
-"You're fine. It's just allergies." -  I had Rocky Mountain Spotted Fever and Erlichiosis.
+"You're fine. It's just allergies." -  I had Rocky Mountain Spotted Fever.
 
-"It’s postpartum depression" - When it was actually Lyme disease and my tests showed it.
+"It’s postpartum depression" - When it was actually Lyme disease.
 
-"The reason you’re in so much pain is you’re depressed." - Actually I had kidney cancer.
+"The reason you’re in so much pain is you’re depressed." - Actually kidney cancer.
 
 "Are you sure you were not just high or drunk?" - Said to my teenager in the ER after anaphylaxis.
 
@@ -32,11 +32,9 @@
 
 "You lose your vision when you stand up because you’re a female" - Really because of Postural Orthostatic Tachycardia Syndrome.
 
-"It's pseudo-seizures and subconscious attention seeking behavior. It can't hurt you. The ER can't really do anything for it, so you don't need to come in when you feel that way." - I was in for anaphylaxis.
+"It's pseudo-seizures and subconscious attention seeking behavior. It can't hurt you. The ER can't really do anything for it, so you don't need to come in when you feel that way." - I was in the ER for anaphylaxis.
 
-"It's just menopause. Should I increase your Zoloft?" - It was gut dysbiosis and mycotoxins.
-
-"You’re just sensitive." - Turns out I was having allergic reactions to everything.
+"It's just menopause." - It was gut dysbiosis and mycotoxins.
 
 "You're just stressed." - That week I had a heart attack due to histamines.
 

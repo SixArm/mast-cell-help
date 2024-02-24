@@ -135,7 +135,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Food diary](topics/food-diary/)
 
-* [Elimination diet](topics/elimination-diet/)
 * [Elemental diet](topics/elemental-diet/)
 * [Ketogenic diet](topics/ketogenic-diet/)
 * [Carnivore diet](topics/carnivore-diet/)
@@ -144,6 +143,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Swiss Interest Group Histamine Intolerance (SIGHI) diet](topics/swiss-interest-group-histamine-intolerance-diet/)
 * [Whole food plant-based (WFPB) diet](topics/whole-food-plant-based-diet/)
 * [Metabolic Type diet](topics/metabolic-type-diet/)
+* [Intermittent fasting (IF)](topics/intermittent-fasting/)
+* [Total parenteral nutrition (TPN)](topics/total-parenteral-nutrition/)
+* [Histamine metabolism of foods](topics/histamine-metabolism-of-foods/)
+* [Nutrigenomics](topics/nutrigenomics/)
+
+### [Elimination diet](topics/elimination-diet/)
+
 * [Low-histamine diet](topics/low-histamine-diet/)
 * [Low-allergen diet](topics/low-allergen-diet/)
 * [Low-amylose diet](topics/low-amylose-diet/)
@@ -152,10 +158,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Low-FODMAP diet](topics/low-fodmap-diet/)
 * [Low-salicylate diet](topics/low-salicylate-diet/)
 * [Low-sodium diet](topics/low-sodium-diet/)
-* [Intermittent fasting (IF)](topics/intermittent-fasting/)
-* [Total parenteral nutrition (TPN)](topics/total-parenteral-nutrition/)
-* [Histamine metabolism of foods](topics/histamine-metabolism-of-foods/)
-* [Nutrigenomics](topics/nutrigenomics/)
 
 <img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
 
@@ -193,21 +195,20 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Vitamins](topics/vitamins)
 
-* [Vitamin A = Retinol](topics/vitamin-a-retinol/)
-* [Vitamin B complex](topics/vitamin-b-complex/)
-* [Vitamin B1 = Thiamine](topics/vitamin-b1-thiamine/)
-* [Vitamin B2 = Riboflavin](topics/vitamin-b2-riboflavin/)
-* [Vitamin B3 = Niacin](topics/vitamin-b3-niacin/)
-* [Vitamin B5 = Pantothenic acid](topics/vitamin-b5-pantothenic-acid/)
-* [Vitamin B6 = Pyridoxine](topics/vitamin-b6-pyridoxine/)
-* [Vitamin B7 = Biotin](topics/vitamin-b7-biotin/)
-* [Vitamin B9 = Folate](topics/vitamin-b9-folate/)
-* [Vitamin B12 = Cobalamin](topics/vitamin-b12-cobalamin/)
-* [Vitamin C](topics/vitamin-c/)
+* [Vitamin A (retinol)](topics/vitamin-a-retinol/)
+* [Vitamin B1 (thiamine)](topics/vitamin-b1-thiamine/)
+* [Vitamin B2 (riboflavin)](topics/vitamin-b2-riboflavin/)
+* [Vitamin B3 (niacin)](topics/vitamin-b3-niacin/)
+* [Vitamin B5 (pantothenic acid)](topics/vitamin-b5-pantothenic-acid/)
+* [Vitamin B6 (pyridoxine)](topics/vitamin-b6-pyridoxine/)
+* [Vitamin B7 (biotin)](topics/vitamin-b7-biotin/)
+* [Vitamin B9 (folate)](topics/vitamin-b9-folate/)
+* [Vitamin B12 (cobalamin)](topics/vitamin-b12-cobalamin/)
+* [Vitamin C (ascorbic acid)](topics/vitamin-c-ascorbic-acid/)
 * [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms/)
 * [Vitamin D](topics/vitamin-d/)
-* [Vitamin E](topics/vitamin-e/)
-* [Vitamin K](topics/vitamin-k/)
+* [Vitamin E (tocopherol)](topics/vitamin-e-tocopherol/)
+* [Vitamin K (phylloquinone)](topics/vitamin-k-phylloquinone/)
 
 ### [Herbal supplements](topics/herbal-supplements/)
 
@@ -558,7 +559,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)
   
-### Shopping
+### [Shopping](topics/shopping/)
 
 * [Foods & drinks](topics/foods-and-drinks/)
 * [Personal care products](topics/personal-care-products/)
@@ -571,7 +572,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Glossary of medical times](topics/glossary-of-medical-times/)
 * [Glossary of medical tests](topics/glossary-of-medical-tests/)
 * [Glossary of units of measurement](topics/glossary-of-units-of-measurement/)
-
 
 ### [Conclusion](topics/conclusion/)
 

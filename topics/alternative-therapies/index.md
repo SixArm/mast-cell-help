@@ -6,7 +6,7 @@ The primary treatment for MCAS involves medications like [antihistamines](../ant
 
 * **Dietary changes**: A [low-histamine diet](../low-histamine-diet/) reduces histamine-rich foods, such as aged cheeses, fermented foods, and alcohol.
 
-* **Nutritional supplements**: [Vitamin C](../vitamin-c/) acts as a natural antihistamine and mast cell stabilizer. [Quercetin](../quercetin/) is a flavonoid that can have anti-inflammatory and mast cell stabilizing properties.
+* **Nutritional supplements**: [Vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/) acts as a natural antihistamine and mast cell stabilizer. [Quercetin](../quercetin/) is a flavonoid that can have anti-inflammatory and mast cell stabilizing properties.
 
 * **Probiotics**: These can support gut health and balance the microbiome. However, the choice of probiotics should be made carefully, as some contain histamine-producing strains.
 

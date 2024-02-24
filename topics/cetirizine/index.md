@@ -1,4 +1,4 @@
-# Cetirizine (brand name Zyrtec)
+# Cetirizine
 
 Cetirizine is an antihistamine medication used to treat allergy symptoms.
 

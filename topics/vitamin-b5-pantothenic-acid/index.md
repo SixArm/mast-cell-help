@@ -1,6 +1,6 @@
-# Vitamin B5 = Pantothenic acid
+# Vitamin B5 (pantothenic acid)
 
-Vitamin B5, also known as pantothenic acid, is a water-soluble B-vitamin that is essential for various bodily functions. Pantothenic acid is a key component of coenzyme A (CoA), which plays a critical role in many metabolic processes.
+Vitamin B5 (also known as pantothenic acid) is a water-soluble B-vitamin that is essential for various bodily functions. Pantothenic acid is a key component of coenzyme A (CoA), which plays a critical role in many metabolic processes.
 
 **Key points:**
 

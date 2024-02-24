@@ -1,6 +1,6 @@
-# Vitamin B3 = Niacin
+# Vitamin B3 (niacin)
 
-Vitamin B3, also known as niacin or nicotinic acid, is one of the water-soluble B-vitamins. Niacin is involved in several important functions, including energy production, DNA repair, and the maintenance of healthy skin and nervous system.
+Vitamin B3 (also known as niacin or nicotinic acid) is one of the water-soluble B-vitamins. Niacin is involved in several important functions, including energy production, DNA repair, and the maintenance of healthy skin and nervous system.
 
 **Key points:**
 

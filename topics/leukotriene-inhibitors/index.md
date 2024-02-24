@@ -4,15 +4,15 @@ Leukotriene inhibitors are a class of medications used to manage inflammatory co
 
 **Key points:**
 
-* **Action**: Leukotriene inhibitors help reduce inflammation, relax smooth muscles in the airways, decrease mucus secretion, and improve airflow.
+* **Action**: They help reduce inflammation, relax smooth muscles in the airways, and decrease mucus secretion.
 
-* **Asthma**: Leukotriene inhibitors are often used as maintenance therapy to manage asthma, particularly in individuals with mild to moderate persistent asthma or exercise-induced bronchoconstriction.
+* **Asthma**: They are often used as maintenance therapy to manage asthma, particularly in individuals with mild to moderate persistent asthma or exercise-induced bronchoconstriction.
 
-* **Allergic Rhinitis**: Leukotriene inhibitors are also used to treat allergic rhinitis, especially when symptoms are not adequately controlled with antihistamines or intranasal corticosteroids.
+* **Allergic Rhinitis**: They are used to treat allergic rhinitis, especially when symptoms are not adequately controlled with antihistamines or intranasal corticosteroids.
 
-* **Other Conditions**: Leukotriene inhibitors may have other potential uses in conditions such as chronic urticaria (hives), atopic dermatitis (eczema), and exercise-induced bronchoconstriction.
+* **Other Conditions**: They may have other potential uses in conditions such as chronic urticaria (hives), atopic dermatitis (eczema), and exercise-induced bronchoconstriction.
 
-* **Side Effects**: Common side effects of leukotriene inhibitors may include headache, gastrointestinal disturbances (such as nausea, diarrhea, or abdominal pain), fatigue, and upper respiratory tract infections. Rare but serious side effects, such as neuropsychiatric events or liver toxicity, have also been reported with some medications.
+* **Side Effects**: Common side effects may include headache, gastrointestinal disturbances (such as nausea, diarrhea, or abdominal pain), fatigue, and upper respiratory tract infections. Rare but serious side effects include neuropsychiatric events or liver toxicity.
 
 **Two main types:**
 

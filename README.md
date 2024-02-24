@@ -171,8 +171,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Serrapeptase](topics/serrapeptase/)
 * [Multivitamin](topics/multivitamin/)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements/)
-* [Omega-3](topics/omega-3/)
-* [Quercetin](topics/quercetin/)
 * [Glutathione](topics/glutathione/)
 * [Turmeric](topics/turmeric/)
 * [Calcium](topics/calcium/)
@@ -183,9 +181,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
 * [Potassium supplements](topics/potassium-supplements/)
-* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
 * [Sodium supplements](topics/sodium-supplements/)
 * [Zinc](topics/zinc/)
+
+### [Mast cell stabilizer supplements](topics/mast-cell-stabilizer-supplements)
+
+* [Bromelain](topics/bromelain/)
+* [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
+* [Omega-3](topics/omega-3/)
+* [Quercetin](topics/quercetin/)
 
 ### [Vitamins](topics/vitamins)
 
@@ -503,7 +507,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
 
-* [Imatinib](topics/imatinib) (brand name: ??)
+* [Imatinib](topics/imatinib/) (brand name: Glivec)
 
 ### [Excipients](topics/excipients/)
 

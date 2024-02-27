@@ -2,8 +2,7 @@
 
 [Source](https://www.histaminintoleranz.ch/downloads/SIGHI-Leaflet_HistamineEliminationDiet.pdf)
 
-It is important to understand what foods affect the histamine levels in which
-way.
+Foods affect the histamine levels in a variety of ways.
 
 **Mechanisms**:
 
@@ -29,8 +28,7 @@ way.
   antihistamines. DAOSIN supports the reduction of biogenic amines, but is
   ineffective against DAO inhibitors.
 
-* **Increase in intestinal permeability**: Certain substances affect the
-  intestinal permeability ("Leaky Gut Syndrome"). This enhances the risk to
-  develop an IgE or IgG food allergy or poisoning. Medication: mast cell
-  stabilizers with continuous application, H1 antihistamines. DAOSIN has no
-  effect.
+* **Intestinal permeability**: Certain substances increase the intestinal
+  permeability ("Leaky Gut Syndrome") and risk to develop an IgE or IgG food
+  allergy or poisoning. Medication: mast cell stabilizers with continuous
+  application, H1 antihistamines. DAOSIN has no effect.

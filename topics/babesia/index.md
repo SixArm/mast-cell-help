@@ -1,14 +1,10 @@
 # Babesia
 
-Babesia is a genus of parasitic protozoa belonging to the phylum Apicomplexa. These microscopic organisms are responsible for causing a disease called babesiosis, which primarily affects red blood cells in mammals, including humans. 
+Babesia is a genus of parasitic protozoa. These microscopic organisms are responsible for causing a disease called babesiosis, which primarily affects red blood cells in mammals, including humans. 
 
 **Key points**:
 
-* **Parasitic Protozoa**: Babesia species are intraerythrocytic parasites, meaning they reside and multiply inside red blood cells. They are transmitted to humans through the bite of infected ticks, primarily those belonging to the Ixodes genus. Babesia parasites can also infect various other mammalian hosts, including rodents, deer, and livestock.
-
-* **Babesiosis**: Babesiosis is a tick-borne disease characterized by the destruction of red blood cells (hemolytic anemia) and flu-like symptoms. The severity of babesiosis can vary widely, ranging from asymptomatic infection to severe, life-threatening illness, particularly in immunocompromised individuals, the elderly, or those with underlying health conditions.
-
-* **Transmission**: Babesia parasites are primarily transmitted to humans through the bite of infected ticks, particularly black-legged ticks (Ixodes scapularis) in the United States and sheep ticks (Ixodes ricinus) in Europe. Similar to Lyme disease, ticks become infected with Babesia parasites after feeding on infected animal hosts, such as rodents or deer, and can then transmit the parasites to humans during subsequent feedings.
+* **Parasitic Protozoa**: Babesia species are intraerythrocytic parasites, meaning they reside and multiply inside red blood cells. They are transmitted to humans through the bite of infected ticks.
 
 * **Clinical Manifestations**: The symptoms of babesiosis can range from mild to severe and may include fever, chills, sweats, fatigue, headache, muscle aches, and hemolytic anemia (destruction of red blood cells). In severe cases, babesiosis can lead to complications such as organ failure, disseminated intravascular coagulation (DIC), or death, particularly in individuals with compromised immune systems or other underlying health conditions.
 

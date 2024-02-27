@@ -1,16 +1,10 @@
-# Personal care products
-
-* [Primal Life Organics](https://www.primallifeorganics.com) for deodorant, toothpaste, body butter.
-
-* 100% pure organic rose hip oil for my face.
-
-* 100% pure organic broccoli seed oil for my hair.
+# Shop for personal care products
 
 **Soap**:
 
 * [Dr. Bronner's - Unscented Organic Sugar Soaps](https://www.drbronner.com/products/baby-unscented-organic-sugar-soaps)
 
-* [Palmolive® - Ultra Pure + Clear Dish Soap](https://www.palmolive.com/en-us/products/liquid-dish-soap/ultra-pure-clear)
+* [Palmolive - Ultra Pure + Clear Dish Soap](https://www.palmolive.com/en-us/products/liquid-dish-soap/ultra-pure-clear)
 
 **Toothpaste**:
 
@@ -32,7 +26,7 @@
 
 * [Dove 0% Aluminum Deodorant Stick Sensitive](https://www.dove.com/us/en/p/dove-0-aluminum-deodorant-stick-sensitive.html/00079400469755)
 
-* [Routine -Superstar Deodorant Jar - activated charcoal, magnesium, prebiotics](https://routinecream.ca/products/superstar-activated-charcoal-magnesium-prebiotics?variant=14897481941055)
+* [Routine -Superstar Deodorant Jar](https://routinecream.ca/products/superstar-activated-charcoal-magnesium-prebiotics?variant=14897481941055)
 
 * mineral salts 
 
@@ -40,3 +34,10 @@
 
 * shea butter
 
+**Miscellaneous**:
+
+* [Primal Life Organics](https://www.primallifeorganics.com) for deodorant, toothpaste, body butter.
+
+* 100% pure organic rose hip oil for my face.
+
+* 100% pure organic broccoli seed oil for my hair.

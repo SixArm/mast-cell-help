@@ -19,11 +19,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Start here](topics/start-here/)
 
-* [Start here for over-the-counter](topics/start-here-for-over-the-counter/)
 * [Start here for safe foods](topics/start-here-for-safe-foods/)
 * [Start here for nutrition](topics/start-here-for-nutrition/)
 * [Start here for triggers](topics/start-here-for-triggers/)
-* [Start here for doctors](topics/start-here-for-doctors/)
+* [Start here with pharmacists](topics/start-here-with-pharmacists/)
+* [Start here with doctors](topics/start-here-with-doctors/)
 
 ### [What are mast cells?](topics/what-are-mast-cells/)
 
@@ -205,17 +205,21 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B9 (folate)](topics/vitamin-b9-folate/)
 * [Vitamin B12 (cobalamin)](topics/vitamin-b12-cobalamin/)
 * [Vitamin C (ascorbic acid)](topics/vitamin-c-ascorbic-acid/)
-* [Vitamin C low-histamine forms](topics/vitamin-c-low-histamine-forms/)
-* [Vitamin D](topics/vitamin-d/)
+* [Vitamin C (ascorbic acid) low-histamine forms](topics/vitamin-c-ascorbic-acid-low-histamine-forms/)
+* [Vitamin D (calciferol)](topics/vitamin-d-calciferol/)
 * [Vitamin E (tocopherol)](topics/vitamin-e-tocopherol/)
-* [Vitamin K (phylloquinone)](topics/vitamin-k-phylloquinone/)
+* [Vitamin K1 (phylloquinone)](topics/vitamin-k-phylloquinone/)
+* [Vitamin K2 (menaquinone)](topics/vitamin-k2-menaquinone/)
 
 ### [Herbal supplements](topics/herbal-supplements/)
 
 * [Berberine](topics/berberine/)
 * [Butterbur](topics/butterbur/)
 * [Stinging nettle](topics/stinging-nettle/)
+* [Garlic](topics/garlic/)
+* [Ginger](topics/ginger/)
 * [Ginseng](topics/ginseng/)
+* [Holy basil](topics/holy-basil/)
 * [Milk thistle](topics/milk-thistle/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
@@ -553,18 +557,19 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan/)
 * [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker/)
 
-### Quotations
+### [Quotations](topics/quotations)
 
 * [Hurting](topics/hurting/)
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)
+* [Who knows better?](topics/who-knows-better)
   
-### [Shopping](topics/shopping/)
+### [Shop](topics/shop/)
 
-* [Foods & drinks](topics/foods-and-drinks/)
-* [Personal care products](topics/personal-care-products/)
-* [Shampoo](topics/shampoo/)
-* [Laundry detergent](topics/laundry-detergent/)
+* [Shop for food & drinks](topics/shop-for-food-and-drinks/)
+* [Shop for personal care products](topics/shop-for-personal-care-products/)
+* [Shop for shampoo](topics/shop-for-shampoo/)
+* [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 
 ### [Glossary](topics/glossary/)
 

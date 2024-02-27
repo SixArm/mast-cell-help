@@ -1,4 +1,4 @@
-# Foods & Drinks
+# Shop for food & drinks
 
 **Coffee**:
 

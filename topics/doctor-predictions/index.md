@@ -12,21 +12,19 @@
 
 "It’s postpartum depression" - When it was actually Lyme disease.
 
-"The reason you’re in so much pain is you’re depressed." - Actually kidney cancer.
+"The reason you’re in so much pain is you’re depressed." - Kidney cancer.
 
-"Are you sure you were not just high or drunk?" - Said to my teenager in the ER after anaphylaxis.
+"Are you sure you were not just high or drunk?" - ER anaphylaxis.
 
-"You can't possibly have MCAS." - My colonoscopy biopsy CD117 said otherwise.
+"You can't possibly have MCAS." - My biopsy CD117 said otherwise.
 
 "None of these medications have the side effects you are reporting." - Except they were listed in the info packet.
 
-"Your symptoms are all just anxiety." - Turned out to be acute pancreatitis.
+"Your symptoms are all just anxiety." - Acute pancreatitis.
 
-“Patient seems anxious.” - No shit Sherlock, I’m chronically sick and on Lexapro for a reason.
+"Food doesn't do that." - Positive ISAC 112 test.
 
-"Food doesn't do that." - My ISAC 112 molecular diagnostic blood test says food does do that.
-
-"Lyme doesn’t exist in this area so you don’t have it." - Then I got a positive Lyme iGenix test.
+"Lyme doesn’t exist in this area so you don’t have it." - Positive Lyme iGenix test.
 
 “I think you're faking it for attention.” - My heart rate was 180 and blood pressure was 145/110.
 
@@ -37,4 +35,3 @@
 "It's just menopause." - It was gut dysbiosis and mycotoxins.
 
 "You're just stressed." - That week I had a heart attack due to histamines.
-

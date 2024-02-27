@@ -1,4 +1,4 @@
-# Shampoo
+# Shop for shampoo
 
 Shampoo recommended by mast cell people. Try to read ingredients lists carefully, because you may want to avoid citric acid, sodium laurel sulfate, or other additives.
 

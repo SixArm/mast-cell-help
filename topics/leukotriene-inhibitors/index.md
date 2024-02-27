@@ -14,9 +14,5 @@ Leukotriene inhibitors are a class of medications used to manage inflammatory co
 
 * **Side Effects**: Common side effects may include headache, gastrointestinal disturbances (such as nausea, diarrhea, or abdominal pain), fatigue, and upper respiratory tract infections. Rare but serious side effects include neuropsychiatric events or liver toxicity.
 
-**Two main types:**
-
-* **Leukotriene receptor antagonists (LTRAs)** block the action of leukotriene receptors on target cells, preventing leukotrienes from exerting their inflammatory effects. Examples: montelukast, zafirlukast, pranlukast.
-
-* **Leukotriene synthesis inhibitors (LTSIs)** inhibit the enzyme 5-lipoxygenase, which is responsible for the synthesis of leukotrienes from arachidonic acid. Example: zileuton.
+* **Two main types:** Leukotriene receptor antagonists (LTRAs) block the action of leukotriene receptors on target cells. Examples: montelukast, zafirlukast, pranlukast. Leukotriene synthesis inhibitors (LTSIs) inhibit the enzyme 5-lipoxygenase, which synthesizes leukotrienes. Example: zileuton.
 

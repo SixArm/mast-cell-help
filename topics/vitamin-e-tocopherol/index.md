@@ -6,7 +6,7 @@ Vitamin E (also known as tocopherol) is a fat-soluble vitamin that serves as an 
 
 * **Functions**: Vitamin E acts as an antioxidant, neutralizing free radicals that can cause cellular damage. This helps the immune system, healthy skin, and healthy eyes.
 
-**Sources**: Dietary sources include nuts and seeds (e.g., almonds, sunflower seeds), vegetable oils (e.g., sunflower oil, safflower oil), green leafy vegetables (e.g., spinach, broccoli), some fruits (e.g., kiwi), and fortified foods.
+* **Sources**: Dietary sources include nuts and seeds (e.g., almonds, sunflower seeds), vegetable oils (e.g., sunflower oil, safflower oil), green leafy vegetables (e.g., spinach, broccoli), some fruits (e.g., kiwi), and fortified foods.
 
 * **Recommended Dietary Allowance (RDA)**: The RDA for vitamin E varies by age, sex, and life stage. It is expressed in milligrams (mg) of alpha-tocopherol equivalents.
 

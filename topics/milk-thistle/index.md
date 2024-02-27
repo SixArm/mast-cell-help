@@ -1,6 +1,6 @@
-# Milk thistle (Silybum marianum)
+# Milk thistle
 
-Milk thistle (Silybum marianum) is a flowering herb. It has been used for centuries as a traditional herbal remedy for various liver disorders and other health conditions.
+Milk thistle (also known as Silybum marianum) is a flowering herb. It has been used for centuries as a traditional herbal remedy for various liver disorders and other health conditions.
 
 **Key points**:
 

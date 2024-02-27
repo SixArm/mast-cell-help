@@ -1,6 +1,6 @@
-# Start here for doctors
+# Start here with doctors
 
-Doctors can help more when they know more. Use this page a starter checklist.
+Doctors can help. Ask them about this page.
 
 **Try protocols:**
 [SHINE protocol](../shine-protocol/),

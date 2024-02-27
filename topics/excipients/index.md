@@ -1,16 +1,16 @@
 # Excipients
 
-Excipients are inactive ingredients added to pharmaceutical formulations alongside the active drug substance. Some individuals have sensitivities to specific excipients.
+Excipients are inactive ingredients added to medications. Some individuals have sensitivities to specific excipients.
 
 **Common types**:
 
 * **Fillers and Diluents**: These bulk up the formulation. Examples: lactose, microcrystalline cellulose, starch, mannitol.
 
-* **Binders**: These hold the ingredients of a tablet or capsule together. Examples: cellulose derivatives (e.g., hydroxypropyl cellulose, hydroxypropyl methylcellulose), starches, and polyvinylpyrrolidone (PVP).
+* **Binders**: These hold the ingredients together. Examples: cellulose derivatives (e.g. hydroxypropyl cellulose, hydroxypropyl methylcellulose), starches, and polyvinylpyrrolidone (PVP).
 
 * **Disintegrants**: These promote the rapid breakup of tablets or capsules in the gastrointestinal tract. Examples: croscarmellose sodium, crospovidone, sodium starch glycolate.
 
-* **Lubricants and Glidants**: Lubricants reduce friction between the tablet ingredients and the tablet press during manufacturing. Glidants improve powder flow by reducing interparticle friction. Examples: magnesium stearate, stearic acid, colloidal silicon dioxide.
+* **Lubricants and Glidants**: These reduce friction in the tablet ingredients, and between the tablet and the press during manufacturing. Examples: magnesium stearate, stearic acid, colloidal silicon dioxide.
 
 * **Coatings**: These improve appearance, taste, swallowability, or stability. Examples: shellac, hydroxypropyl methylcellulose phthalate (HPMCP), polyethylene glycol.
 

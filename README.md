@@ -71,7 +71,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Integrative medicine](topics/integrative-medicine/)
 * [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine/)
 * [Compounding pharmacy](topics/compounding-pharmacy/)
-* [Meditation](topics/meditation/)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing/)
 * [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy/)
 * [Ketamine therapy](topics/ketamine-therapy/)
@@ -111,6 +110,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Stress Management](topics/stress-management/)
 
+* [Meditation](topics/meditation/)
 * [Progressive Muscle Relaxation (PMR)](progressive-muscle-relaxation)
 * [Self-soothing](topics/self-soothing/)
 * [Sleep hygiene](topics/sleep-hygiene/)
@@ -559,6 +559,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Quotations](topics/quotations)
 
+* [People explain mast cell illness](topics/people-explain-mast-cell-illness/)
 * [Hurting](topics/hurting/)
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)

@@ -568,10 +568,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Shop](topics/shop/)
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
+* [Shop for protein powder](topics/shop-for-protein-powder/)
 * [Shop for personal care products](topics/shop-for-personal-care-products/)
 * [Shop for shampoo](topics/shop-for-shampoo/)
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
-
+  
 ### [Glossary](topics/glossary/)
 
 * [Glossary of medical roles](topics/glossary-of-medical-roles/)

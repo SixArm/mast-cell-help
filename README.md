@@ -414,6 +414,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## Treatment types
 
+* [Medication suggestions](topics/medication-suggestions/)
+
 ### [Adrenaline](topics/adrenaline/)
 
 ### [Adrenaline emergency auto-injector](topics/adrenaline-emergency-auto-injector/)

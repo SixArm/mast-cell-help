@@ -372,6 +372,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Brain fog](topics/brain-fog/)
 
+* [Brain fog suggestions](topics/brain-fog-suggestions/)
+
 ### [Bronchospasm](topics/bronchospasm/)
 
 * [Bronchospasm treatment](topics/bronchospasm-treatment/)

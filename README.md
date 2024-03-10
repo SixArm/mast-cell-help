@@ -177,6 +177,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Turmeric](topics/turmeric/)
 * [Calcium](topics/calcium/)
 * [Calcium D-glucarate](topics/calcium-d-glucarate/)
+* [Chlorella](topics/chlorella/)
 * [Copper](topics/copper/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)

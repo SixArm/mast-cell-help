@@ -182,6 +182,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Copper](topics/copper/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)
+* [Lecithin](topics/lecithin/)
 * [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
 * [Potassium supplements](topics/potassium-supplements/)
@@ -360,6 +361,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Immunoglobulin E (IgE)](topics/immunoglobulin-e/)
 
 ### [Immunoglobulin G (IgG)](topics/immunoglobulin-g/)
+
+### [Phosphatidylcholine](topics/phosphatidylcholine/)
+
 
 <img src="assets/images/pexels/pexels-edward-jenner-4031514/1920x960.jpg" alt="microscope" style="width: 100%;"/>
 

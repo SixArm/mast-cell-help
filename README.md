@@ -165,6 +165,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Considerations](topics/dietary-supplements-considerations/)
 * [Electrolytes](topics/electrolytes/)
+* [Superfoods](topics/superfoods/)
 * [Macronutrients and micronutrients](topics/macronutrients-and-micronutrients/)
 * [Nutritional shakes](topics/nutritional-shakes/)
 * [Neocate Splash](topics/neocate-splash/)

@@ -116,6 +116,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Sleep hygiene](topics/sleep-hygiene/)
 * [SHINE protocol](topics/shine-protocol/)
 * [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy/)
+* [Dialectical Behavior Therapy (DBT)](topics/dialectical-behavior-therapy/)
+* [Eye Movement Desensitization and Reprocessing (EMDR)](topics/eye-movement-desensitization-and-reprocessing/)
 * [Buteyko breathing method](topics/buteyko-breathing-method/)
 * [Rapid Resolution Therapy (RRT)](rapid-resolution-therapy)
 * [The Spoon Theory](the-spoon-theory)
@@ -579,6 +581,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
 * [Shop for protein powder](topics/shop-for-protein-powder/)
+* [Shop for electrolytes](topics/shop-for-electrolytes/)
 * [Shop for shampoo](topics/shop-for-shampoo/)
 * [Shop for deodorant](topics/shop-for-deodorant/)
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)

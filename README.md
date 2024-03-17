@@ -250,7 +250,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Textile dermatitis](topics/textile-dermatitis/)
 * [Hypoallergenic products](topics/hypoallergenic-products/)
 * [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
-
+* [Marshmallow allergy](topics/marshmallow-allergy/)
+  
 ### [Anaphylaxis](topics/anaphylaxis/)
 
 * [Symptoms](topics/anaphylaxis-symptoms/)
@@ -576,7 +577,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)
 * [Who knows better?](topics/who-knows-better)
-  
+
 ### [Shop](topics/shop/)
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)

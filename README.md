@@ -71,6 +71,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Integrative medicine](topics/integrative-medicine/)
 * [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine/)
 * [Compounding pharmacy](topics/compounding-pharmacy/)
+* [Bespoke boutiques](topics/bespoke-boutiques/)
 * [Somatic Experiencing (SE)](topics/somatic-experiencing/)
 * [Graded Exercise Therapy (GET)](topics/graded-exercise-therapy/)
 * [Ketamine therapy](topics/ketamine-therapy/)
@@ -226,6 +227,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ginseng](topics/ginseng/)
 * [Holy basil](topics/holy-basil/)
 * [Milk thistle](topics/milk-thistle/)
+* [Khellin](topics/khellin/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -246,13 +248,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Allergic reactions](topics/allergic-reactions/)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops/)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots/)
-* [Wool allergy](topics/wool-allergy/)
 * [Textile dermatitis](topics/textile-dermatitis/)
 * [Hypoallergenic products](topics/hypoallergenic-products/)
 * [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
 * [Avocado allergy](topics/avocado-allergy/)
 * [Garlic allergy](topics/garlic-allergy/)
 * [Marshmallow allergy](topics/marshmallow-allergy/)
+* [Wool allergy](topics/wool-allergy/)
   
 ### [Anaphylaxis](topics/anaphylaxis/)
 
@@ -589,6 +591,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shop for deodorant](topics/shop-for-deodorant/)
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 * [Shop for personal care products](topics/shop-for-personal-care-products/)
+  
+### Mix-ups
+
+* [Traditional mix-up](../traditional-mix-up/)
   
 ### [Glossary](topics/glossary/)
 

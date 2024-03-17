@@ -1,4 +1,4 @@
-# Vitamin B6 = Pyridoxine
+# Vitamin B6 (pyridoxine)
 
 Vitamin B6, also known as pyridoxine, is one of the water-soluble B-vitamins. Pyridoxine is required for the metabolism of amino acids, carbohydrates, and fats. It also contributes to the synthesis of neurotransmitters and helps in maintaining a healthy immune system.
 

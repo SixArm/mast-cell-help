@@ -10,6 +10,4 @@ Eye Movement Desensitization and Reprocessing (EMDR) is a psychotherapy approach
 
 * **Reprocessing**: Using bilateral stimulation, such as eye movements, hand tapping, or auditory tones, the therapist guides the individual in reprocessing the targeted memories while simultaneously focusing on external stimuli.
 
- **Positivity**: Once the traumatic memories have been reprocessed, the therapist helps the individual install positive beliefs and adaptive coping strategies to replace the negative beliefs associated with the trauma.
-
-EMDR is often used as a stand-alone treatment for PTSD and trauma-related conditions, but it can also be integrated into a comprehensive treatment plan that includes other therapeutic approaches, such as cognitive-behavioral therapy (CBT), mindfulness-based therapy, and medication management.
+* **Positivity**: Once the traumatic memories have been reprocessed, the therapist helps the individual install positive beliefs and adaptive coping strategies to replace the negative beliefs associated with the trauma.

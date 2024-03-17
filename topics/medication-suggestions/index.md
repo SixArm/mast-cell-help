@@ -7,56 +7,48 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Acetazolamide (brand name Diamox) but not necessarily for MCAS
 * Avapritinib (brand name Ayvakit)
 * Azelastine (brand name Astelin)
+* Bacillus rhamnosus
 * Camu camu & flax oil & honey & throat works
-* Cetirizine & famotidine
-* Cetirizine & Mucinex
-* Cetirizine (brand name Zyrtec) (4 votes)
+* Cetirizine (brand name Zyrtec) (5 votes)
 * Claritin
 * Corlanor for POTS
-* Cromolyn sodium oral solution (8 votes) such as 4 vials each dose, 4x per day.
-* Cromolyn sodium via nebulizer for airway restriction
-* Cromolyn sodium and famotadine compounded as single medication mixed with cassava flour
-* Cromolyn sodium nasal spray
+* Cromolyn sodium via oral solution (8 votes), via nasal spray (3 votes), via nebulizer
 * Cyclosporine
 * DHist (quercetin Blend)
 * Diamine oxidase (9 votes)
-* Digestive enzymes
-* Digestive enzymes (Enzymedica)
-* Diphenhydramine (brand name Benadryl) (3 votes)
-* Diphenhydramine intramuscular injection
+* Digestive enzymes (3 votes) (such as brand Enzymedica)
+* Diphenhydramine (brand name Benadryl) (3 votes), or via intramuscular injection
 * Famotidine (brand name Pepcid) (7 votes)
 * Fexofenadine (brand name Allegra)
 * Ginger
+* Guaifenesin (brand name Mucinex)
 * H1 and H2 antihistamines daily (10 votes)
 * Herbs, herbal remedies, herbal teas
 * Hydroxychloroquine (brand name Plaquenil)
-* Hydroxyzine (brand name Atarax) when I'm in a flare
+* Hydroxyzine (brand name Atarax) (3) as needed, or when in a flare
 * Imatinib
 * IVIG
 * Ketoralac
 * Ketotifen (brand name Zaditor) (6 votes)
 * Levocetirizine (brand name Xyzal) (3 votes)
-* Bacillus rhamnosus
+* Lion's mane
 * Low dose naltrexone (12 votes)
 * Low histamine diet (3 votes) 
 * Lysine
 * Magnesium glycinate
 * Magnesium L Threonate, Alithiamine, Benfotiamine, Molybdenum, Iodine
 * Mebendazole to eliminate parasites
-* Meditations, breathing exercises, Emotion/Body energy healing, Reiki
-* Meloxicam eliminated my inflammation-induced joint pain.
-* Metagenics quercetin & hydroxyzine (as needed)
+* Meditations, breathing exercises, emotion/body energy healing, Reiki
+* Meloxicam eliminated my inflammation-induced joint pain
 * Methyl folate
 * Methylated folic acid
-* Metoprolol and Valium, for seizures/jerks that follow a POTS/TILT event.
+* Metoprolol and Valium, for seizures/jerks that follow a POTS/TILT event
 * Montelukast (brand name Singulair) (4 votes)
 * Omalizumab (brand name Xolair) (10 votes)
 * Omalizumab injection (3 votes)
 * PEA from Qi Supplements
 * Progesterone birth control called Slynd
-* Quercetin (5 votes)
-* Quercetin & bromelain (4 votes)
-* Lions mane
+* Quercetin (6 votes) and with bromelain (4 votes)
 * Raw unpasteurized milk
 * Regenerative medicine for fluoroquinolone poisoning (cipro)
 * Serrapeptase & NAC

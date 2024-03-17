@@ -69,7 +69,9 @@ Doctors can help. Ask them about this page.
 
 **Think outside the box**:
 [Somatic Experiencing (SE)](../somatic-experiencing/),
-[Cognitive-Behavioral Therapy (CBT)](../cognitive-behavioral-therapy/),
+[cognitive-behavioral therapy (CBT)](../cognitive-behavioral-therapy/),
+[dialectical behavior therapy (DBT)](../dialectical-behavior-therapy/),
+[eye movement desensitization and reprocessing (EMDR)](../eye-movement-desensitization-and-reprocessing/),
 [limbic system retraining](../limbic-system-retraining/),
 [Gupta brain retraining](../gupta-brain-retraining/),
 [Dynamic Neural Retraining System (DNRS)](../dynamic-neural-retraining-system/).

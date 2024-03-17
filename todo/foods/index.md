@@ -1,8 +1,6 @@
 # Foods
 
 
-
-
 ## Low-histamine low-salicylate low-allergen diet
 
 * [ ] Cruciferous vegetables such as broccoli and kale

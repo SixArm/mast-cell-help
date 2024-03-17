@@ -16,7 +16,7 @@ Be aware that some unscented deodorants have ingredients to kill scents, and the
 
 * [Crystal - Mineral Deodorant Roll-On Unscented](https://www.thecrystal.com/products/mineral-deodorant-roll-on-unscented-1)
 
-* [Primally Pure Charcoal Deodorant](https://primallypure.com/products/charcoal-deodorant?variant=310098853894)
+* [Primally Pure - Charcoal Deodorant](https://primallypure.com/products/charcoal-deodorant?variant=310098853894)
 
 * [Humble - Simply Unscented Deodorant](https://humblebrands.com/products/simply-unscented-natural-deodorant?variant=37950614896839)
 

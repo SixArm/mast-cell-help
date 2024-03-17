@@ -2,34 +2,41 @@
 
 Brain fog suggestions by people who have mast cell illnesses. In approximate order of importance.
 
-Going gluten-free.
+Going gluten-free. See [low-allergen diet](../low-allergen-diet/).
+
+Getting better sleep. See [sleep hygiene](../sleep-hygiene/).
 
 Drinking plenty of water.
 
-Getting better sleep.
+Aerobic exercise.
 
-Aerobic excercise.
-
-Supplements, especially omega 3, vitamin B, vitamin D, magnesium, chlorella.
+Supplements, especially 
+[omega 3](../omega-3/), 
+[vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/), 
+[vitamin D (calciferol)](../vitamin-d-calciferol/),
+[magnesium supplements](../magnesium-supplements/),
+[chlorella](../chorella).
 
 Fresh air.
 
-Mind-body practices, especially meditation, mindfulness, deep breathing, somatic experiencing.
+Mind-body practices, especially 
+[meditation](../meditation/), 
+mindfulness, 
+deep breathing, 
+[somatic experiencing](../somatic-experiencing/). 
 
 Phosphatidylcholine.
 
-Ketogenic diet.
+[Ketogenic diet](../ketogenic-diet/).
 
-Low dose naltroxeone.
+[Low dose naltroxeone](../low-dose-naltrexone/)
 
-Nasalcrom spray for brain fog. It's cromolyn sodium in an over the counter nasal spray.
+[Cromlyn sodium](../cromolyn-sodium/) in an over-the-counter nasal spray.
 
 ADHD medications, such as Strattera.
 
 Stopping my food triggers. 
 
-Stopping energy drinks with animal proteins in them (I also have alpha gal syndrome). 
-
-Montelukast
+[Montelukast](../montelukast/).
 
 Mitochondrial cocktail.

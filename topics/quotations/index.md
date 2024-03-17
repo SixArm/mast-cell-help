@@ -8,6 +8,6 @@
 
 "My doctor told me I would be patient zero.”
 
-"I had an argument with my previous doctor. She kept saying, well, if antihistamines help you why don’t you just take those? I told her why take antihistamines if a mast sells stabilizer does the job first? She was very resistant to the idea of a mast cell stabilizer… God knows why."
+"I had an argument with my previous doctor. She kept saying, well, if antihistamines help you why don’t you just take those? I told her why take antihistamines if a mast cell stabilizer does the job first? She was very resistant to the idea of a mast cell stabilizer… God knows why."
 
 "Seeing how people get treated, I'd just like to say a big FUCK YOU to the bad doctors that treat patients like trash because of their own inadequacies as medical professionals. I despise pompous attitudes in the medical community; more often than not it's the type of doctor that doesn't bother reading up on the latest research concerning a patient's condition because they simply don't care enough or are arrogant enough to think their uninformed opinion is better than a lived experience."

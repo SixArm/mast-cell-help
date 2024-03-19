@@ -233,8 +233,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ginger](topics/ginger/)
 * [Ginseng](topics/ginseng/)
 * [Holy basil](topics/holy-basil/)
-* [Milk thistle](topics/milk-thistle/)
 * [Khellin](topics/khellin/)
+* [Milk thistle](topics/milk-thistle/)
+* [Pinella](topics/pinella/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>

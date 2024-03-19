@@ -67,7 +67,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Alternative therapies](topics/alternative-therapies/)
 
-* [Functional medicine](topics/functional-medicine/)
 * [Integrative medicine](topics/integrative-medicine/)
 * [Complementary and alternative medicine (CAM)](topics/complementary-and-alternative-medicine/)
 * [Compounding pharmacy](topics/compounding-pharmacy/)
@@ -82,6 +81,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Gut-brain connection](topics/gut-brain-connection/)
 * [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment)
 * [Daith piercing](topics/daith-piercing/)
+* [Frequency-specific microcurrent (FSM)](topics/frequency-specific-microcurrent/)
 * [Fecal microbiota transplantation (FMT)](topics/fecal-microbiota-transplantation/)
 * [Ozone therapy](topics/ozone-therapy/)
 * [Red light therapy](topics/red-light-therapy/)
@@ -94,6 +94,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Qigong](topics/qigong/)
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)
+
+### [Functional medicine](topics/functional-medicine/)
+
+* [Functional medicine matrix](topics/functional-medicine-matrix/)
+* [Functional medicine timeline](topics/functional-medicine-timeline/)
+* [Functional medicine GOTOIT framework](topics/functional-medicine-gotoit-framework/)
 
 ### [Trigger cleaning](topics/trigger-cleaning/)
 
@@ -589,9 +595,14 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shop for electrolytes](topics/shop-for-electrolytes/)
 * [Shop for shampoo](topics/shop-for-shampoo/)
 * [Shop for deodorant](topics/shop-for-deodorant/)
-* [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 * [Shop for personal care products](topics/shop-for-personal-care-products/)
+* [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
+* [Shop for cleaners](topics/shop-for-cleaners/)
   
+### Comments
+
+* [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
+
 ### Mix-ups
 
 * [Traditional mix-up](../traditional-mix-up/)

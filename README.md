@@ -195,6 +195,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
 * [Potassium supplements](topics/potassium-supplements/)
+* [Siberian pine nut oil](topics/siberian-pine-nut-oil/)
 * [Sodium supplements](topics/sodium-supplements/)
 * [Zinc](topics/zinc/)
 

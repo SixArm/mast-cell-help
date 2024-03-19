@@ -113,6 +113,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Water filters](topics/water-filters/)
 * [Activated carbon filters](topics/activated-carbon-filters/)
 * [Volatile organic compounds (VOCs)](topics/volatile-organic-compounds/)
+* [GreenGuard certification](topics/greenguard-certification/)
 * [Ventilation](ventilation)
 
 ### [Stress Management](topics/stress-management/)

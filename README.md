@@ -149,6 +149,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ketogenic diet](topics/ketogenic-diet/)
 * [Carnivore diet](topics/carnivore-diet/)
 * [FAILSAFE diet (aka RPAH diet)](topics/failsafe-diet)
+* [Autoimmune Protocol (AIP) diet](topics/autoimmune-protocol-diet/)
 * [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet/)
 * [Swiss Interest Group Histamine Intolerance (SIGHI) diet](topics/swiss-interest-group-histamine-intolerance-diet/)
 * [Whole food plant-based (WFPB) diet](topics/whole-food-plant-based-diet/)

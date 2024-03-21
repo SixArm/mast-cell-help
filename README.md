@@ -596,6 +596,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
 * [Shop for protein powder](topics/shop-for-protein-powder/)
+* [Shop for snacks](topics/shop-for-snacks/)
 * [Shop for electrolytes](topics/shop-for-electrolytes/)
 * [Shop for shampoo](topics/shop-for-shampoo/)
 * [Shop for deodorant](topics/shop-for-deodorant/)

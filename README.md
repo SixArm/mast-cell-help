@@ -79,7 +79,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Myers' Cocktail](topics/myers-cocktail/)
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy/)
 * [Gut-brain connection](topics/gut-brain-connection/)
-* [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment)
 * [Daith piercing](topics/daith-piercing/)
 * [Frequency-specific microcurrent (FSM)](topics/frequency-specific-microcurrent/)
 * [Fecal microbiota transplantation (FMT)](topics/fecal-microbiota-transplantation/)
@@ -94,6 +93,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Qigong](topics/qigong/)
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)
+* [Nambudripad's Allergy Elimination Technique (NAET)](topics/nambudripads-allergy-elimination-technique/)
+* [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment)
 
 ### [Functional medicine](topics/functional-medicine/)
 

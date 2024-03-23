@@ -610,6 +610,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
 * [Functional medicine provider rubric](topics/functional-medicine-provider-rubric/)
+* [Water treatment home tips](topics/water-treatment-home-tips/)
 
 ### Mix-ups
 

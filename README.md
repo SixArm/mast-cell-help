@@ -421,6 +421,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Histamine testing](topics/histamine-testing/)
 * [Complement C3 + C4 test](topics/complement-c3-c4-test/)
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
+* [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
 * [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
 * [Imaging](topics/imaging)
 * [Nasal swab](topics/nasal-swab/)

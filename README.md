@@ -110,6 +110,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Environmental triggers](topics/environmental-triggers/)
 * [Food triggers](topics/food-triggers/)
 * [Water triggers](topics/water-triggers/)
+* [Car triggers](topics/car-triggers/)
 * [Allergens, irritants, toxins](topics/allergens-irritants-toxins/)
 * [Air filters](topics/air-filters/)
 * [Water filters](topics/water-filters/)

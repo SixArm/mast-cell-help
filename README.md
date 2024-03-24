@@ -257,6 +257,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Allergies](topics/allergies/)
 
 * [Allergy types](topics/allergy-types/)
+* [Allergy load](topics/allergy-load/)
 * [Allergic reactions](topics/allergic-reactions/)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops/)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots/)

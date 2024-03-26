@@ -314,6 +314,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Dysautonomia](topics/dysautonomia/)
 
+### [Dyshidrotic eczema](topics/dyshidrotic-eczema/)
+
 ### [Dysbiosis](topics/dysbiosis/)
 
 ### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome/)

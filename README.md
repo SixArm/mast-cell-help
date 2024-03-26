@@ -268,6 +268,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Garlic allergy](topics/garlic-allergy/)
 * [Gold allergy](topics/gold-allergy/)
 * [Latex allergy](topics/latex-allergy/)
+* [Nickel allergy](topics/nickel-allergy/)
 * [Marshmallow allergy](topics/marshmallow-allergy/)
 * [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
 * [Wool allergy](topics/wool-allergy/)

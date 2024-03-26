@@ -264,10 +264,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots/)
 * [Textile dermatitis](topics/textile-dermatitis/)
 * [Hypoallergenic products](topics/hypoallergenic-products/)
-* [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
 * [Avocado allergy](topics/avocado-allergy/)
+* [Latex allergy](topics/latex-allergy/)
 * [Garlic allergy](topics/garlic-allergy/)
 * [Marshmallow allergy](topics/marshmallow-allergy/)
+* [Soy allergy ingredient names](topics/soy-allergy-ingredient-names/)
 * [Wool allergy](topics/wool-allergy/)
   
 ### [Anaphylaxis](topics/anaphylaxis/)

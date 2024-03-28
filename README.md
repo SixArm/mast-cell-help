@@ -203,6 +203,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Serrapeptase](topics/serrapeptase/)
 * [Siberian pine nut oil](topics/siberian-pine-nut-oil/)
 * [Sodium supplements](topics/sodium-supplements/)
+* [Tiger milk mushroom](topics/tiger-milk-mushroom/)
 * [Turmeric](topics/turmeric/)
 * [Zinc](topics/zinc/)
 
@@ -359,6 +360,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome/)
 
 ### [Multisystem disease](topics/multisystem-disease/)
+
+### [Myalgic encephalomyelitis (ME)](topics/myalgic-encephalomyelitis/)
 
 ### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome/)
 

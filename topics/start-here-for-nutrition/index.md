@@ -22,10 +22,11 @@
 [electrolytes](../electrolytes/),
 [superfoods](../superfoods/).
 
-**Try supplements**: [multivitamin](../multivitamin/),
+**Try supplements**: 
+[multivitamin](../multivitamin/),
 [quercetin](../quercetin/),
 [glutathione](../glutathione/),
-[diamine oxidase](../diamine-oxidase/),
+[diamine oxidase (DAO)](../diamine-oxidase/),
 [vitamin C low-histamine forms](../vitamin-c-low-histamine-forms/),
 [omega-3](../omega-3/),
 [turmeric](../turmeric/),

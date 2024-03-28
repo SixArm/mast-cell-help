@@ -195,7 +195,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Copper](topics/copper/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)
-* [L-arganine](topics/l-arganine/)
+* [L-arginine](topics/l-arginine/)
 * [Lecithin](topics/lecithin/)
 * [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
@@ -229,7 +229,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin C (ascorbic acid) low-histamine forms](topics/vitamin-c-ascorbic-acid-low-histamine-forms/)
 * [Vitamin D (calciferol)](topics/vitamin-d-calciferol/)
 * [Vitamin E (tocopherol)](topics/vitamin-e-tocopherol/)
-* [Vitamin K1 (phylloquinone)](topics/vitamin-k-phylloquinone/)
+* [Vitamin K1 (phylloquinone)](topics/vitamin-k1-phylloquinone/)
 * [Vitamin K2 (menaquinone)](topics/vitamin-k2-menaquinone/)
 
 ### [Herbal supplements](topics/herbal-supplements/)
@@ -611,7 +611,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Doctor predictions](topics/doctor-predictions/)
 * [Who knows better?](topics/who-knows-better)
 
-### [Shop](topics/shop/)
+### Shop
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
 * [Shop for protein powder](topics/shop-for-protein-powder/)
@@ -631,7 +631,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### Mix-ups
 
-* [Traditional mix-up](../traditional-mix-up/)
+* [Traditional mix-up](topics/traditional-mix-up/)
   
 ### [Glossary](topics/glossary/)
 

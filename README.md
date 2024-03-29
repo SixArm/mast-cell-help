@@ -90,6 +90,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Acupuncture](topics/acupuncture/)
 * [Cupping](topics/cupping/)
+* [Gua Sha](topics/gua-sha/)
 * [Qigong](topics/qigong/)
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)

@@ -469,6 +469,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
 * [Chlorpheniramine](topics/chlorpheniramine/) (brand name: Chlor-Trimeton)
 * [Cimetidine](topics/cimetidine) (brand name: Tagamet HB)
+* [Cyclizine](topics/cyclizine/) (brand names: Emoquil, Marzine, Valoid)
 * [Clemastine](topics/clemastine/) (brand name: Tavist)
 * [Cyproheptadine](topics/cyproheptadine/) (brand name: Periactin)
 * [Desloratadine](topics/desloratadine/) (brand name: Clarinex)

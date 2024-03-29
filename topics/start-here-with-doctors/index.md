@@ -63,6 +63,7 @@ Doctors can help. Ask them about this page.
 [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/),
 [acupuncture](../acupuncture/),
 [cupping](../cupping/),
+[Gua Sha](../gua-sha/),
 [Qigong](../qigong/),
 [Tai Chi](../tai-chi/),
 [Tui Na](../tui-na/).

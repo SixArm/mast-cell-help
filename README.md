@@ -334,6 +334,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)
 
+### [Histamine psychosis](topics/histamine-psychosis/)
+
 ### [Kounis syndrome](topics/kounis-syndrome/)
 
 ### [Leaky gut](topics/leaky-gut/)

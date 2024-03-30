@@ -364,6 +364,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Multisystem disease](topics/multisystem-disease/)
 
+### [Multisystem Inflammatory Syndrome in Children (MIS-C)](topics/multisystem-inflammatory-syndrome-in-children/)
+
 ### [Myalgic encephalomyelitis (ME)](topics/myalgic-encephalomyelitis/)
 
 ### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome/)

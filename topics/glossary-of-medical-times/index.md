@@ -1,6 +1,6 @@
 # Glossary of medical time
 
-**When to do treatments:**
+**When to do treatments**:
 
 * **ac**: "ante cibum" means before meals
 * **pc**: "post cibum" means after meals
@@ -11,7 +11,7 @@
 * **qs**: "quantum sufficit" means as much as is sufficient
 * **asa**: "as soon as possible"
 
-**When to repeat treatments:**
+**When to repeat treatments**:
 
 * **o**: once
 * **q**: every
@@ -28,7 +28,7 @@
 * **qod**: every other day a.k.a. alternating days
 * **qoh**: every other hour a.k.a. alternating hours
 
-**How many times:**
+**How many times**:
 
 * **i**: 1 time, such as 1 item, tablet, pill, etc.
 * **ii**: 2 times, such as 2 items, tablets, pills, etc.

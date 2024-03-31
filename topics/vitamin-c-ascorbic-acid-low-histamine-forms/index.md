@@ -2,7 +2,7 @@
 
 For individuals with histamine intolerance or sensitivity, certain forms of vitamin C may be preferred as they are considered lower in histamine.
 
-**Key forms:**
+**Key forms**:
 
 * **Ascorbic Acid (Pure Vitamin C)**: Ascorbic acid is the most common and purest form of vitamin C. It is generally well-tolerated by individuals with histamine intolerance.
 

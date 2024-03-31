@@ -4,7 +4,7 @@ Diphenhydramine is an antihistamine that is commonly used to relieve symptoms as
 
 It is available over-the-counter. Be aware that some Diphenhydramine medications contain artificial colors that may affect individuals, so ask about colorless versions.
 
-**Key points:**
+**Key points**:
 
 * **Mechanism of Action**: Diphenhydramine works by blocking the effects of histamine, a natural substance produced by the body during an allergic reaction.
 

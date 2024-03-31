@@ -2,7 +2,7 @@
 
 [Anaphylaxis](../anaphylaxis/) is a severe and potentially life-threatening allergic reaction. Severity of anaphylaxis can escalate rapidly, and the presentation can vary from person to person.
 
-**Severity levels:**
+**Severity levels**:
 
 * **Mild Anaphylaxis**: Symptoms are minor and have limited effect on the individual's overall health. Symptoms may include skin reactions like hives, mild itching, or mild swelling, without severe respiratory or cardiovascular involvement. The person may not experience significant breathing difficulties or a drop in blood pressure. Mild anaphylaxis often responds well to prompt treatment with epinephrine and [antihistamines](../antihistamines/).
 

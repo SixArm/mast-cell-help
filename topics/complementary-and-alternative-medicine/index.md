@@ -2,7 +2,7 @@
 
 Complementary and Alternative Medicine (CAM) refers to a diverse set of healthcare practices, products, and systems. CAM includes herbal care, dietary supplements, chiropractic care, massage therapy, ayurveda, homeopathy, mind-body practices such as yoga and tai chi, meditation, energy therapies such as Reiki, naturopathy, and traditional healing systems from various cultures.
 
-**Key points:**
+**Key points**:
 
 * **Holistic and Individualized**: Focus on treating the whole person and consider factors such as lifestyle, diet, mental and emotional well-being, and spiritual health.
 

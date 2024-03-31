@@ -2,7 +2,7 @@
 
 Sjögren's syndrome is a chronic autoimmune condition characterized by inflammation of the glands that produce moisture, such as the salivary and lacrimal glands. The primary symptoms involve dryness of the eyes and mouth, but the condition can also affect other parts of the body.
 
-**Key points:**
+**Key points**:
 
 * **Dry Eyes**: Individuals with Sjögren's syndrome often experience dry eyes, which can lead to a gritty or burning sensation, and increased light sensitivity.
 

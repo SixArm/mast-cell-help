@@ -2,7 +2,7 @@
 
 [Anaphylaxis](../anaphylaxis/) is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly and can be fatal. Seek emergency help immediately.
 
-**Skin Symptoms:**
+**Skin Symptoms**:
 
 * Hives (raised, itchy welts) on the skin
 
@@ -10,7 +10,7 @@
 
 * Swelling, especially of the face, lips, tongue, and throat
 
-**Respiratory Symptoms:**
+**Respiratory Symptoms**:
 
 * Breathing difficulties, wheezing, stridor.
 
@@ -18,7 +18,7 @@
 
 * Chest tightness
 
-**Cardiovascular Symptoms:**
+**Cardiovascular Symptoms**:
 
 * Rapid or weak pulse
 
@@ -26,7 +26,7 @@
 
 * Paleness
 
-**Gastrointestinal Symptoms:**
+**Gastrointestinal Symptoms**:
 
 * Nausea and vomiting
 
@@ -34,7 +34,7 @@
 
 * Diarrhea
 
-**Neurological Symptoms:**
+**Neurological Symptoms**:
 
 * Anxiety or a sense of impending doom
 

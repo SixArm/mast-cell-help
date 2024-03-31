@@ -8,7 +8,6 @@ Multisystem Inflammatory Syndrome in Children (MIS-C) is a rare but serious cond
 
 * **Similarities**: MIS-C shares some similarities with Kawasaki disease and toxic shock syndrome but has distinct features. It is characterized by severe inflammation, particularly in the blood vessels, and can lead to complications affecting the heart, kidneys, lungs, brain, and other organs.
 
-
 * **Diagnosis**: Based on a combination of clinical signs and symptoms, along with laboratory tests to assess inflammation and organ function. Doctors may also perform imaging studies, such as echocardiograms, to evaluate heart function and assess for other abnormalities.
 
 * **Treatment**: Typically involves hospitalization and supportive care to manage symptoms and complications. This may include intravenous fluids, medications to reduce inflammation (such as corticosteroids), immunomodulatory therapies, and supportive care for any affected organs.

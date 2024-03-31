@@ -2,7 +2,7 @@
 
 A compounding pharmacy is a specialized type of pharmacy that is involved in the preparation of customized medications to meet the unique needs of individual patients. Compounding pharmacies have the ability to combine, mix, or alter ingredients to create medications that are not readily available in commercially manufactured forms. This allows them to tailor medications to specific dosage strengths, forms, and formulations based on a healthcare provider's prescription and a patient's specific requirements.
 
-**Key points:**
+**Key points**:
 
 * **Customized Medications**: Compounding pharmacies can prepare medications in various forms, including capsules, creams, gels, liquids, or other specialized formulations.
 

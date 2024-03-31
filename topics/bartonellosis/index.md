@@ -2,7 +2,7 @@
 
 Bartonellosis is an infectious disease caused by bacteria of the genus Bartonella. The disease can manifest in various forms, and the symptoms can range from mild to severe. Bartonella species are transmitted to humans primarily through the bites of infected arthropods, such as fleas, ticks, lice, and sandflies.
 
-**Key points:**
+**Key points**:
 
 * **Bartonella henselae**: This species is commonly associated with cat scratch fever. It is transmitted through scratches or bites from infected cats and fleas. Symptoms include swollen and tender lymph nodes, fever, fatigue, and in some cases, an enlarged spleen.
 

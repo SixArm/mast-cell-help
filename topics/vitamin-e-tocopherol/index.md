@@ -2,7 +2,7 @@
 
 Vitamin E (also known as tocopherol) is a fat-soluble vitamin that serves as an antioxidant in the body, helping to protect cells from damage caused by free radicals. It includes a group of compounds known as tocopherols and tocotrienols, with alpha-tocopherol being the most biologically active form.
 
-**Key points:**
+**Key points**:
 
 * **Functions**: Vitamin E acts as an antioxidant, neutralizing free radicals that can cause cellular damage. This helps the immune system, healthy skin, and healthy eyes.
 

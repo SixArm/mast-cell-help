@@ -2,7 +2,7 @@
 
 A multivitamin is a dietary supplement that contains a combination of essential vitamins and minerals. These supplements are designed to provide a convenient way to ensure that you get the recommended daily intake of various vitamins and minerals, especially when your diet may not provide all the necessary nutrients. Multivitamins come in various formulations, catering to different age groups, genders, and specific nutritional needs.
 
-**Key points:**
+**Key points**:
 
 * **Nutrient Variety**: Multivitamin supplements typically contain a mix of vitamins and minerals. Vitamins may include [vitamin A (retinol)](../vitamin-a-retinol/), [vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/), [vitamin D (calciferol)](../vitamin-d-calciferol/), etc. Minerals may include [calcium](../calcium/), [magnesium](../magnesium/), [iron](../iron/), [zinc](../zinc/), etc.
 

@@ -1,6 +1,6 @@
 # Glossary of units of measurement
 
-**Some common units:**
+**Some common units**:
 
 * **g**: gram is for mass
 
@@ -18,7 +18,7 @@
 
 * **cd**: candela is for luminous intensity
 
-**Some common prefixes:**
+**Some common prefixes**:
 
 * **n**: nano means 1/1000000000 a.k.a. $10^{-9}$
 
@@ -32,7 +32,7 @@
 
 * **G**: giga means 1000000000 a.k.a $10^{9}$
 
-**Some common ratios:**
+**Some common ratios**:
 
 * **g/L**: grams per liter
 

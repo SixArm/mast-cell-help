@@ -2,7 +2,7 @@
 
 Scar tissue adhesions refer to the abnormal connections or attachments that can form between adjacent tissues or organs during the healing process after an injury or surgery. Scarring is a natural part of the body's response to tissue damage, and the formation of scar tissue helps to repair and strengthen injured areas.
 
-**Key points:**
+**Key points**:
 
 * **Adhesions Formation**: Adhesions occur when scar tissue extends beyond its normal boundaries and connects with nearby structures that it shouldn't. Adhesions can form between layers of tissues, organs, or structures that are normally separate.
 

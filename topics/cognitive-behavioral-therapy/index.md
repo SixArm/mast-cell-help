@@ -2,7 +2,7 @@
 
 Cognitive-Behavioral Therapy (CBT) is a widely used therapeutic approach that focuses on the connection between thoughts, feelings, and behaviors. It is an evidence-based psychological treatment that has been applied to a variety of mental health conditions.
 
-**Key points:**
+**Key points**:
 
 * **Core Principles**: CBT is based on the idea that our thoughts, emotions, and behaviors are interconnected. It recognizes that changing negative thought patterns and behaviors can positively impact emotional well-being.
 

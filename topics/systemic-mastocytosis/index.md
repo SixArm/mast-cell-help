@@ -2,7 +2,7 @@
 
 Systemic mastocytosis (SM) affects the skin and also other organs and tissues in the body.
 
-**Subtypes:**
+**Subtypes**:
 
 * **Indolent Systemic Mastocytosis**: This is the most common subtype of systemic mastocytosis and is usually not associated with aggressive symptoms or organ damage.
 

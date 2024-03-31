@@ -4,7 +4,7 @@ Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occur
 
 GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications. Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett's esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).
 
-**Common symptoms:**
+**Common symptoms**:
 
 * **Heartburn**: A burning sensation in the chest or throat, often after eating, which is the hallmark symptom of GERD.
 

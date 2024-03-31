@@ -2,7 +2,7 @@
 
 Cholestyramine (a.k.a. brand name Questran), colesevelam (a.k.a. brand name Welchol), and colestipol (a.k.a. brand name Colestid), are medications that are classified as a bile acid sequestrant. The medications work by binding to bile acids in the intestines, thereby reducing the reabsorption of bile acids and promoting the elimination of cholesterol and toxins from the body.
 
-**Key points:**
+**Key points**:
 
 * **Uses**: These are prescribed to individuals with high cholesterol, specifically high levels of low-density lipoprotein (LDL) cholesterol.
 

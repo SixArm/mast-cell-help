@@ -2,7 +2,7 @@
 
 Ventilation is a crucial aspect of maintaining indoor air quality and a healthy living environment. Proper ventilation helps to remove pollutants, control humidity levels, and ensure a continuous supply of fresh air.
 
-**Key points:**
+**Key points**:
 
 * **Natural ventilation**: Use the natural flow of air through open windows, doors, and vents.
 

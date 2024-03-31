@@ -4,7 +4,7 @@ Anaphylaxis is a severe, life-threatening allergic reaction that can occur rapid
 
 If you or someone you are with is experiencing symptoms of anaphylaxis, seek emergency medical help immediately. Anaphylaxis can be fatal.
 
-**Common triggers:**
+**Common triggers**:
 
 * **Food Allergens**: Foods like peanuts, tree nuts, shellfish, milk, eggs, and wheat are common triggers for anaphylaxis.
 

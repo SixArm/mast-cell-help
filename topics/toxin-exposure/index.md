@@ -2,7 +2,7 @@
 
 Toxin exposure refers to the contact or ingestion of substances that can be harmful or poisonous to living organisms, including humans. Health effects can range from mild to severe.
 
-**Common sources:**
+**Common sources**:
 
 * **Air Pollution**: Particulates, ozone, and volatile organic compounds.
 

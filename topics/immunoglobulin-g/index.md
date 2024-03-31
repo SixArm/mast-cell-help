@@ -2,7 +2,7 @@
 
 Immunoglobulin G (IgG) is the most abundant class of antibodies found in the bloodstream and extracellular fluids. It plays a crucial role in the adaptive immune response, providing defense against pathogens such as bacteria, viruses, and toxins.
 
-**Key points:**
+**Key points**:
 
 * **Neutralization**: IgG antibodies can neutralize pathogens by binding to them and blocking their ability to infect host cells.
 

@@ -2,7 +2,7 @@
 
 Allergy shots are a form of treatment for allergies. The shots drops desensitize individuals to specific allergens, such as pollen, dust mites, pet dander, and molds. Allergy shots are also known as subcutaneous immunotherapy (SCIT), and they are an alternative to [allergy drops](../allergy-drops/), also known as sublingual immunotherapy (SLIT/).
 
-**Key points:**
+**Key points**:
 
 * **Desensitization**: The primary goal of allergy shots is to desensitize the immune system to specific allergens. Over time, the immune system becomes less reactive to these allergens, reducing the severity of allergic reactions when exposed to them.
 

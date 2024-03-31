@@ -4,7 +4,7 @@ Chlorpheniramine is an antihistamine medication commonly used to relieve symptom
 
 It is available over-the-counter. Brand name: Chlor-Trimeton.
 
-**Key points:**
+**Key points**:
 
 * **Class of Medication**: It belongs to the class of first-generation antihistamines. It works by blocking the effects of histamine, a substance produced by the body during allergic reactions.
 

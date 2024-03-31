@@ -2,7 +2,7 @@
 
 Adrenal insufficiency, also known as Addison's disease, is a rare but serious condition that occurs when the adrenal glands do not produce enough cortisol and, in some cases, aldosterone. The adrenal glands are located on top of each kidney, and play a crucial role in producing hormones that regulate bodily functions.
 
-**Key points:**
+**Key points**:
 
 * **Causes**: The most common causes include autoimmune disorders where the body's immune system mistakenly attacks and damages the adrenal glands. Other causes may include infections, tumors, or certain medications.
 

@@ -2,11 +2,11 @@
 
 [Source](https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html). Diagnosis established upon demonstration of the major criterion combined with at least one minor criterion (and absence of any other disease better accounting for the problems).
 
-**Major Criterion:**
+**Major Criterion**:
 
 1. Constellation of clinical complaints attributable to pathologically increased MC activity (MC mediator release syndrome)
 
-**Minor Criteria:**
+**Minor Criteria**:
 
 1. Multifocal or disseminated infiltrates of MCs in marrow and/or extracutaneous organ(s) (e.g., gastrointestinal or genitourinary tract; >19 MCs/high power field)
 

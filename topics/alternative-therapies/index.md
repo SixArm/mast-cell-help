@@ -2,7 +2,7 @@
 
 The primary treatment for MCAS involves medications like [antihistamines](../antihistamines/) and stabilizers. Some individuals also explore complementary and alternative therapies to help manage their symptoms. It's essential to discuss these options with a healthcare provider and integrate them into a comprehensive treatment plan.
 
-**Examples:**
+**Examples**:
 
 * **Dietary changes**: A [low-histamine diet](../low-histamine-diet/) reduces histamine-rich foods, such as aged cheeses, fermented foods, and alcohol.
 

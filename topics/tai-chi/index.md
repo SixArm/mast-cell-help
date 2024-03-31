@@ -1,6 +1,6 @@
-# Tai Chi 
+# Tai Chi
 
-Tai Chi (also spelled Taiji or Taijiquan) is an ancient Chinese martial art and mind-body practice that originated in China centuries ago. It combines slow, flowing movements with deep breathing and mindfulness to promote physical, mental, and emotional well-being. Tai Chi is often practiced for health benefits, relaxation, stress reduction, and martial arts training. 
+Tai Chi (also spelled Taiji or Taijiquan) is an ancient Chinese martial art and mind-body practice that originated in China centuries ago. It combines slow, flowing movements with deep breathing and mindfulness to promote physical, mental, and emotional well-being. Tai Chi is often practiced for health benefits, relaxation, stress reduction, and martial arts training.
 
 **Key points**:
 

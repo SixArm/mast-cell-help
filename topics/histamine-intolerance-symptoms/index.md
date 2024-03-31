@@ -2,7 +2,7 @@
 
 When the body is unable to break down histamine properly, it can lead to a range of symptoms. Keep in mind that symptoms can vary among individuals, and not everyone with histamine intolerance will experience the same set of symptoms.
 
-**Common symptoms:**
+**Common symptoms**:
 
 * **Headaches**: Histamine can cause blood vessels to dilate, leading to headaches and migraines.
 

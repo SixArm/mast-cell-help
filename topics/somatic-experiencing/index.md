@@ -2,7 +2,7 @@
 
 Somatic Experiencing (SE) is a therapeutic approach to heal trauma. This method focuses on the connection between the mind and body, recognizing the significance of the body's physical sensations in the experience and resolution of trauma.
 
-**Key points:**
+**Key points**:
 
 * **Trauma and the Nervous System**: Traumatic experiences can lead to dysregulation in the autonomic nervous system. Healing involves addressing this dysregulation.
 

@@ -4,7 +4,7 @@ Vitamin B2 (also known as riboflavin) play essentials roles in various metabolic
 
 Dietary sources of riboflavin include dairy products, lean meats, poultry, fish, eggs, green leafy vegetables, whole grains, and enriched cereals.
 
-**Key points:**
+**Key points**:
 
 * **Energy Metabolism**: Riboflavin is a coenzyme involved in energy metabolism. It works in conjunction with other enzymes to help convert carbohydrates, fats, and proteins into adenosine triphosphate (ATP), the body's primary source of energy.
 

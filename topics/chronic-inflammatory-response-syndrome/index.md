@@ -2,7 +2,7 @@
 
 Chronic Inflammatory Response Syndrome (CIRS) is a medical condition characterized by a persistent and excessive inflammatory response in the body.
 
-**Key points:**
+**Key points**:
 
 * **Triggers**: CIRS is often triggered by exposure to biotoxins, such as mycotoxins produced by molds. Other triggers may include Lyme disease and exposure to certain algae and bacteria.
 

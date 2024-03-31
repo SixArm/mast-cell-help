@@ -2,7 +2,7 @@
 
 Methylene blue is a blue-colored medication and dye. It has medicinal properties, and also is used in laboratories for microscopic studies.
 
-**Key points:**
+**Key points**:
 
 * **Methemoglobinemia Treatment**: It is an antidote for methemoglobinemia, a condition where there is an abnormal increase in the amount of methemoglobin in the blood. Methemoglobin is a form of hemoglobin that cannot carry oxygen effectively. Methylene blue helps convert methemoglobin back to its normal oxygen-carrying form.
 

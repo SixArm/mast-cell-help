@@ -19,9 +19,9 @@ Nickel allergy is a type IV delayed hypersensitivity reaction, meaning that the 
 **Treatment**:
 
 * Choose jewelry and accessories made from materials that are less likely to contain nickel, such as stainless steel, titanium, gold, or platinum.
-  
+
 * Avoid clothing with metal fasteners, buttons, or snaps that may contain nickel.
-  
+
 * Use protective barriers, such as clear nail polish or protective covers, on items that may contain nickel (e.g., jewelry).
 
 * Take precautions when handling items that may contain nickel, such as wearing gloves.

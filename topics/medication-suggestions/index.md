@@ -33,7 +33,7 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Levocetirizine (brand name Xyzal) (3 votes)
 * Lion's mane
 * Low dose naltrexone (12 votes)
-* Low histamine diet (3 votes) 
+* Low histamine diet (3 votes)
 * Lysine
 * Magnesium glycinate
 * Magnesium L Threonate, Alithiamine, Benfotiamine, Molybdenum, Iodine

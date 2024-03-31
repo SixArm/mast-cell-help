@@ -2,7 +2,7 @@
 
 Imaging techniques play a crucial role in modern medicine for diagnosing and monitoring various conditions.
 
-**Typical types:**
+**Typical types**:
 
 * **X-ray (Radiography)**: X-rays use electromagnetic radiation to create images of the inside of the body. They are commonly used to visualize bones and detect fractures, dental problems, lung conditions, and certain tumors.
 

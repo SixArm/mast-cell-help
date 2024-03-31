@@ -4,7 +4,7 @@ The treatment of Mast Cell Activation Syndrome (MCAS) typically focuses on relie
 
 It's important to work with a healthcare provider who is knowledgeable about MCAS and can develop an individualized treatment plan tailored to your specific symptoms and needs. MCAS management may require ongoing adjustments to address the evolving nature of the condition and to provide the best possible quality of life.
 
-**Typical treatments:**
+**Typical treatments**:
 
 * **Dietary modifications**: These can include a low-histamine diet, and also a diet that helps identify food triggers.
 

@@ -2,7 +2,7 @@
 
 Lyme disease is an infectious illness caused by the bacterium [Borrelia](../borrelia/) burgdorferi. It is primarily transmitted to humans through the bite of infected ticks. Lyme disease is more easily treated in its early stages, so prompt medical attention is essential.
 
-**Key points:**
+**Key points**:
 
 * **Early Symptoms**: Within 3 to 30 days after a tick bite, individuals may experience flu-like symptoms, including fever, chills, fatigue, headache, muscle and joint aches, and swollen lymph nodes. A characteristic early sign is a circular, red rash with a clear center that resembles a "bull's-eye." This rash is called erythema migrans.
 

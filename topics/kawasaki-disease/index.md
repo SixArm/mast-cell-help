@@ -12,4 +12,4 @@ If untreated, Kawasaki disease can lead to complications, particularly affecting
 
 * **Treatment**: Administer intravenous immunoglobulin (IVIG), a solution of antibodies derived from donated blood, along with aspirin to reduce inflammation and prevent blood clots. Early treatment is important to reduce the risk of complications, particularly coronary artery aneurysms.
 
-* **Prognosis**: Most children with Kawasaki disease recover completely with prompt treatment, although some may experience long-term complications, particularly if coronary artery abnormalities develop. 
+* **Prognosis**: Most children with Kawasaki disease recover completely with prompt treatment, although some may experience long-term complications, particularly if coronary artery abnormalities develop.

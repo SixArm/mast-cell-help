@@ -2,7 +2,7 @@
 
 α-Melanocyte-stimulating hormone (α-MSH) is a peptide hormone that plays a crucial role in pigmentation, inflammation, and appetite regulation. It is produced by the pituitary gland and is derived from proopiomelanocortin (POMC), a precursor protein.
 
-**Key points:**
+**Key points**:
 
 * **Pigmentation**: α-MSH stimulates melanocytes, the pigment-producing cells in the skin, hair, and eyes. It promotes the production of melanin, the pigment responsible for skin, hair, and eye color.
 

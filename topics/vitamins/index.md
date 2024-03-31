@@ -2,7 +2,7 @@
 
 Vitamins are essential organic compounds that are necessary for normal growth, development, and overall health. They are required in small amounts by the body and play crucial roles in various physiological processes, including metabolism, immune function, and cell growth.
 
-There are 13 essential vitamins that the body cannot produce in sufficient quantities on its own, so they must be obtained through the diet or supplements. 
+There are 13 essential vitamins that the body cannot produce in sufficient quantities on its own, so they must be obtained through the diet or supplements.
 
 **Categories**:
 

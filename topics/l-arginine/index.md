@@ -10,7 +10,7 @@ Your body usually makes all the L-arginine it needs. L-arginine is also found in
 
 * **Wound Healing**: L-arginine supplements may help wound healing by promoting collagen synthesis and immune function, particularly in individuals with impaired wound healing due to conditions such as diabetes or peripheral artery disease.
 
-* **Immune Function**: L-arginine supplements may improve immune responses in certain populations, such as older adults or individuals undergoing surgery. 
+* **Immune Function**: L-arginine supplements may improve immune responses in certain populations, such as older adults or individuals undergoing surgery.
 
 * **Athletic Performance**: L-arginine supplements may enhance exercise performance and muscle growth. The theory is that increased nitric oxide production from L-arginine supplementation may improve blood flow to working muscles, thereby increasing nutrient delivery and oxygen uptake.
 

@@ -2,7 +2,7 @@
 
 The treatment of biotoxin-related conditions, such as those associated with mold exposure in Chronic Inflammatory Response Syndrome (CIRS), is complex and often requires a multidisciplinary approach.
 
-**Key points:**
+**Key points**:
 
 * **Environmental Remediation**: Identify and remediate the source of biotoxin exposure. Fix water damage. Fix mold growth. Fix air quality.
 

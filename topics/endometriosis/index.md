@@ -2,7 +2,7 @@
 
 Endometriosis is a medical condition in which tissue similar to the lining of the uterus (endometrium) grows outside the uterus. This tissue, called endometrial implants, may grow on organs in the pelvic and abdominal areas. Endometriosis is a chronic condition that can cause pain and may lead to fertility issues.
 
-**Key points:**
+**Key points**:
 
 * **Symptoms**: The primary symptom of endometriosis is pelvic pain, which may vary in intensity. Other symptoms include infertility, painful menstrual periods, painful sexual intercourse, painful bowel movements, or urination during menstruation.
 

@@ -2,7 +2,7 @@
 
 Tryptase is an enzyme that is primarily found in mast cells, a type of white blood cell that plays a key role in the body's immune response. Mast cells contain specialized granules filled with various substances, including tryptase. When mast cells are activated, they release tryptase, which can trigger a cascade of events, leading to increased blood vessel permeability, recruitment of other immune cells, and the release of other mediators involved in the inflammatory response.
 
-**Key points:**
+**Key points**:
 
 * **Allergic Reactions**: Elevated levels of tryptase can be detected in the blood during allergic reactions, including anaphylaxis, a severe and potentially life-threatening allergic response.
 

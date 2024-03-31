@@ -2,7 +2,7 @@
 
 Polyvagal exercises are activities to influence the functioning of the the polyvagal system and autonomic nervous system. The aim is to promote a sense of safety, social connection, and well-being.
 
-**Some exercises:**
+**Some exercises**:
 
 * **Breathing Exercises**: Engage in slow diaphragmatic breathing with long exhales, to stimulate the vagus nerve long exhales to promote relaxation.
 

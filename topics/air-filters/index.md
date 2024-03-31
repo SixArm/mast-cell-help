@@ -4,7 +4,7 @@ Air filters are devices designed to remove particles, allergens, contaminants, a
 
 When choosing an air filter for an air purifier, consider the specific pollutants you want to target, the size of particles to be filtered, and the clean air delivery rate (CADR) of the purifier. See also [activated carbon filters](../activated-carbon-filters/).
 
-**Common types:**
+**Common types**:
 
 * **HEPA Filters (High-Efficiency Particulate Air)**: HEPA filters are highly efficient in capturing particles as small as 0.3 microns. They are effective for trapping dust, pollen, mold spores, pet dander, and other airborne particles.
 

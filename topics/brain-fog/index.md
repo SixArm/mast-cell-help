@@ -2,7 +2,7 @@
 
 "Brain fog" is a colloquial term used to describe a set of symptoms related to cognitive function and mental clarity. People feel confused, forgetful, and unable to think clearly. Lifestyle changes may help, such as improving sleep, managing stress, staying hydrated, and maintaining a balanced diet. Medical treatment may help.
 
-**Common factors:**
+**Common factors**:
 
 * **Sleep Deprivation**: A lack of quality sleep can lead to cognitive impairment and difficulty concentrating.
 

@@ -2,7 +2,7 @@
 
 Skin adhesives can cause symptoms, such as when a person uses bandages, or medical monitoring electrodes.
 
-**Key points:**
+**Key points**:
 
 * **Ask for help**: Ask yor doctors for extra help because you have mast cell issues and may react to skin adhesives. Ask for hypoallergenic bandages, hypoallergenic electrode paste, and hypoallergenic products.
 

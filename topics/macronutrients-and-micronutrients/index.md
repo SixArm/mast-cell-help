@@ -3,7 +3,7 @@
 Macronutrients and micronutrients are two categories of essential nutrients that the body requires to function properly.
 Macronutrients are required by the body in relatively large amounts, to provide the energy necessary for bodily functions, growth, development, and maintenance. Micronutrients are nutrients required by the body in relatively small amounts, to support physiological processes.
 
-**Macronutrient types:**
+**Macronutrient types**:
 
 * **Carbohydrates**: Carbohydrates are the primary source of energy for the body. They are broken down into glucose, which is used by cells for fuel. Sources: grains, fruits, vegetables, legumes, sugars.
 

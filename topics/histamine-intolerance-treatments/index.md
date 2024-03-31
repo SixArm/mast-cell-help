@@ -2,7 +2,7 @@
 
 Histamine intolerance treatment typically involve identifying and addressing factors that contribute to histamine accumulation and symptoms.
 
-**Common approaches:**
+**Common approaches**:
 
 * **Identify Triggers**: Keep a diary to track symptoms and identify specific triggers, such as foods, pollens, or chemicals.
 

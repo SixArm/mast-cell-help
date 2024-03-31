@@ -2,7 +2,7 @@
 
 "Multisystem disease" is a broad medical term that refers to a condition or disorder that affects multiple organ systems in the body. These diseases often involve a wide range of symptoms and complications, making diagnosis and management complex.
 
-**Examples:**
+**Examples**:
 
 * **Systemic Lupus Erythematosus (SLE)**: This autoimmune disease can affect the skin, joints, kidneys, heart, lungs, and nervous system.
 

@@ -2,7 +2,7 @@
 
 Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is a complex and debilitating medical condition characterized by persistent and unexplained fatigue that is not alleviated by rest. CFS is a chronic condition.
 
-**Key points:**
+**Key points**:
 
 * **Fatigue and Exhaustion**: The hallmark symptom is severe fatigue that is not relieved by rest. This is often accompanied by a disabling decrease in energy.
 

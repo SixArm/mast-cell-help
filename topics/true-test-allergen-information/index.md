@@ -4,7 +4,7 @@
 
 The T.R.U.E. TEST patch test unit contains Panel 1.3, 2.3 and 3.3, and includes 35 common allergens and a negative control.
 
-* **Panel 1.3**:**
+* **Panel 1.3****:
 [Nickel Sulfate](https://www.smartpractice.com/dermatologyallergy/pdfs/allergens/Nickel-Sulfate.pdf),
 [Wool Alcohols](https://www.smartpractice.com/dermatologyallergy/pdfs/allergens/Wool-Alcohols.pdf),
 [Neomycin Sulfate](https://www.smartpractice.com/dermatologyallergy/pdfs/allergens/Neomycin-Sulfate.pdf),

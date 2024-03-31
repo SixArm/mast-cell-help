@@ -2,7 +2,7 @@
 
 Allergy testing is a medical procedure used to identify specific substances or allergens that may trigger an allergic reaction in an individual.
 
-**Common methods:**
+**Common methods**:
 
 * **Skin Prick Test (SPT)**: Apply a small amount of an allergen to the skin, usually on the forearm or back. Prick the skin with a needle to introduce the allergen beneath the skin's surface. If a person is allergic, they develop a small raised bump or hive.
 

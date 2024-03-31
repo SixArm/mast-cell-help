@@ -2,7 +2,7 @@
 
 Mold exposure occurs when individuals come into contact with mold spores, either through inhalation, ingestion, or skin contact. While most molds are harmless, certain types of molds can produce mycotoxins or trigger allergic reactions in susceptible individuals.
 
-**Key points:**
+**Key points**:
 
 * **Conditions for Mold Growth**: Mold requires moisture to grow. Water damage, high humidity, and damp conditions provide an ideal environment.
 

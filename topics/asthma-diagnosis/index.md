@@ -2,7 +2,7 @@
 
 [Asthma](../asthma/) diagnosis typically involves a combination of [medical history](../medical-history/), [physical examination](../physical-examination/), and [diagnostic tests](../diagnostic-tests/).
 
-**Key points:**
+**Key points**:
 
 * **Medical History**: A provider gathers information about your symptoms and factors that affect your breathing difficulties.
 
@@ -10,7 +10,7 @@
 
 * **Rule Outs**: A provider rules out other conditions, such as chronic obstructive pulmonary disease (COPD), allergic bronchopulmonary aspergillosis, or cardiac conditions that affect breathing.
 
-**Diagnostic tests:**
+**Diagnostic tests**:
 
 * **Spirometry**: You will take a deep breath and then blow forcefully into a tube. This measures how much air you can exhale and how quickly you can do it.
 

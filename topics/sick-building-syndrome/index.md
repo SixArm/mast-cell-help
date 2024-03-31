@@ -2,7 +2,7 @@
 
 "Sick building syndrome" refers to a condition in which occupants of a building experience a range of non-specific health symptoms or discomfort that are linked to the time spent in that particular building. These symptoms often improve or disappear when individuals leave the building.
 
-**Common aspects:**
+**Common aspects**:
 
 * **Non-Specific Symptoms**: People with sick building syndrome may experience a variety of symptoms that are general and non-specific. These can include headaches, fatigue, dizziness, nausea, eye, nose, or throat irritation, and difficulty concentrating.
 

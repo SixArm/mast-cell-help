@@ -4,7 +4,7 @@ Omega-3 fatty acids are a class of essential polyunsaturated fats that are impor
 
 The primary types of health-related omega-3 fatty acids are Alpha-Linolenic Acid (ALA), Eicosapentaenoic Acid (EPA), and Docosahexaenoic Acid (DHA). High ALA foods are flaxseeds, chia seeds, walnuts, and hemp seeds. High EPA and DHA foods are fatty fish like salmon, mackerel, and sardines.
 
-**Key health benefits:**
+**Key health benefits**:
 
 * **Cardiovascular Health**: EPA and DHA are known for their heart-protective effects. They lower blood pressure, reduce triglycerides, and improve overall heart health.
 

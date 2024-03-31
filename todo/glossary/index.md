@@ -1,7 +1,7 @@
 
 ## glossary
 
-**Specialities:**
+**Specialities**:
 
 * **A&E**: Accident & Emergency
 
@@ -23,13 +23,13 @@
 
 * **OTC**: over the counter i.e. no need for a prescription
 
-**Exam:**
+**Exam**:
 
 * **NAD**: no abnormality discovered / no apparent distress
 
 * **H&P**: history and physical
 
-**Metrics:**
+**Metrics**:
 
 * **C**: Celsius, centigrade
 
@@ -37,7 +37,7 @@
 
 * **cm**: centimeter
 
-**Alphabetical:**
+**Alphabetical**:
 
 * **A.A.R.O.M.**: active assistive range of motion
 * **AAC**: augmentative and alternative communication

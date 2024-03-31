@@ -4,7 +4,7 @@ Mast Cell Activation Syndrome (MCAS) is a complex and variable condition where m
 
 While there isn't a standardized severity classification for MCAS, healthcare providers often assess the condition based on the frequency and severity of symptoms, as well as their impact on an individual's quality of life.
 
-**Severity levels:**
+**Severity levels**:
 
 * **Mild MCAS**: Individuals with mild MCAS may experience intermittent symptoms, which are generally well-controlled with [antihistamines](../antihistamines/) or other medications. Symptoms may be bothersome but not severely limiting daily activities.
 

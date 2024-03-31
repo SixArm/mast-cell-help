@@ -4,7 +4,7 @@ Limbic system retraining refers to techniques aimed at improving the functioning
 
 The idea is that chronic stress, trauma, or prolonged illness can lead to dysregulation of the limbic system, contributing to persistent symptoms.
 
-**Key points:**
+**Key points**:
 
 * **Mind-Body Techniques**: Use practices such as meditation, mindfulness, deep breathing, and relaxation techniques, to help regulate stress responses.
 

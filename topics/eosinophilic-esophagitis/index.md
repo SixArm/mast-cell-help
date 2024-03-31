@@ -2,7 +2,7 @@
 
 Eosinophilic esophagitis (EoE) is a chronic immune-mediated inflammatory condition that affects the esophagus, the muscular tube connecting the throat to the stomach. In EoE, the esophagus becomes infiltrated with a type of white blood cell called eosinophils, which are not normally found in this part of the digestive tract. This immune response leads to inflammation.
 
-**Key points:**
+**Key points**:
 
 * **Symptoms**: May include difficulty swallowing (dysphagia), food impaction (getting food stuck in the esophagus), chest pain, heartburn, regurgitation, and food-related discomfort.
 

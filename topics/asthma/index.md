@@ -4,7 +4,7 @@ Asthma is a chronic respiratory condition that affects the airways in the lungs.
 
 Asthma is a common condition, with millions of people affected worldwide. Asthma is a manageable condition, and many individuals with asthma lead active and healthy lives with the right treatment and proper self-management.
 
-**Key points:**
+**Key points**:
 
 * **Triggers**: Symptoms can be triggered by a variety of factors, including allergens, respiratory infections, irritants, exercise, occupational exposures, and stress.
 

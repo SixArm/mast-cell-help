@@ -4,7 +4,7 @@ Rapid Resolution Therapy (RRT) is a psychotherapeutic approach designed to quick
 
 **Key points**:
 
-* **Core Principles**: RRT is based on the premise that emotional and behavioral challenges often stem from unresolved traumatic experiences, negative beliefs, or subconscious programming. 
+* **Core Principles**: RRT is based on the premise that emotional and behavioral challenges often stem from unresolved traumatic experiences, negative beliefs, or subconscious programming.
 
 * **Applicability**: RRT can be used to address a wide range of psychological and emotional issues, including trauma, grief, relationship problems, self-esteem issues, performance anxiety, and more.
 

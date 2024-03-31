@@ -2,7 +2,7 @@
 
 Omalizumab is a monoclonal antibody medication used for the treatment of certain allergic conditions. It is also known as brand name Xolair. Omalizumab is designed to target and inhibit the action of immunoglobulin E (IgE), a type of antibody involved in allergic reactions.
 
-**Key points:**
+**Key points**:
 
 * **Mechanism of Action**: Omalizumab binds to the IgE antibodies circulating in the blood. This prevents IgE from attaching to immune cells and triggering the release of substances that contribute to allergic reactions.
 

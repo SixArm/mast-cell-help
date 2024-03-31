@@ -3,7 +3,7 @@
 Chemical triggers refer to adverse reactions triggered by exposure to certain chemicals.
 Symptoms can range from mild irritation to severe allergic reactions.
 
-**Examples:**
+**Examples**:
 
 * **Fragrances**: Perfumes, colognes, scented lotions, air fresheners, and other fragranced products.
 

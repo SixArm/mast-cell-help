@@ -2,7 +2,7 @@
 
 Hydroxychloroquine, which is an antimalarial and immunomodulatory drug. It is primarily used to treat or prevent malaria. It is also used for the treatment of certain autoimmune diseases. Brand name: Plaquenil.
 
-**Key points:**
+**Key points**:
 
 * **Action**: Modulates the immune response and suppressing the activity of the immune system, particularly the production of inflammatory cytokines. Inhibits certain enzymes and cellular processes involved in the inflammatory response. Alters the pH balance within cells, which may affect antigen processing and presentation to immune cells.
 

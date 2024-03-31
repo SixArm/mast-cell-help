@@ -2,7 +2,7 @@
 
 Vitamin A (also known as retinol) is a fat-soluble vitamin that plays a crucial role in various physiological functions within the body. It exists in different forms, including retinol (preformed vitamin A found in animal products) and provitamin A carotenoids (found in plant-based foods), which can be converted to active vitamin A in the body.
 
-**Key points:**
+**Key points**:
 
 * **Functions**: It is essential for the formation of visual pigments in the retina, contributing to low-light and color vision. It is also important for the immune system, cell differentiation, gene expression, growth, and development.
 

@@ -4,7 +4,7 @@ Famotidine is a medication that belongs to a class of drugs known as histamine-2
 
 Famotidine is available over-the-counter in lower doses for short-term relief of heartburn and acid indigestion. Brand name: Pepcid.
 
-**Key points:**
+**Key points**:
 
 * **Action**: Famotidine works by blocking the action of histamine at H2 receptors in the stomach. This reduces the secretion of stomach acid by the cells lining the stomach walls.
 

@@ -1,4 +1,4 @@
-# Multiple Chemical Sensitivity (MCS) 
+# Multiple Chemical Sensitivity (MCS)
 
 Multiple Chemical Sensitivity (MCS) is a chronic condition characterized by a heightened sensitivity to certain chemicals and environmental triggers at levels that are typically well tolerated by most people. Individuals with MCS experience adverse reactions to various substances found in everyday environments, including indoor and outdoor air pollutants, fragrances, cleaning products, pesticides, and other chemicals.
 

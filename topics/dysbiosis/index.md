@@ -2,7 +2,7 @@
 
 Dysbiosis refers to an imbalance or disruption in the normal microbial community (microbiota) that resides in and on the body, particularly in the gastrointestinal tract.
 
-**Key points:**
+**Key points**:
 
 * **Gut Microbiota**: The human gut is home to a complex and diverse community of microorganisms, including bacteria, viruses, fungi, and other microbes. This microbiota plays a crucial role in various physiological functions, such as digestion, nutrient absorption, immune system regulation, and protection against pathogens.
 

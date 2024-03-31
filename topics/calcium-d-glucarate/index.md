@@ -2,7 +2,7 @@
 
 Calcium D-glucarate is a natural compound found in fruits and vegetables, and it is also available as a dietary supplement. It is the calcium salt of D-glucaric acid, a substance that the body produces in small amounts. Calcium D-glucarate is known for its potential health benefits, particularly in supporting detoxification processes in the body.
 
-**Key points:**
+**Key points**:
 
 * **Detoxification**: Calcium D-glucarate is thought to support detoxification by aiding the body in the elimination of certain toxins and hormones. It works by inhibiting the enzyme beta-glucuronidase, which can interfere with the detoxification process in the liver.
 

@@ -2,7 +2,7 @@
 
 Allergies are a common chronic condition in which the immune system reacts to substances that are typically harmless. Reactions can range from a rash to hives to severe anaphylaxis.
 
-**Common types:**
+**Common types**:
 
 * **Hay fever (allergic rhinitis)**: It is triggered by airborne allergens such as pollen. Symptoms include sneezing, runny or stuffy nose, itchy or watery eyes, and coughing.
 

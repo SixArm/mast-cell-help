@@ -4,7 +4,7 @@ Immunotherapy is a type of medical treatment that harnesses the power of the bod
 
 Immunotherapy can offer several advantages, such as potentially fewer side effects compared to traditional treatments like chemotherapy and radiation therapy.
 
-**Common kinds:**
+**Common kinds**:
 
 * **Allergy Immunotherapy**: For individuals with allergies, immunotherapy may involve [allergy shots](../allergy-shots/) or [allergy drops](../allergy-drops/), which gradually expose the immune system to allergens to reduce allergic responses over time.
 

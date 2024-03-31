@@ -2,7 +2,7 @@
 
 Bronchospasm refers to the sudden constriction or narrowing of the airways in the lungs, particularly the bronchi and bronchioles. This constriction is caused by the tightening of the smooth muscles that surround the airways. It can lead to difficulty breathing and is a characteristic feature of various respiratory conditions, such as asthma and chronic obstructive pulmonary disease (COPD).
 
-**Common causes:**
+**Common causes**:
 
 * **Asthma**: Asthma is a chronic respiratory condition characterized by recurrent episodes of bronchospasm, resulting in symptoms like wheezing, shortness of breath, and coughing.
 
@@ -14,7 +14,7 @@ Bronchospasm refers to the sudden constriction or narrowing of the airways in th
 
 * **Irritants**: Exposure to irritants like smoke, strong odors, or chemical fumes can trigger bronchospasm in susceptible individuals.
 
-**Symptoms:**
+**Symptoms**:
 
 * **Wheezing**: A high-pitched whistling sound during breathing.
 * **Shortness of breath**: Difficulty breathing or catching your breath.

@@ -2,7 +2,7 @@
 
 Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS) is a term used to describe a group of bacteria that belong to the genus Staphylococcus and are resistant to multiple antibiotics.
 
-**Key points:**
+**Key points**:
 
 * **Staphylococcus Species**: Staphylococci are a group of bacteria commonly found on the skin and mucous membranes. Some species are harmless; others can cause infections.
 

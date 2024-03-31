@@ -2,7 +2,7 @@
 
 When seeking healthcare providers to help with MCAS, keep in mind that MCAS is a relatively new and evolving field. MCAS requires a multidisciplinary approach, as it can involve multiple systems in the body, and often involves a combination of medication, lifestyle adjustments, and dietary modifications.
 
-**What to do:**
+**What to do**:
 
 * **Seek medical professionals**: Find ones who are familiar with the condition and its diagnostic criteria.
 

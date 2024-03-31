@@ -21,9 +21,9 @@ Gold allergy is typically diagnosed based on a clinical evaluation of symptoms a
 * Minimize exposure to gold or gold-containing items.
 
 * Choose jewelry and accessories made from alternative materials that are less likely to cause allergic reactions, such as stainless steel, titanium, platinum, or hypoallergenic alloys.
- 
+
 * Avoid gold-plated or gold-filled items.
 
 * Using protective barriers, such as clear nail polish or protective covers, on items that may contain gold.
-  
+
 * Take precautions when handling gold-containing items, such as wearing gloves or using protective barriers.

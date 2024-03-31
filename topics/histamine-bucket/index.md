@@ -2,7 +2,7 @@
 
 The "histamine bucket" theory is the idea that each person has a histamine threshold for how much histamine their bodies can tolerate. If the histamine exceeds the threshold, then the "histamine bucket overflows", which causes symptoms.
 
-**Key points:**
+**Key points**:
 
 * **Cumulative Effect**: The concept of the histamine bucket emphasizes that it's not just the histamine content of a single food item that matters; rather, it's the cumulative effect of histamine from various sources throughout the day that "fill the histamine bucket".
 

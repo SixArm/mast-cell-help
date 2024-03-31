@@ -4,7 +4,7 @@ Loratadine is an antihistamine medication used to treat allergy symptoms.
 
 It is available over-the-counter. Brand name: Claritin.
 
-**Key points:**
+**Key points**:
 
 * **Class of Medication**: Loratadine belongs to the second-generation antihistamines, which are less likely to cause drowsiness compared to first-generation antihistamines.
 

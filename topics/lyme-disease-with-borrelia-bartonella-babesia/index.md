@@ -2,7 +2,7 @@
 
 [Lyme disease](../lyme-disease/) is caused by the tick-borne bacterium [Borrelia](../borrelia/)  burgdorferi, often with co-infections by microorganisms [Bartonella](../bartonella/) and [Babesia](../babesia/).
 
-**Borrelia:**
+**Borrelia**:
 
 * **Transmission**: Lyme disease is primarily transmitted through the bites of infected black-legged ticks.
 
@@ -10,7 +10,7 @@
 
 * **Care**: Diagnosis involves clinical evaluation, history of tick exposure, and laboratory tests. Treatment uses antibiotics.
 
-**Bartonella:**
+**Bartonella**:
 
 * **Transmission**: Bartonella bacteria are often associated with vectors like fleas, ticks, lice, and cat scratches and bites.
 
@@ -18,11 +18,10 @@
 
 * **Care**: Diagnosis uses serological tests, molecular diagnostics, and clinical evaluation. Treatment uses antibiotics.
 
-**Babesia:**
+**Babesia**:
 
 * **Transmission**: Babesia is a protozoan parasite that is primarily transmitted through the bites of infected ticks.
 
 * **Symptoms**: Fever, chills, fatigue, and anemia. Severe cases can occur, particularly in individuals with weakened immune systems.
 
 * **Care**: Diagnosis uses blood tests to detect the parasite. Treatment uses antiparasitic medications.
-  

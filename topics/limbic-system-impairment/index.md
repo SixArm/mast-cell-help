@@ -2,7 +2,7 @@
 
 The limbic system is a network of structures in the brain that plays a crucial role in regulating various emotions, memory, motivation, and social behavior. Limbic system impairment can occur due to various factors, including brain injuries, neurological diseases, genetic predisposition, chronic stress, and neurochemical imbalances. Treatment typically involves addressing the underlying cause and may include psychotherapy, medication, and lifestyle modifications.
 
-**Potential consequences:**
+**Potential consequences**:
 
 * **Emotional Disturbances**: Dysfunction can result in mood disorders, such as depression, anxiety, agitation, bipolar disorder, emotional instability, or aggression.
 

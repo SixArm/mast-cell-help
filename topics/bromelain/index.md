@@ -4,7 +4,7 @@ Bromelain is a mixture of proteolytic enzymes found in the pineapple plant (Anan
 
 **Key points**:
 
-* **Anti-inflammatory effects**: Bromelain may inhibiting the production of pro-inflammatory cytokines and other mediators of inflammation. It may alleviate symptoms of conditions such as osteoarthritis, rheumatoid arthritis, and inflammatory bowel disease.
+* **Anti-inflammatory effects**: Bromelain may inhibit the production of pro-inflammatory cytokines and other mediators of inflammation. It may alleviate symptoms of conditions such as osteoarthritis, rheumatoid arthritis, and inflammatory bowel disease.
 
 * **Digestive support**: Bromelain is a proteolytic enzyme, meaning it helps break down proteins. It may facilitate the breakdown of proteins in the digestive tract, which may help improve digestion and nutrient absorption.
 

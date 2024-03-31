@@ -4,7 +4,7 @@ Ketotifen is a medication that has several medical uses, primarily as an antihis
 
 Ketotifen works by blocking the action of histamine, a chemical that the body releases during an allergic reaction. Additionally, as a mast cell stabilizer, it helps prevent mast cells from releasing histamine and other inflammatory mediators, reducing inflammation and symptoms.
 
-**Primary uses:**
+**Primary uses**:
 
 * **Allergic Conditions**: Ketotifen is commonly used as an oral antihistamine to relieve symptoms associated with allergies. It can help reduce symptoms like sneezing, runny nose, itchy or watery eyes, and itching of the throat or nose.
 

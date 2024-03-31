@@ -2,7 +2,7 @@
 
 Berberine is a compound found in several plants, including goldenseal, barberry, and Oregon grape. Berberine is studied for its health benefits. Berberine supplements are available.
 
-**Key points:**
+**Key points**:
 
 * **Blood Sugar Regulation**: Berberine may improve insulin sensitivity and glucose metabolism.
 

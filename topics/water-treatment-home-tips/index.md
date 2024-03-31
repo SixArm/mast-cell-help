@@ -8,8 +8,8 @@ Water treatment at home uses a water filter. Here are tips that may help you.
 
 * Take a clean glass bottle of water that has come from the closest source of your water main, and a clean glass bottle of water from your kitchen tap. The two samples can check for an isolated problem with your pipes.
 
-* You at least want to know pH, ammonia, nitrites, nitrates. This will straight up off the bat let you know if your water is appropriate for you to drink. 
-  
+* You at least want to know pH, ammonia, nitrites, nitrates. This will straight up off the bat let you know if your water is appropriate for you to drink.
+
 **Installation**:
 
 * Ideally get a 3 stage filtration system, or better, at least for your drinking water. Ideally go below 4 microns, because that’s when the filter protects you from chlorine and chloramines.

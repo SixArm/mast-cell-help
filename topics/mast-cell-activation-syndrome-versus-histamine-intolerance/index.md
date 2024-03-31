@@ -2,7 +2,7 @@
 
 Mast Cell Activation Syndrome (MCAS) and Histamine Intolerance (HI) are both conditions related to histamine dysregulation, but they have different underlying mechanisms and clinical features.
 
-**Key points:**
+**Key points**:
 
 * **Definition**: MCAS is primarily an immune system disorder where mast cells, which are a type of immune cell, are activated and release excessive amounts of chemical mediators, including histamine. HI is a metabolic issue where the body has difficulty breaking down and eliminating histamine; related to histamine levels exceeding the body's capacity.
 

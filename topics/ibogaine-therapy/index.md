@@ -2,7 +2,7 @@
 
 Ibogaine therapy involves the use of ibogaine, a psychoactive substance found in the roots of the iboga plant native to Central Africa. Ibogaine has been studied for its potential therapeutic effects, particularly in the treatment of substance use disorders, including opioid addiction.
 
-**Key points:**
+**Key points**:
 
 * **Substance Use Disorder Treatment**: Ibogaine has the potential to interrupt addiction patterns and reduce withdrawal symptoms, particularly in individuals with opioid addiction.
 

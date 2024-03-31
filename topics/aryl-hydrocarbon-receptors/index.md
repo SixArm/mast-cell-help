@@ -2,7 +2,7 @@
 
 Aryl hydrocarbon receptors (AhR) are transcription factors that play a critical role in the body's response to environmental toxins, specifically aromatic hydrocarbons. AhR activation is involved in regulating the expression of a wide range of genes.
 
-**Key points:**
+**Key points**:
 
 * **Ligand Activation**: AhRs are typically inactive in the absence of ligands. They become activated when they bind to specific ligands, many of which are environmental pollutants.
 

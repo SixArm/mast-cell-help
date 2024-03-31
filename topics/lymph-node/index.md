@@ -2,7 +2,7 @@
 
 A lymph node is a small, bean-shaped structure that is part of the lymphatic system, and that plays a key role in immune response and defense against infections. The lymphatic system helps filter and drain lymph, a fluid that contains white blood cells and waste products, from various parts of the body.
 
-**Key points:**
+**Key points**:
 
 * **Structure and Location**: Lymph nodes are typically small, ranging from a few millimeters to about 2 centimeters in size. They are distributed throughout the body and are often found in clusters. Common locations include the neck, armpits, groin, chest, and abdomen.
 

@@ -4,7 +4,7 @@ White blood cells (WBCs), also known as leukocytes, are a crucial component of t
 
 Abnormal levels of white blood cells can provide important diagnostic information and may indicate the presence of an underlying health issue. For example, an elevated white blood cell count (leukocytosis) is often seen in response to infections, while a low white blood cell count (leukopenia) can be caused by various factors, including bone marrow disorders, chemotherapy, or autoimmune conditions.
 
-**Several types:**
+**Several types**:
 
 * **Neutrophils**: Neutrophils are the most abundant type of white blood cell and are often the first responders to infection. They engulf and destroy bacteria and other pathogens.
 

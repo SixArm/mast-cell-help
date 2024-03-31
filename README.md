@@ -107,7 +107,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Trigger cleaning](topics/trigger-cleaning/)
 
-* [Trigger triage](topics/trigger-triage/)
+* [Trigger triage - cleaning](topics/trigger-triage-cleaning/)
+* [Trigger triage - kitchen](topics/trigger-triage-kitchen/)
 * [Household triggers](topics/household-triggers/)
 * [Chemical triggers](topics/chemical-triggers/)
 * [Environmental triggers](topics/environmental-triggers/)
@@ -159,6 +160,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet/)
 * [Swiss Interest Group Histamine Intolerance (SIGHI) diet](topics/swiss-interest-group-histamine-intolerance-diet/)
 * [Whole food plant-based (WFPB) diet](topics/whole-food-plant-based-diet/)
+* [Dietary Approaches to Stop Hypertension (DASH)) diet](topics/dietary-approaches-to-stop-hypertension-diet/)
 * [Metabolic Type diet](topics/metabolic-type-diet/)
 * [Intermittent fasting (IF)](topics/intermittent-fasting/)
 * [Total parenteral nutrition (TPN)](topics/total-parenteral-nutrition/)
@@ -174,6 +176,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Low-lectin diet](topics/low-lectin-diet/)
 * [Low-FODMAP diet](topics/low-fodmap-diet/)
 * [Low-salicylate diet](topics/low-salicylate-diet/)
+* [Low-amine diet](topics/low-amine-diet/)
 * [Low-sodium diet](topics/low-sodium-diet/)
 
 <img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
@@ -337,6 +340,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)
 
 ### [Histamine psychosis](topics/histamine-psychosis/)
+
+### [Hypertension](topics/hypertension/)
 
 ### [Kawasaki disease](topics/kawasaki-disease/)
 

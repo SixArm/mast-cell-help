@@ -2,7 +2,7 @@
 
 "Safe foods" is the nickname for foods that someone can eat that don't cause symptoms. Safe foods can be different for each person, and can change over time.
 
-**Try these first:**
+**Try these first**:
 
 * **Golden Delicious Apples.** Wash thoroughly or peel.
 
@@ -14,9 +14,9 @@
 
 * **Rice.** Ideally basmati rice or jasmine rice.
 
-* **Sweet potatoes.** 
+* **Sweet potatoes.**
 
-* **Cucumbers.** 
+* **Cucumbers.**
 
 * **Popcorn.** Ideally air pop. No microwave bags.
 
@@ -24,7 +24,7 @@
 
 * **Gluten-Free Oatmeal.** Be aware oat avenin protein is similar to gluten, so may cause reactions. Be aware oats can carry mold.
 
-**Tips:**
+**Tips**:
 
 * **Maximize quality**: Seek organic, locally-grown, GMO-free.
 
@@ -35,7 +35,7 @@
 * **No additives**: Such as colors, flavors, hormones, preservatives.
 
 * **No leftovers**: These can develop triggers over time.
-  
+
 * **No biocides**: No pesticides, herbicides, fungicides.
 
 * **No cross-contamination**: Processed products may have intermingled with other products that are triggers.

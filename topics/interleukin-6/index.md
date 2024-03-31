@@ -2,7 +2,7 @@
 
 Interleukin-6 (IL-6) is a cytokine, which is a type of signaling molecule that plays a crucial role in the regulation of the immune system and inflammation. IL-6 is produced by various cells, including immune cells, fibroblasts, and endothelial cells, and it has diverse functions in the body.
 
-**Key points:**
+**Key points**:
 
 * **Inflammatory Response**: IL-6 is a pro-inflammatory cytokine, meaning it is involved in promoting inflammation. It is released in response to infections, tissue injuries, and other inflammatory stimuli.
 

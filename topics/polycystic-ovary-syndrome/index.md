@@ -2,7 +2,7 @@
 
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder that affects people with ovaries, particularly during their reproductive years. PCOS is a chronic condition that requires ongoing management.
 
-**Key points:**
+**Key points**:
 
 * **Irregular Menstrual Cycles**: Symptoms can manifest as infrequent periods, prolonged periods, or unpredictable menstrual cycles.
 

@@ -6,7 +6,7 @@
 
 * **FBC**: full blood count
 
-**Common tests:**
+**Common tests**:
 
 * **LFT**: liver function test
 
@@ -16,7 +16,7 @@
 
 * **EMG**: electromyogram
 
-**Imaging:**
+**Imaging**:
 
 * **CT**: computerized tomography
 
@@ -24,7 +24,7 @@
 
 * **PET**: positron emission tomography
 
-**Markers:**
+**Markers**:
 
 * **ABG**: arterial blood gas
 

@@ -2,7 +2,7 @@
 
 Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy supplies an individual with a coenzyme that plays a crucial role in various cellular processes, including energy metabolism and DNA repair. NAD+ IV therapy has gained attention for its potential benefits. The scientific evidence is still limited. Research is ongoing.
 
-**Key points:**
+**Key points**:
 
 * **Cellular Function**: NAD+ is involved in various cellular functions, including energy production, DNA repair, and regulation of certain enzymes.
 

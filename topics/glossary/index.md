@@ -1,6 +1,6 @@
 # Glossary of medical terminology
 
-**Medical chart summarization:**
+**Medical chart summarization**:
 
 * **CC**: chief complaint
 
@@ -20,7 +20,7 @@
 
 * **Ix**: investigation
 
-**Medical examination shorthand:**
+**Medical examination shorthand**:
 
 * **p/c**: presenting complaint
 

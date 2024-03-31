@@ -2,7 +2,7 @@
 
 Mast Cell Leukemia (MCL) is an extremely rare and aggressive form of systemic mastocytosis, a group of disorders characterized by the abnormal proliferation and activation of mast cells, a type of immune cell. Mast cell leukemia is considered one of the most severe subtypes of systemic mastocytosis and is associated with a poor prognosis.
 
-**Key points:**
+**Key points**:
 
 * **Abnormal Mast Cells**: In MCL, there is a massive infiltration of malignant mast cells in various tissues and organs, including the bone marrow. These cells are abnormal and can release excessive amounts of chemicals, such as histamine.
 

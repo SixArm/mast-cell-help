@@ -6,7 +6,7 @@ Azelastine is a medication primarily used for the treatment of allergic rhinitis
 
 * **Action**: Azelastine is an antihistamine medication that works by blocking the effects of histamine, a chemical released by the body during allergic reactions. Histamine is responsible for causing symptoms such as sneezing, itching, runny or stuffy nose, and watery eyes. By blocking histamine receptors, azelastine helps alleviate these allergy symptoms.
 
-* **Nasal Spray and Eye Drops**: Azelastine is available in two main forms: nasal spray and eye drops. 
+* **Nasal Spray and Eye Drops**: Azelastine is available in two main forms: nasal spray and eye drops.
 
 * **Usage**: Azelastine nasal spray is typically used as a twice-daily regimen, with one spray in each nostril in the morning and evening. The dosage may vary depending on the severity of symptoms and individual response to treatment. Azelastine eye drops are usually instilled into the affected eye(s) twice daily or as directed by a healthcare professional.
 

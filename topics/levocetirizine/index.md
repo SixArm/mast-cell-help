@@ -4,7 +4,7 @@ Levocetirizine is an antihistamine medication that is commonly used to relieve s
 
 Levocetirizine is available over-the-counter. Brand name: Xyzal.
 
-**Key points:**
+**Key points**:
 
 * **Action**: Levocetirizine works by blocking the action of histamine, a natural substance in the body that is involved in allergic reactions. It acts as a selective antagonist at the histamine H1 receptor.
 

@@ -14,7 +14,7 @@ immunotherapy.
 **Key factors**:
 
 * **Environmental Exposures**: Examples: pollen, mold, mites, dander, perfume, volatile organic compounds.
-  
+
 * **Dietary Exposures**: Examples: dairy, eggs, soy, wheat, peanuts, shellfish.
   Cross-reactivity between allergens may occur, further increasing the total
   allergen load.

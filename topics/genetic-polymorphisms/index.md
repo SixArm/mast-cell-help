@@ -2,7 +2,7 @@
 
 Genetic polymorphisms, also known as genetic variations or genetic variants, are differences in the DNA sequence among individuals in a population.
 
-**Key types:**
+**Key types**:
 
 * **Single Nucleotide Polymorphisms (SNPs)**: These polymorphisms involve a single base-pair change in the DNA sequence. For example, at a specific position in a gene, one person's DNA might have an "A," while another person's DNA at the same position has a "G."
 
@@ -12,7 +12,7 @@ Genetic polymorphisms, also known as genetic variations or genetic variants, are
 
 * **Chromosomal Rearrangements**: These polymorphisms involve more extensive structural changes in chromosomes, such as translocations, inversions, and deletions or duplications of entire genes or chromosomal segments.
 
-**Key considerations:**
+**Key considerations**:
 
 * **Functional Consequences**: Many genetic polymorphisms have functional consequences. They can affect gene expression, protein structure and function, traits, and disease susceptibilities.
 

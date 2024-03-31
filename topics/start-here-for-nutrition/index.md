@@ -1,6 +1,6 @@
 # Start here for your nutrition
 
-**Track your intake:** 
+**Track your intake**:
 [food diary](../food-diary/),
 [elimination diet](../elimination-diet/),
 [intermittent fasting (IF)](../intermittent-fasting/).
@@ -15,14 +15,14 @@
 [low-sodium diet](topics/low-sodium-diet/),
 [low-FODMAP diet](topics/low-fodmap-diet/).
 
-**Boost your health:** 
+**Boost your health**:
 [dietary supplements](../dietary-supplements/),
 [macronutrients and micronutrients](../macronutrients-and-micronutrients/),
 [nutritional shakes](../nutritional-shakes/),
 [electrolytes](../electrolytes/),
 [superfoods](../superfoods/).
 
-**Try supplements**: 
+**Try supplements**:
 [multivitamin](../multivitamin/),
 [quercetin](../quercetin/),
 [glutathione](../glutathione/),
@@ -37,11 +37,11 @@
 [zinc](../zinc/),
 [lecithin](../lecithin/).
 
-**Power your gut:** 
+**Power your gut**:
 [prebiotic supplements](../prebiotic-supplements/),
 [probiotic supplements](../probiotic-supplements/).
 
-**Try natural herbs**: 
+**Try natural herbs**:
 [ginger](../ginger/),
 [berberine](../berberine/),
 [butterbur](../butterbur/),

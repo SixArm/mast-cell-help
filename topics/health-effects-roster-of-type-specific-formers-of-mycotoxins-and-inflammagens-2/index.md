@@ -2,7 +2,7 @@
 
 "Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version" (HERTSMI-2) is a scoring system for the presence and types of mold species in indoor environments, focusing on mycotoxin health risks.
 
-**Key points:**
+**Key points**:
 
 * **Scoring System**: HERTSMI-2 assigns a score to different mold species based on their potential health impact. The score is derived from the mold's ability to produce mycotoxins (toxic compounds produced by some molds) and its association with inflammatory responses.
 

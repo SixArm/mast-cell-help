@@ -4,7 +4,7 @@ N-acetyl cysteine (NAC) is a dietary supplement that is a form of the amino acid
 
 NAC is generally considered safe when used at recommended doses, but it can cause side effects in some individuals, such as gastrointestinal symptoms or allergic reactions.
 
-**Key points:**
+**Key points**:
 
 * **Antioxidant Support**: NAC is a precursor to glutathione, one of the body's most important antioxidants. It helps protect cells from oxidative stress and damage caused by free radicals.
 

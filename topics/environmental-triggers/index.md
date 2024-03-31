@@ -2,7 +2,7 @@
 
 Environmental triggers refer to adverse reactions that individuals may experience in response to exposure to various environmental factors. These sensitivities cause symptoms such as sneezing, nasal congestion, itching, and respiratory issues, and can cause severe symptoms including [anaphylaxis](../anaphylaxis/).
 
-**Examples:**
+**Examples**:
 
 * **Air triggers**: Examples are plant pollens, mold spores, dust, mites, pet dander, pollution, smoke, excess carbon monoxide, and volatile organic compounds (VOCs) from household products or cooking.
 

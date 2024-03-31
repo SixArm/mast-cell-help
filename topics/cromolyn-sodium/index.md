@@ -2,7 +2,7 @@
 
 Cromolyn sodium is a medication that belongs to a class of drugs called mast cell stabilizers. Cromolyn sodium can help treat allergic responses and inflammation. Cromolyn sodium originally derived from a healing herb called ammi visnaga. Brand name: Gastrocrom.
 
-**Key points:**
+**Key points**:
 
 * **Allergic Conditions**: Cromolyn sodium is primarily used for the prevention and treatment of allergic conditions, such as allergic rhinitis (hay fever) and allergic conjunctivitis (eye allergies). It can help reduce symptoms like sneezing, runny nose, itchy or watery eyes, and nasal congestion.
 

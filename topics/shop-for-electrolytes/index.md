@@ -1,6 +1,6 @@
 # Shop for electrolytes
 
-Electrolytes recommended by mast cell people. Try to read ingredients lists carefully, because you may want specific levels of specific electrolytes; also, you may want to avoid citric acid, artificial colors or flavors, or other additives. 
+Electrolytes recommended by mast cell people. Try to read ingredients lists carefully, because you may want specific levels of specific electrolytes; also, you may want to avoid citric acid, artificial colors or flavors, or other additives.
 
 * [LMNT - Zero-Sugar Electrolytes - Raw Unflavored](https://drinklmnt.com/products/lmnt-recharge-electrolyte-drink?variant=16358367232034)
 

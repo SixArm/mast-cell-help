@@ -2,7 +2,7 @@
 
 Vitamin C (also known as ascorbic acid) is a water-soluble vitamin that plays a crucial role in maintaining good health. It is an essential nutrient, meaning the human body cannot produce it on its own.
 
-**Key points:**
+**Key points**:
 
 * **Antioxidant Properties**: Vitamin C is a potent antioxidant, which means it helps protect cells from oxidative damage.
 

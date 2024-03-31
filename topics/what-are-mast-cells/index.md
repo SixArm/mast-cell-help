@@ -4,7 +4,7 @@ Mast cells are a type of white blood cell that is an essential part of the immun
 
 Mast cells are crucial for the body's ability to respond to and defend against various threats, but their inappropriate activation or excessive responses can lead to health issues, such as Mast Cell Activation Syndrome (MCAS).
 
-**Key characteristics:**
+**Key characteristics**:
 
 * **Granules**: Mast cells contain granules filled with various bioactive molecules, including histamine, heparin, proteases, and cytokines. These granules store and release these substances upon activation.
 

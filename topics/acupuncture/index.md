@@ -2,7 +2,7 @@
 
 Acupuncture is a [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/) practice that involves the insertion of thin, sterile needles into specific points on the body. It can help alleviate various health conditions and promote overall well-being.
 
-**Key points:**
+**Key points**:
 
 * **Theory of Energy Flow**: Acupuncture is based on the concept of Qi (pronounced "chee"), which represents the body's vital energy. Acupuncture is believed to restore the balance of Qi.
 

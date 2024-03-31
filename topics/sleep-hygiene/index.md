@@ -2,7 +2,7 @@
 
 Sleep hygiene refers to a set of practices and habits that promote good sleep quality and help individuals achieve restful and rejuvenating sleep.
 
-**Key principles:**
+**Key principles**:
 
 * **Use the Bed Only for Sleep and Intimacy**: Avoid using your bed for activities like watching TV, working, or using electronic devices.
 

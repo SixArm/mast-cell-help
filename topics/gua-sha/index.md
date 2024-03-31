@@ -1,4 +1,4 @@
-# Gua Sha 
+# Gua Sha
 
 Gua Sha is a traditional Chinese therapy that involves scraping the skin with a smooth-edged tool to promote blood circulation and alleviate various health issues. The technique has been used for centuries in traditional Chinese medicine (TCM) and is believed to help release stagnant energy, known as "qi," and promote the body's natural healing processes.
 

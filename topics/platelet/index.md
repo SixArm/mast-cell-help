@@ -4,7 +4,7 @@ Platelets, also known as thrombocytes, are small cell fragments found in the blo
 
 Disorders related to platelets can lead to various bleeding or clotting problems. Some individuals may have clotting disorders, which can result in excessive clotting (thrombosis), while others may have bleeding disorders, which can lead to an increased risk of bleeding and easy bruising. Some specific platelet disorders include thrombocytopenia, immune thrombocytopenic purpura (ITP), and thrombocytosis.
 
-**Key points:**
+**Key points**:
 
 * **Formation and Production**: Platelets are formed in the bone marrow, just like red and white blood cells.
 

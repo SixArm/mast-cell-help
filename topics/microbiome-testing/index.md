@@ -4,7 +4,7 @@ Microbiome testing involves analyzing the microorganisms that inhabit a particul
 
 The process of microbiome testing typically involves collecting a sample (e.g., a stool sample for gut microbiome testing) and sending it to a laboratory for analysis. Advances in DNA sequencing technologies have enabled more comprehensive profiling of microbial communities.
 
-**Microbiome testing types:**
+**Microbiome testing types**:
 
 * **Gut Microbiome Testing**: Analyze the microorganisms present in the gastrointestinal tract. The relative abundance of different bacterial species may offer insights into gut health.
 

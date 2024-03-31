@@ -1,6 +1,6 @@
 # Glossary of medical role titles
 
-**Doctor physician titles:**
+**Doctor physician titles**:
 
 * **MD**: Medical Doctor. Focus is allopathic western medicine.
 
@@ -8,13 +8,13 @@
 
 * **ND**: Naturopathic Doctor. Focus is natural remedies.
 
-**Doctor roles:**
+**Doctor roles**:
 
 * **GP**: General Practitioner.
 
 * **PCP**: Primary Care Provider.
 
-**Nurse-related titles:**
+**Nurse-related titles**:
 
 * **RN**: Registered Nurse.
 
@@ -34,7 +34,7 @@
 
 * **ENP**: Emergency Nurse Practitioner.
 
-**Assistant-related titles:**
+**Assistant-related titles**:
 
 * **PA**: Physician Assistant.
 
@@ -42,6 +42,6 @@
 
 * **HCA**: Healthcare Assistant.
 
-* **HCSW:**	Healthcare Support Worker.
+* **HCSW**:	Healthcare Support Worker.
 
 * **OT**: Occupational Therapist.

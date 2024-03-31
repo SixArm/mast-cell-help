@@ -2,7 +2,7 @@
 
 Calcium is an essential mineral that plays a crucial role in various physiological functions in the body, including bone health, muscle function, nerve transmission, and blood clotting.
 
-**Key points:**
+**Key points**:
 
 * **Importance**: Calcium is vital for the development and maintenance of strong bones and teeth, and for normal blood clotting, muscle function, and nerve signaling.
 

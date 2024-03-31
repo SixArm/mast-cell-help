@@ -2,7 +2,7 @@
 
 Mast cell genetics refers to the study of the genetic factors and mutations associated with mast cells.
 
-**Key points:**
+**Key points**:
 
 * **Mastocytosis**: This is a group of rare disorders characterized by the abnormal accumulation of mast cells in various tissues. Genetic mutations, such as KIT mutations (particularly KIT-D816V), are often identified in mastocytosis.
 

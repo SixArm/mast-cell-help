@@ -2,7 +2,7 @@
 
 Doctors can help. Ask them about this page.
 
-**Try protocols:**
+**Try protocols**:
 [SHINE protocol](../shine-protocol/),
 [Shoemaker Biotoxin Illness Protocol](../shoemaker-biotoxin-illness-protocol/).
 
@@ -33,7 +33,7 @@ Doctors can help. Ask them about this page.
 [prostaglandin D2 (PGD2) test](../prostaglandin-d2-test/),
 [Environmental Relative Moldiness Index (ERMI)](../environmental-relative-moldiness-index/).
 
-**Get medications:**
+**Get medications**:
 [adrenaline emergency auto-injector](../adrenaline-emergency-auto-injector/),
 [antihistamine medications](../antihistamine-medications/),
 [antifungal medications](../antifungal-medications/),

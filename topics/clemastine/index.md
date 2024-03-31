@@ -17,4 +17,3 @@ Clemastine is a first-generation antihistamine medication used primarily for the
 * **Contraindications**: It should not be used in patients with narrow-angle glaucoma, urinary retention, severe liver disease, or severe respiratory conditions such as asthma or chronic obstructive pulmonary disease (COPD).
 
 * **Special Populations**: Clemastine should be used with caution in elderly patients, as they may be more susceptible to CNS side effects.
-  

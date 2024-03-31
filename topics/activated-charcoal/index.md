@@ -2,7 +2,7 @@
 
 Activated charcoal, also known as activated carbon, is a form of carbon that has been processed to have a large surface area, making it highly adsorbent. It is commonly used for its ability to adsorb (bind to) a wide range of substances, including toxins, chemicals, and impurities.
 
-**Key points:**
+**Key points**:
 
 * **Medical use**: It treats certain types of poisoning or overdose, by binding to the toxic substances in the gastrointestinal tract, preventing their absorption into the bloodstream, and facilitating their elimination from the body.
 

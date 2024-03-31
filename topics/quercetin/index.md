@@ -4,7 +4,7 @@ Quercetin is a natural flavonoid compound found in various fruits, vegetables, a
 
 Quercetin is available as a dietary supplement in various forms, including capsules, tablets, and powders.
 
-**Key points:**
+**Key points**:
 
 * **Sources**: Quercetin is found in a variety of plant-based foods, including: onions, apples, berries (e.g., strawberries, blueberries), citrus fruits (e.g., oranges, lemons), red grapes, leafy green vegetables (e.g., kale, spinach), tomatoes, broccoli, red and black beans, and black tea.
 

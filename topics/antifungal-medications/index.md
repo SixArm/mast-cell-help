@@ -2,7 +2,7 @@
 
 Antifungal medications are drugs used to treat fungal infections. Fungal infections can affect various parts of the body, including the skin, nails, hair, and internal organs. Antifungal medications work by targeting specific aspects of fungal cell structures or functions.
 
-**Common classes:**
+**Common classes**:
 
 * **Azoles**: Azoles are a broad class of medications that inhibit the synthesis of ergosterol, a key component of fungal cell membranes. Examples: fluconazole, itraconazole, ketoconazole, voriconazole, posaconazole.
 

@@ -2,7 +2,7 @@
 
 [Anaphylaxis](../anaphylaxis/) diagnosis is primarily based on clinical evaluation and a thorough medical history, as well as the recognition of characteristic signs and symptoms that occur after exposure to an allergen or trigger.
 
-**Key points:**
+**Key points**:
 
 * **Medical History**: A provider will take a detailed [medical history](../medical-history/), which includes asking about the individual's symptoms, the timing of symptom onset in relation to exposure to a potential allergen or trigger, and any known allergies or previous episodes of anaphylaxis.
 

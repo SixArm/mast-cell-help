@@ -4,7 +4,7 @@ Diamine oxidase (DAO) is an enzyme that plays a role in the breakdown of histami
 
 Diamine oxidase supplements provide an exogenous source of DAO, with the goal of aiding in the digestion and breakdown of histamine.
 
-**Key points:**
+**Key points**:
 
 * **Effectiveness**: Effectiveness is a subject of ongoing research. Some individuals may report benefits, while others may not experience significant improvements.
 

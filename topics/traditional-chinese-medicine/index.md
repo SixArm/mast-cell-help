@@ -2,7 +2,7 @@
 
 Traditional Chinese Medicine (TCM) is a comprehensive and ancient system of medicine that has been practiced for thousands of years in China and East Asia. TCM emphasizes the interconnectedness of physical, mental, and emotional well-being. It uses concepts such as Yin and Yang, the Five Elements (Wood, Fire, Earth, Metal, Water), and the flow of Qi to diagnose and treat health issues.
 
-**Key points:**
+**Key points**:
 
 * **Acupuncture**: [Acupuncture](../acupuncture/) involves the insertion of thin needles into specific points on the body to stimulate and balance the flow of vital energy, known as "Qi" or "Chi".
 

@@ -2,7 +2,7 @@
 
 [Asthma](../asthma/) often involves a combination of medications, some for immediate relief (i.e. rescue medications/), and some for long-term management of inflammation (i.e. controller medications).
 
-**Common types:**
+**Common types**:
 
 * **Short-Acting Beta-Agonists (SABAs)**: These bronchodilators provide quick relief by relaxing the smooth muscles of the airways. They treat acute symptoms and are known as rescue medications. Examples: Albuterol, Levalbuterol.
 

@@ -10,4 +10,4 @@ Autoimmune Protocol (AIP) diet is a specialized version of the paleo diet design
 
 * **Focus on Gut Health**: Encourage gut-healing foods such as bone broth, collagen, and fermented foods to support digestive function and reduce intestinal permeability ("leaky gut"), which is believed to contribute to autoimmune disease.
 
-* **Reintroduce Step By Step**: After a period of strict elimination, reintroduce eliminated foods one at a time to assess their tolerance and identify potential triggers of symptoms. 
+* **Reintroduce Step By Step**: After a period of strict elimination, reintroduce eliminated foods one at a time to assess their tolerance and identify potential triggers of symptoms.

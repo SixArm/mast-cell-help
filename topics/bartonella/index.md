@@ -2,7 +2,7 @@
 
 Bartonella is a genus of bacteria that includes several species capable of infecting mammals, including humans. These bacteria are typically transmitted through the bites of infected arthropods, such as fleas, ticks, and sandflies. Bartonella infections can cause a range of symptoms and are associated with various clinical conditions.
 
-**Key points:**
+**Key points**:
 
 * **Bartonellosis**: Bartonellosis may involve systemic symptoms, neurological manifestations, and cardiovascular complications.
 

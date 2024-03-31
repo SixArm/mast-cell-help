@@ -2,7 +2,7 @@
 
 Mold exposure diagnostics involve a combination of clinical assessment, medical history, and various diagnostic tests to determine if an individual has been exposed to mold and if the exposure is contributing to health issues.
 
-**Common approaches:**
+**Common approaches**:
 
 * **Environmental History**: Gathering information about the individual's living and working environments is essential. This involves questions about conditions that could contribute to mold growth. Tests can include [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index/) and
 [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)

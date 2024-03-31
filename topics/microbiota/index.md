@@ -4,7 +4,7 @@ Microbiota refers to the diverse community of microorganisms that inhabit a part
 
 The human microbiota is highly diverse, with trillions of microorganisms representing thousands of different species. Each region of the body, such as the skin, mouth, gut, and other mucosal surfaces, has its own distinct microbiota.
 
-**Key points:**
+**Key points**:
 
 * **Human Microbiota**: The human microbiota plays a crucial role in maintaining health and contributing to various physiological functions, including digestion, nutrient absorption, metabolism, and immune system development.
 

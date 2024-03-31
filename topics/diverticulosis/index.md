@@ -2,7 +2,7 @@
 
 Diverticulosis is a common condition characterized by the presence of small, bulging pouches (diverticula) that can form in the lining of the digestive system, typically in the colon (large intestine). These pouches can develop when weak spots in the wall of the colon give way under pressure. Diverticulosis itself usually does not cause noticeable symptoms.
 
-**Key points:**
+**Key points**:
 
 * **Prevalence**: Diverticulosis becomes more common with age, and it is more prevalent in industrialized countries where diets are typically lower in fiber.
 

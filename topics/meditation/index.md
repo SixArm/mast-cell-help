@@ -4,7 +4,7 @@ Meditation is a practice that involves focusing the mind and calming the thought
 
 Meditation is a skill that develops with regular practice. Beginners may start with short sessions and gradually extend the duration. There is no one-size-fits-all approach. Individuals may explore different types of meditation, such as such as guided meditation, mindfulness meditation, loving-kindness meditation, body scan meditation, movement-based meditation, and Zen meditation.
 
-**Benefits:**
+**Benefits**:
 
 * **Stress Reduction**: Meditation is widely recognized for its stress-reducing effects. Regular practice may help lower cortisol levels and promote a sense of calm.
 

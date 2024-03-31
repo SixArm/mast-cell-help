@@ -2,7 +2,7 @@
 
 Low-dose naltrexone (LDN) may be a novel anti-inflammatory agent in the central nervous system, via action on microglial cells. Effects appear to be entirely independent from naltrexone’s better-known activity on opioid receptors.
 
-**Key points:**
+**Key points**:
 
 * **Immune Modulation**: LDN is believed to exert its effects by influencing the release of certain neurotransmitters and modulating the activity of immune cells. It may enhance the production of endorphins, which are natural opioids produced by the body.
 

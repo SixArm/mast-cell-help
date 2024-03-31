@@ -2,7 +2,7 @@
 
 Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that plays a crucial role in the body's "fight or flight" response to stress or danger. It is produced by the adrenal glands, which are located on top of each kidney. Adrenaline acts on various target tissues and organs to prepare the body to respond to a perceived threat or stressor.
 
-**Key points:**
+**Key points**:
 
 * **Increased Blood Flow**: Adrenaline stimulates the heart, and also causes blood vessels to constrict in certain areas, to help blood flow to vital organs and muscles.
 

@@ -2,7 +2,7 @@
 
 Fludrocortisone is a synthetic corticosteroid medication that is used for its mineralocorticoid properties.
 
-**Key points:**
+**Key points**:
 
 * **Action**: It is a synthetic analog of aldosterone, a hormone produced by the adrenal glands. It primarily exerts its effects on mineralocorticoid receptors, regulating electrolyte and fluid balance in the body.
 

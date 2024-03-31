@@ -2,7 +2,7 @@
 
 A wool allergy is an allergic reaction to proteins found in the fibers of wool. Wool is derived from the fleece of sheep and is commonly used in clothing, blankets, and other textiles. While wool is a natural and breathable material, some individuals may develop an allergic reaction to it.
 
-**Key points:**
+**Key points**:
 
 * **Allergen in Wool**: The allergenic component in wool is a protein called lanolin. Lanolin is a natural oil present in sheep's wool.
 

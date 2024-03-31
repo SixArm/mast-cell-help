@@ -2,7 +2,7 @@
 
 Histamine N-methyltransferase (HNMT) is an enzyme that is responsible for breaking down histamine, by adding a methyl group to it (a process known as methylation).
 
-**Key points:**
+**Key points**:
 
 * **Function**: Its primary function is to metabolize histamine, leading to its inactivation.
 

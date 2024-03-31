@@ -2,7 +2,7 @@
 
 A genetic mutation is an alteration in the DNA sequence of an organism's genome. A mutation can lead to a wide range of effects, from no discernible impact to significant changes in an organism's traits and characteristics. Genetic mutations are a fundamental driver of evolution and are central to the understanding of genetics and inherited traits.
 
-**Key points:**
+**Key points**:
 
 * **Types**: Point mutations are small-scale mutations that involve the substitution, addition, or deletion of a single nucleotide in the DNA sequence. Insertions/deletions (Indels) involve the insertion of new nucleotides or the removal of existing ones, which can shift the reading frame and cause significant changes. Chromosomal rearrangements are large-scale mutations that affect the structure and number of chromosomes.
 

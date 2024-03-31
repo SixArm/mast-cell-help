@@ -3,7 +3,7 @@
 
 Mast Cell Activation Syndrome (MCAS) can be challenging to diagnose because the symptoms can overlap with many other medical conditions.
 
-**Laboratory tests:**
+**Laboratory tests**:
 
 * **Tryptase**: Tryptase is an enzyme released by mast cells during activation. Elevated serum tryptase levels suggest mast cell activation. Elevated plasma tryptase levels may also be considered.
 

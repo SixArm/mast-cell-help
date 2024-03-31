@@ -2,7 +2,7 @@
 
 Vasoactive Intestinal Peptide (VIP) is a neuropeptide that plays a crucial role in various physiological functions, including the regulation of the gastrointestinal tract, vascular system, and immune system.
 
-**Key points:**
+**Key points**:
 
 * **Receptors**: VIP receptors are present on various cell types, including smooth muscle cells, immune cells, and glandular cells.
 

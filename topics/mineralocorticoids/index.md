@@ -2,7 +2,7 @@
 
 Mineralocorticoids are a class of steroid hormones that play a crucial role in regulating electrolyte and water balance in the body. The primary mineralocorticoid is aldosterone, which is produced by the adrenal glands, specifically in the outer layer known as the adrenal cortex.
 
-**Key points:**
+**Key points**:
 
 * **Functions**: Mineralocorticoids, particularly aldosterone, influence the reabsorption of sodium and the excretion of potassium in the kidneys. This helps maintain the balance of sodium and potassium in the body.
 

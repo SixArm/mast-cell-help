@@ -2,7 +2,7 @@
 
 There are important considerations when using dietary supplements.
 
-**Key considerations:**
+**Key considerations**:
 
 * **Recommendations**: Follow recommended dosages and avoid exceeding them, as excessive intake of certain vitamins and minerals can be harmful.
 

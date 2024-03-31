@@ -2,7 +2,7 @@
 
 The severity of histamine intolerance can vary widely among individuals.
 
-**Key factors:**
+**Key factors**:
 
 * **Enzyme Deficiency**: Histamine intolerance is often associated with a deficiency of diamine oxidase (DAO), an enzyme responsible for breaking down histamine. The degree of enzyme deficiency can vary.
 

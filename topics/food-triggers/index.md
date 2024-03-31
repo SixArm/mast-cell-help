@@ -2,7 +2,7 @@
 
 Foods triggers refer to adverse reactions triggered by exposure to certain foods. Individuals may experience symptoms ranging from mild irritation to severe reactions or [anaphylaxis](../anaphylaxis/).
 
-**Examples:**
+**Examples**:
 
 * **Lactose**: Can trigger GI bloating, gas, and diarrhea. Examples: milk, butter, cheese.
 

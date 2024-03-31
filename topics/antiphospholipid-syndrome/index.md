@@ -2,7 +2,7 @@
 
 Antiphospholipid syndrome (APS), also known as Hughes syndrome, is an autoimmune disorder characterized by the presence of antiphospholipid antibodies in the blood. These antibodies can lead to abnormal blood clotting in arteries and veins, as well as a range of other symptoms.
 
-**Key points:**
+**Key points**:
 
 * **Hypercoagulability**: People with APS are at an increased risk of abnormal blood clot formation, both in the veins (venous thrombosis) and arteries (arterial thrombosis). This can lead to conditions such as deep vein thrombosis (DVT), pulmonary embolism, stroke, and heart attacks.
 

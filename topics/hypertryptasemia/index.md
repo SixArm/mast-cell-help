@@ -2,7 +2,7 @@
 
 Hypertryptasemia refers to the presence of abnormally high levels of [tryptase](../tryptase/) in the blood. Tryptase is an enzyme that is primarily released from mast cells, which are involved in the immune response.
 
-**Key aspects:**
+**Key aspects**:
 
 * **Mast Cell Disorders**: Elevated tryptase levels are often associated with mast cell disorders, such as [systemic mastocytosis](../systemic-mastocytosis/). In these conditions, mast cells are abnormally increased in the body and can release excessive amounts of tryptase and other inflammatory substances, leading to various symptoms.
 

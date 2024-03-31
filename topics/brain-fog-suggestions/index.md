@@ -10,20 +10,20 @@ Drinking plenty of water.
 
 Aerobic exercise.
 
-Supplements, especially 
-[omega 3](../omega-3/), 
-[vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/), 
+Supplements, especially
+[omega 3](../omega-3/),
+[vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/),
 [vitamin D (calciferol)](../vitamin-d-calciferol/),
 [magnesium supplements](../magnesium-supplements/),
 [chlorella](../chorella).
 
 Fresh air.
 
-Mind-body practices, especially 
-[meditation](../meditation/), 
-mindfulness, 
-deep breathing, 
-[somatic experiencing](../somatic-experiencing/). 
+Mind-body practices, especially
+[meditation](../meditation/),
+mindfulness,
+deep breathing,
+[somatic experiencing](../somatic-experiencing/).
 
 Phosphatidylcholine.
 
@@ -35,7 +35,7 @@ Phosphatidylcholine.
 
 ADHD medications, such as Strattera.
 
-Stopping my food triggers. 
+Stopping my food triggers.
 
 [Montelukast](../montelukast/).
 

@@ -2,7 +2,7 @@
 
 Contact allergic dermatitis, also known as contact hypersensitivity, is a type of skin reaction that occurs when the skin comes into contact with a substance to which an individual is allergic.
 
-**Key points:**
+**Key points**:
 
 * **Allergen Exposure**: Contact hypersensitivity is triggered by exposure to specific allergens, known as contact allergens. These allergens can be substances like metals (e.g., nickel), plants (e.g., poison ivy), cosmetics, fragrances, rubber, latex, certain medications, and various chemicals.
 

@@ -1,8 +1,6 @@
 # Siberian pine nut oil
 
-Siberian pine nut oil is a type of vegetable oil derived from the seeds of the Siberian pine tree (Pinus sibirica). It has a long history of traditional use in Siberian and Russian folk medicine and cuisine. Siberian pine nut oil is known for its unique flavor, nutritional properties, and potential health benefits.
-
-Overall, Siberian pine nut oil is a versatile and nutritious oil that can be enjoyed both for its culinary properties and potential health benefits. As with any dietary supplement, it's essential to consume Siberian pine nut oil as part of a balanced diet and healthy lifestyle. If you have any specific health concerns or medical conditions, consult with a healthcare professional before incorporating Siberian pine nut oil into your regimen.
+Siberian pine nut oil is a type of vegetable oil derived from the seeds of the Siberian pine tree (Pinus sibirica). It has a long history of traditional use in Siberian and Russian folk medicine and cuisine. 
 
 **Key points**:
 
@@ -15,5 +13,3 @@ Overall, Siberian pine nut oil is a versatile and nutritious oil that can be enj
 * **Gastrointestinal Health**: Siberian pine nut oil has traditionally been used to support digestive health and alleviate symptoms such as heartburn, gastritis, and ulcers. Some research suggests that pine nut oil may have anti-inflammatory and gastroprotective effects on the digestive tract.
 
 * **Skin and Hair Care**: Siberian pine nut oil is sometimes used topically as a natural remedy for skin and hair care. It is believed to moisturize and nourish the skin, reduce inflammation, and promote healthy hair growth.
-
-* **Quality and Purity**: When purchasing Siberian pine nut oil, it's essential to choose products that are cold-pressed and unrefined to preserve the oil's natural flavor and nutritional content. Look for reputable brands that source their pine nuts from sustainable sources and use environmentally friendly extraction methods.

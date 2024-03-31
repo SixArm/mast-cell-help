@@ -4,13 +4,13 @@ Corticosteroids, often referred to simply as steroids, are a class of synthetic 
 
 Corticosteroids can have side effects such as weight gain, increased blood pressure, bone thinning (osteoporosis), increased susceptibility to infections, and mood changes.
 
-**Two main types:**
+**Two main types**:
 
 * **Glucocorticoids**: These have anti-inflammatory and immunosuppressive effects.
 
 * **Mineralocorticoids**: These regulate electrolyte and fluid balance in the body.
 
-**Treatable conditions:**
+**Treatable conditions**:
 
 * **Inflammatory Disorders**: Rheumatoid arthritis, systemic lupus erythematosus (SLE), and inflammatory bowel disease.
 

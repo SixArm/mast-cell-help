@@ -2,7 +2,7 @@
 
 The serum tryptase test is a diagnostic tool used to measure the level of tryptase in the blood. Tryptase is an enzyme released by mast cells, a type of immune cell involved in allergic and inflammatory responses. This test is commonly used to assess mast cell activation.
 
-**Overview:**
+**Overview**:
 
 * **Purpose**: The primary purpose of the serum tryptase test is to evaluate the activity of mast cells. Mast cells release various mediators, including tryptase, during an allergic or inflammatory response.
 

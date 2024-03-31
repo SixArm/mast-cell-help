@@ -2,7 +2,7 @@
 
 Ketamine is an anesthetic medication that has therapy use in mental health treatments, such as for major depressive disorder (MDD), bipolar disorder, and treatment-resistant depression (TRD).
 
-**Key points:**
+**Key points**:
 
 * **NMDA Receptor Modulation**: Ketamine acts as a non-competitive antagonist of the N-methyl-D-aspartate (NMDA) receptor, leading to increased levels of the neurotransmitter glutamate. This, in turn, triggers a cascade of effects that may contribute to its antidepressant properties.
 

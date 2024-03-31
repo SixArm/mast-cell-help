@@ -2,7 +2,7 @@
 
 Magnesium glycinate is a form of magnesium supplement that is bound to the amino acid glycine. Magnesium is an essential mineral that plays a crucial role in various bodily functions, including muscle function, nerve function, energy production, and the maintenance of bone health. The glycine component of magnesium glycinate may also have calming effects.
 
-**Key points:**
+**Key points**:
 
 * **Bioavailability**: The body can absorb and utilize a significant portion of the magnesium in this form.
 

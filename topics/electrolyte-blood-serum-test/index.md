@@ -9,7 +9,7 @@ An electrolyte blood serum test, also known as an electrolyte panel, is a group 
 * **Potassium (K)**: Supports heart, nerve and muscle function, as well as metabolism.
 
 * **Calcium (Ca)**: Supports your musculoskeletal system (bones and muscles), nervous system and circulatory system.
-    
+
 * **Chloride (Cl)**: Helps maintain healthy blood pressure and body fluid levels.
 
 * **Magnesium (Mg)**: Aids nerve and muscle function and promotes the growth of bones and teeth (skeletal system).

@@ -2,7 +2,7 @@
 
 Cutaneous mastocytosis (CM) primarily affects the skin and is more common in children.
 
-**Subtypes:**
+**Subtypes**:
 
 * **Urticaria Pigmentosa**: This is the most common form of cutaneous mastocytosis and typically appears as reddish-brown patches or small raised bumps on the skin.
 

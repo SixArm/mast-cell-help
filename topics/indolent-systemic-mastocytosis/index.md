@@ -2,7 +2,7 @@
 
 Indolent Systemic Mastocytosis (ISM) is a rare and chronic medical condition characterized by the accumulation of mast cells in various organs throughout the body, including the skin, bone marrow, gastrointestinal tract, and liver. In ISM, these mast cells are abnormally activated and can release excessive amounts of chemical substances, such as histamine, which can lead to a range of symptoms.
 
-**Key points:**
+**Key points**:
 
 * **Symptoms**: May include skin flushing, itching, hives, abdominal pain, diarrhea, nausea, and, in some cases, anaphylactic reactions.
 

@@ -2,7 +2,7 @@
 
 Graded Exercise Therapy (GET) is an approach to managing certain medical conditions, particularly Chronic Fatigue Syndrome (CFS) or myalgic encephalomyelitis (ME). It is a structured and gradual exercise program to help individuals gradually increase their physical activity levels.
 
-**Key points:**
+**Key points**:
 
 * **Purpose**: The primary goal is to improve a person's physical function, to address the deconditioning and physical limitations associated with medical conditions.
 

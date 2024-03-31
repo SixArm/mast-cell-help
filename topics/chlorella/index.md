@@ -15,5 +15,5 @@ Chlorella is a type of single-celled green algae that grows in fresh water. It i
 * **Antioxidants**: Chlorella contains various antioxidants, including chlorophyll, beta-carotene, and vitamin C, which may help protect cells from damage caused by free radicals and oxidative stress.
 
 * **Cholesterol management**: Chlorella supplementation may help lower LDL cholesterol levels and improve lipid profiles.
-  
+
 * **Exercise performance**: Chlorella supplementation may improve endurance and reduce fatigue during exercise.

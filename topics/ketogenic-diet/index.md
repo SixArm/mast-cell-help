@@ -2,7 +2,7 @@
 
 The ketogenic diet, a.k.a. keto diet, is a low-carbohydrate medium-protein high-fat diet. The goal is to induce ketosis, which shifts the body's energy source from carbohydrates and glucose to fat and ketones.
 
-**Key points:**
+**Key points**:
 
 * **Low Carbohydrates**: The ketogenic diet focuses on a large reduction in carbohydrate intake. Carbohydrates are restricted to a level that induces and maintains ketosis, such as 20 grams per day.
 
@@ -10,7 +10,7 @@ The ketogenic diet, a.k.a. keto diet, is a low-carbohydrate medium-protein high-
 
 * **High Fat**: The diet is high in healthy fats, providing the majority of daily caloric intake. This includes sources such as avocados, nuts, seeds, oils, and fatty cuts of meat.
 
-**Benefits:**
+**Benefits**:
 
 * **Weight Loss**: The reduction in carbohydrate intake and the shift to using stored fat for energy can contribute to weight loss.
 

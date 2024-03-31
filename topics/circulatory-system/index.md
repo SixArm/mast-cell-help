@@ -2,7 +2,7 @@
 
 The circulatory system, also known as the cardiovascular system, is a vital organ system in the human body responsible for the transportation of blood, oxygen, nutrients, hormones, and waste products to and from cells throughout the body.
 
-**Key points:**
+**Key points**:
 
 * **Heart**: The heart is a muscular organ that acts as the pump of the circulatory system. It contracts rhythmically to propel blood throughout the body. It is divided into four chambers: the left and right atria, which receive blood, and the left and right ventricles, which pump blood out of the heart.
 

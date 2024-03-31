@@ -2,7 +2,7 @@
 
 Trigger cleaning refers to a set of cleaning practices and measures aimed at reducing or eliminating allergens and irritants from the environment.
 
-**Key points:**
+**Key points**:
 
 * **Clean Well**: Dust, vacuum, and wipe surfaces. Use hypoallergenic cleaners.
 

@@ -2,7 +2,7 @@
 
 Vitamin B9 (also known as folate) is a water-soluble B-vitamin. Folate is especially important for its role in DNA synthesis, cell division, and the formation of red blood cells.
 
-**Key points:**
+**Key points**:
 
 * **DNA Synthesis and Repair**: Folate is essential for the synthesis and repair of DNA. It is particularly important during periods of rapid cell growth and division, such as during pregnancy and early childhood development.
 

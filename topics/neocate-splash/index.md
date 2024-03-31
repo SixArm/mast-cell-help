@@ -2,7 +2,7 @@
 
 Neocate Splash is a hypoallergenic, amino acid-based nutritional supplement designed for individuals with food allergies or gastrointestinal conditions. It is available in various flavors or unflavored.
 
-**Key points:**
+**Key points**:
 
 * **Hypoallergenic**: Neocate Splash is formulated to be hypoallergenic, meaning it is less likely to cause allergic reactions.
 

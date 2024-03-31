@@ -1,6 +1,6 @@
 # Qigong
 
-Qigong (pronounced "chee-gong") is an ancient Chinese practice that combines movement, meditation, and breath control to promote health, vitality, and spiritual cultivation. It is a component of traditional Chinese medicine (TCM) and has been practiced for thousands of years as a means of enhancing physical and mental well-being. 
+Qigong (pronounced "chee-gong") is an ancient Chinese practice that combines movement, meditation, and breath control to promote health, vitality, and spiritual cultivation. It is a component of traditional Chinese medicine (TCM) and has been practiced for thousands of years as a means of enhancing physical and mental well-being.
 
 **Key points**:
 

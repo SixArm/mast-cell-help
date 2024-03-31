@@ -2,7 +2,7 @@
 
 The FAILSAFE diet is a dietary approach aimed at identifying and managing food sensitivities. The term "FAILSAFE" stands for "Free of Additives, Low in Salicylates, Amines, and Flavor Enhancers". Also known as the Royal Prince Alfred Hospital (RPAH) Elimination Diet.
 
-**Components:**
+**Components**:
 
 1. **Free of Additives**: This refers to avoiding foods containing artificial additives such as preservatives, colorings, and flavorings.
 

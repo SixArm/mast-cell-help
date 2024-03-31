@@ -2,7 +2,7 @@
 
 Volatile Organic Compounds (VOCs) are a group of organic chemicals that have a high vapor pressure at room temperature, meaning they can easily evaporate into the air. See also [activated carbon filters](../activated-carbon-filters/).
 
-**Key points:**
+**Key points**:
 
 * **Sources**: VOCs can be released from a wide range of sources, including household products, building materials, furnishings, paints, solvents, varnishes, cleaning supplies, personal care products, vehicle exhaust, and industrial processes.
 

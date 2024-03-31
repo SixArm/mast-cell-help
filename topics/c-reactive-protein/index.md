@@ -2,7 +2,7 @@
 
 C-reactive protein (CRP) is a blood test marker that measures the level of inflammation in the body. It is produced by the liver and released into the bloodstream in response to inflammation.
 
-**Key points:**
+**Key points**:
 
 * **Role in Inflammation**: CRP is part of the body's natural response to inflammation. Inflammation can be caused by various factors, including infection, injury, autoimmune disorders, or chronic diseases.
 

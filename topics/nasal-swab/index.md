@@ -2,7 +2,7 @@
 
 A nasal swab is a medical test in which a sample is collected from the inside of the nose using a swab. This sample is then analyzed to identify microorganisms, such as bacteria or viruses, that may be present in the nasal passages. The sample is also known as a nasopharyngeal culture.
 
-**Purposes:**
+**Purposes**:
 
 * **Identification of Pathogens**: Nasal swabs are often performed to identify specific pathogens that may be causing symptoms of an infection. Common pathogens include bacteria like Staphylococcus aureus or Streptococcus pneumoniae.
 

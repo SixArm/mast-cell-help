@@ -2,7 +2,7 @@
 
 An adrenaline emergency auto-injector is a medical device designed to quickly and easily administer a dose of [adrenaline](../adrenaline/) (a.k.a. epinephrine) in cases of severe allergic reactions [anaphylaxis](../anaphylaxis/). Brand name: EpiPen.
 
-**Key points:**
+**Key points**:
 
 * **Purpose**: Emergency treatment for severe allergic reactions, such as those triggered by certain foods, insect stings, medications, or other allergens.
 

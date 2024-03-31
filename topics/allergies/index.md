@@ -2,7 +2,7 @@
 
 Allergies are exaggerated or hypersensitive immune responses to substances that are typically harmless to most people. These substances, known as allergens, can trigger an immune reaction in individuals who are allergic to them.
 
-**Key points:**
+**Key points**:
 
 * **Common Allergens**: Pollen, dust mites, animal dander, insect stings, certain foods (e.g., peanuts, tree nuts, milk, eggs, wheat, soy, shellfish), medications (e.g., antibiotics, aspirin), latex, and more.
 

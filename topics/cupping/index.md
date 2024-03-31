@@ -2,7 +2,7 @@
 
 Cupping is a traditional therapeutic practice that involves placing cups on the skin to create suction. The suction is typically created by heating the air inside the cup or by using a vacuum pump. Cupping is used for pain relief, promoting relaxation, and improving overall well-being.
 
-**Key points:**
+**Key points**:
 
 * **Therapeutic Claims**: Proponents of cupping claim various therapeutic benefits, including pain relief, improved circulation, reduction of inflammation, and relaxation.
 

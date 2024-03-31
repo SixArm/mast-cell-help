@@ -1,6 +1,6 @@
 # Body Protection Compound 157 (BPC-157)
 
-Body Protection Compound 157 (BPC-157) is a synthetic peptide derived from a protein found in human gastric juice. It has gained attention for its potential therapeutic effects on various bodily systems, including the gastrointestinal tract, musculoskeletal system, and central nervous system. 
+Body Protection Compound 157 (BPC-157) is a synthetic peptide derived from a protein found in human gastric juice. It has gained attention for its potential therapeutic effects on various bodily systems, including the gastrointestinal tract, musculoskeletal system, and central nervous system.
 
 **Key points**:
 

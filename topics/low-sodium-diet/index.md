@@ -2,7 +2,7 @@
 
 A low-sodium diet, often referred to as a low-salt diet, is a dietary approach that restricts the intake of sodium, a mineral commonly found in salt (sodium chloride).  This supports overall health and specific medical conditions, including hypertension, kidney disease, liver disease, and edema.
 
-**Key points:**
+**Key points**:
 
 * **Sodium and Health**: High sodium intake can contribute to high blood pressure (hypertension), which is a significant risk factor for heart disease and stroke.
 

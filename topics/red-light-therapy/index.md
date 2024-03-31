@@ -6,8 +6,8 @@ Red light therapy, also known as low-level laser therapy (LLLT) or photobiomodul
 
 * **Skin Rejuvenation**: Red light therapy may help improve skin tone and texture, reduce wrinkles and fine lines, and promote collagen production for a more youthful appearance.
 
-* **Pain Relief:** Red light therapy has been used to alleviate musculoskeletal pain, joint stiffness, and inflammation associated with conditions such as arthritis, fibromyalgia, and sports injuries.
-  
+* **Pain Relief**: Red light therapy has been used to alleviate musculoskeletal pain, joint stiffness, and inflammation associated with conditions such as arthritis, fibromyalgia, and sports injuries.
+
 * **Wound Healing**: Red light therapy may promote faster healing of wounds, cuts, and burns by stimulating tissue repair and regeneration.
 
 * **Hair Growth**: Red light therapy has been studied as a potential treatment for hair loss (alopecia) by promoting blood flow to the scalp and stimulating hair follicle activity.

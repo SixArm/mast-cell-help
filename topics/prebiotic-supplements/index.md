@@ -2,7 +2,7 @@
 
 Prebiotics are substances that promote the growth and activity of beneficial bacteria (probiotics) in the gastrointestinal tract. Unlike probiotics, which are live microorganisms, prebiotics are non-digestible fibers, carbohydrates, or compounds that serve as a food source for beneficial bacteria.
 
-**Common types:**
+**Common types**:
 
 * **Inulin and Fructooligosaccharides (FOS)**: These are naturally occurring fibers found in certain fruits, vegetables, and plants.
 
@@ -14,7 +14,7 @@ Prebiotics are substances that promote the growth and activity of beneficial bac
 
 * **Pectin**: Pectin is a type of fiber found in fruits, particularly in peels.
 
-**Benefits:**
+**Benefits**:
 
 * **Gut Health**: A healthy balance of gut bacteria is associated with various benefits, including improved digestion, enhanced nutrient absorption, and a strengthened immune system.
 

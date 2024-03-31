@@ -2,7 +2,7 @@
 
 Glutathione is one of the body's primary antioxidants. It helps protect cells from damage caused by free radicals and reactive oxygen species. It reduces the risk of chronic diseases, including heart disease, cancer, and neurodegenerative conditions.
 
-**Key points:**
+**Key points**:
 
 * **Detoxification**: Glutathione plays a central role in the body's detoxification processes, particularly in the liver. It binds to and helps remove toxins, drugs, and heavy metals.
 

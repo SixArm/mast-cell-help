@@ -2,7 +2,7 @@
 
 Vitamin B12 (also known as cobalamin) is a water-soluble B-vitamin that plays a critical role in a variety of essential bodily functions. Cobalamin is unique among the B-vitamins because it contains cobalt, a mineral that is vital for its structure and function.
 
-**Key points:**
+**Key points**:
 
 * **DNA Synthesis**: Vitamin B12 is essential for DNA synthesis and cell division. It is required for the formation of new cells and is particularly important for the production of red blood cells.
 

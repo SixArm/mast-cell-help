@@ -14,7 +14,7 @@ Neuroinflammation can result from various causes, including:
 
 * **Toxins**: Exposure to certain toxins or chemicals can lead to neuroinflammation.
 
-**Key points:**
+**Key points**:
 
 * **Mechanism**: Inflammation in the nervous system typically involves the activation of immune cells (microglia) and the release of pro-inflammatory molecules, such as cytokines and chemokines. These molecules can contribute to tissue damage and promote further inflammation.
 

@@ -2,7 +2,7 @@
 
 Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN) is a rare and complex disorder In SM-AHN, there is an overgrowth of mast cells and also an associated hematologic neoplasm, which refers to an abnormal growth of blood cells.
 
-**Key points:**
+**Key points**:
 
 * **Symptoms**: Can vary widely but may include skin manifestations (such as red or brown skin lesions), gastrointestinal symptoms (such as abdominal pain, diarrhea), and symptoms related to the hematologic neoplasm, such as anemia, fatigue, and increased susceptibility to infections.
 

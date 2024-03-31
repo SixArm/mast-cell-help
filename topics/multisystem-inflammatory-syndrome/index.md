@@ -2,7 +2,7 @@
 
 Multisystem Inflammatory Syndrome (MIS) is a rare and severe medical condition characterized by significant inflammation in multiple organ systems.
 
-**Key points:**
+**Key points**:
 
 * **Relationship to COVID-19**: MIS is believed to be a post-infectious complication of COVID-19. It typically occurs several weeks after a COVID-19 infection.
 

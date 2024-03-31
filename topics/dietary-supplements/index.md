@@ -2,7 +2,7 @@
 
 Dietary supplements are products designed to provide nutrients that help a person's health. Dietary supplements are available in various forms, such as pills, capsules, powders, liquids, and gummies.
 
-**Overview:**
+**Overview**:
 
 * **Vitamins**: These are essential organic compounds that your body needs to function properly. Examples are [Vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/) and [vitamin B-complex](../vitamin-b-complex/).
 

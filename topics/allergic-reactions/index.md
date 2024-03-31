@@ -2,7 +2,7 @@
 
 Allergic reactions are categorized into several types based on their clinical features and mechanisms.
 
-**Main types:**
+**Main types**:
 
 * **Type I Hypersensitivity (Immediate Hypersensitivity)**: Rapid and immediate allergic reactions occur when an allergen interacts with IgE antibodies on the surface of mast cells and basophils, leading to the release of histamine and other inflammatory mediators. Examples: [allergic rhinitis (hay fever)](../allergic-rhinitis/), [asthma](../asthma/), [[anaphylaxis](../anaphylaxis/)](../[anaphylaxis](../anaphylaxis/)/), allergic conjunctivitis, and food allergies.
 

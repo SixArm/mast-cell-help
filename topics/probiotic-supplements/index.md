@@ -2,7 +2,7 @@
 
 Probiotics are live microorganisms, mainly bacteria and yeast, that confer health benefits when consumed in adequate amounts. Probiotic supplements are formulations designed to provide a concentrated source of these beneficial microorganisms.
 
-**Key points:**
+**Key points**:
 
 * **Types**: Probiotics can include various strains, such as Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus rhamnosus, Bifidobacterium bifidum, Bifidobacterium longum, and others.
 

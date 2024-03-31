@@ -1,4 +1,4 @@
-# Desloratadine 
+# Desloratadine
 
 Desloratadine is a second-generation antihistamine medication used primarily for the treatment of allergic conditions such as allergic rhinitis (hay fever) and chronic idiopathic urticaria (hives). It provides rapid and long-lasting relief of symptoms with once-daily dosing, making it a convenient option. Brand name: Clarinex.
 

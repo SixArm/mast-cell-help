@@ -3,7 +3,7 @@
 Promethazine is a versatile medication used for various purposes. Overall, promethazine is a versatile medication with multiple uses as an antihistamine, antiemetic, and sedative. It is effective for treating allergies, nausea and vomiting, and insomnia, but it should be used with caution and under the guidance of a healthcare professional due to the risk of side effects and drug interactions.
 
 **Key points**:
- 
+
 * **Antihistamine**: Promethazine is primarily known as a first-generation antihistamine. It works by blocking the effects of histamine, thereby relieving symptoms of allergies such as itching, sneezing, runny nose, and watery eyes.
 
 * **Antiemetic**: Promethazine also has antiemetic properties, meaning it helps to alleviate nausea and vomiting. It is often used to prevent and treat motion sickness, nausea and vomiting associated with surgery or anesthesia, and chemotherapy-induced nausea and vomiting.

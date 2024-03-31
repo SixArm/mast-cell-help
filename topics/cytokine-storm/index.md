@@ -4,7 +4,7 @@ A cytokine storm is an excessive and uncontrolled release of pro-inflammatory si
 
 If someone suspects they are experiencing symptoms of a cytokine storm, seek prompt medical attention.
 
-**Key points:**
+**Key points**:
 
 * **Excessive Inflammation**: The immune system is activated to respond to an infection, injury, or other stimuli. In a cytokine storm, the immune response becomes exaggerated, leading to a surge in pro-inflammatory cytokines.
 

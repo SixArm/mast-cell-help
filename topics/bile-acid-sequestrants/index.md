@@ -2,7 +2,7 @@
 
 Bile acid sequestrants, also known as bile acid-binding resins, or simply bile sequestrants, are a class of medications primarily used to lower high levels of cholesterol in the blood, as well as to eliminate gut toxins. Examples: [cholestyramine (brand name Questran)](../cholestyramine/), [colesevelam (brand name Welchol)](../colesevelam/), [colestipol (brand name Colestid)](../colestipol/).
 
-**Key points:**
+**Key points**:
 
 * **How They Work**: Bile acids are produced in the liver from cholesterol and play a crucial role in the digestion and absorption of dietary fats. Bile acid sequestrants bind to bile acids in the small intestine, forming complexes that are then excreted in the feces.  The body's response to loss of bile acids is to increase the conversion of cholesterol into new bile acids, thus reducing the amount of cholesterol in the blood.
 

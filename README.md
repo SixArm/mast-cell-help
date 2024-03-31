@@ -48,6 +48,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications/)
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures/)
 * [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses/)
+* [Mast cell activation syndrome (MCAS) comorbidities](topics/mast-cell-activation-syndrome-comorbidities/)
 * [Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)](mast-cell-activation-syndrome-versus-histamine-intolerance)
 
 ### [Inflammation](topics/inflammation/)
@@ -80,6 +81,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy](topics/nicotinamide-adenine-dinucleotide-intravenous-therapy/)
 * [Gut-brain connection](topics/gut-brain-connection/)
 * [Daith piercing](topics/daith-piercing/)
+* [Leech therapy](topics/leech-therapy/)
 * [Frequency-specific microcurrent (FSM)](topics/frequency-specific-microcurrent/)
 * [Fecal microbiota transplantation (FMT)](topics/fecal-microbiota-transplantation/)
 * [Ozone therapy](topics/ozone-therapy/)
@@ -336,6 +338,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Histamine psychosis](topics/histamine-psychosis/)
 
+### [Kawasaki disease](topics/kawasaki-disease/)
+
 ### [Kounis syndrome](topics/kounis-syndrome/)
 
 ### [Leaky gut](topics/leaky-gut/)
@@ -360,9 +364,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Multiple Chemical Sensitivity (MCS)](topics/multiple-chemical-sensitivity/)
 
-### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome/)
-
 ### [Multisystem disease](topics/multisystem-disease/)
+
+### [Multisystem Inflammatory Syndrome (MIS)](topics/multisystem-inflammatory-syndrome/)
 
 ### [Multisystem Inflammatory Syndrome in Children (MIS-C)](topics/multisystem-inflammatory-syndrome-in-children/)
 

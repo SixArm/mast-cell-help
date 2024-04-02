@@ -288,6 +288,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis](topics/anaphylaxis-diagnosis/)
 * [Severity](topics/anaphylaxis-severity/)
 * [Treatments](topics/anaphylaxis-treatments/)
+* [Anaphylaxis and anaphlactoid](topics/anaphylaxis-and-anaphlactoid/)
 
 ### [Anaphylaxis emergency treatment](topics/anaphylaxis-emergency-treatment/)
 

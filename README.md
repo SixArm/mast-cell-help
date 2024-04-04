@@ -199,6 +199,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Calcium D-glucarate](topics/calcium-d-glucarate/)
 * [Chlorella](topics/chlorella/)
 * [Copper](topics/copper/)
+* [Forskolin](topics/forskolin/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)
 * [L-arginine](topics/l-arginine/)
@@ -250,6 +251,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Khellin](topics/khellin/)
 * [Milk thistle](topics/milk-thistle/)
 * [Pinella](topics/pinella/)
+* [Nigella sativa (black seed)](topics/nigella-sativa/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -556,6 +558,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Montelukast](topics/montelukast) (brand name: Singulair)
 
+### [Levetiracetam](topics/levetiracetam/)
+
 ### [Mast cell genetics](topics/mast-cell-genetics/)
 
 * [Genetic mutation](topics/genetic-mutation/)
@@ -566,11 +570,17 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Mineralcorticoids](topics/mineralocorticoids/)
 
+### [Luteolin](topics/luteolin/)
+
 ### [Proton pump inhibitors](topics/proton-pump-inhibitors/)
 
 * [Omeprazole](topics/omeprazole/) (brand name: Prilosec)
 
 ### [Skin adhesives](topics/skin-adhesives/)
+
+### [Tricyclic antidepressants (TCAs)](topics/tricyclic-antidepressants/)
+
+* [Nortriptyline](topics/nortriptyline/)
 
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
 

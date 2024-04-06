@@ -8,6 +8,7 @@
 **Lower exposures**:
 [low-histamine diet](topics/low-histamine-diet/),
 [low-allergen diet](topics/low-allergen-diet/),
+[low-amine diet](topics/low-amine-diet/),
 [low-amylose diet](topics/low-amylose-diet/),
 [Low-oxalate diet](topics/low-oxalate-diet/),
 [low-lectin diet](topics/low-lectin-diet/),
@@ -49,4 +50,8 @@
 [milk thistle](../milk-thistle/),
 [ginseng](../ginseng/),
 [garlic](../garlic/),
-[holy basil](../holy-basil/).
+[holy basil](../holy-basil/),
+[pinella](topics/pinella/),
+[kellin](topics/khellin/),
+[nigella sativa (black seed)](topics/nigella-sativa/),
+[scutellaria (skullcap)](topics/scutellaria/).

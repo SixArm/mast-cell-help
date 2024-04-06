@@ -177,7 +177,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Low-lectin diet](topics/low-lectin-diet/)
 * [Low-FODMAP diet](topics/low-fodmap-diet/)
 * [Low-salicylate diet](topics/low-salicylate-diet/)
-* [Low-amine diet](topics/low-amine-diet/)
 * [Low-sodium diet](topics/low-sodium-diet/)
 
 <img src="assets/images/pexels/pexels-anna-shvets-3683074/1920x960.jpg" alt="supplements" style="width: 100%;"/>
@@ -253,7 +252,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Milk thistle](topics/milk-thistle/)
 * [Pinella](topics/pinella/)
 * [Nigella sativa (black seed)](topics/nigella-sativa/)
-* [Scutellaria](topics/scutellaria/)
+* [Scutellaria (skullcap)](topics/scutellaria/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
@@ -421,6 +420,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## Symptoms
 
+* [Intake]
+  
 ### [Adrenal insufficiency](topics/adrenal-insufficiency/)
 
 ### [Adrenaline dumping](topics/adrenaline-dumping/)
@@ -639,7 +640,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Doctor predictions](topics/doctor-predictions/)
 * [Who knows better?](topics/who-knows-better)
 
-### Shop
+### [Shop](topics/shop)
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
 * [Shop for protein powder](topics/shop-for-protein-powder/)
@@ -651,14 +652,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 * [Shop for cleaners](topics/shop-for-cleaners/)
   
-### Comments
+### [Comments](topics/comments)
 
 * [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
 * [Functional medicine provider rubric](topics/functional-medicine-provider-rubric/)
 * [Water treatment home tips](topics/water-treatment-home-tips/)
-
-### Mix-ups
-
 * [Traditional mix-up](topics/traditional-mix-up/)
   
 ### [Glossary](topics/glossary/)

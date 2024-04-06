@@ -2,7 +2,7 @@
 
 Nigella sativa, commonly known as black seed or black cumin, is a small flowering plant that has been used for centuries in traditional medicine practices, particularly in the Middle East.
 
-The seeds of Nigella sativa are the most commonly used part of the plant and have a distinct flavor and aroma. They are often referred to as black seeds or black cumin seeds. These seeds contain various bioactive compounds, including thymoquinone, which is believed to be responsible for many of their health benefits.
+The seeds are often referred to as black seeds or black cumin seeds. These seeds contain various bioactive compounds, including thymoquinone, which is believed to be responsible for many of their health benefits.
 
 **Potential benefits**:
 

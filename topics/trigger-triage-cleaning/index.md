@@ -4,27 +4,27 @@ Trigger triage cleaning advice from [SurvivingToxicMold.com](https://SurvivingTo
 
 **Household**:
 
-* Clean often. Examples: dust daily, clean weekly, and deep clean monthly.
+* Clean often. Examples: dust daily, clean weekly, deep clean monthly.
   
-* Wear protection. Examples: respirator, protective eyewear, and protective gloves.
+* Wear protection. Examples: respirator, eyewear, gloves.
 
-* When you enter the home, remove your shoes. When a pet enters the home, wash their feet.
+* When you enter the home, remove your shoes and jackets in your entry area. Before a pet enters the home, wash their feet.
 
-* Minimize mold and dust objects. Examples: carpets, rugs, mats, drapes, paper, exposed food.
+* Minimize objects that attract mold and dust. Examples: carpets, rugs, mats, drapes, curtains, paper products, exposed food.
 
 **Wash**:
 
-* Wash everything every week. Examples: clothes, linens, pillows, curtains, mattress, furniture.
+* Wash everything every week. Laundry examples: clothes, linens, pillows, curtains. Spot-clean examples: furniture, mattresses, carpets.
 
-* Make laundry soap by combining Fels Naptha soap, borax, washing soda.
+* Make laundry soap with Fels Naptha soap, borax, washing soda.
 
 * Make fabric softener by combining water and white vinegar.
 
-* Clean the washer and dryer every week, and leave doors and lids open to fully dry.
+* Clean the washer/dryer weekly. Leave doors and lids open to dry.
 
 **Bedroom**:
 
-* Buy new pillows and throw out old pillows. Repeat every 3-6 months.
+* Buy new pillows. Dispose of any other pillows.
 
 * Sleep on an air mattresses. Dispose of any other mattresses.
 
@@ -34,4 +34,4 @@ Trigger triage cleaning advice from [SurvivingToxicMold.com](https://SurvivingTo
 
 * Use a moisture meter to check for moisture. Add moisture monitors in each room and under sinks.
 
-* No forced air heating or cooling. Prefer indoor radiator heat and indoor air conditioner cooling.
+* Stop using an forced-air heating or cooling. Use indoor radiator heat and indoor air conditioner cooling.

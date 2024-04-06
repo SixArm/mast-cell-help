@@ -2,7 +2,7 @@
 
 [Source: Characterization of Mast Cell Activation Syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341697/)
 
-* 35% [Gastroesophageal reflux disease](../gastroesophageal-reflux-disease/)
+* 35% [Gastroesophageal reflux disease (GERD)](../gastroesophageal-reflux-disease/)
 * 29% [Hypertension](../hypertension/)
 * 23% Multiple/atypical drug reactions
 * 22% Abdominal pain NOS
@@ -25,14 +25,16 @@
 * 14% Pharyngitis and/or tonsillitis
 * 14% Dysmenorrhea
 * 13% Thromboembolism
-* 13% Freq. and/or atypical infections
-* 13% Obesity
-* 13% Osteoarthritis
-* 12% Anxiety and/or panic
-* 12% Vertebral disease
-* 12% Cardiovascular malformations
-* 11% Dermatitides
-* 11% [Presyncope](../presyncope/) and/or syncope
-* 11% Interstitial cystitis
-* 10% Chronic kidney disease
-* 10% [Postural Orthostatic Tachycardia Syndrome (POTS)](../postural-orthostatic-tachycardia-syndrome/)
+
+Others include:  
+13% Frequent and/or atypical infections,
+13% Obesity,
+13% Osteoarthritis,
+12% Anxiety and/or panic,
+12% Vertebral disease,
+12% Cardiovascular malformations,
+11% Dermatitides,
+11% [Presyncope](../presyncope/) and/or syncope,
+11% Interstitial cystitis,
+10% Chronic kidney disease,
+10% [Postural Orthostatic Tachycardia Syndrome (POTS)](../postural-orthostatic-tachycardia-syndrome/).

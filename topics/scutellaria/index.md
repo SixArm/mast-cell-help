@@ -1,4 +1,4 @@
-# Scutellaria
+# Scutellaria (skullcap)
 
 Scutellaria is a genus of flowering plants in the mint family. Several species of Scutellaria are used in traditional herbal medicine, with Scutellaria lateriflora (American skullcap) and Scutellaria baicalensis (Chinese skullcap) being among the most well-known and widely used.
 

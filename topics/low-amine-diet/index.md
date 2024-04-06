@@ -1,6 +1,8 @@
 # Low-amine diet
 
-A low-amine diet is a dietary approach that restricts foods high in amines, which are compounds naturally present in certain foods. Amines include substances like histamine, tyramine, and phenylethylamine, which can accumulate in certain foods as they age, ferment, or are processed. Some people may follow a low-amine diet to manage symptoms associated with conditions such as histamine intolerance or certain types of migraines.
+A low-amine diet is a dietary approach that restricts foods high in amines, which are compounds naturally present in certain foods. Amines include substances like histamine, tyramine, and phenylethylamine, which can accumulate in certain foods as they age, ferment, or are processed. 
+
+Some people may follow a low-amine diet to manage symptoms associated with conditions such as histamine intolerance or certain types of migraines.
 
 **Key points**:
 
@@ -13,5 +15,3 @@ A low-amine diet is a dietary approach that restricts foods high in amines, whic
 * **Read Labels**: Check food labels for ingredients that may contain amines or trigger symptoms. This includes additives like monosodium glutamate (MSG), which can be high in free glutamate, a type of amine.
 
 * **Consider Individual Tolerance**: Everyone's tolerance to amines can vary. Some individuals may be able to tolerate small amounts of high-amine foods, while others may need to strictly avoid them.
-
-* **Consult a Healthcare Professional**: If you're considering a low-amine diet for managing symptoms, it's important to consult with a healthcare professional, such as a registered dietitian or a doctor, to ensure that your dietary choices are safe and appropriate for your individual needs.

@@ -253,6 +253,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Milk thistle](topics/milk-thistle/)
 * [Pinella](topics/pinella/)
 * [Nigella sativa (black seed)](topics/nigella-sativa/)
+* [Scutellaria](topics/scutellaria/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>

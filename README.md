@@ -22,6 +22,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Start here for safe foods](topics/start-here-for-safe-foods/)
 * [Start here for nutrition](topics/start-here-for-nutrition/)
 * [Start here for triggers](topics/start-here-for-triggers/)
+* [Start here for antihistamines](topics/start-here-for-antihistamines/)
+* [Start here for supplements](topics/start-here-for-supplements/)
 * [Start here with pharmacists](topics/start-here-with-pharmacists/)
 * [Start here with doctors](topics/start-here-with-doctors/)
 
@@ -420,7 +422,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ## Symptoms
 
-* [Intake]
+* [Health intake](topics/health-intake/)
   
 ### [Adrenal insufficiency](topics/adrenal-insufficiency/)
 
@@ -648,6 +650,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shop for electrolytes](topics/shop-for-electrolytes/)
 * [Shop for shampoo](topics/shop-for-shampoo/)
 * [Shop for deodorant](topics/shop-for-deodorant/)
+* [Shop for skincare](topics/shop-for-skincare/)
 * [Shop for personal care products](topics/shop-for-personal-care-products/)
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 * [Shop for cleaners](topics/shop-for-cleaners/)
@@ -658,7 +661,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Functional medicine provider rubric](topics/functional-medicine-provider-rubric/)
 * [Water treatment home tips](topics/water-treatment-home-tips/)
 * [Traditional mix-up](topics/traditional-mix-up/)
-  
+* [Cosmetic chemist tips](topics/cosmetic-chemist-tips/)
+* [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors)
+
 ### [Glossary](topics/glossary/)
 
 * [Glossary of medical roles](topics/glossary-of-medical-roles/)

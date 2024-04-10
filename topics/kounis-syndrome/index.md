@@ -8,7 +8,7 @@ Kounis syndrome is a medical condition characterized by the onset of acute coron
   
 * **Symptoms**: Chest pain, shortness of breath, palpitations, dizziness, and sweating.
 
-* **Diagnosis**: [Intake](../intake/) plus electrocardiogram (ECG), cardiac biomarker testing (such as troponin), and coronary angiography to evaluate coronary artery anatomy and function.
+* **Diagnosis**: [Health intake](../health-intake/) plus electrocardiogram (ECG), cardiac biomarker testing (such as troponin), and coronary angiography to evaluate coronary artery anatomy and function.
 
 * **Treatment**: Focus on managing the underlying allergic reaction, relieving symptoms of myocardial ischemia, and preventing complications such as myocardial infarction. This may include administration of antihistamines, corticosteroids, bronchodilators, nitroglycerin, and other medications as appropriate. In severe cases, interventions such as percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) may be necessary to restore blood flow to the heart.
 

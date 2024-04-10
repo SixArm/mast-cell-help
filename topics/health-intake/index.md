@@ -1,6 +1,6 @@
-# Intake
+# Health intake
 
-Intake in healthcare is when a patient comes to a provider to talk about symptoms and treatments.
+Health intake describes when a healthcare patient comes to a healthcare provider for the first time, and the patient and provider gather information about the patient's health status, symptoms, history, and goals.
 
 **Key aspects**:
 

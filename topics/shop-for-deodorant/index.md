@@ -44,3 +44,4 @@ Be aware that some unscented deodorants have ingredients to kill scents, and the
 
 * [Arm and Hammer - Essentials solid deodorant unscented](https://www.armandhammer.com/en/personal-care/deodorant-and-antiperspirant/deodorants/essentials-solid-deodorant-unscented-2-5-oz)
 
+* [Little Seed Farm - Deodorant Creams - Unscented](https://littleseedfarm.com/products/deodorant-cream-3-scents?variant=6484555137051)

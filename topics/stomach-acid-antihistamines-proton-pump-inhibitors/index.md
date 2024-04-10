@@ -6,7 +6,7 @@ Having too little stomach acid or too much stomach acid can cause some similar s
 
 You can try a quick home test to see if you have enough stomach acid. Dissolve a quarter teaspoon of bicarbonate of soda in a little water and drink it on an empty stomach. If you have enough stomach acid, then you should experience belching within approximately 5 minutes. If you don't have enough stomach acid, then nothing notable will happen.
 
-If you think you have low stomach acid, you can help yourself by ensuring that you eat slowly and chewing your food well. You ask a health food store for a hydrochloric acid supplement or digestive bitters.
+If you think you have low stomach acid, you can help yourself by ensuring that you eat slowly and chewing your food well. You can ask a health food store for a hydrochloric acid supplement or digestive bitters.
 
 If you think you have enough stomach acid, and also you're having symptoms, then that's when stomach acid reducer medications are helpful. Common stomach acid reducers include antihistamine H2-blockers (e.g. famotidine/Pepcid, cimetidine/Tagamet) and proton pump inhibitors (e.g. omeprazole/Prilosec, lansoprazole/Prevacid).
 

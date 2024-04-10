@@ -18,7 +18,7 @@ Antihistamine second-generation H2-blockers help with gastrointestinal symptoms,
 
 2. Generic name [cimetidine](../cimetidine/), brand name Tagamet. Try 200mg 2 times per day. If it helps, try increasing to 400mg 2 times per day. If it doesn't help, or you develop side effects, then discontinue, and try the next step.
 
-3. Generic name [ranitidine](../ranitidine/), brand name Zantac. Try 150mg 2 times per day. If it helps, try increasing to 150mg 3 times per day. If it doesn't help, or you develop side effects, then discontinue, and try the next step.
+3. Ask your doctor about other medications, including [proton pump inhibitors (PPIs)](../proton-pump-inhibitors/): generic name [esomeprazole](../esomeprazole/) or brand name Nexium, generic name [lansoprazole](../lansoprazole) or brand name Prevacid, generic name [omeprazole](../omeprazole/) or brand name Prilosec. Some medications have been discontinued in some jurisdictions, such as generic name [ranitidine](../ranitidine/) or brand name Zantac, generic name [nizatidine](../nizatidine) or brand name Axid AR.
 
 Antihistamine first-generation for flares or sleep:
 

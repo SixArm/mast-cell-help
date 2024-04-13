@@ -1,8 +1,13 @@
 # Anaphylaxis
 
-Anaphylaxis is a severe, life-threatening allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can affect multiple systems in the body and can lead to a sudden drop in blood pressure and airway constriction, making it difficult to breathe.
+Anaphylaxis, anaphylactic shock, and anaphylactoid reactions are all body reactions that can occur rapidly after exposure to an allergen or trigger. Anaphylaxis is the general term used to describe a severe, potentially life-threatening reaction that affects multiple systems in the body, that can lead to a sudden drop in blood pressure and airway constriction, making it difficult to breathe;
+**Key points**:
 
-If you or someone you are with is experiencing symptoms of anaphylaxis, seek emergency medical help immediately. Anaphylaxis can be fatal.
+* **Anaphylaxis**: This means an allergic reaction that effects multiple body systems, and can be mild, moderate, or severe. See [analphylaxis severity](../anaphylaxis-severity/)
+
+* **Anaphylactic shock**: This means anaphylaxis that has progressed to severe i.e. life-threatening. This must be treated immediately with an adrenaline shot and emergency medical care. Rescue medications such as antihistamines will not reliably act fast enough to stop this.
+
+* **Anaphylactoid reaction**: this has many of the same signs, symptoms, and responses, as anaphylaxis, except without an identifiable allergen. This is See [anaphylaxis and anaphylactoid](../anaphylaxis-and-anaphlactoid/).
 
 **Common triggers**:
 

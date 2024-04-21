@@ -44,6 +44,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis via clinical evaluation](topics/mast-cell-activation-syndrome-diagnosis-via-clinical-evaluation/)
 * [Diagnosis via laboratory tests](topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests/)
 * [Diagnosis consensus 2 criteria](topics/mast-cell-activation-syndrome-diagnosis-consensus-2-criteria/)
+* [Tests](topics/mast-cell-activation-syndrome-tests/)
 * [Severity](topics/mast-cell-activation-syndrome-severity/)
 * [Treatments](topics/mast-cell-activation-syndrome-treatments/)
 * [Medications](topics/mast-cell-activation-syndrome-medications/)
@@ -115,6 +116,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Environmental triggers](topics/environmental-triggers/)
 * [Food triggers](topics/food-triggers/)
 * [Water triggers](topics/water-triggers/)
+* [Shower triggers](topics/shower-triggers/)
 * [Bed triggers](topics/bed-triggers/)
 * [Cooking triggers](topics/cooking-triggers/)
 * [Car triggers](topics/car-triggers/)
@@ -452,12 +454,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Diagnostics](topics/diagnostics/)
 
+* [24-hour urine test](topics/24-hour-urine-test/)
 * [Allergy testing](topics/allergy-testing/)
 * [Anti-IgE IgG test](topics/anti-ige-igg-test/)
 * [Histamine testing](topics/histamine-testing/)
 * [Complement C3 + C4 test](topics/complement-c3-c4-test/)
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
 * [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
+* [HBAG stool test for Helicobacter pylori](topics/hbag-stool-test-for-helicobacter-pylori/)
+* [ISAC allergy blood test](topics/isac-allergy-blood-test/)
 * [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
 * [Imaging](topics/imaging)
 * [Nasal swab](topics/nasal-swab/)
@@ -468,7 +473,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test/)
 * [Serum tryptase test](topics/serum-tryptase-test/)
 * [Bone marrow biopsy](topics/bone-marrow-biopsy/)
-* [Treatment as test](topics/treatment-as-test/)
+* [Treatment as test](topics/treatment-as-test/) (a.k.a. test of treatment)
 
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics/)
 
@@ -484,7 +489,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline](topics/adrenaline/)
 
-### [Adrenaline emergency auto-injector](topics/adrenaline-emergency-auto-injector/)
+### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand name: EPIPEN)
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
@@ -643,6 +648,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)
 * [Who knows better?](topics/who-knows-better)
+* [Mast cell activation syndrome - misdiagnosis](topics/mast-cell-activation-syndrome-misdiagnosis/)
 
 ### [Shop](topics/shop)
 
@@ -657,6 +663,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
 * [Shop for cleaners](topics/shop-for-cleaners/)
   
+### Organizations
+
+* [National Institute for Health and Care Excellence (NICE)](../topics/national-institute-for-health-and-care-excellence/)
+
 ### [Comments](topics/comments)
 
 * [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
@@ -665,6 +675,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Traditional mix-up](topics/traditional-mix-up/)
 * [Cosmetic chemist tips](topics/cosmetic-chemist-tips/)
 * [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors)
+* [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 
 ### [Glossary](topics/glossary/)
 

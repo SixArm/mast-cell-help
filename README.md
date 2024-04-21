@@ -345,6 +345,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis/)
 
+* [Eosinophilic esophagitis (EoE) causes](topics/eosinophilic-esophagitis-causes/)
+  
 ### [Ferroptosis](topics/ferroptosis/)
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)

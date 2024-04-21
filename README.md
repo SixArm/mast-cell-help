@@ -434,6 +434,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline dumping](topics/adrenaline-dumping/)
 
+* [Adrenaline dump versus histamine dump](topics/adrenaline-dump-versus-histamine-dump/)
+
 ### [Bradycardia](topics/bradycardia/)
 
 ### [Brain fog](topics/brain-fog/)

@@ -61,6 +61,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Histamine liberators](topics/histamine-liberators/)
 * [Antihistamines](topics/antihistamines/)
 * [Antihistamines: types](topics/antihistamine-types/)
+* [Antihistamines and mast cell stabilizers](topics/antihistamines-and-mast-cell-stabilizers/)
 * [Diamine oxidase](topics/diamine-oxidase/)
 * [Tryptase](topics/tryptase/)
 * [Heparin](topics/heparin/)

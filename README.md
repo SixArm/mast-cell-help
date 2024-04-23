@@ -494,7 +494,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline](topics/adrenaline/)
 
-### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand name: EPIPEN)
+### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand name: EpiPen)
+
+* [Adrenaline auto-injector instructions](topics/adrenaline-auto-injector-instructions/) (brand name: EpiPen)
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 

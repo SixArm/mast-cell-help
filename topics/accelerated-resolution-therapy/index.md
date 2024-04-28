@@ -1,0 +1,3 @@
+# Accelerated resolution therapy
+
+TODO

@@ -138,6 +138,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [SHINE protocol](topics/shine-protocol/)
 * [Cognitive-Behavioral Therapy (CBT)](topics/cognitive-behavioral-therapy/)
 * [Dialectical Behavior Therapy (DBT)](topics/dialectical-behavior-therapy/)
+* [Accelerated resolution therapy (ART)](topics/accelerated-resolution-therapy/)
 * [Eye Movement Desensitization and Reprocessing (EMDR)](topics/eye-movement-desensitization-and-reprocessing/)
 * [Buteyko breathing method](topics/buteyko-breathing-method/)
 * [Rapid Resolution Therapy (RRT)](rapid-resolution-therapy)
@@ -151,8 +152,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Limbic system retraining](topics/limbic-system-retraining/)
 
-* [Gupta Brain Retraining](topics/gupta-brain-retraining/)
-* [Dynamic Neural Retraining System (DNRS)](topics/dynamic-neural-retraining-system/)
+* [Brain retraining products](topics/brain-retraining-products/)
+* [Gupta Program Brain Retraining™](topics/gupta-program-brain-retraining/)
+* [Dynamic Neural Retraining System™ (DNRS)](topics/dynamic-neural-retraining-system/)
+* [Primal Trust™](topics/primal-trust/)
+* [Re-Origin™](topics/re-origin/)
 
 <img src="assets/images/pexels/pexels-cottonbro-studio-6969266/1920x960.jpg" alt="vegetables" style="width: 100%;"/>
 
@@ -255,6 +259,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ginseng](topics/ginseng/)
 * [Holy basil](topics/holy-basil/)
 * [Khellin](topics/khellin/)
+* [Meadowsweet](topics/meadowsweet/)
 * [Milk thistle](topics/milk-thistle/)
 * [Pinella](topics/pinella/)
 * [Nigella sativa (black seed)](topics/nigella-sativa/)
@@ -500,6 +505,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
+* [Alcaftadine](../alcaftadine/) (brand name: Lastacaft)
 * [Azelastine](topics/azelastine/) (brand name: Astelin)
 * [Bilastine](topics/bilastine/) (brand name: Blexten)
 * [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
@@ -516,7 +522,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
 * [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
 * [Loratadine](topics/loratadine/) (brand name: Claritin)
-* [Olopatadine](topics/olopatadine/) (brand name: Patanase)
+* [Olopatadine](topics/olopatadine/) (brand names: Patanase, Pataday, Pazeo)
 * [Promethazine](topics/promethazine/) (brand name: Phenergan)
 * [Prednisone](topics/prednisone/) (brand name: Rayos)
 * [Ranitidine](topics/ranitidine) (brand name: Zantac)
@@ -690,6 +696,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Glossary of medical times](topics/glossary-of-medical-times/)
 * [Glossary of medical tests](topics/glossary-of-medical-tests/)
 * [Glossary of units of measurement](topics/glossary-of-units-of-measurement/)
+* [Glossary of medical abbreviations](topics/glossary-of-medical-abbreviations/)
 
 ### [Conclusion](topics/conclusion/)
 

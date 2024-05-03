@@ -1,11 +1,11 @@
 <svelte:head>
-    <title>Adrenaline emergency auto-injector | mastcell.help | mastcell.help</title>
+    <title>Adrenaline auto-injector | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="adrenaline-emergency-auto-injector">Adrenaline emergency auto-injector</h1>
-<p>An adrenaline emergency auto-injector is a medical device designed to quickly and easily administer a dose of adrenaline (a.k.a. epinephrine) in cases of severe allergic reactions (anaphylaxis). Commonly known in the United States by the brand name EpiPen.</p>
+<h1 id="adrenaline-auto-injector">Adrenaline auto-injector</h1>
+<p>An adrenaline auto-injector is a medical device designed to quickly and easily administer a dose of adrenaline (a.k.a. epinephrine) in cases of severe allergic reactions (anaphylaxis). Commonly known in the United States by the brand name EpiPen.</p>
 <p><strong>Key points:</strong></p>
 <ul>
 <li><p><strong>Purpose:</strong> Emergency treatment for severe allergic reactions, such as those triggered by certain foods, insect stings, medications, or other allergens.</p></li>

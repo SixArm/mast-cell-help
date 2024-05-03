@@ -2,7 +2,7 @@
 
 Deodorant suggestions from people with mast cell issues.
 
-Look for fragrance-free and aluminmum-free because these is less likely to cause problems.
+Look for fragrance-free and aluminum-free because these is less likely to cause problems.
 
 Consider generic alternatives such as salt crystal deodorant, mineral salts, magnesium spray, or shea butter.
 

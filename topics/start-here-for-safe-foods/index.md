@@ -4,17 +4,17 @@
 
 **Try these first**:
 
+* **Arborio rice.** Lowest oxalate, lowest salicylate. 
+
+* **White potatoes.** Peeled and boiled. Lowest oxalate, lowest salicylate. 
+
 * **Golden Delicious Apples.** Wash thoroughly or peel.
 
 * **Egg yolks.** Ideally free-range. Egg whites may cause reactions.
 
-* **Boiled Chicken.** Ideally free-range, and fresh or flash-frozen.
+* **Chicken.** Skinned and boiled. Ideally free-range. Ideally fresh or flash-frozen.
 
-* **Boiled Salmon.** Ideally wild-caught, and fresh or flash-frozen.
-
-* **Rice.** Ideally basmati rice or jasmine rice.
-
-* **Sweet potatoes.**
+* **Cod.** Ideally wild-caught, and fresh or flash-frozen.
 
 * **Cucumbers.**
 

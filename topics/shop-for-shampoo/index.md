@@ -25,3 +25,5 @@ Shampoo recommended by mast cell people. Try to read ingredients lists carefully
 * [Jessicurl - Gentle Lather Shampoo](https://jessicurl.com/products/gentle-lather-shampoo)
 
 * [Earth Science Beauty - Fragrance Free Shampoo](https://earthsciencebeauty.com/products/fragrance-free-shampoo)
+
+* [Kitsch - Ultra Sensitive Shampoo & Body Wash Bar - Fragrance Free](https://www.mykitsch.com/en-gb/products/ultra-sensitive-shampoo-body-wash-bar)

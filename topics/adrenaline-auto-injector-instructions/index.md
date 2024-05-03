@@ -2,7 +2,7 @@
 
 When to use your adrenaline auto-injector (AAI) such as your brand name EpiPen®?
 
-A person who is having an allergic/anaphylaxis/anaphylactoid reaction should use their injector immediately if they experience ANY of the following serious symptoms of anaphylaxis:
+Use your adrenaline auto-injector immediately if you experience ANY of the following serious symptoms of anaphylaxis, or anaphylactic shock, or anaphylactoid shock:
 
 - Breathing difficulties, such as fast, shallow breathing, or wheezing
 
@@ -18,7 +18,7 @@ A person who is having an allergic/anaphylaxis/anaphylactoid reaction should use
 
 - Loss of consciousness
 
-A person who is experiencing the following mild to moderate symptoms of anaphylaxis should take an anti-histamine and have their injector ready in case of worsening symptoms:
+If you are only experiencing the following mild symptoms, then take your usual anti-histamines and treatments, and in addition have your adrenaline auto-injector ready in case of worsening symptoms:
 
 - Red, raised, itchy rash
 
@@ -28,4 +28,4 @@ A person who is experiencing the following mild to moderate symptoms of anaphyla
 
 - Tingling mouth
 
-Source: "EpiPen Explained" by the EpiPen company.
+Source: "EpiPen Explained" by the EpiPen company, edited for clarity.

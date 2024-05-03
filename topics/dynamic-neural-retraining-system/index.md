@@ -1,4 +1,4 @@
-# Dynamic Neural Retraining System (DNRS)
+# Dynamic Neural Retraining System™ (DNRS)
 
 Dynamic Neural Retraining System (DNRS) is a neuroplasticity-based therapy program designed to help individuals who suffer from various chronic illnesses and conditions that are believed to be related to limbic system dysfunction.
 

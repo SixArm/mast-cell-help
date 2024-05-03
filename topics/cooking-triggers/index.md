@@ -10,4 +10,5 @@ Cooking triggers can include any of these:
   
 * **Volatile organic compounds (VOCs)**: Cooking can release VOCs that irritate airways and can trigger mast cell activation. You can try using a table-top VOC air filter to use right by the stove, or a VOC detector to use right by the stove.
 
-* **Microparticles**: Many non-stick pans can release microparticles, such as microplastics and microshards of chemicals. For example, a typical Teflon pan that has as scratch can pollute your food. Some people get some relief by switching from low-budget non-stick pans to ferritic non-nickel stainless steel pans, which work with any stove and also with a portable induction stove, and which do not contain plastics nor nickel.
+* **Microparticles**: Many non-stick pans can release microparticles, such as microplastics and microshards of chemicals. For example, some low-budget non-stick pans can accumulate scratches that release microparticles that pollute your food. Some people get some relief by switching from low-budget non-stick pans to ferritic non-nickel stainless steel pans, which do not release microparticles, and are also nickle-free, and which work with gas stoves and induction stoves.
+

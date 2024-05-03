@@ -35,7 +35,7 @@
 <a href="/prostaglandin-d2-test">prostaglandin D2 (PGD2) test</a>,
 <a href="/environmental-relative-moldiness-index">Environmental Relative Moldiness Index (ERMI)</a>.</p>
 <p><strong>Get medications:</strong>
-<a href="/adrenaline-emergency-auto-injector">adrenaline emergency auto-injector</a>,
+<a href="/adrenaline-auto-injector">adrenaline auto-injector</a>,
 <a href="/antihistamine-medications">antihistamine medications</a>,
 <a href="/antifungal-medications">antifungal medications</a>,
 <a href="/bile-acid-sequestrants">bile acid sequestrants</a>,

@@ -34,7 +34,7 @@ Doctors can help. Ask them about this page.
 [Environmental Relative Moldiness Index (ERMI)](../environmental-relative-moldiness-index/).
 
 **Get medications**:
-[adrenaline emergency auto-injector](../adrenaline-emergency-auto-injector/),
+[adrenaline auto-injector](../adrenaline-auto-injector/),
 [antihistamine medications](../antihistamine-medications/),
 [antifungal medications](../antifungal-medications/),
 [bile acid sequestrants](../bile-acid-sequestrants/),

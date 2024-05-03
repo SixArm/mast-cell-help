@@ -56,11 +56,23 @@ do_slug() {
 }
 
 build() {
+
+    # rsync all static files, such as the README, and book files.
     rsync -a "$git_top_dir/README.jpg" "$git_top_dir/mast-cell-help.epub" "$git_top_dir/mast-cell-help.pdf" "$static_dir/"
+
+    # rsync all assets, such as the images for the web pages.
     rsync -a "$git_top_dir/assets/" "$static_dir/assets/"
+
+    # Process from the README.md file into the website homepage.
     do_pandoc "$template_file" "Mast Cell Help" "$git_top_dir/README.md" "$routes_dir/+page.svelte"
+    
+    # Tune the homepage page links from topic-based to top-based.
     sed -i.bak 's# href="topics/# href="/#' "$routes_dir/+page.svelte"
+
+    # Tune the homepage image links from relative-based to top-based.
     sed -i.bak 's# src="assets/# src="/assets/#' "$routes_dir/+page.svelte"
+
+    # For each slug, process it.
     "$project_dir/bin/slugs" |
     while read -r slug; do
         do_slug "$slug"

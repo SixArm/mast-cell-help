@@ -1,6 +1,6 @@
-# Adrenaline emergency auto-injector
+# Adrenaline auto-injector
 
-An adrenaline emergency auto-injector is a medical device designed to quickly and easily administer a dose of [adrenaline](../adrenaline/) (a.k.a. epinephrine) in cases of severe allergic reactions [anaphylaxis](../anaphylaxis/). Brand name: EpiPen.
+An adrenaline auto-injector is a medical device designed to quickly and easily administer a dose of [adrenaline](../adrenaline/) (a.k.a. epinephrine) in cases of severe allergic reactions [anaphylaxis](../anaphylaxis/). Brand name: EpiPen.
 
 **Key points**:
 

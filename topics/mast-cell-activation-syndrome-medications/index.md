@@ -10,6 +10,6 @@
 
 * **Proton Pump Inhibitors (PPIs)**: [Omeprazole](../omeprazole) can help manage gastrointestinal symptoms by reducing stomach acid production.
 
-* **Adrenaline Auto-Injector**: Individuals with MCAS who are at risk of severe allergic reactions, including anaphylaxis, may be prescribed an [adrenaline emergency auto-injector](../adrenaline-emergency-auto-injector) and trained on how to use it in case of an emergency.
+* **Adrenaline Auto-Injector**: Individuals with MCAS who are at risk of severe allergic reactions, including anaphylaxis, may be prescribed an [adrenaline auto-injector](../adrenaline-auto-injector) and trained on how to use it in case of an emergency.
 
 * **Mast Cell Stabilizing Medications**: In more severe cases of MCAS, medications like tyrosine kinase inhibitors (e.g. [imatinib](../imatinib/)) or anti-IgE therapy (e.g. [omalizumab](../omalizumab/)) may be considered to manage symptoms and mast cell activation.

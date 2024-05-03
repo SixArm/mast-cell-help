@@ -2,7 +2,7 @@
 
 [Anaphylaxis](../anaphylaxis/) emergency treatment in a pre-hospital setting:
 
-1. Use an [adrenaline emergency auto-injector](../adrenaline-emergency-auto-injector) (brand name EpiPen) and go immediately to a hospital emergency room.
+1. Use an [adrenaline auto-injector](../adrenaline-auto-injector) (brand name EpiPen) and go immediately to a hospital emergency room.
 
 2. Avoid triggers: remove trigger or remove self from triggers.
 

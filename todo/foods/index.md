@@ -3,6 +3,10 @@
 
 ## Low-histamine low-salicylate low-allergen diet
 
+* [ ] White potatoes, peeled and boiled (low oxalate, low salicylate).
+  
+* [ ] Arborio rice (low oxalate, low salicylate). 
+
 * [ ] Cruciferous vegetables such as broccoli and kale
 
 * [ ] Red peppers and orange peppers; not other peppers
@@ -36,7 +40,7 @@
 
 * Dried legumes: chickpeas, black beans, kidney beans
 
-* Starchy vegetables: sweet potato, yam, butternut squash, winter squash
+* Starchy vegetables: white potato, sweet potato, yam, butternut squash, winter squash
 
 * Fresh meat and fish: chicken, turkey, salmon, lean ground beef, lamb
 

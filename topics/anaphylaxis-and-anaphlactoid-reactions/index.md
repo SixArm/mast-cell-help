@@ -10,16 +10,18 @@ In an allergic reaction, there is an identifiable antigen.
 
 - This causes the release of histamine and other chemicals into the body, and generates the hypersensitivity response. 
 
-Signs, symptoms, and responses are stereotyped based on the location of the reaction.
-
 - If the reaction is localized, then it is stereotyped as an allergic reaction.
 
-- If the reaction is systemic, then it is stereotyped as anaphylaxis. 
+- If the reaction is systemic, then it is stereotyped as an anaphylactic reaction a.ka. anaphylaxis.
 
-In contrast, an anaphylactoid reaction occurs in the absence of an antibody-antigen complex. 
+In contrast, an anaphylactoid reaction occurs without an identifiable antigen.
 
 - An anaphylactoid reaction does generate mast cell (or basophil) degranulation.
 
 - And does have many of the same signs, symptoms, and responses, as anaphylaxis.
+
+- But does not create an "antibody-antigen complex" so cannot be detected by many allergy tests.
+
+- Examples are MCAS reactions to sunshine, or heat, or vibration, or foods that don't cause IgE binding.
 
 Many adverse reactions to drugs, or drug hypersensitivies, are actually anaphylactoid reactions and not true allergies. 

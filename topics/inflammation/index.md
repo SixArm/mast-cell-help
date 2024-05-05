@@ -10,7 +10,7 @@ Common causes include infections, injuries, autoimmune disorders, unhealthy diet
 
 * **Chronic Inflammation**: Chronic inflammation is a persistent, low-level inflammation that can last for weeks, months, or even years. It is often less noticeable than acute inflammation but can contribute to the development of various chronic diseases, including cardiovascular disease, diabetes, cancer, and autoimmune disorders.
 
-**Treatments:**:
+**Treatments**::
 
 * **Acute inflammation**: This often resolves on its own as the body heals.
 

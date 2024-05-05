@@ -22,7 +22,7 @@
 <li>neuroendocrine cancers (carcinoid, pheochromocytoma, etc.)</li>
 <li>pancreatic endocrine tumors</li>
 <li>food/environmental/chemical allergy</li>
-<li>asthma</li>
+<li><a href="/asthma/">asthma</a></li>
 <li>allergic rhinitis</li>
 <li>eosinophilic esophagitis/enteritis</li>
 <li>hypereosinophilic and hyper-IgE syndromes</li>

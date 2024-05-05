@@ -24,7 +24,7 @@ with mast cell stabilizer effects:
 
 - [azelastine](../azelastine/) (brand names Astepro, Astelin)
 
-- [olopatadine](../olopatadine/ (brand names: Patanase, Pataday, Pazeo)
+- [olopatadine](../olopatadine/) (brand names: Patanase, Pataday, Pazeo)
   
 - [alcaftadine](../alcaftadine/) (brand name: Lastacaft)
 

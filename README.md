@@ -52,7 +52,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures/)
 * [Differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses/)
 * [Mast cell activation syndrome (MCAS) comorbidities](topics/mast-cell-activation-syndrome-comorbidities/)
-* [Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)](mast-cell-activation-syndrome-versus-histamine-intolerance)
+* [Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)](topics/mast-cell-activation-syndrome-versus-histamine-intolerance/)
 
 ### [Inflammation](topics/inflammation/)
 
@@ -101,7 +101,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)
 * [Nambudripad's Allergy Elimination Technique (NAET)](topics/nambudripads-allergy-elimination-technique/)
-* [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment)
+* [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment/)
 
 ### [Functional medicine](topics/functional-medicine/)
 
@@ -127,12 +127,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Activated carbon filters](topics/activated-carbon-filters/)
 * [Volatile organic compounds (VOCs)](topics/volatile-organic-compounds/)
 * [GreenGuard certification](topics/greenguard-certification/)
-* [Ventilation](ventilation)
+* [Ventilation](topics/ventilation/)
 
 ### [Stress Management](topics/stress-management/)
 
 * [Meditation](topics/meditation/)
-* [Progressive Muscle Relaxation (PMR)](progressive-muscle-relaxation)
+* [Progressive Muscle Relaxation (PMR)](topics/progressive-muscle-relaxation/)
 * [Self-soothing](topics/self-soothing/)
 * [Sleep hygiene](topics/sleep-hygiene/)
 * [SHINE protocol](topics/shine-protocol/)
@@ -141,12 +141,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Accelerated resolution therapy (ART)](topics/accelerated-resolution-therapy/)
 * [Eye Movement Desensitization and Reprocessing (EMDR)](topics/eye-movement-desensitization-and-reprocessing/)
 * [Buteyko breathing method](topics/buteyko-breathing-method/)
-* [Rapid Resolution Therapy (RRT)](rapid-resolution-therapy)
-* [The Spoon Theory](the-spoon-theory)
+* [Rapid Resolution Therapy (RRT)](topics/rapid-resolution-therapy/)
+* [The Spoon Theory](topics/the-spoon-theory/)
+* [Kriya](topics/kriya/)
 
 ### [Vagus nerve reset](topics/vagus-nerve-reset/)
 
-* [Vagal tone stimulation](topics/vagal-tone-stimulation)
+* [Vagal tone stimulation](topics/vagal-tone-stimulation/)
 * [Polyvagal theory](topics/polyvagal-theory/)
 * [Polyvagal exercises](topics/polyvagal-exercises/)
 
@@ -165,7 +166,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Elemental diet](topics/elemental-diet/)
 * [Ketogenic diet](topics/ketogenic-diet/)
 * [Carnivore diet](topics/carnivore-diet/)
-* [FAILSAFE diet (aka RPAH diet)](topics/failsafe-diet)
+* [FAILSAFE diet (aka RPAH diet)](topics/failsafe-diet/)
 * [Autoimmune Protocol (AIP) diet](topics/autoimmune-protocol-diet/)
 * [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet/)
 * [Swiss Interest Group Histamine Intolerance (SIGHI) diet](topics/swiss-interest-group-histamine-intolerance-diet/)
@@ -225,14 +226,14 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Turmeric](topics/turmeric/)
 * [Zinc](topics/zinc/)
 
-### [Mast cell stabilizer supplements](topics/mast-cell-stabilizer-supplements)
+### [Mast cell stabilizer supplements](topics/mast-cell-stabilizer-supplements/)
 
 * [Bromelain](topics/bromelain/)
 * [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
 * [Omega-3](topics/omega-3/)
 * [Quercetin](topics/quercetin/)
 
-### [Vitamins](topics/vitamins)
+### [Vitamins](topics/vitamins/)
 
 * [Vitamin A (retinol)](topics/vitamin-a-retinol/)
 * [Vitamin B1 (thiamine)](topics/vitamin-b1-thiamine/)
@@ -326,15 +327,17 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Burning mouth syndrome (BMS)](topics/burning-mouth-syndrome/)
 
+### [Cholestasis](topics/cholestasis/)
+
 ### [Chronic Inflammatory Response Syndrome (CIRS)](topics/chronic-inflammatory-response-syndrome/)
 
 ### [Chronic Fatigue Syndrome (CFS)](topics/chronic-fatigue-syndrome/)
 
 ### [Congenital Adrenal Hyperplasia (CAH)](topics/congenital-adrenal-hyperplasia/)
 
-### [Contact allergic dermatitis](contact-allergic-dermatitis)
+### [Contact allergic dermatitis](contact-allergic-dermatitis/)
 
-### [Cricopharyngeal spasm](topics/cricopharyngeal-spasm)
+### [Cricopharyngeal spasm](topics/cricopharyngeal-spasm/)
 
 ### [Diverticulosis](topics/diverticulosis/)
 
@@ -379,12 +382,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Cutaneous mastocytosis (CM)](topics/cutaneous-mastocytosis/)
 * [Systemic mastocytosis (SM)](topics/systemic-mastocytosis/)
-* [Indolent Systemic Mastocytosis (ISM)](topics/indolent-systemic-mastocytosis/)
-* [Mast Cell Leukemia (MCL)](topics/mast-cell-leukemia/)
+* [Indolent systemic mastocytosis (ISM)](topics/indolent-systemic-mastocytosis/)
+* [Mast cell leukemia (MCL)](topics/mast-cell-leukemia/)
+* [Mast cell count ranges](topics/mast-cell-count-ranges/)
 
-### [Mold exposure](mold-exposure)
+### [Median arcuate ligament syndrome](topics/median-arcuate-ligament-syndrome/)
 
-### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](multiple-antibiotic-resistant-coagulase-negative-staphylococci)
+### [Mold exposure](topics/mold-exposure/)
+
+### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](topics/multiple-antibiotic-resistant-coagulase-negative-staphylococci/)
 
 ### [Multiple Chemical Sensitivity (MCS)](topics/multiple-chemical-sensitivity/)
 
@@ -398,11 +404,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Polycystic Ovary Syndrome (PCOS)](topics/polycystic-ovary-syndrome/)
 
+### [Post-traumatic stress disorder (PTSD)](topics/post-traumatic-stress-disorder/)
+
 ### [Postural Orthostatic Tachycardia Syndrome (POTS)](topics/postural-orthostatic-tachycardia-syndrome/)
 
 ### [Rheumatoid arthritis (RA)](topics/rheumatoid-arthritis/)
 
-### [Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)](systemic-mastocytosis-with-associated-hematologic-neoplasm)
+### [Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)](topics/systemic-mastocytosis-with-associated-hematologic-neoplasm/)
 
 ### [Scar tissue adhesions](topics/scar-tissue-adhesions/)
 
@@ -420,7 +428,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors/)
 
-### [Complement C3 protein](topics/complement-c3-protein)
+### [Complement C3 protein](topics/complement-c3-protein/)
 
 ### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine/)
 
@@ -461,6 +469,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Presyncope](topics/presyncope/)
 
+### [Rebound effect](topics/rebound-effect/)
+
+### [Withdrawal effect](topics/withdrawal-effect/)
+
 <img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/>
 
 ### [Diagnostics](topics/diagnostics/)
@@ -468,24 +480,26 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [24-hour urine test](topics/24-hour-urine-test/)
 * [Allergy testing](topics/allergy-testing/)
 * [Anti-IgE IgG test](topics/anti-ige-igg-test/)
+* [Bone marrow biopsy](topics/bone-marrow-biopsy/)
 * [Complement C3 + C4 test](topics/complement-c3-c4-test/)
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
 * [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
+* [Genetic Environmental Illness (GENIE) test](topics/genetic-environmental-illness-test/)
 * [HBAG stool test for Helicobacter pylori](topics/hbag-stool-test-for-helicobacter-pylori/)
 * [Histamine testing](topics/histamine-testing/)
 * [Histone antibodies test](topics/histone-antibodies-test/)
 * [ISAC allergy blood test](topics/isac-allergy-blood-test/)
+* [Magnetic resonance cholangiopancreatography (MRCP)](topics/magnetic-resonance-cholangiopancreatography/)
+* [Microbiome testing](topics/microbiome-testing/)
 * [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
-* [Imaging](topics/imaging)
+* [Imaging](topics/imaging/)
+* [N-methylhistamine test](topics/n-methylhistamine-test/)
 * [Nasal swab](topics/nasal-swab/)
 * [Nutrition testing](topics/nutrition-testing/)
-* [Microbiome testing](topics/microbiome-testing/)
-* [Genetic Environmental Illness (GENIE) test](genetic-environmental-illness-test)
-* [N-methylhistamine test](topics/n-methylhistamine-test/)
 * [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test/)
 * [Serum tryptase test](topics/serum-tryptase-test/)
-* [Bone marrow biopsy](topics/bone-marrow-biopsy/)
 * [Treatment as test](topics/treatment-as-test/) (a.k.a. test of treatment)
+* [Western blot test](topics/western-blot-test/) (a.k.a. immunoblot)
 
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics/)
 
@@ -503,16 +517,16 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand name: EpiPen)
 
-* [Adrenaline auto-injector instructions](topics/adrenaline-auto-injector-instructions/) (brand name: EpiPen)
+* [Adrenaline auto-injector instructions](topics/adrenaline-auto-injector-instructions/)
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
-* [Alcaftadine](../alcaftadine/) (brand name: Lastacaft)
+* [Alcaftadine](topics/alcaftadine/) (brand name: Lastacaft)
 * [Azelastine](topics/azelastine/) (brand name: Astelin)
 * [Bilastine](topics/bilastine/) (brand name: Blexten)
 * [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
 * [Chlorpheniramine](topics/chlorpheniramine/) (brand name: Chlor-Trimeton)
-* [Cimetidine](topics/cimetidine) (brand name: Tagamet HB)
+* [Cimetidine](topics/cimetidine/) (brand name: Tagamet HB)
 * [Cyclizine](topics/cyclizine/) (brand names: Emoquil, Marzine, Valoid)
 * [Clemastine](topics/clemastine/) (brand name: Tavist)
 * [Cyproheptadine](topics/cyproheptadine/) (brand name: Periactin)
@@ -520,22 +534,22 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diphenhydramine](topics/diphenhydramine/) (brand name: Benadryl)
 * [Fexofenadine](topics/fexofenadine/) (brand name: Allegra)
 * [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
-* [Hydroxyzine](topics/hydroxyzine) (brand names: Atarax, Vistaril)
+* [Hydroxyzine](topics/hydroxyzine/) (brand names: Atarax, Vistaril)
 * [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
 * [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
 * [Loratadine](topics/loratadine/) (brand name: Claritin)
 * [Olopatadine](topics/olopatadine/) (brand names: Patanase, Pataday, Pazeo)
 * [Promethazine](topics/promethazine/) (brand name: Phenergan)
 * [Prednisone](topics/prednisone/) (brand name: Rayos)
-* [Ranitidine](topics/ranitidine) (brand name: Zantac)
+* [Ranitidine](topics/ranitidine/) (brand name: Zantac)
 
-### [Antifungal medications](antifungal-medications)
+### [Antifungal medications](topics/antifungal-medications/)
 
 * [Methylene blue](topics/methylene-blue/)
 
-### [Anti-IgE therapy](topics/anti-ige-therapy)
+### [Anti-IgE therapy](topics/anti-ige-therapy/)
 
-* [Omalizumab](topics/omalizumab) (brand name: ??)
+* [Omalizumab](topics/omalizumab/) (brand name: ??)
 
 ### [Asthma medications](topics/asthma-medications/)
 
@@ -556,12 +570,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Colloidal silver](topics/colloidal-silver/)
 * [Monolaurin](topics/monolaurin/)
 
-### [Biotoxin treatments](biotoxin-treatments)
+### [Biotoxin treatments](topics/biotoxin-treatments/)
 
 * [Shoemaker Biotoxin Illness Protocol](topics/shoemaker-biotoxin-illness-protocol/)
 * [Vasoactive Intestinal Peptide (VIP)](topics/vasoactive-intestinal-peptide/)
 
-### [Body Protection Compound 157 (BPC-157)](topics/body-protection-compound-157)
+### [Body Protection Compound 157 (BPC-157)](topics/body-protection-compound-157/)
 
 ### [Bronchodilators](topics/bronchodilators/)
 
@@ -583,7 +597,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Leukotriene inhibitors](topics/leukotriene-inhibitors/)
 
-* [Montelukast](topics/montelukast) (brand name: Singulair)
+* [Montelukast](topics/montelukast/) (brand name: Singulair)
 
 ### [Levetiracetam](topics/levetiracetam/)
 
@@ -626,7 +640,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Red blood cell (RBC)](topics/red-blood-cell/)
 * [Platelet](topics/platelet/)
 
-### [Histone acetylation](topics/histone-acetylation)
+### [Histone acetylation](topics/histone-acetylation/)
 
 ### [Lymphatic system](topics/lymphatic-system/)
 
@@ -656,18 +670,19 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan](topics/toxic-by-neil-nathan/)
 * [The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker](topics/the-trifecta-passport-by-amber-walker/)
 
-### [Quotations](topics/quotations)
+### [Quotations](topics/quotations/)
 
 * [People explain mast cell illness](topics/people-explain-mast-cell-illness/)
 * [Hurting](topics/hurting/)
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)
-* [Who knows better?](topics/who-knows-better)
+* [Who knows better?](topics/who-knows-better/)
 * [Mast cell activation syndrome - misdiagnosis](topics/mast-cell-activation-syndrome-misdiagnosis/)
 
-### [Shop](topics/shop)
+### [Shop](topics/shop)/
 
 * [Shop for food & drinks](topics/shop-for-food-and-drinks/)
+* [Shop for nutrition shakes](topics/shop-for-nutrition-shakes/)
 * [Shop for protein powder](topics/shop-for-protein-powder/)
 * [Shop for snacks](topics/shop-for-snacks/)
 * [Shop for electrolytes](topics/shop-for-electrolytes/)
@@ -682,14 +697,14 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [National Institute for Health and Care Excellence (NICE)](../topics/national-institute-for-health-and-care-excellence/)
 
-### [Comments](topics/comments)
+### [Comments](topics/comments/)
 
 * [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
 * [Functional medicine provider rubric](topics/functional-medicine-provider-rubric/)
 * [Water treatment home tips](topics/water-treatment-home-tips/)
 * [Traditional mix-up](topics/traditional-mix-up/)
 * [Cosmetic chemist tips](topics/cosmetic-chemist-tips/)
-* [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors)
+* [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors/)
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 
 ### [Glossary](topics/glossary/)

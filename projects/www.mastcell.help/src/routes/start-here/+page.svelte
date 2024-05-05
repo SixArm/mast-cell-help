@@ -5,34 +5,14 @@
 <div class="prose">
 
 <h1 id="start-here">Start here</h1>
-<p>If you’re sick and you need help now, start here. If you’re experiencing severe symptoms, or anaphylaxis, then you need immediate emergency medical help. Call an ambulance or go to a hospital.</p>
-<p><strong>Track your triggers:</strong></p>
-<ul>
-<li><a href="/household-triggers">Household triggers</a></li>
-<li><a href="/chemical-triggers">Chemical triggers</a></li>
-<li><a href="/environmental-triggers">Environmental triggers</a></li>
-<li><a href="/food-triggers">Food triggers</a></li>
-</ul>
-<p><strong>Clean your space:</strong></p>
-<ul>
-<li><a href="/trigger-cleaning">Trigger cleaning</a></li>
-<li><a href="/air-filters">Air filters</a></li>
-<li><a href="/water-filters">Water filters</a></li>
-</ul>
-<p><strong>Relax your body:</strong></p>
-<ul>
-<li><a href="/stress-management">Stress management</a></li>
-<li><a href="/self-soothing">Self-soothing</a></li>
-<li><a href="/polyvagal-exercises">Polyvagal exercises</a></li>
-<li><a href="/limbic-system-retraining">Limbic system retraining</a></li>
-<li><a href="/sleep-hygiene">Sleep hygiene</a></li>
-</ul>
-<p><strong>Learn more:</strong></p>
-<ul>
-<li><a href="/books">Books</a></li>
-<li><a href="/videos">Videos</a></li>
-<li><a href="/support-groups">Support groups</a></li>
-<li><a href="/facebook-groups">Facebook groups</a></li>
-</ul>
+<p>If you’re sick and you need help now, start here. If you’re experiencing severe symptoms, or anaphylaxis, then seek emergency medical help.</p>
+<p><strong>Ask a pharmacist</strong>: Ask about over-the-counter treatments, and taking a morning H2 antihistamine (e.g. <a href="/famotidine/">famotidine</a>, brand name Pepcid), and an evening H1 antihistamine (e.g. <a href="/levocetirizine/">levocetirizine</a>, brand name Xyzal), and a rescue antihistamine (e.g. <a href="/diphenhydramine/">diphenhydramine</a>, brand name Benadryl). If possible, get dye-free sugar-free color-free additive-free versions.</p>
+<p><strong>Reduce triggers</strong>: This means <a href="/household-triggers/">household triggers</a>, <a href="/chemical-triggers/">chemical triggers</a>, <a href="/environmental-triggers/">environmental triggers</a>, <a href="/food-triggers/">food triggers</a>, <a href="/water-triggers/">water triggers</a>, <a href="/car-triggers/">car triggers</a>, psychological triggers, hormone triggers, etc. Remove <a href="/allergens-irritants-toxins/">allergens, irritants, toxins</a>. Use <a href="/air-filters/">air filters</a> and <a href="/water-filters/">water filters</a>. Avoid sunburn and overheating.</p>
+<p><strong>Eat carefully</strong>: Try an <a href="/elimination-diet/">elimination diet</a>, <a href="/low-histamine-diet/">low-histamine diet</a>, <a href="/low-allergen-diet/">low-allergen diet</a>. The two simplest foods are arborio rice and fresh chicken that is skinned and boiled. Start gluten-free, dairy-free, additive-free, hormone-free, spice-free. Very fresh or flash-frozen. Discard skins and peels. Boil or steam; do not fry or grill. No leftovers.</p>
+<p><strong>Try supplements</strong>: 20 minutes before meals: <a href="/diamine-oxidase/">diamine oxidase (DAO)</a> and <a href="/quercetin/">quercetin</a>. During meals: <a href="/vitamin-c-ascorbic-acid/">vitamin C (ascorbic acid)</a>, <a href="/omega-3/">omega-3</a>, <a href="/n-acetyl-cysteine/">n-acetyl cysteine (NAC)</a>. Daily: <a href="/herbal-supplements/">herbal supplements</a>, <a href="/ginger/">ginger</a>, <a href="/garlic/">garlic</a>, <a href="/butterbur/">butterbur</a>, <a href="/stinging-nettle/">stinging nettle</a>, <a href="/milk-thistle/">milk thistle</a>, <a href="/holy-basil/">holy basil</a>.</p>
+<p><strong>Deep clean</strong>: Do <a href="/trigger-cleaning/">trigger cleaning</a>, daily dusting, and weekly deep cleaning and sanitary laundry. Wear full protective gear when cleaning. Replace your pillows with 100% organic cotton. Try <a href="/mold-exposure-diagnostics/">mold exposure diagnostics</a>.</p>
+<p><strong>Detoxify</strong>: Each day take <a href="/glutathione/">glutathione</a> at the start of 20 minutes of exercise. Each week do a 24-hour fast; in the middle of it, drink one teaspoon of <a href="/activated-charcoal/">activated charcoal</a> dissolved in a glass of water (this may be hard on your digestion for 24-72 hours).</p>
+<p><strong>Calm your body</strong>: <a href="/stress-management/">stress management</a>, <a href="/self-soothing/">self-soothing</a>, <a href="/meditation/">meditation</a>, <a href="/polyvagal-exercises/">polyvagal exercises</a>, <a href="/limbic-system-retraining/">limbic system retraining</a>, [progressive muscle relaxation (PMR)](../progressive-muscle-relaxation], <a href="/sleep-hygiene/">sleep hygiene</a>.</p>
+<p><strong>Learn more</strong>: <a href="/books/">books</a>, <a href="/videos/">videos</a>, <a href="/support-groups/">support groups</a>, <a href="/facebook-groups/">Facebook groups</a>.</p>
 
 </div>

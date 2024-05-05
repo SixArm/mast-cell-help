@@ -1,6 +1,6 @@
 # Start here for safe foods
 
-"Safe foods" is the nickname for foods that someone can eat that don't cause symptoms. Safe foods can be different for each person, and can change over time.
+"Safe foods" is the nickname for foods that you can eat without symptoms. Safe foods can be different per person, and can change over time.
 
 **Try these first**:
 
@@ -12,9 +12,9 @@
 
 * **Egg yolks.** Ideally free-range. Egg whites may cause reactions.
 
-* **Chicken.** Skinned and boiled. Ideally free-range. Ideally fresh or flash-frozen.
+* **Chicken.** Skinned and boiled. Free-range. Fresh or flash-frozen.
 
-* **Cod.** Ideally wild-caught, and fresh or flash-frozen.
+* **Cod.** Wild-caught. Fresh or flash-frozen.
 
 * **Cucumbers.**
 

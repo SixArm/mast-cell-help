@@ -7,14 +7,14 @@
 <h1 id="n-acetyl-cysteine-nac">N-acetyl cysteine (NAC)</h1>
 <p>N-acetyl cysteine (NAC) is a dietary supplement that is a form of the amino acid cysteine. NAC is known for its antioxidant properties and its role in supporting several bodily functions.</p>
 <p>NAC is generally considered safe when used at recommended doses, but it can cause side effects in some individuals, such as gastrointestinal symptoms or allergic reactions.</p>
-<p><strong>Key points:</strong></p>
+<p><strong>Key points</strong>:</p>
 <ul>
-<li><p><strong>Antioxidant Support:</strong> NAC is a precursor to glutathione, one of the body’s most important antioxidants. It helps protect cells from oxidative stress and damage caused by free radicals.</p></li>
-<li><p><strong>Respiratory Health:</strong> NAC is often used as a mucolytic agent to help loosen and thin mucus in the respiratory tract. It can treat conditions like chronic obstructive pulmonary disease (COPD) and cystic fibrosis.</p></li>
-<li><p><strong>Liver Health:</strong> NAC may support liver health by promoting detoxification and reducing the toxic effects of certain drugs and toxins on the liver.</p></li>
-<li><p><strong>Mental Health:</strong> There is some research suggesting that NAC may have a role in managing symptoms of psychiatric conditions, such as obsessive-compulsive disorder (OCD), bipolar disorder, and some forms of depression.</p></li>
-<li><p><strong>Acetaminophen Overdose:</strong> NAC is used as an antidote for acetaminophen (paracetamol) overdose, as it can help protect the liver from the toxic effects of this common pain reliever.</p></li>
-<li><p><strong>Immune System Support:</strong> NAC has been investigated for its potential to enhance the immune system and reduce the severity and duration of respiratory infections, including the common cold and flu.</p></li>
+<li><p><strong>Antioxidant Support</strong>: NAC is a precursor to glutathione, one of the body’s most important antioxidants. It helps protect cells from oxidative stress and damage caused by free radicals.</p></li>
+<li><p><strong>Respiratory Health</strong>: NAC is often used as a mucolytic agent to help loosen and thin mucus in the respiratory tract. It can treat conditions like chronic obstructive pulmonary disease (COPD) and cystic fibrosis.</p></li>
+<li><p><strong>Liver Health</strong>: NAC may support liver health by promoting detoxification and reducing the toxic effects of certain drugs and toxins on the liver.</p></li>
+<li><p><strong>Mental Health</strong>: There is some research suggesting that NAC may have a role in managing symptoms of psychiatric conditions, such as obsessive-compulsive disorder (OCD), bipolar disorder, and some forms of depression.</p></li>
+<li><p><strong>Acetaminophen Overdose</strong>: NAC is used as an antidote for acetaminophen (paracetamol) overdose, as it can help protect the liver from the toxic effects of this common pain reliever.</p></li>
+<li><p><strong>Immune System Support</strong>: NAC has been investigated for its potential to enhance the immune system and reduce the severity and duration of respiratory infections, including the common cold and flu.</p></li>
 </ul>
 
 </div>

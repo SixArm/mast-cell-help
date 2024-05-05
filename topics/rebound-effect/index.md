@@ -1,6 +1,6 @@
 # Rebound effect
 
-The rebound effect, also known as rebound phenomenon or rebound response, refers to the recurrence or worsening of symptoms after the discontinuation or reduction of a medication or treatment. It often occurs when the body adapts to the effects of a medication, and upon discontinuation, there is a temporary exaggeration of symptoms or a return of symptoms that were previously suppressed.
+The rebound effect, also known as rebound phenomenon or rebound response, refers to the recurrence or worsening of symptoms after the discontinuation or reduction of a medication or treatment. It often occurs when the body adapts to the effects of a medication, and upon discontinuation, there is a temporary exaggeration of symptoms or a return of symptoms that were previously suppressed. Compare [withdrawal effect](../withdrawal-effect/).
 
 **Key points**:
 

@@ -14,7 +14,7 @@
 
 "My immune and nervous system are on hyper alert and react dramatically to everyday things."
 
-"All systems are malfunctioning. 😂"
+"All systems are malfunctioning."
 
 "Mast cells are immune cells that explode like bombs releasing inflammatory compounds protecting our bodies from invaders like bacteria and viruses."
 

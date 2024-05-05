@@ -98,7 +98,7 @@
 <ul>
 <li>How to enjoy coffee when you have MCAS or histamine intolerance</li>
 <li>Choosing the healthiest coffee possible</li>
-<li><strong>Coffee enemas:</strong> what you need to know</li>
+<li><strong>Coffee enemas</strong>: what you need to know</li>
 </ul>
 <p><strong>Roger Billica, MD</strong></p>
 <p><a href="https://www.trilifehealth.com" class="uri">https://www.trilifehealth.com</a></p>
@@ -223,14 +223,14 @@
 <p>“Infectious Mast Cell Triggers and MCAS Approaches”</p>
 <ul>
 <li>Foundational information on Lyme and co-infections</li>
-<li><strong>The big 3:</strong> Borrelia, Bartonella and Babesia</li>
+<li><strong>The big 3</strong>: <a href="/borrelia/">Borrelia</a>, <a href="/bartonella/">Bartonella</a> and <a href="/babesia/">Babesia</a></li>
 <li>Testing and treatment options for MCAS patients</li>
 </ul>
 <p>“Improving Your GI system”</p>
 <ul>
 <li>GI mast cell triggers</li>
 <li>Relationship between histamine intolerance and MCAS</li>
-<li><strong>Choosing the right diet:</strong> low histamine, low FODMAP and more</li>
+<li><strong>Choosing the right diet</strong>: low histamine, low FODMAP and more</li>
 </ul>
 <p><strong>Christina Boyd</strong></p>
 <p><a href="https://www.highpointaz.com/how-i-work" class="uri">https://www.highpointaz.com/how-i-work</a></p>
@@ -260,7 +260,7 @@
 <p><a href="http://www.endfatigue.com/" class="uri">http://www.endfatigue.com/</a></p>
 <p>“SHINE Protocol for MCAS”</p>
 <ul>
-<li><strong>Published studies:</strong> fatigue, fibromyalgia, long COVID and more</li>
+<li><strong>Published studies</strong>: fatigue, fibromyalgia, long COVID and more</li>
 <li>How to implement the SHINE protocol</li>
 <li>Free health resources</li>
 </ul>
@@ -316,7 +316,7 @@
 <p><a href="https://emeiglobal.com/" class="uri">https://emeiglobal.com/</a></p>
 <p>“Total Body Burden of Environmental Chemicals and MCAS”</p>
 <ul>
-<li><strong>Total body burden:</strong> What is it, and how does it impact mast cells?</li>
+<li><strong>Total body burden</strong>: What is it, and how does it impact mast cells?</li>
 <li>Importance of clean air, water and food</li>
 <li>Creating a bedroom oasis</li>
 </ul>
@@ -349,7 +349,7 @@
 <p><a href="https://drgoodenowe.com/" class="uri">https://drgoodenowe.com/</a></p>
 <p>“Resolving Neuroinflammation in MCAS”</p>
 <ul>
-<li><strong>Overview of brain anatomy:</strong> What happens in an inflamed brain</li>
+<li><strong>Overview of brain anatomy</strong>: What happens in an inflamed brain</li>
 <li>Restoring mitochondria and neutralizing membrane damage</li>
 <li>Healing myelin and enhancing cognition</li>
 </ul>
@@ -390,13 +390,13 @@
 <p>“The Intersection of SIBO and MCAS: Histamine, Biome and Biofilms”</p>
 <ul>
 <li>How SIBO can trigger and worsen MCAS</li>
-<li>Can dysautonomia and connective tissue disorders contribute to SIBO?</li>
+<li>Can <a href="/dysautonomia/">dysautonomia</a> and connective tissue disorders contribute to SIBO?</li>
 <li>Causes, targeted treatments and possibly a cure!</li>
 </ul>
 <p><strong>Andrew J. Maxwell, MD, FACC</strong></p>
 <p>“The Intersection of MCAS, hEDS and Dysautonomia: Spiky-Leaky Syndrome”</p>
 <ul>
-<li>Link between dysautonomia, MCAS and hypermobile Ehlers-Danlos syndrome (hEDS)</li>
+<li>Link between <a href="/dysautonomia/">dysautonomia</a>, MCAS and hypermobile Ehlers-Danlos syndrome (hEDS)</li>
 <li>How these conditions can lead to craniocervical instability and airway loss</li>
 <li>Understanding spiky-leaky syndrome and how to address it</li>
 </ul>

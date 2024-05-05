@@ -5,32 +5,32 @@
 <div class="prose">
 
 <h1 id="glossary-of-medical-terminology">Glossary of medical terminology</h1>
-<p><strong>Medical chart summarization:</strong></p>
+<p><strong>Medical chart summarization</strong>:</p>
 <ul>
-<li><p><strong>CC:</strong> chief complaint</p></li>
-<li><p><strong>Pt:</strong> patient</p></li>
-<li><p><strong>Hx:</strong> history</p></li>
-<li><p><strong>Sx:</strong> symptom</p></li>
-<li><p><strong>Tx:</strong> treatment</p></li>
-<li><p><strong>Dx:</strong> diagnosis</p></li>
-<li><p><strong>Rx:</strong> prescription</p></li>
-<li><p><strong>Px:</strong> prognosis</p></li>
-<li><p><strong>Ix:</strong> investigation</p></li>
+<li><p><strong>CC</strong>: chief complaint</p></li>
+<li><p><strong>Pt</strong>: patient</p></li>
+<li><p><strong>Hx</strong>: history</p></li>
+<li><p><strong>Sx</strong>: symptom</p></li>
+<li><p><strong>Tx</strong>: treatment</p></li>
+<li><p><strong>Dx</strong>: diagnosis</p></li>
+<li><p><strong>Rx</strong>: prescription</p></li>
+<li><p><strong>Px</strong>: prognosis</p></li>
+<li><p><strong>Ix</strong>: investigation</p></li>
 </ul>
-<p><strong>Medical examination shorthand:</strong></p>
+<p><strong>Medical examination shorthand</strong>:</p>
 <ul>
-<li><p><strong>p/c:</strong> presenting complaint</p></li>
-<li><p><strong>c/o:</strong> complains of</p></li>
-<li><p><strong>s/s:</strong> signs and symptoms</p></li>
-<li><p><strong>o/e:</strong> on examination</p></li>
-<li><p><strong>d/t:</strong> due to</p></li>
-<li><p><strong>w/n:</strong> within</p></li>
-<li><p><strong>w/u:</strong> workup</p></li>
-<li><p><strong>r/o:</strong> rule out</p></li>
-<li><p><strong>f/u:</strong> follow-up</p></li>
-<li><p><strong>u/o:</strong> under observation</p></li>
-<li><p><strong>d/c:</strong> discontinue</p></li>
-<li><p><strong>s/p:</strong> status post (previous condition)</p></li>
+<li><p><strong>p/c</strong>: presenting complaint</p></li>
+<li><p><strong>c/o</strong>: complains of</p></li>
+<li><p><strong>s/s</strong>: signs and symptoms</p></li>
+<li><p><strong>o/e</strong>: on examination</p></li>
+<li><p><strong>d/t</strong>: due to</p></li>
+<li><p><strong>w/n</strong>: within</p></li>
+<li><p><strong>w/u</strong>: workup</p></li>
+<li><p><strong>r/o</strong>: rule out</p></li>
+<li><p><strong>f/u</strong>: follow-up</p></li>
+<li><p><strong>u/o</strong>: under observation</p></li>
+<li><p><strong>d/c</strong>: discontinue</p></li>
+<li><p><strong>s/p</strong>: status post (previous condition)</p></li>
 </ul>
 
 </div>

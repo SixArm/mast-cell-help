@@ -1,19 +1,19 @@
 <svelte:head>
-    <title>Vitamin B9 = Folate | mastcell.help | mastcell.help</title>
+    <title>Vitamin B9 (folate) | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="vitamin-b9-folate">Vitamin B9 = Folate</h1>
-<p>Vitamin B9, also known as folate, is a water-soluble B-vitamin. Folate is especially important for its role in DNA synthesis, cell division, and the formation of red blood cells.</p>
-<p><strong>Key points:</strong></p>
+<h1 id="vitamin-b9-folate">Vitamin B9 (folate)</h1>
+<p>Vitamin B9 (also known as folate) is a water-soluble B-vitamin. Folate is especially important for its role in DNA synthesis, cell division, and the formation of red blood cells.</p>
+<p><strong>Key points</strong>:</p>
 <ul>
-<li><p><strong>DNA Synthesis and Repair:</strong> Folate is essential for the synthesis and repair of DNA. It is particularly important during periods of rapid cell growth and division, such as during pregnancy and early childhood development.</p></li>
-<li><p><strong>Neural Tube Development:</strong> Folate is critical during pregnancy to prevent neural tube defects, which are serious birth defects of the brain and spine in the developing fetus.</p></li>
-<li><p><strong>Amino Acid Metabolism:</strong> Folate is involved in the metabolism of certain amino acids and the conversion of homocysteine to methionine. Elevated homocysteine levels are associated with an increased risk of cardiovascular disease.</p></li>
-<li><p><strong>Red Blood Cell Formation:</strong> Folate is necessary for the production of red blood cells.</p></li>
-<li><p><strong>Mental Health:</strong> Some research has suggested a potential link between folate and mental health, as low levels of folate are associated with mood disorders.</p></li>
-<li><p><strong>Deficiency:</strong> This can lead to anemia, fatigue, and an increased risk of birth defects in newborns. Deficiency can result from an inadequate diet, alcoholism, malabsorption conditions, and certain medications that interfere with absorption.</p></li>
+<li><p><strong>DNA Synthesis and Repair</strong>: Folate is essential for the synthesis and repair of DNA. It is particularly important during periods of rapid cell growth and division, such as during pregnancy and early childhood development.</p></li>
+<li><p><strong>Neural Tube Development</strong>: Folate is critical during pregnancy to prevent neural tube defects, which are serious birth defects of the brain and spine in the developing fetus.</p></li>
+<li><p><strong>Amino Acid Metabolism</strong>: Folate is involved in the metabolism of certain amino acids and the conversion of homocysteine to methionine. Elevated homocysteine levels are associated with an increased risk of cardiovascular disease.</p></li>
+<li><p><strong>Red Blood Cell Formation</strong>: Folate is necessary for the production of red blood cells.</p></li>
+<li><p><strong>Mental Health</strong>: Some research has suggested a potential link between folate and mental health, as low levels of folate are associated with mood disorders.</p></li>
+<li><p><strong>Deficiency</strong>: This can lead to anemia, fatigue, and an increased risk of birth defects in newborns. Deficiency can result from an inadequate diet, alcoholism, malabsorption conditions, and certain medications that interfere with absorption.</p></li>
 </ul>
 <p>Dietary sources of folate include a wide range of foods, such as leafy green vegetables (e.g. spinach), legumes (e.g. beans), citrus fruits, and fortified cereals.</p>
 

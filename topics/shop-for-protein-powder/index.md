@@ -2,11 +2,9 @@
 
 Protein powder recommended by mast cell people. Try to read ingredients lists carefully, because you may want to avoid chocolate, bone broth, collagen, dyes, thickeners, citric acid, or other additives.
 
-* [Orgain - Protein Powder](https://orgain.com/collections/protein-powder)
+* [Orgain - Organic Protein Plant Based Protein Powder - Unsweetened ](https://orgain.com/products/organic-protein-plant-based-protein-powder-natural-unsweetened)
 
 * [Equip - Prime Protein - Grass-Fed Beef Protein Isolate](https://www.equipfoods.com/products/prime-protein-beef-isolate-protein)
-
-* [Nutricia - Neocate Splash](https://www.neocate.com/shop/hypoallergenic-formula-and-products/splash)
 
 * [Designs for Health - PurePaleo - Bone Broth Protein](https://www.designsforhealth.com/products/purepaleo-protein)
 
@@ -18,32 +16,34 @@ Protein powder recommended by mast cell people. Try to read ingredients lists ca
 
 * [TumLove - Gut-Friendly Protein Powder - Vanilla](https://tumlove.com/products/low-fodmap-gut-friendly-protein-powder-vanilla)
 
-* [Kate Farms - Nutrition Shake](https://shop.katefarms.com/products/nutrition-shake)
+* [NutriBiotics - Organic Rice Protein, Plain](https://www.nutribiotic.com/organic-rice-protein-plain-21oz.html)
 
-**TODO**:
+* [Naked Nutrition - Organic Brown Rice Protein Powder](https://nakednutrition.com/products/organic-brown-rice-protein-powder?preview_theme_id=124525084766&pb=0)
 
-* Pumpkin Seed protein powder - just that one ingredient.
+* [Gainful - Vegan Protein Powder](https://www.gainful.com/protein/vegan)
 
-* Gainful plant-pased protein powder at target. It's pea protein and rice protein. 
+* [Sprout Living - Epic Protein Original - Unflavored](https://sproutliving.com/products/organic-plant-protein-prebiotics-unsweetened-unflavored-2)
 
-* Hemp powder - any certified organic hempseed.
+* [Sprout Living - Organic Pumpkin Seed Protein Powder - Unflavored](https://sproutliving.com/products/organic-pumpkin-seed-protein-powder-unflavored-2)
+
+* [Anthony’s Goods - Collagen Peptide Powder - Gluten Free](https://anthonysgoods.com/products/collagen-peptide-powder-gluten-free-keto-and-paleo-friendly)
+
+* [North Coast Naturals - Organic Sprouted Raw Brown Rice Protein](https://northcoastnaturals.ca/products/raw-brown-rice-protein)
+
+* [Sun Warrior - Classic Protein - Unflavored, rice-based](https://sunwarrior.com/products/classic-protein-unflavored)
+
+**Flavored-only**:
+
+* [Truvani - Organic Vanilla Plant Based Protein Powder](https://shop.truvani.com/pages/vanillaplantprotein)
+
+**Generic**:
+
+* Pumpkin seed protein powder, or hydrolyzed pea protein, or hemp seed protein powder. Look for any certified organic source.
 
 * Egg protein
   
 * Bone broth protein
 
-* Devotion Nutrition is gluten free. Idk about dairy i can’t remember.
+**Reject**:
 
-* Sprout living.
-  
-* Hydrolyzed pea protein
-
-* Vega Protein and Greens Protein Powder, Vanilla - 20g Plant Based Protein Plus Veggies, Vegan, Non GMO, Pea Protein for Women and Men, 21.7 Ounce (Packaging May Vary) https://a.co/d/jkPzpYe
-
-* NutriBiotics Vanilla Rice Protein. 
-  
-* Justin’s Almond Protein Powder
-
-* Anthony’s collagen
-
-* Naked rice protein powder.
+* [Vega - Plant-Based Protein Powder](https://myvega.com/products/vega-protein-and-greens) (causes headaches)

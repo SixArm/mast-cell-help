@@ -5,7 +5,7 @@
 <div class="prose">
 
 <h1 id="asthma-triggers">Asthma triggers</h1>
-<p>Asthma may be triggered or worsened by various factors, including:</p>
+<p><a href="/asthma/">Asthma</a> may be triggered or worsened by various factors, including:</p>
 <ul>
 <li><p>Allergens (e.g., pollen, dust mites, pet dander)</p></li>
 <li><p>Respiratory infections (e.g., colds and flu)</p></li>

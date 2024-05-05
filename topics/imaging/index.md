@@ -11,3 +11,5 @@ Imaging techniques play a crucial role in modern medicine for diagnosing and mon
 * **Positron Emission Tomography (PET) Scan**: PET scans involve injecting a small amount of radioactive material (tracer) into the body, which is taken up by tissues and organs. The scanner detects the radiation to create images. PET scans are used to evaluate organ function, detect cancer, assess brain disorders, and monitor the effectiveness of treatment.
 
 * **Magnetic Resonance Imaging (MRI)**: MRI uses a strong magnetic field and radio waves to generate detailed images of the body's internal structures. It is particularly useful for imaging soft tissues. MRI is valuable for diagnosing conditions like brain tumors, spinal cord injuries, joint injuries, and multiple sclerosis.
+
+* **Magnetic resonance cholangiopancreatography (MRCP)** MRCP visualizes the bile ducts and pancreatic ducts by using MRI.

@@ -1,0 +1,23 @@
+<svelte:head>
+    <title>Shower triggers | mastcell.help | mastcell.help</title>
+</svelte:head>
+
+<div class="prose">
+
+<h1 id="shower-triggers">Shower triggers</h1>
+<p>Shower triggers come in four major types:</p>
+<ol type="1">
+<li><p>Water triggers: some people react to household tap water, because it contains elements and minerals and chemicals.</p></li>
+<li><p>Sensation triggers: some people react to the sensation of a shower, especially if the water impact causes body vibrations.</p></li>
+<li><p>Postural triggers: some people react to standing up in a shower, especially if the person also has <a href="/postural-orthostatic-tachycardia-syndrome/">Postural Orthostatic Tachycardia Syndrome (POTS)</a>.</p></li>
+<li><p>Heat triggers: some people react to heat increases, especially in the shower where the heat affects the skin and also the airway.</p></li>
+</ol>
+<p>To figure out what’s happening:</p>
+<ol type="1">
+<li><p>Try washing with distilled water. This helps discover tap water triggers.</p></li>
+<li><p>Try taking a bath. This helps discover sensation impact/vibration triggers.</p></li>
+<li><p>Try taking a shower while sitting. This helps discover postural triggers.</p></li>
+<li><p>Try taking a cool shower. This helps discover heat triggers.</p></li>
+</ol>
+
+</div>

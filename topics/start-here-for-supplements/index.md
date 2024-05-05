@@ -1,15 +1,15 @@
 # Start here for supplements
 
-Ask you provider about supplements. Use supplements at your own risk as these are not FDA approved medications.
+Ask you provider about supplements. Use supplements at your own risk.
 
 **Mast cell stabilizers**:
 
-* **Quercetin**: Start with 250mg 2 times per day for at least 1 week. If no adverse reaction, then increase to 500mg 2 times per day. If it helps, then increase to 750mg 2 times per day for at least 1 week. If no adverse reaction, then increase to 1000mg 2 times per day. The maximum dose is 1000mg 3 times a day.
+* **Quercetin**: Start with 250mg 2 times per day for at least 1 week. If no adverse reaction, increase to 500mg 2 times per day. If it helps, increase to 750mg 2 times per day for at least 1 week. If no adverse reaction, increase to 1000mg 2 times per day. Maximum dose is 1000mg 3 times a day.
 
-* **Alpha-lipoic acid**: Start with 100mg 2 times per day for at least 1 week. If no adverse reaction, then increase to 200mg 2 times per day for at least 1 week. If no adverse reaction, then increase to 300mg 2 times per day. The maximum dose is 600mg 2 times per day.
+* **Alpha-lipoic acid**: Start with 100mg 2 times per day for at least 1 week. If no adverse reaction, increase to 200mg 2 times per day for at least 1 week. If no adverse reaction, increase to 300mg 2 times per day. Maximum dose is 600mg 2 times per day.
 
-* **Vitamin C**: This should be a time-release formulation. Start with 500mg 1 time per day for at least 1 week. 
-If no adverse reaction, then increase to 500mg 2 times per day for at least 1 week. If no adverse reaction, then increase to 500mg 3 times per day. The maximum dose is 2000mg total per day.
+* **Vitamin C**: Use time-release formulation. Start with 500mg 1 time per day for at least 1 week. 
+If no adverse reaction, increase to 500mg 2 times per day for at least 1 week. If no adverse reaction, increase to 500mg 3 times per day. Maximum dose is 2000mg total per day.
 
 * **Vitamin D**: If you are deficient, then try 5000 UI per day. If you are not deficient, then try 2000 IU per day.
 
@@ -23,4 +23,4 @@ If no adverse reaction, then increase to 500mg 2 times per day for at least 1 we
 
 **For chronic pain**:
 
-* **Palmitoylethanolamide (PEA)**: 400 mg sublingually 3 times a day; pierce capsule and squeeze under the tongue. Do for at least 2 weeks. If no adverse reaction, then increase to 400 mg 3 times a day; swallow whole capsule. Do for at least 6 weeks. If no adverse reaction, then increase 400 mg 3 times a day.
+* **Palmitoylethanolamide (PEA)**: 400 mg sublingually 3 times a day; pierce capsule and squeeze under the tongue. Do for at least 2 weeks. If no adverse reaction, increase to 400 mg 3 times a day; swallow whole capsule. Do for at least 6 weeks. If no adverse reaction, increase 400 mg 3 times a day.

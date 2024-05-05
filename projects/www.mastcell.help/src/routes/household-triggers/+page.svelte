@@ -5,16 +5,16 @@
 <div class="prose">
 
 <h1 id="household-triggers">Household triggers</h1>
-<p>Household triggers refer to adverse reactions that individuals experience due to exposure to certain household products. Triggers can cause a range of symptoms, from mild irritation to severe anaphylaxis.</p>
-<p><strong>Examples:</strong></p>
+<p>Household triggers refer to adverse reactions that individuals experience due to exposure to certain household products. Triggers can cause a range of symptoms, from mild irritation to severe reactions or<a href="/anaphylaxis/">anaphylaxis</a>.</p>
+<p><strong>Examples</strong>:</p>
 <ul>
-<li><p><strong>Fragrances:</strong> Many products, including air fresheners, cleaning agents, and personal care items, contain synthetic fragrances.</p></li>
-<li><p><strong>Toiletries:</strong> Many ingredients found in many shampoos, soaps, toothpastes, lotions, and other personal care products.</p></li>
-<li><p><strong>Detergents:</strong> Residual laundry detergent on clothing and bedding can come into contact with the skin, leading to skin sensitivities. Laundry detergents may include fragrances, dyes, and certain enzymes that may be triggers.</p></li>
-<li><p><strong>Cleaners:</strong> Cleaning agents often contain various chemicals, such as surfactants, disinfectants, and solvents.</p></li>
-<li><p><strong>Air Fresheners:</strong> Air fresheners may release volatile organic compounds (VOCs) and synthetic fragrances.</p></li>
+<li><p><strong>Fragrances</strong>: Many products, including air fresheners, cleaning agents, and personal care items, contain synthetic fragrances.</p></li>
+<li><p><strong>Toiletries</strong>: Many ingredients found in many shampoos, soaps, toothpastes, lotions, and other personal care products.</p></li>
+<li><p><strong>Detergents</strong>: Residual laundry detergent on clothing and bedding can come into contact with the skin, leading to skin sensitivities. Laundry detergents may include fragrances, dyes, and certain enzymes that may be triggers.</p></li>
+<li><p><strong>Cleaners</strong>: Cleaning agents often contain various chemicals, such as surfactants, disinfectants, and solvents.</p></li>
+<li><p><strong>Air Fresheners</strong>: Air fresheners may release volatile organic compounds (VOCs) and synthetic fragrances.</p></li>
 <li><p><strong>Candles</strong> Candles may release volatile organic compounds (VOCs), synthetic fragrances, and smoke particles.</p></li>
-<li><p><strong>Miscellaneous:</strong> preservatives, dyes, certain metals (e.g., nickel), and other additives.</p></li>
+<li><p><strong>Miscellaneous</strong>: preservatives, dyes, certain metals (e.g., nickel), and other additives.</p></li>
 </ul>
 
 </div>

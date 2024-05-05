@@ -26,6 +26,7 @@ Doctors can help. Ask them about this page.
 [histamine testing](../histamine-testing/),
 [nutrition testing](../nutrition-testing/),
 [microbiome testing](../microbiome-testing/),
+[electrolyte blood serum test](../electrolyte-blood-serum-test/),
 [serum tryptase test](../serum-tryptase-test/),
 [complement C4-A blood test](../complement-c4-a-blood-test/),
 [mast cell tryptase stimulation test](../mast-cell-tryptase-stimulation-test/),
@@ -34,6 +35,7 @@ Doctors can help. Ask them about this page.
 [Environmental Relative Moldiness Index (ERMI)](../environmental-relative-moldiness-index/).
 
 **Get medications**:
+[mast cell stabilizers](../mast-cell-stabilizers/),
 [adrenaline auto-injector](../adrenaline-auto-injector/),
 [antihistamine medications](../antihistamine-medications/),
 [antifungal medications](../antifungal-medications/),
@@ -72,9 +74,8 @@ Doctors can help. Ask them about this page.
 [Somatic Experiencing (SE)](../somatic-experiencing/),
 [cognitive-behavioral therapy (CBT)](../cognitive-behavioral-therapy/),
 [dialectical behavior therapy (DBT)](../dialectical-behavior-therapy/),
+[accelerated resolution therapy (ART)](../accelerated-resolution-therapy/)
 [eye movement desensitization and reprocessing (EMDR)](../eye-movement-desensitization-and-reprocessing/),
 [limbic system retraining](../limbic-system-retraining/),
-[Gupta brain retraining](../gupta-brain-retraining/),
-[Dynamic Neural Retraining System (DNRS)](../dynamic-neural-retraining-system/).
 [Polyvagal Theory](../polyvagal-theory/),
 [vagal tone stimulation](../vagal-tone-stimulation/).

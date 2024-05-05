@@ -1,8 +1,10 @@
 # Limbic system retraining
 
-Limbic system retraining refers to techniques aimed at improving the functioning of the limbic system. The limbic system is a complex set of brain structures involved that plays a crucial role in processing emotions, responding to stress, and regulating the autonomic nervous system.
+Limbic system retraining refers to techniques aimed at improving the functioning of the limbic system. The limbic system is a complex set of brain structures involved that plays a crucial role in processing emotions, responding to stress, and regulating the autonomic nervous system. 
 
 The idea is that chronic stress, trauma, or prolonged illness can lead to dysregulation of the limbic system, contributing to persistent symptoms.
+
+See specific [brain retraining products](../brain-retraining-products/).
 
 **Key points**:
 
@@ -19,3 +21,4 @@ The idea is that chronic stress, trauma, or prolonged illness can lead to dysreg
 * **Sleep Hygiene**: Establish healthy sleep patterns, and address factors that may contribute to sleep disturbances.
 
 * **Nutritional Support**: Address nutritional factors that may impact brain health, including the consumption of nutrient-dense foods and hydration.
+

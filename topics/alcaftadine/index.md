@@ -4,16 +4,10 @@ Alcaftadine is an antihistamine medication used to treat allergic conjunctivitis
 
 **Key points**:
 
-* **Mechanism of Action**: Alcaftadine works by blocking the action of histamine, a substance produced by the body during an allergic reaction. Histamine is responsible for causing the symptoms of itching, redness, and swelling associated with allergies.
+* **Mechanism**: Alcaftadine blocks the action of histamine during an allergic reaction. Histamine causes itching, redness, and swelling, associated with allergies.
 
-* **Indications**: Alcaftadine eye drops are used to relieve the symptoms of allergic conjunctivitis, such as itching, redness, tearing, and swelling of the eyes.
+* **Indications**: Alcaftadine eye drops treat symptoms of allergic conjunctivitis, such as itching, redness, tearing, and swelling of the eyes.
 
-* **Dosage**: The typical dosage of alcaftadine eye drops is one drop in each affected eye, twice a day, about 8 to 12 hours apart.
+* **Side Effects**: Eye irritation, burning or stinging sensation in the eyes, dry eyes, and headache. These side effects are usually mild and temporary.
 
-* **Side Effects**: Common side effects of alcaftadine may include eye irritation, burning or stinging sensation in the eyes, dry eyes, and headache. These side effects are usually mild and temporary.
-
-* **Precautions**: Alcaftadine is generally well-tolerated, but it's important to follow the instructions provided by your healthcare provider or pharmacist. If you wear contact lenses, you should remove them before using the eye drops and wait at least 10 minutes before reinserting them. Also, inform your doctor if you have any other eye conditions or if you are pregnant or breastfeeding.
-
-* **Interactions**: Alcaftadine is not known to interact significantly with other medications, but it's always best to inform your healthcare provider about all the medications you are taking, including over-the-counter drugs and supplements.
-
-* **Effectiveness**: Studies have shown alcaftadine to be effective in relieving the symptoms of allergic conjunctivitis and providing relief from itching, redness, and other discomfort associated with eye allergies.
+* **Precautions**: If you wear contact lenses, you should remove them before using the eye drops and wait at least 10 minutes before reinserting them. Also, inform your doctor if you have any other eye conditions or if you are pregnant or breastfeeding.

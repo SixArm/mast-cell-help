@@ -5,7 +5,7 @@
 <div class="prose">
 
 <h1 id="cupping">Cupping</h1>
-<p>Cupping is a traditional therapeutic practice that involves placing cups on the skin to create suction. The suction is typically created by heating the air inside the cup or by using a vacuum pump. Cupping is used for pain relief, promoting relaxation, and improving overall well-being.</p>
+<p>Cupping is a <a href="/traditional-chinese-medicine/">Traditional Chinese Medicine (TCM)</a> practice that involves placing cups on the skin to create suction. The suction is typically created by heating the air inside the cup or by using a vacuum pump. Cupping is used for pain relief, promoting relaxation, and improving overall well-being.</p>
 <p><strong>Key points</strong>:</p>
 <ul>
 <li><p><strong>Therapeutic Claims</strong>: Proponents of cupping claim various therapeutic benefits, including pain relief, improved circulation, reduction of inflammation, and relaxation.</p></li>

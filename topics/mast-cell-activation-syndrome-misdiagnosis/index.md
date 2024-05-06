@@ -1,4 +1,4 @@
-# Mast cell activation syndrome - misdiagnosis
+# Mast Cell Activation Syndrome - misdiagnosis
 
 Took me 2 years of convincing people and doctors I was sick. Now I look back on my life and realize I was sick before I even paid attention. I've been diagnosed with so many things. But mcas was the last thing.
 
@@ -36,7 +36,6 @@ I’ve had so many tests, procedures, and seen so many different kinds of doctor
 I’ve been tested for seizures, Multiple sclerosis, pheochromocytoma, lupus, thyroid disease, Lyme disease, autoimmune diseases (MS included), cirrhosis, and more. I do have anxiety for sure, but now I wonder how much of the anxiety was caused by MCAS. I’ve had a
 family member call me a hypochondriac as well.
 
-    4h
 Anxiety. Even now I still have Dr's questioning it. I've had 7 episodes of full blown anaphylaxis in just under 2 years.
 
 For over a decade I was misdiagnosed and I was probably sick for longer than that. I finally found a doctor that knows about MCAS and how to best treat it.

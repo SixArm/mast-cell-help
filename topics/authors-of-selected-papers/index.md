@@ -188,7 +188,7 @@
   * Mast Cell Biology Section, Laboratory of Allergic Diseases, NIAID, NIH, Bethesda, Maryland, USA
 
 
-### Diagnosis of mast cell activation syndrome: a global "consensus-2"
+### Diagnosis of Mast Cell Activation Syndrome: a global "consensus-2"
 
 <https://pubmed.ncbi.nlm.nih.gov/32324159/>
 

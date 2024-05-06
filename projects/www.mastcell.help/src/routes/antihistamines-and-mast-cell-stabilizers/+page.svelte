@@ -23,7 +23,7 @@ urticaria. Increasingly used for mast cell stabilizing properties.</p></li>
 <li><p><a href="/epinastine/">epinastine</a> (brand names Alesion, Elestat, Purivist,
 Relestat)</p></li>
 <li><p><a href="/azelastine/">azelastine</a> (brand names Astepro, Astelin)</p></li>
-<li><p>[olopatadine](../olopatadine/ (brand names: Patanase, Pataday, Pazeo)</p></li>
+<li><p><a href="/olopatadine/">olopatadine</a> (brand names: Patanase, Pataday, Pazeo)</p></li>
 <li><p><a href="/alcaftadine/">alcaftadine</a> (brand name: Lastacaft)</p></li>
 </ul>
 <p>If you’re trying to convince your doctor that you may have a mast cell disorder,

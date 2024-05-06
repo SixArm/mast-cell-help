@@ -1,6 +1,6 @@
 # Mast cell stabilizers
 
-Mast cell stabilizers are a type of medication used to prevent the degranualtion of mast cells, and thus mast cell release of histamine and many other chemicals. Mast cell stabilizers help in the treatment of [allergic conjunctivitis](../allergic-conjunctivitis/), [allergic rhinitis](../allergic-rhinitis/), [analphylaxis](../anaphylaxis/), [asthma](../asthma/), [mast cell activation syndrome](../mast-cell-activation-syndrome/), and other inflammatory conditions.
+Mast cell stabilizers are a type of medication used to prevent the degranualtion of mast cells, and thus mast cell release of histamine and many other chemicals. Mast cell stabilizers help in the treatment of [allergic conjunctivitis](../allergic-conjunctivitis/), [allergic rhinitis](../allergic-rhinitis/), [analphylaxis](../anaphylaxis/), [asthma](../asthma/), [Mast Cell Activation Syndrome](../mast-cell-activation-syndrome/), and other inflammatory conditions.
 
 Mast cell stabilizers are often recommended as first-line therapy for people with mild allergic conditions or for those who prefer not to use corticosteroids or antihistamines. However, they may not provide sufficient relief for more severe symptoms or acute allergic reactions, in which case other medications may be needed.
 

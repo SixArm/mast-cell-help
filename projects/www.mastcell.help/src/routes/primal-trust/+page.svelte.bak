@@ -5,7 +5,7 @@
 <div class="prose">
 
 <h1 id="primal-trust">Primal Trust™</h1>
-<p><a href="https://www.primaltrust.org/regulate-level-1/">Primal Trust website</a>:</p>
+<p><a href="https://www.primaltrust.org/regulate-level-1/">Primal Trust website</a> excerpts…</p>
 <p>Designed for those struggling with chronic illness, chronic pain, trauma and more.</p>
 <p>The focus is on improving nervous system capacity for stress and emotional processing to allow self-healing to occur.</p>
 <p>In Regulate™ you will gain a complete understanding of:</p>

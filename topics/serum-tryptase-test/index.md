@@ -6,7 +6,7 @@ The serum tryptase test is a diagnostic tool used to measure the level of trypta
 
 * **Purpose**: The primary purpose of the serum tryptase test is to evaluate the activity of mast cells. Mast cells release various mediators, including tryptase, during an allergic or inflammatory response.
 
-* **Conditions for Testing**: Serum tryptase testing is often ordered when there is suspicion of mast cell disorders, such as systemic mastocytosis or mast cell activation syndrome.
+* **Conditions for Testing**: Serum tryptase testing is often ordered when there is suspicion of mast cell disorders, such as systemic mastocytosis or Mast Cell Activation Syndrome.
 
 * **Procedure**: A blood sample is taken from a vein, typically in the arm. The blood is collected in a tube and sent to a laboratory for analysis. The sample is usually drawn during a period of symptom exacerbation or as soon as possible after an event.
 

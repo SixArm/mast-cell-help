@@ -4,7 +4,7 @@
 
 [Center for Complex Neurology, EDS & POTS](https://www.youtube.com/@centerforcomplexneurology)
 
-Mast cell activation syndrome is a condition where the allergic system goes haywire. This occurs in many patients with EDS, POTS, or Dysautonomias. Individuals with MCAS are prone to unpredictable rashes, hives, or skin sensitivities.
+Mast Cell Activation Syndrome is a condition where the allergic system goes haywire. This occurs in many patients with EDS, POTS, or Dysautonomias. Individuals with MCAS are prone to unpredictable rashes, hives, or skin sensitivities.
 
 MCAS can be hard to diagnose. There are blood and urine tests, but these are frequently normal. Through the use of [antihistamines](../antihistamines/), mast cell stabilizers, and other medications, the symptoms of MCAS can often be brought under control.
 

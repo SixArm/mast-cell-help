@@ -53,7 +53,7 @@
 <li><a href="/mast-cell-activation-syndrome-supportive-measures/">Supportive measures</a></li>
 <li><a href="/mast-cell-activation-syndrome-differential-diagnoses/">Differential diagnoses</a></li>
 <li><a href="/mast-cell-activation-syndrome-comorbidities/">Mast cell activation syndrome (MCAS) comorbidities</a></li>
-<li><a href="mast-cell-activation-syndrome-versus-histamine-intolerance">Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)</a></li>
+<li><a href="/mast-cell-activation-syndrome-versus-histamine-intolerance/">Mast cell activation syndrome (MCAS) versus histamine intolerance (HI)</a></li>
 </ul>
 <h3 id="inflammation"><a href="/inflammation/">Inflammation</a></h3>
 <ul>
@@ -101,7 +101,7 @@
 <li><a href="/tai-chi/">Tai Chi</a></li>
 <li><a href="/tui-na/">Tui Na</a></li>
 <li><a href="/nambudripads-allergy-elimination-technique/">Nambudripad’s Allergy Elimination Technique (NAET)</a></li>
-<li><a href="/soliman-auricular-allergy-treatment">Soliman Auricular Allergy Treatment (SAAT)</a></li>
+<li><a href="/soliman-auricular-allergy-treatment/">Soliman Auricular Allergy Treatment (SAAT)</a></li>
 </ul>
 <h3 id="functional-medicine"><a href="/functional-medicine/">Functional medicine</a></h3>
 <ul>
@@ -127,12 +127,12 @@
 <li><a href="/activated-carbon-filters/">Activated carbon filters</a></li>
 <li><a href="/volatile-organic-compounds/">Volatile organic compounds (VOCs)</a></li>
 <li><a href="/greenguard-certification/">GreenGuard certification</a></li>
-<li><a href="ventilation">Ventilation</a></li>
+<li><a href="/ventilation/">Ventilation</a></li>
 </ul>
 <h3 id="stress-management"><a href="/stress-management/">Stress Management</a></h3>
 <ul>
 <li><a href="/meditation/">Meditation</a></li>
-<li><a href="progressive-muscle-relaxation">Progressive Muscle Relaxation (PMR)</a></li>
+<li><a href="/progressive-muscle-relaxation/">Progressive Muscle Relaxation (PMR)</a></li>
 <li><a href="/self-soothing/">Self-soothing</a></li>
 <li><a href="/sleep-hygiene/">Sleep hygiene</a></li>
 <li><a href="/shine-protocol/">SHINE protocol</a></li>
@@ -141,13 +141,13 @@
 <li><a href="/accelerated-resolution-therapy/">Accelerated resolution therapy (ART)</a></li>
 <li><a href="/eye-movement-desensitization-and-reprocessing/">Eye Movement Desensitization and Reprocessing (EMDR)</a></li>
 <li><a href="/buteyko-breathing-method/">Buteyko breathing method</a></li>
-<li><a href="/rapid-resolution-therapy">Rapid Resolution Therapy (RRT)</a></li>
-<li><a href="/the-spoon-theory">The Spoon Theory</a></li>
+<li><a href="/rapid-resolution-therapy/">Rapid Resolution Therapy (RRT)</a></li>
+<li><a href="/the-spoon-theory/">The Spoon Theory</a></li>
 <li><a href="/kriya/">Kriya</a></li>
 </ul>
 <h3 id="vagus-nerve-reset"><a href="/vagus-nerve-reset/">Vagus nerve reset</a></h3>
 <ul>
-<li><a href="/vagal-tone-stimulation">Vagal tone stimulation</a></li>
+<li><a href="/vagal-tone-stimulation/">Vagal tone stimulation</a></li>
 <li><a href="/polyvagal-theory/">Polyvagal theory</a></li>
 <li><a href="/polyvagal-exercises/">Polyvagal exercises</a></li>
 </ul>
@@ -165,7 +165,7 @@
 <li><a href="/elemental-diet/">Elemental diet</a></li>
 <li><a href="/ketogenic-diet/">Ketogenic diet</a></li>
 <li><a href="/carnivore-diet/">Carnivore diet</a></li>
-<li><a href="/failsafe-diet">FAILSAFE diet (aka RPAH diet)</a></li>
+<li><a href="/failsafe-diet/">FAILSAFE diet (aka RPAH diet)</a></li>
 <li><a href="/autoimmune-protocol-diet/">Autoimmune Protocol (AIP) diet</a></li>
 <li><a href="/gut-and-psychology-syndrome-diet/">Gut and Psychology Syndrome (GAPS) diet</a></li>
 <li><a href="/swiss-interest-group-histamine-intolerance-diet/">Swiss Interest Group Histamine Intolerance (SIGHI) diet</a></li>
@@ -224,14 +224,14 @@
 <li><a href="/turmeric/">Turmeric</a></li>
 <li><a href="/zinc/">Zinc</a></li>
 </ul>
-<h3 id="mast-cell-stabilizer-supplements"><a href="/mast-cell-stabilizer-supplements">Mast cell stabilizer supplements</a></h3>
+<h3 id="mast-cell-stabilizer-supplements"><a href="/mast-cell-stabilizer-supplements/">Mast cell stabilizer supplements</a></h3>
 <ul>
 <li><a href="/bromelain/">Bromelain</a></li>
 <li><a href="/n-acetyl-cysteine/">N-acetyl cysteine (NAC)</a></li>
 <li><a href="/omega-3/">Omega-3</a></li>
 <li><a href="/quercetin/">Quercetin</a></li>
 </ul>
-<h3 id="vitamins"><a href="/vitamins">Vitamins</a></h3>
+<h3 id="vitamins"><a href="/vitamins/">Vitamins</a></h3>
 <ul>
 <li><a href="/vitamin-a-retinol/">Vitamin A (retinol)</a></li>
 <li><a href="/vitamin-b1-thiamine/">Vitamin B1 (thiamine)</a></li>
@@ -324,8 +324,8 @@
 <h3 id="chronic-inflammatory-response-syndrome-cirs"><a href="/chronic-inflammatory-response-syndrome/">Chronic Inflammatory Response Syndrome (CIRS)</a></h3>
 <h3 id="chronic-fatigue-syndrome-cfs"><a href="/chronic-fatigue-syndrome/">Chronic Fatigue Syndrome (CFS)</a></h3>
 <h3 id="congenital-adrenal-hyperplasia-cah"><a href="/congenital-adrenal-hyperplasia/">Congenital Adrenal Hyperplasia (CAH)</a></h3>
-<h3 id="contact-allergic-dermatitis"><a href="contact-allergic-dermatitis">Contact allergic dermatitis</a></h3>
-<h3 id="cricopharyngeal-spasm"><a href="/cricopharyngeal-spasm">Cricopharyngeal spasm</a></h3>
+<h3 id="contact-allergic-dermatitis"><a href="contact-allergic-dermatitis/">Contact allergic dermatitis</a></h3>
+<h3 id="cricopharyngeal-spasm"><a href="/cricopharyngeal-spasm/">Cricopharyngeal spasm</a></h3>
 <h3 id="diverticulosis"><a href="/diverticulosis/">Diverticulosis</a></h3>
 <h3 id="dysautonomia"><a href="/dysautonomia/">Dysautonomia</a></h3>
 <h3 id="dyshidrotic-eczema"><a href="/dyshidrotic-eczema/">Dyshidrotic eczema</a></h3>
@@ -360,8 +360,8 @@
 <li><a href="/mast-cell-count-ranges/">Mast cell count ranges</a></li>
 </ul>
 <h3 id="median-arcuate-ligament-syndrome"><a href="/median-arcuate-ligament-syndrome/">Median arcuate ligament syndrome</a></h3>
-<h3 id="mold-exposure"><a href="mold-exposure">Mold exposure</a></h3>
-<h3 id="multiple-antibiotic-resistant-coagulase-negative-staphylococci-marcons"><a href="multiple-antibiotic-resistant-coagulase-negative-staphylococci">Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)</a></h3>
+<h3 id="mold-exposure"><a href="/mold-exposure/">Mold exposure</a></h3>
+<h3 id="multiple-antibiotic-resistant-coagulase-negative-staphylococci-marcons"><a href="/multiple-antibiotic-resistant-coagulase-negative-staphylococci/">Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)</a></h3>
 <h3 id="multiple-chemical-sensitivity-mcs"><a href="/multiple-chemical-sensitivity/">Multiple Chemical Sensitivity (MCS)</a></h3>
 <h3 id="multisystem-disease"><a href="/multisystem-disease/">Multisystem disease</a></h3>
 <h3 id="multisystem-inflammatory-syndrome-mis"><a href="/multisystem-inflammatory-syndrome/">Multisystem Inflammatory Syndrome (MIS)</a></h3>
@@ -371,7 +371,7 @@
 <h3 id="post-traumatic-stress-disorder-ptsd"><a href="/post-traumatic-stress-disorder/">Post-traumatic stress disorder (PTSD)</a></h3>
 <h3 id="postural-orthostatic-tachycardia-syndrome-pots"><a href="/postural-orthostatic-tachycardia-syndrome/">Postural Orthostatic Tachycardia Syndrome (POTS)</a></h3>
 <h3 id="rheumatoid-arthritis-ra"><a href="/rheumatoid-arthritis/">Rheumatoid arthritis (RA)</a></h3>
-<h3 id="systemic-mastocytosis-with-associated-hematologic-neoplasm-sm-ahn"><a href="systemic-mastocytosis-with-associated-hematologic-neoplasm">Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)</a></h3>
+<h3 id="systemic-mastocytosis-with-associated-hematologic-neoplasm-sm-ahn"><a href="/systemic-mastocytosis-with-associated-hematologic-neoplasm/">Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)</a></h3>
 <h3 id="scar-tissue-adhesions"><a href="/scar-tissue-adhesions/">Scar tissue adhesions</a></h3>
 <h3 id="sjögrens-syndrome"><a href="/sjogrens-syndrome/">Sjögren’s syndrome</a></h3>
 <h3 id="sulfur-intolerance"><a href="/sulfur-intolerance/">Sulfur intolerance</a></h3>
@@ -380,7 +380,7 @@
 <h2 id="components">Components</h2>
 <h3 id="α-melanocyte-stimulating-hormone-α-msh"><a href="/α-melanocyte-stimulating-hormone/">α-melanocyte stimulating hormone (α-MSH)</a></h3>
 <h3 id="aryl-hydrocarbon-receptors-ahr"><a href="/aryl-hydrocarbon-receptors/">Aryl hydrocarbon receptors (AhR)</a></h3>
-<h3 id="complement-c3-protein"><a href="/complement-c3-protein">Complement C3 protein</a></h3>
+<h3 id="complement-c3-protein"><a href="/complement-c3-protein/">Complement C3 protein</a></h3>
 <h3 id="lysine-proline-valine-kpv"><a href="/lysine-proline-valine/">Lysine-proline-valine (KPV)</a></h3>
 <h3 id="immunoglobulin-e-ige"><a href="/immunoglobulin-e/">Immunoglobulin E (IgE)</a></h3>
 <h3 id="immunoglobulin-g-igg"><a href="/immunoglobulin-g/">Immunoglobulin G (IgG)</a></h3>
@@ -422,7 +422,7 @@
 <li><a href="/complement-c3-c4-test/">Complement C3 + C4 test</a></li>
 <li><a href="/complement-c4-a-blood-test/">Complement C4-A blood test</a></li>
 <li><a href="/electrolyte-blood-serum-test/">Electrolyte blood serum test</a></li>
-<li><a href="genetic-environmental-illness-test">Genetic Environmental Illness (GENIE) test</a></li>
+<li><a href="/genetic-environmental-illness-test/">Genetic Environmental Illness (GENIE) test</a></li>
 <li><a href="/hbag-stool-test-for-helicobacter-pylori/">HBAG stool test for Helicobacter pylori</a></li>
 <li><a href="/histamine-testing/">Histamine testing</a></li>
 <li><a href="/histone-antibodies-test/">Histone antibodies test</a></li>
@@ -430,14 +430,14 @@
 <li><a href="/magnetic-resonance-cholangiopancreatography/">Magnetic resonance cholangiopancreatography (MRCP)</a></li>
 <li><a href="/microbiome-testing/">Microbiome testing</a></li>
 <li><a href="/mast-cell-tryptase-stimulation-test/">Mast cell tryptase stimulation test</a></li>
-<li><a href="/imaging">Imaging</a></li>
+<li><a href="/imaging/">Imaging</a></li>
 <li><a href="/n-methylhistamine-test/">N-methylhistamine test</a></li>
 <li><a href="/nasal-swab/">Nasal swab</a></li>
 <li><a href="/nutrition-testing/">Nutrition testing</a></li>
 <li><a href="/prostaglandin-d2-test/">Prostaglandin D2 (PGD2) test</a></li>
 <li><a href="/serum-tryptase-test/">Serum tryptase test</a></li>
 <li><a href="/treatment-as-test/">Treatment as test</a> (a.k.a. test of treatment)</li>
-<li><a href="/western-blot-test">Western blot test</a> (a.k.a. immunoblot)</li>
+<li><a href="/western-blot-test/">Western blot test</a> (a.k.a. immunoblot)</li>
 </ul>
 <h3 id="mold-exposure-diagnostics"><a href="/mold-exposure-diagnostics/">Mold exposure diagnostics</a></h3>
 <ul>
@@ -452,16 +452,16 @@
 <h3 id="adrenaline"><a href="/adrenaline/">Adrenaline</a></h3>
 <h3 id="adrenaline-auto-injector-brand-name-epipen"><a href="/adrenaline-auto-injector/">Adrenaline auto-injector</a> (brand name: EpiPen)</h3>
 <ul>
-<li><a href="/adrenaline-auto-injector-instructions/">Adrenaline auto-injector instructions</a> (brand name: EpiPen)</li>
+<li><a href="/adrenaline-auto-injector-instructions/">Adrenaline auto-injector instructions</a></li>
 </ul>
 <h3 id="antihistamine-medications"><a href="/antihistamine-medications/">Antihistamine medications</a></h3>
 <ul>
-<li><a href="../alcaftadine/">Alcaftadine</a> (brand name: Lastacaft)</li>
+<li><a href="/alcaftadine/">Alcaftadine</a> (brand name: Lastacaft)</li>
 <li><a href="/azelastine/">Azelastine</a> (brand name: Astelin)</li>
 <li><a href="/bilastine/">Bilastine</a> (brand name: Blexten)</li>
 <li><a href="/cetirizine/">Cetirizine</a> (brand name: Zyrtec)</li>
 <li><a href="/chlorpheniramine/">Chlorpheniramine</a> (brand name: Chlor-Trimeton)</li>
-<li><a href="/cimetidine">Cimetidine</a> (brand name: Tagamet HB)</li>
+<li><a href="/cimetidine/">Cimetidine</a> (brand name: Tagamet HB)</li>
 <li><a href="/cyclizine/">Cyclizine</a> (brand names: Emoquil, Marzine, Valoid)</li>
 <li><a href="/clemastine/">Clemastine</a> (brand name: Tavist)</li>
 <li><a href="/cyproheptadine/">Cyproheptadine</a> (brand name: Periactin)</li>
@@ -469,22 +469,22 @@
 <li><a href="/diphenhydramine/">Diphenhydramine</a> (brand name: Benadryl)</li>
 <li><a href="/fexofenadine/">Fexofenadine</a> (brand name: Allegra)</li>
 <li><a href="/histamine-n-methyltransferase/">Histamine N-methyltransferase (HNMT)</a></li>
-<li><a href="/hydroxyzine">Hydroxyzine</a> (brand names: Atarax, Vistaril)</li>
+<li><a href="/hydroxyzine/">Hydroxyzine</a> (brand names: Atarax, Vistaril)</li>
 <li><a href="/ketotifen/">Ketotifen</a> (brand name: Zaditor)</li>
 <li><a href="/levocetirizine/">Levocetirizine</a> (brand name: Xyzal)</li>
 <li><a href="/loratadine/">Loratadine</a> (brand name: Claritin)</li>
 <li><a href="/olopatadine/">Olopatadine</a> (brand names: Patanase, Pataday, Pazeo)</li>
 <li><a href="/promethazine/">Promethazine</a> (brand name: Phenergan)</li>
 <li><a href="/prednisone/">Prednisone</a> (brand name: Rayos)</li>
-<li><a href="/ranitidine">Ranitidine</a> (brand name: Zantac)</li>
+<li><a href="/ranitidine/">Ranitidine</a> (brand name: Zantac)</li>
 </ul>
-<h3 id="antifungal-medications"><a href="antifungal-medications">Antifungal medications</a></h3>
+<h3 id="antifungal-medications"><a href="/antifungal-medications/">Antifungal medications</a></h3>
 <ul>
 <li><a href="/methylene-blue/">Methylene blue</a></li>
 </ul>
-<h3 id="anti-ige-therapy"><a href="/anti-ige-therapy">Anti-IgE therapy</a></h3>
+<h3 id="anti-ige-therapy"><a href="/anti-ige-therapy/">Anti-IgE therapy</a></h3>
 <ul>
-<li><a href="/omalizumab">Omalizumab</a> (brand name: ??)</li>
+<li><a href="/omalizumab/">Omalizumab</a> (brand name: ??)</li>
 </ul>
 <h3 id="asthma-medications"><a href="/asthma-medications/">Asthma medications</a></h3>
 <ul>
@@ -505,12 +505,12 @@
 <li><a href="/colloidal-silver/">Colloidal silver</a></li>
 <li><a href="/monolaurin/">Monolaurin</a></li>
 </ul>
-<h3 id="biotoxin-treatments"><a href="biotoxin-treatments">Biotoxin treatments</a></h3>
+<h3 id="biotoxin-treatments"><a href="/biotoxin-treatments/">Biotoxin treatments</a></h3>
 <ul>
 <li><a href="/shoemaker-biotoxin-illness-protocol/">Shoemaker Biotoxin Illness Protocol</a></li>
 <li><a href="/vasoactive-intestinal-peptide/">Vasoactive Intestinal Peptide (VIP)</a></li>
 </ul>
-<h3 id="body-protection-compound-157-bpc-157"><a href="/body-protection-compound-157">Body Protection Compound 157 (BPC-157)</a></h3>
+<h3 id="body-protection-compound-157-bpc-157"><a href="/body-protection-compound-157/">Body Protection Compound 157 (BPC-157)</a></h3>
 <h3 id="bronchodilators"><a href="/bronchodilators/">Bronchodilators</a></h3>
 <h3 id="corticosteroids"><a href="/corticosteroids/">Corticosteroids</a></h3>
 <ul>
@@ -524,7 +524,7 @@
 <h3 id="immunotherapy"><a href="/immunotherapy/">Immunotherapy</a></h3>
 <h3 id="leukotriene-inhibitors"><a href="/leukotriene-inhibitors/">Leukotriene inhibitors</a></h3>
 <ul>
-<li><a href="/montelukast">Montelukast</a> (brand name: Singulair)</li>
+<li><a href="/montelukast/">Montelukast</a> (brand name: Singulair)</li>
 </ul>
 <h3 id="levetiracetam"><a href="/levetiracetam/">Levetiracetam</a></h3>
 <h3 id="mast-cell-genetics"><a href="/mast-cell-genetics/">Mast cell genetics</a></h3>
@@ -559,7 +559,7 @@
 <li><a href="/red-blood-cell/">Red blood cell (RBC)</a></li>
 <li><a href="/platelet/">Platelet</a></li>
 </ul>
-<h3 id="histone-acetylation"><a href="/histone-acetylation">Histone acetylation</a></h3>
+<h3 id="histone-acetylation"><a href="/histone-acetylation/">Histone acetylation</a></h3>
 <h3 id="lymphatic-system"><a href="/lymphatic-system/">Lymphatic system</a></h3>
 <ul>
 <li><a href="/lymph/">Lymph</a></li>
@@ -587,16 +587,16 @@
 <li><a href="/toxic-by-neil-nathan/">Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness - By Neil Nathan</a></li>
 <li><a href="/the-trifecta-passport-by-amber-walker/">The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome – By Amber Walker</a></li>
 </ul>
-<h3 id="quotations"><a href="/quotations">Quotations</a></h3>
+<h3 id="quotations"><a href="/quotations/">Quotations</a></h3>
 <ul>
 <li><a href="/people-explain-mast-cell-illness/">People explain mast cell illness</a></li>
 <li><a href="/hurting/">Hurting</a></li>
 <li><a href="/doctor-quotations/">Doctor quotations</a></li>
 <li><a href="/doctor-predictions/">Doctor predictions</a></li>
-<li><a href="/who-knows-better">Who knows better?</a></li>
+<li><a href="/who-knows-better/">Who knows better?</a></li>
 <li><a href="/mast-cell-activation-syndrome-misdiagnosis/">Mast cell activation syndrome - misdiagnosis</a></li>
 </ul>
-<h3 id="shop"><a href="/shop">Shop</a></h3>
+<h3 id="shop"><a href="/shop">Shop</a>/</h3>
 <ul>
 <li><a href="/shop-for-food-and-drinks/">Shop for food &amp; drinks</a></li>
 <li><a href="/shop-for-nutrition-shakes/">Shop for nutrition shakes</a></li>
@@ -614,14 +614,14 @@
 <ul>
 <li><a href="../topics/national-institute-for-health-and-care-excellence/">National Institute for Health and Care Excellence (NICE)</a></li>
 </ul>
-<h3 id="comments"><a href="/comments">Comments</a></h3>
+<h3 id="comments"><a href="/comments/">Comments</a></h3>
 <ul>
 <li><a href="/soliman-auricular-allergy-treatment-comments/">Soliman Auricular Allergy Treatment (SAAT) - Comments</a></li>
 <li><a href="/functional-medicine-provider-rubric/">Functional medicine provider rubric</a></li>
 <li><a href="/water-treatment-home-tips/">Water treatment home tips</a></li>
 <li><a href="/traditional-mix-up/">Traditional mix-up</a></li>
 <li><a href="/cosmetic-chemist-tips/">Cosmetic chemist tips</a></li>
-<li><a href="/stomach-acid-antihistamines-proton-pump-inhibitors">Stomach acid + antihistamines + proton pump inhibitors</a></li>
+<li><a href="/stomach-acid-antihistamines-proton-pump-inhibitors/">Stomach acid + antihistamines + proton pump inhibitors</a></li>
 <li><a href="/accelerator-free-protective-gloves/">Accelerator-free protective gloves</a></li>
 </ul>
 <h3 id="glossary"><a href="/glossary/">Glossary</a></h3>

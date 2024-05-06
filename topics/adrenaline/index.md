@@ -1,10 +1,10 @@
 # Adrenaline
 
-Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that plays a crucial role in the body's "fight or flight" response to stress or danger. It is produced by the adrenal glands, which are located on top of each kidney. Adrenaline acts on various target tissues and organs to prepare the body to respond to a perceived threat or stressor.
+Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that plays a crucial role in the body's "fight or flight" response to stress or danger. Adrenaline is produced by the adrenal glands on top of each kidney. 
 
 **Key points**:
 
-* **Increased Blood Flow**: Adrenaline stimulates the heart, and also causes blood vessels to constrict in certain areas, to help blood flow to vital organs and muscles.
+* **Increased Blood Flow**: Adrenaline stimulates the heart and also causes blood vessels to constrict in certain areas, to help blood flow.
 
 * **Dilation of Airways**: Adrenaline causes the bronchi (airways) in the lungs to dilate, allowing for increased airflow.
 
@@ -18,4 +18,4 @@ Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that pl
 
 * **Stimulation of Lipolysis**: Adrenaline promotes the breakdown of fat stores (lipolysis) to release fatty acids into the bloodstream, for additional energy.
 
-* **Emergency medication**: In emergency situations, synthetic forms of adrenaline (epinephrine) are sometimes administered as a medication, particularly in cases of severe allergic reactions, anaphylaxis, cardiac arrest, or acute asthma attacks.
+* **Emergency medication**: Adrenaline is sometimes administered as a medication for severe allergic reactions, anaphylaxis, cardiac arrest, or acute asthma attacks.

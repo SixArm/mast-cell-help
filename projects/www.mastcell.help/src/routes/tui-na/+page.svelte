@@ -5,7 +5,7 @@
 <div class="prose">
 
 <h1 id="tui-na">Tui Na</h1>
-<p>Tui Na (pronounced “twee nah”) is a form of traditional Chinese manual therapy that dates back thousands of years. It is often used in conjunction with acupuncture, herbal medicine, and other modalities as part of <a href="/traditional-chinese-medicine/">traditional Chinese medicine (TCM)</a>. Tui Na involves various hands-on techniques, including massage, manipulation, and acupressure, to stimulate the flow of qi (vital energy) within the body and promote healing.</p>
+<p>Tui Na (pronounced “twee nah”) is a <a href="/traditional-chinese-medicine/">Traditional Chinese Medicine (TCM)</a> practice. Tui Na involves various hands-on techniques, including massage, manipulation, and acupressure, to stimulate the flow of qi (vital energy) within the body and promote healing. It is often used in conjunction with <a href="/acupuncture/">acupuncture</a>, <a href="/cupping/">cupping</a>, herbal medicine, and other traditional modalities.</p>
 <p><strong>Key points</strong>:</p>
 <ul>
 <li><p><strong>Principles</strong>: Tui Na is based on the principles of traditional Chinese medicine, which views health as a state of balance and harmony between the body’s internal organs, meridians (energy channels), and qi (vital energy). Tui Na techniques are designed to remove obstructions, regulate qi circulation, and restore balance to the body’s energetic systems.</p></li>

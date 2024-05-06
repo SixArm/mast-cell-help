@@ -5,6 +5,7 @@
 <div class="prose">
 
 <h1 id="gupta-program-brain-retraining">Gupta Program Brain Retraining™</h1>
+<p><a href="https://guptaprogram.com">Gupta Program website</a> excerpts…</p>
 <p>Gupta Program Brain Retraining refers to a program designed to address symptoms related to conditions often characterized by persistent fatigue and other associated symptoms. The program is developed by Ashok Gupta, a medical researcher.</p>
 <p>The Gupta Program incorporates elements of neuroplasticity and mind-body techniques to address the impact of chronic stress on the brain and the body. It is based on the hypothesis that conditions like chronic fatigue syndrome (CFS) and myalgic encephalomyelitis (ME) are associated with a dysfunctional stress response and an overactive amygdala, a part of the limbic system that is involved in processing emotions.</p>
 <p><strong>Key points</strong>:</p>

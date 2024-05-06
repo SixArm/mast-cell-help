@@ -549,7 +549,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Anti-IgE therapy](topics/anti-ige-therapy/)
 
-* [Omalizumab](topics/omalizumab/) (brand name: ??)
+* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
 
 ### [Asthma medications](topics/asthma-medications/)
 
@@ -704,8 +704,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Water treatment home tips](topics/water-treatment-home-tips/)
 * [Traditional mix-up](topics/traditional-mix-up/)
 * [Cosmetic chemist tips](topics/cosmetic-chemist-tips/)
+* [Essential oil caution](topics/essential-oil-caution/)
 * [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors/)
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
+* [Data protection](topics/data-protection/)
 
 ### [Glossary](topics/glossary/)
 

@@ -4,7 +4,7 @@
 
 [The Ehlers-Danlos Society](https://www.youtube.com/@TheEhlersDanlosSociety)
 
-Kate Robinson joins us at the 2022 EDS ECHO Summit Series: Allergy & Immunology Complications to share her experience of living with hypermobile Ehlers-Danlos syndrome (hEDS), mast cell activation syndrome (MCAS), and following a low histamine diet.
+Kate Robinson joins us at the 2022 EDS ECHO Summit Series: Allergy & Immunology Complications to share her experience of living with hypermobile Ehlers-Danlos syndrome (hEDS), Mast Cell Activation Syndrome (MCAS), and following a low histamine diet.
 
 Kate manages a low histamine cooking blog and private forum for others with Ehlers-Danlos syndromes (EDS), postural orthostatic tachycardia syndrome (POTS), and MCAS.
 

@@ -6,7 +6,7 @@ By Amber Walker
 
 [Amazon](https://www.amazon.com/Trifecta-Passport-Orthostatic-Tachycardia-Ehlers-Danlos-ebook/dp/B08TV8PTBP)
 
-The “trifecta” refers to three conditions that commonly occur together: mast cell activation syndrome (MCAS), postural orthostatic tachycardia syndrome (POTS) and the hypermobile type of Ehlers-Danlos syndrome (hEDS).
+The “trifecta” refers to three conditions that commonly occur together: Mast Cell Activation Syndrome (MCAS), postural orthostatic tachycardia syndrome (POTS) and the hypermobile type of Ehlers-Danlos syndrome (hEDS).
 
 These three conditions are gradually becoming more recognized in the mainstream medical world as more and more patients find themselves struggling with debilitating and often mysterious symptoms. However, recognizing these conditions is only the first step on the healing journey. With the right approach and toolbox, patients can reverse many of these symptoms to find lasting vitality.
 

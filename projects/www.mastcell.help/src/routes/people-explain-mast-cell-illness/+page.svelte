@@ -12,7 +12,7 @@
 <p>“Imagine having allergic type reactions to things you’re not technically allergic to. And it can hit you at any time without warning.”</p>
 <p>“Sometimes I just pick my most severe issue at the moment and use it as an example. For instance, I have five foods I can eat every day that are safe for me.”</p>
 <p>“My immune and nervous system are on hyper alert and react dramatically to everyday things.”</p>
-<p>“All systems are malfunctioning. 😂”</p>
+<p>“All systems are malfunctioning.”</p>
 <p>“Mast cells are immune cells that explode like bombs releasing inflammatory compounds protecting our bodies from invaders like bacteria and viruses.”</p>
 <p>“Every body is filled with mast cells. For many people, they are normal. For me, they are raging world war 3.”</p>
 <p>“I carry epi pens and such because I never know when something will set me off, and while I do my best to avoid things that trigger me, sometimes it is something I didn’t know would trigger me.”</p>

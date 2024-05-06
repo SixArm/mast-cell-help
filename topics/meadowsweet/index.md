@@ -1,10 +1,10 @@
 # Meadowsweet
 
-Meadowsweet (Filipendula ulmaria) is a flowering plant in the Rosaceae family. It's also known as queen of the meadow, mead wort, and meadow queen. Meadowsweet has been used for centuries in traditional medicine for its anti-inflammatory, analgesic (pain-relieving), and antacid properties. It contains many compounds thought to have anti-inflammatory effects in your body, including salicylates and tannins.
+Meadowsweet (Filipendula ulmaria) is a flowering plant in the Rosaceae family. It's also known as queen of the meadow, mead wort, and meadow queen. Meadowsweet has been used for centuries for its anti-inflammatory, analgesic (pain-relieving), and antacid properties.
 
 **Traditional Uses**:
 
-* **Inflammatory uses**: Meadowsweet treats fever, colds, headaches, and symptoms involving inflammations such as arthritis, and rheumatism.
+* **Inflammatory uses**: Meadowsweet treats fever, colds, headaches, and inflammations such as arthritis and rheumatism.
 
 * **Digestive uses**: Meadowsweet is sometimes used to soothe digestive issues, such as acid reflux, indigestion, and gastritis. It is believed to have a protective effect on the stomach lining.
 
@@ -14,4 +14,4 @@ Meadowsweet (Filipendula ulmaria) is a flowering plant in the Rosaceae family. I
 
 * **Preparation**: Meadowsweet tea can be made by steeping the dried flowers or leaves. Meadowsweet tincture can be made using alcohol or glycerin as a solvent. Meadowsweet extracts are available in capsule or tablet form for convenient dosing.
 
-* **Precautions**: Meadowsweet cause allergic reactions in some individuals, particularly those allergic to aspirin or other salicylate-containing medications. Due to its salicylate content, meadowsweet should be used with caution by individuals with bleeding disorders, stomach ulcers, or those taking blood-thinning medications.
+* **Precautions**: Due to its salicylate content, meadowsweet can cause allergic reactions. Meadowsweet should be used with caution by individuals with bleeding disorders, stomach ulcers, or those taking blood-thinning medications.

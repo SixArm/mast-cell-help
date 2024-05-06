@@ -12,7 +12,7 @@ If you think you have enough stomach acid, and also you're having symptoms, then
 
 Some doctors and some people (including me) believe that stomach acid reducers are vastly overused, because the doctors believe many peoples' symptoms are caused by low stomach acid, not high stomach acid. This is why it's so important for gastointestinal patients to get a stomach acid test. The person needs to find out if the stomach acid is too low, or too high, or normal. If stomach acid is too low, then discontinue stomach acid reducers.
 
-However, with histamine-related disorders, such as serious allergies, histamine intolerance (HI), mast cell disorders (MCDs) in general, and mast cell activation syndrome (MCAS) specifically, there's a given that histamine is much too high and causing symptoms and reactions.
+However, with histamine-related disorders, such as serious allergies, histamine intolerance (HI), mast cell disorders (MCDs) in general, and Mast Cell Activation Syndrome (MCAS) specifically, there's a given that histamine is much too high and causing symptoms and reactions.
 
 The high histamine makes it a good guess that stomach acid is too high due to high histamine hitting the stomach H2 receptors. So people try H2-blockers, and feel relief. This is known as test-of-treatment i.e. try a medication, and if it works, then that helps confirm the diagnosis.
 

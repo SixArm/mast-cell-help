@@ -9,7 +9,7 @@
 <p>PMDd, chronic fatigue syndrome, blood clotting disorder, anxiety disorder just to name a Few</p>
 <p>Hypochondriac, Anxiety, Panic Disorder, a liar seeking attention, PMDD.</p>
 <p>They tried to say everything was in my head and I have anxiety. Same with my vascular eagles syndrome. I proved them wrong in time.</p>
-<p>I’ve had a lot of diagnosis in my life. Anxiety, IBS, IC etc. those diagnosis appear correct but maybe MCAS a syndrome of many issues. No one even doctors seem to know 😥</p>
+<p>I’ve had a lot of diagnosis in my life. Anxiety, IBS, IC etc. Those diagnosis appear correct but maybe MCAS a syndrome of many issues.</p>
 <p>I think most people who have pursued a suspected MCAS diagnosis have been improperly diagnosed and treated at some point.</p>
 <p>I was told I had food allergies until I was basically in anaphylaxis for like 2 weeks straight. The allergist I went too knew right away and confirmed with blood and urine tests.</p>
 <p>Misdiagnosed with Fibromyalgia and given nerve blockers which sent me into anaphylactic shock.</p>

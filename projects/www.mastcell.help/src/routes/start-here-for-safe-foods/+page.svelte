@@ -5,15 +5,15 @@
 <div class="prose">
 
 <h1 id="start-here-for-safe-foods">Start here for safe foods</h1>
-<p>“Safe foods” is the nickname for foods that someone can eat that don’t cause symptoms. Safe foods can be different for each person, and can change over time.</p>
+<p>“Safe foods” is the nickname for foods that you can eat without symptoms. Safe foods can be different per person, and can change over time.</p>
 <p><strong>Try these first</strong>:</p>
 <ul>
 <li><p><strong>Arborio rice.</strong> Lowest oxalate, lowest salicylate.</p></li>
 <li><p><strong>White potatoes.</strong> Peeled and boiled. Lowest oxalate, lowest salicylate.</p></li>
 <li><p><strong>Golden Delicious Apples.</strong> Wash thoroughly or peel.</p></li>
 <li><p><strong>Egg yolks.</strong> Ideally free-range. Egg whites may cause reactions.</p></li>
-<li><p><strong>Chicken.</strong> Skinned and boiled. Ideally free-range. Ideally fresh or flash-frozen.</p></li>
-<li><p><strong>Cod.</strong> Ideally wild-caught, and fresh or flash-frozen.</p></li>
+<li><p><strong>Chicken.</strong> Skinned and boiled. Free-range. Fresh or flash-frozen.</p></li>
+<li><p><strong>Cod.</strong> Wild-caught. Fresh or flash-frozen.</p></li>
 <li><p><strong>Cucumbers.</strong></p></li>
 <li><p><strong>Popcorn.</strong> Ideally air pop. No microwave bags.</p></li>
 <li><p><strong>Coconut water.</strong> Ideally without pulp.</p></li>

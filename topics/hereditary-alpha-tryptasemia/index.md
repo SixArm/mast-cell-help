@@ -14,6 +14,6 @@ Hereditary Alpha-Tryptasemia (HαT) is a genetic condition characterized by elev
 
 * **Management**: For individuals with HαT who are experiencing symptoms, management may involve addressing specific symptoms or underlying conditions.
 
-* **Association with Other Conditions**: HαT has been associated with an increased risk of mast cell activation syndrome (MCAS).
+* **Association with Other Conditions**: HαT has been associated with an increased risk of Mast Cell Activation Syndrome (MCAS).
 
 * **Genetic Testing**: Genetic testing for HαT typically involves analyzing the number of TPSAB1 gene copies to confirm the diagnosis.

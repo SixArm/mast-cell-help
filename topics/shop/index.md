@@ -1,6 +1,6 @@
 # Shop
 
-Shopping for mast cell activation syndrome (MCAS), allergies, and histamine intolerance involves selecting products that are low in triggers that may exacerbate symptoms. Keeping a trigger diary may be helpful.
+Shopping for Mast Cell Activation Syndrome (MCAS), allergies, and histamine intolerance involves selecting products that are low in triggers that may exacerbate symptoms. Keeping a trigger diary may be helpful.
 
 **Tips**:
 

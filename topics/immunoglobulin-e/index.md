@@ -5,7 +5,7 @@ Immunoglobulin E (IgE) is a type of antibody that plays a crucial role in the im
 **Key points**:
 
 * **Allergic Response**: IgE antibodies are primarily involved in allergic reactions. When a person with allergies is exposed to an allergen (such as pollen, pet dander, or certain foods), their immune system may produce IgE antibodies specific to that allergen.
-*
+
 * **Release of Histamine**: When the allergen is encountered again, it binds to the IgE antibodies on the surface of mast cells and basophils, triggering the release of inflammatory substances such as histamine. This leads to the characteristic symptoms of an allergic reaction.
 
 * **Defense Against Parasites**: In addition to its role in allergic reactions, IgE also plays a role in defending against certain parasitic infections, such as helminths (worms). IgE antibodies can bind to parasites and activate immune responses that help to expel or destroy the parasites.

@@ -5,6 +5,7 @@
 <div class="prose">
 
 <h1 id="dynamic-neural-retraining-system-dnrs">Dynamic Neural Retraining System™ (DNRS)</h1>
+<p><a href="https://retrainingthebrain.com">Retraining The Brain website</a> excerpts…</p>
 <p>Dynamic Neural Retraining System (DNRS) is a neuroplasticity-based therapy program designed to help individuals who suffer from various chronic illnesses and conditions that are believed to be related to limbic system dysfunction.</p>
 <p>The program is based on the concept of neuroplasticity, which is the brain’s ability to rewire itself in response to learning and experience. The scientific evidence supporting DNRS is limited, and more research is needed to validate its effectiveness.</p>
 <p><strong>Key points</strong>:</p>

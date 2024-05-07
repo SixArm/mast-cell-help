@@ -41,6 +41,5 @@ Other mast cell stabilizers include
 [quercetin](../quercetin/),
 [cromolyn sodium](../cromolyn-sodium/),
 [omalizumab](../omalizumab/), 
-[zadiator](../zadiator),
-[hydroxycholroquine](../hydroxycholroquine/), 
-[medical marijuana](../medical-marajuana/).
+[hydroxychloroquine](../hydroxychloroquine/),
+[medical marijuana](../medical-marijuana/).

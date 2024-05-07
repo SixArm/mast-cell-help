@@ -13,7 +13,7 @@
 <li><p><strong>Symptoms</strong>: Unexplained fatigue, generalized pain, skin flushing, and gastrointestinal symptoms. These symptoms can be non-specific and may overlap with other medical conditions.</p></li>
 <li><p><strong>Diagnosis</strong>: HαT is typically diagnosed through blood tests that measure alpha-tryptase levels. A diagnosis of HαT is made when an individual has elevated baseline alpha-tryptase levels on multiple occasions.</p></li>
 <li><p><strong>Management</strong>: For individuals with HαT who are experiencing symptoms, management may involve addressing specific symptoms or underlying conditions.</p></li>
-<li><p><strong>Association with Other Conditions</strong>: HαT has been associated with an increased risk of mast cell activation syndrome (MCAS).</p></li>
+<li><p><strong>Association with Other Conditions</strong>: HαT has been associated with an increased risk of Mast Cell Activation Syndrome (MCAS).</p></li>
 <li><p><strong>Genetic Testing</strong>: Genetic testing for HαT typically involves analyzing the number of TPSAB1 gene copies to confirm the diagnosis.</p></li>
 </ul>
 

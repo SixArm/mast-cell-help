@@ -5,7 +5,7 @@
 <div class="prose">
 
 <h1 id="shop-for-electrolytes">Shop for electrolytes</h1>
-<p>Electrolytes recommended by mast cell people. Try to read ingredients lists carefully, because you may want specific levels of specific electrolytes; also, you may want to avoid citric acid, artificial colors or flavors, or other additives.</p>
+<p>Electrolytes recommended by mast cell people. Read ingredients lists because you may want specific levels of specific electrolytes, and may want to avoid citric acid or other additives.</p>
 <ul>
 <li><p><a href="https://www.trioralors.com/">Trioral - Oral Rehydration Salts - World Health Organization formula</a></p></li>
 <li><p><a href="https://aletenutrition.com/products/saltstick-vitassium-1">SaltStick - Vitassium Capsules</a></p></li>

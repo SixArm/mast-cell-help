@@ -13,7 +13,7 @@
 <li><p><strong>Diamine Oxidase (DAO) Supplements</strong>: DAO is the enzyme responsible for breaking down histamine in the digestive tract.</p></li>
 <li><p><strong>Probiotics</strong>: Probiotic supplements or foods rich in probiotics may be beneficial to maintain a healthy gut.</p></li>
 <li><p><strong>Address Gut Issues</strong>: Treat conditions like small intestinal bacterial overgrowth (SIBO) or leaky gut syndrome.</p></li>
-<li><p><strong>Antihistamine Medications</strong>: Use <a href="/anthistamines/">antihistamines</a> such as cetirizine (H1 blocker/) or ranitidine (H2 blocker).</p></li>
+<li><p><strong>Antihistamine Medications</strong>: Use <a href="/antihistamines/">antihistamines</a> such as cetirizine (H1 blocker/) or ranitidine (H2 blocker).</p></li>
 <li><p><strong>Avoid Alcohol</strong>: Limit alcohol because it can interfere with histamine metabolism and contribute to symptom exacerbation.</p></li>
 <li><p><strong>Avoid Trigger Medications</strong>: Certain medications, such as <a href="/nonsteroidal-anti-inflammatory-drugs/">nonsteroidal anti-inflammatory drugs (NSAIDs)</a> and some prescription medications, can contribute to histamine release.</p></li>
 <li><p><strong>Reduce Stress</strong>: Stress can trigger or exacerbate symptoms. Try meditation, deep breathing, yoga, and relaxation exercises.</p></li>

@@ -38,8 +38,7 @@ problem.</p>
 <a href="/quercetin/">quercetin</a>,
 <a href="/cromolyn-sodium/">cromolyn sodium</a>,
 <a href="/omalizumab/">omalizumab</a>,
-<a href="/zadiator">zadiator</a>,
-<a href="/hydroxycholroquine/">hydroxycholroquine</a>,
-<a href="/medical-marajuana/">medical marijuana</a>.</p>
+<a href="/hydroxychloroquine/">hydroxychloroquine</a>,
+<a href="/medical-marijuana/">medical marijuana</a>.</p>
 
 </div>

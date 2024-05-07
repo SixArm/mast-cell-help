@@ -4,7 +4,7 @@ The word "traditional" in medicine has a mix-up because it has two opposite mean
 
 The word "traditional" can mean traditional indigenous treatments throughout history:
 
-* Traditional Chinese practices can use medicine such as [acupuncture](../acupunture/) and derivatives such as [Soliman Auricular Allergy Treatment](../soliman-auricular-allergy-treatment/).
+* Traditional Chinese practices can use medicine such as [acupuncture](../acupuncture/) and derivatives such as [Soliman Auricular Allergy Treatment](../soliman-auricular-allergy-treatment/).
 
 * Traditional Egyptian practices can use herbs such as [khellin](../khellin/) and derivatives such as [cromolyn sodium](../cromolyn-sodium/).
 

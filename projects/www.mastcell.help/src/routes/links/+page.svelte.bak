@@ -11,7 +11,7 @@
 </ul>
 <p>Medical journal articles that are summarizing:</p>
 <ul>
-<li><a href="https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html">Diagnosis of mast cell activation syndrome: a global “consensus-2”</a></li>
+<li><a href="https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html">Diagnosis of Mast Cell Activation Syndrome: a global “consensus-2”</a></li>
 </ul>
 <p>Medical journal articles that are innovating:</p>
 <ul>

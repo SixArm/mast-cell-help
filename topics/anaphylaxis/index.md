@@ -13,6 +13,6 @@ Anaphylaxis can lead to a sudden drop in blood pressure and airway constriction,
 
 * **Protracted anaphylaxis**: This means a persistent anaphylactic reaction that lasts hours to days without clearly resolving.
   
-* **Anaphylaxis-like a.k.a. anaphylactoid reaction**: This means a reaction that is much like anaphylaxis, except without any identifiable allergen. See [anaphylaxis and anaphylactoid](../anaphylaxis-and-anaphlactoid/). Anaphylactoid reactions can be mild, moderate, or severe i..e. life-threatening. Anaphylactoid shock must be treated immediately in the same way as anaphylactic shock. Biphasic anaphylactoid shock can happen. Protraced anaphylactoid reactions can happen.
+* **Anaphylaxis-like a.k.a. anaphylactoid reaction**: This means a reaction that is much like anaphylaxis, except without any identifiable allergen. See [anaphylactic versus anaphylactoid](../anaphylactic-versus-anaphylactoid/). Anaphylactoid reactions can be mild, moderate, or severe i..e. life-threatening. Anaphylactoid shock must be treated immediately in the same way as anaphylactic shock. Biphasic anaphylactoid shock can happen. Protraced anaphylactoid reactions can happen.
 
 * **Idiopathic anaphylaxis**: This is medical diagnosis when no specific trigger can be identified after an appropriate evaluation and when other conditions have been ruled out.

@@ -18,13 +18,15 @@ Shopping for Mast Cell Activation Syndrome (MCAS), allergies, and histamine into
 
 **Categories**:
 
-* [Shop for food & drinks](topics/shop-for-food-and-drinks/)
-* [Shop for protein powder](topics/shop-for-protein-powder/)
-* [Shop for snacks](topics/shop-for-snacks/)
-* [Shop for electrolytes](topics/shop-for-electrolytes/)
-* [Shop for shampoo](topics/shop-for-shampoo/)
-* [Shop for deodorant](topics/shop-for-deodorant/)
-* [Shop for skincare](topics/shop-for-skincare/)
-* [Shop for personal care products](topics/shop-for-personal-care-products/)
-* [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
-* [Shop for cleaners](topics/shop-for-cleaners/)
+* [Shop for food & drinks](../shop-for-food-and-drinks/)
+* [Shop for nutrition shakes](../shop-for-nutrition-shakes/)
+* [Shop for protein powder](../shop-for-protein-powder/)
+* [Shop for snacks](../shop-for-snacks/)
+* [Shop for electrolytes](../shop-for-electrolytes/)
+* [Shop for shampoo](../shop-for-shampoo/)
+* [Shop for deodorant](../shop-for-deodorant/)
+* [Shop for skincare](../shop-for-skincare/)
+* [Shop for personal care products](../shop-for-personal-care-products/)
+* [Shop for laundry detergent](../shop-for-laundry-detergent/)
+* [Shop for cleaners](../shop-for-cleaners/)
+  

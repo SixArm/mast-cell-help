@@ -1,12 +1,9 @@
 # Shop for deodorant
 
 Deodorant suggestions from people with mast cell issues.
-
 Look for fragrance-free and aluminum-free because these is less likely to cause problems.
-
 Consider generic alternatives such as salt crystal deodorant, mineral salts, magnesium spray, or shea butter.
-
-Be aware that some unscented deodorants have ingredients to kill scents, and these ingredients can trigger sensitivities.
+Some unscented deodorants have ingredients to kill scents, and these ingredients can trigger sensitivities.
 
 * [Native - Sensitive Deodorant - Unscented](https://www.nativecos.com/products/deo-sensitive-unscented)
 

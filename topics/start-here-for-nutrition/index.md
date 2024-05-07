@@ -6,15 +6,15 @@
 [intermittent fasting (IF)](../intermittent-fasting/).
 
 **Lower exposures**:
-[low-histamine diet](topics/low-histamine-diet/),
-[low-allergen diet](topics/low-allergen-diet/),
-[low-amine diet](topics/low-amine-diet/),
-[low-amylose diet](topics/low-amylose-diet/),
-[Low-oxalate diet](topics/low-oxalate-diet/),
-[low-lectin diet](topics/low-lectin-diet/),
-[low-salicylate diet](topics/low-salicylate-diet/),
-[low-sodium diet](topics/low-sodium-diet/),
-[low-FODMAP diet](topics/low-fodmap-diet/).
+[low-histamine diet](../low-histamine-diet/),
+[low-allergen diet](../low-allergen-diet/),
+[low-amine diet](../low-amine-diet/),
+[low-amylose diet](../low-amylose-diet/),
+[Low-oxalate diet](../low-oxalate-diet/),
+[low-lectin diet](../low-lectin-diet/),
+[low-salicylate diet](../low-salicylate-diet/),
+[low-sodium diet](../low-sodium-diet/),
+[low-FODMAP diet](../low-fodmap-diet/).
 
 **Boost your health**:
 [dietary supplements](../dietary-supplements/),
@@ -28,7 +28,7 @@
 [quercetin](../quercetin/),
 [glutathione](../glutathione/),
 [diamine oxidase (DAO)](../diamine-oxidase/),
-[vitamin C low-histamine forms](../vitamin-c-low-histamine-forms/),
+[vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/),
 [omega-3](../omega-3/),
 [turmeric](../turmeric/),
 [calcium](../calcium/),
@@ -51,7 +51,7 @@
 [ginseng](../ginseng/),
 [garlic](../garlic/),
 [holy basil](../holy-basil/),
-[pinella](topics/pinella/),
-[kellin](topics/khellin/),
-[nigella sativa (black seed)](topics/nigella-sativa/),
-[scutellaria (skullcap)](topics/scutellaria/).
+[pinella](../pinella/),
+[kellin](../khellin/),
+[nigella sativa (black seed)](../nigella-sativa/),
+[scutellaria (skullcap)](../scutellaria/).

@@ -2,39 +2,39 @@
 
 Supplements for typical mornings:
 
-* [ ] [Multivitamin](topics/multivitamin/)
+* [ ] [Multivitamin](../multivitamin/)
 
-* [ ] [Vitamin C - low-histamine forms](vitamin-c-low-histamine-forms)
+* [ ] [Vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/)
 
-* [ ] [Quercetin](topics/quercetin/)
+* [ ] [Quercetin](../quercetin/)
 
-* [ ] [Glutathione](topics/glutathione/)
+* [ ] [Glutathione](../glutathione/)
 
-* [ ] [Diamine oxidase](topics/diamine-oxidase-supplements/)
+* [ ] [Diamine oxidase](../diamine-oxidase-supplements/)
 
-* [ ] [Omega-3](topics/omega-3/)
+* [ ] [Omega-3](../omega-3/)
 
-* [ ] [Turmeric](topics/turmeric/)
+* [ ] [Turmeric](../turmeric/)
 
-* [ ] [B vitamins](topics/vitamin-b-complex/)
+* [ ] [Vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/)
 
-* [ ] [Calcium](topics/calcium/)
+* [ ] [Calcium](../calcium/)
 
-* [ ] [Calcium D-glucarate](topics/calcium-d-glucarate/)
+* [ ] [Calcium D-glucarate](../calcium-d-glucarate/)
 
-* [ ] [Copper](topics/copper/)
+* [ ] [Copper](../copper/)
 
-* [ ] [Zinc](topics/zinc/)
+* [ ] [Zinc](../zinc/)
 
-* [ ] [N-acetyl cysteine (NAC)](topics/n-acetyl-cysteine/)
+* [ ] [N-acetyl cysteine (NAC)](../n-acetyl-cysteine/)
 
-* [ ] [Electrolytes](topics/electrolytes/)
+* [ ] [Electrolytes](../electrolytes/)
 
-* [ ] [Butterbur](topics/butterbur/)
+* [ ] [Butterbur](../butterbur/)
 
-* [ ] [Stinging nettle](topics/stinging-nettle/)
+* [ ] [Stinging nettle](../stinging-nettle/)
 
-* [ ] [Antimicrobial herbs](topics/antimicrobial-herbs/)
+* [ ] [Antimicrobial herbs](../antimicrobial-herbs/)
 
 Research:
 

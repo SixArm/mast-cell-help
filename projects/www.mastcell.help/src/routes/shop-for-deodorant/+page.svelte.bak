@@ -5,10 +5,10 @@
 <div class="prose">
 
 <h1 id="shop-for-deodorant">Shop for deodorant</h1>
-<p>Deodorant suggestions from people with mast cell issues.</p>
-<p>Look for fragrance-free and aluminum-free because these is less likely to cause problems.</p>
-<p>Consider generic alternatives such as salt crystal deodorant, mineral salts, magnesium spray, or shea butter.</p>
-<p>Be aware that some unscented deodorants have ingredients to kill scents, and these ingredients can trigger sensitivities.</p>
+<p>Deodorant suggestions from people with mast cell issues.
+Look for fragrance-free and aluminum-free because these is less likely to cause problems.
+Consider generic alternatives such as salt crystal deodorant, mineral salts, magnesium spray, or shea butter.
+Some unscented deodorants have ingredients to kill scents, and these ingredients can trigger sensitivities.</p>
 <ul>
 <li><p><a href="https://www.nativecos.com/products/deo-sensitive-unscented">Native - Sensitive Deodorant - Unscented</a></p></li>
 <li><p><a href="https://hellohibar.com/products/fragrance-free-sensitive-deodorant?">HiBAR - Sensitive Fragrance-Free Deodorant</a></p></li>

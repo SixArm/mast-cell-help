@@ -182,7 +182,7 @@
 <li>Mast Cell Biology Section, Laboratory of Allergic Diseases, NIAID, NIH, Bethesda, Maryland, USA</li>
 </ul></li>
 </ul>
-<h3 id="diagnosis-of-mast-cell-activation-syndrome-a-global-consensus-2">Diagnosis of mast cell activation syndrome: a global “consensus-2”</h3>
+<h3 id="diagnosis-of-mast-cell-activation-syndrome-a-global-consensus-2">Diagnosis of Mast Cell Activation Syndrome: a global “consensus-2”</h3>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/32324159/" class="uri">https://pubmed.ncbi.nlm.nih.gov/32324159/</a></p>
 <ul>
 <li><p>Lawrence B. Afrin, MD</p>

@@ -4,8 +4,8 @@ Mold exposure diagnostics involve a combination of clinical assessment, medical 
 
 **Common approaches**:
 
-* **Environmental History**: Gathering information about the individual's living and working environments is essential. This involves questions about conditions that could contribute to mold growth. Tests can include [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index/) and
-[Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)
+* **Environmental History**: Gathering information about the individual's living and working environments is essential. This involves questions about conditions that could contribute to mold growth. Tests can include [Environmental Relative Moldiness Index (ERMI)](../environmental-relative-moldiness-index/) and
+[Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](../health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)
 
 * **Serum IgE Testing**: Blood tests may be performed to measure specific antibodies, such as immunoglobulin E (IgE), that the body produces in response to mold allergens.
 

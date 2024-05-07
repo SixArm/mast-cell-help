@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>Mast cell activation syndrome - misdiagnosis | mastcell.help | mastcell.help</title>
+    <title>Mast Cell Activation Syndrome - misdiagnosis | mastcell.help | mastcell.help</title>
 </svelte:head>
 
 <div class="prose">
 
-<h1 id="mast-cell-activation-syndrome---misdiagnosis">Mast cell activation syndrome - misdiagnosis</h1>
+<h1 id="mast-cell-activation-syndrome---misdiagnosis">Mast Cell Activation Syndrome - misdiagnosis</h1>
 <p>Took me 2 years of convincing people and doctors I was sick. Now I look back on my life and realize I was sick before I even paid attention. I’ve been diagnosed with so many things. But mcas was the last thing.</p>
 <p>PMDd, chronic fatigue syndrome, blood clotting disorder, anxiety disorder just to name a Few</p>
 <p>Hypochondriac, Anxiety, Panic Disorder, a liar seeking attention, PMDD.</p>
@@ -26,7 +26,6 @@ What turned the ship was when the tryptase came back high, then the HAT test, th
 <p>I’ve had so many tests, procedures, and seen so many different kinds of doctors that I lost count. I’ve had to do my own research and find a doctor to listen and actually test me for MCAS. I was diagnosed with POTS, but never thought that was really accurate because my heart rate doesn’t continue to raise when standing. It does go up, but levels out.
 I’ve been tested for seizures, Multiple sclerosis, pheochromocytoma, lupus, thyroid disease, Lyme disease, autoimmune diseases (MS included), cirrhosis, and more. I do have anxiety for sure, but now I wonder how much of the anxiety was caused by MCAS. I’ve had a
 family member call me a hypochondriac as well.</p>
-<pre><code>4h</code></pre>
 <p>Anxiety. Even now I still have Dr’s questioning it. I’ve had 7 episodes of full blown anaphylaxis in just under 2 years.</p>
 <p>For over a decade I was misdiagnosed and I was probably sick for longer than that. I finally found a doctor that knows about MCAS and how to best treat it.</p>
 <p>My current allergist is stripping me of all my MCAS meds, including Xolair. All in the name of not believing me nor my test results. I’m seeing my complex disease doctor, who is an angel and amazing, on Tuesday. I’ll see what he says and how upset he is with my damn allergist. I’m hoping he’s already spoken to another allergist to get my care transferred. I’m getting sicker the longer I’m off of Xolair and my other meds.</p>

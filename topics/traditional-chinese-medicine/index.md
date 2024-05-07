@@ -8,7 +8,7 @@ Traditional Chinese Medicine (TCM) is a comprehensive and ancient system of medi
 
 * **Cupping**: [Cupping](../cupping/) involves the use of heated glass or plastic cups placed on the skin to create suction. This is believed to improve blood circulation, relieve muscle tension, and promote healing.
 
-* **Herbal Medicine**: [Herbal medicine](../herbal-medicine) employs a wide array of plants and natural substances to create herbal remedies.
+* **Herbal Medicine**: [Herbal medicine](../herbal-medicine/) employs a wide array of plants and natural substances to create herbal remedies.
 
 * **Tui Na**: [Tui Na](../tui-na/) is a form of Chinese therapeutic massage that involves various manual techniques to stimulate acupressure points, promote energy flow, and alleviate musculoskeletal issues.
 

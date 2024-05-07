@@ -13,6 +13,6 @@ Macronutrients are required by the body in relatively large amounts, to provide 
 
 **Micronutrient types**:
 
-* **Vitamins**: Vitamins are organic compounds that support various physiological processes. They are crucial for metabolism, immune function, and other biochemical reactions. Examples: [vitamin A (retinol)](../vitamin-a/), [vitamin B-complex](../vitamin-b-complex/), and [Vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/).
+* **Vitamins**: Vitamins are organic compounds that support various physiological processes. They are crucial for metabolism, immune function, and other biochemical reactions. Examples: [vitamin A (retinol)](../vitamin-a-retinol/), [vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/), and [vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/).
 
-* **Minerals**: Minerals are inorganic elements that play roles in bone health, nerve function, fluid balance, and other physiological processes. Examples: [calcium](../calcium/), [iodine](../iodine), [potassium](../potassium/), [sodium](../sodium/), [magnesium](../magnesium/), [iron](../iron/), and [zinc](../zinc/)
+* **Minerals**: Minerals are inorganic elements that play roles in bone health, nerve function, fluid balance, and other physiological processes. Examples: [calcium](../calcium/), [iodine supplements](../iodine-supplements), [potassium supplements](../potassium-supplements/), [sodium supplements](../sodium-supplements/), [magnesium supplements](../magnesium-supplements/), [iron supplements](../iron-supplements/), and [zinc](../zinc/)

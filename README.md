@@ -62,6 +62,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Antihistamines](topics/antihistamines/)
 * [Antihistamines: types](topics/antihistamine-types/)
 * [Antihistamines and mast cell stabilizers](topics/antihistamines-and-mast-cell-stabilizers/)
+* [Nonsteroidal anti-inflammatory drugs (NSAIDs)](topics/nonsteroidal-anti-inflammatory-drugs/)
 * [Diamine oxidase](topics/diamine-oxidase/)
 * [Tryptase](topics/tryptase/)
 * [Heparin](topics/heparin/)
@@ -245,7 +246,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Vitamin B9 (folate)](topics/vitamin-b9-folate/)
 * [Vitamin B12 (cobalamin)](topics/vitamin-b12-cobalamin/)
 * [Vitamin C (ascorbic acid)](topics/vitamin-c-ascorbic-acid/)
-* [Vitamin C (ascorbic acid) low-histamine forms](topics/vitamin-c-ascorbic-acid-low-histamine-forms/)
 * [Vitamin D (calciferol)](topics/vitamin-d-calciferol/)
 * [Vitamin E (tocopherol)](topics/vitamin-e-tocopherol/)
 * [Vitamin K1 (phylloquinone)](topics/vitamin-k1-phylloquinone/)
@@ -287,6 +287,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Allergic reactions](topics/allergic-reactions/)
 * [Allergy drops (a.k.a. sublingual immunotherapy)](topics/allergy-drops/)
 * [Allergy shots (a.k.a. subcutaneous immunotherapy)](topics/allergy-shots/)
+* [Allergic rhinitis](topics/allergic-rhinitis/) (hay fever)
+* [Allergic conjunctivitis](topics/allergic-conjunctivitis/)
+* [Hives](topics/hives/) (urticaria)
 * [Textile dermatitis](topics/textile-dermatitis/)
 * [Hypoallergenic products](topics/hypoallergenic-products/)
 * [Avocado allergy](topics/avocado-allergy/)
@@ -305,7 +308,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis](topics/anaphylaxis-diagnosis/)
 * [Severity](topics/anaphylaxis-severity/)
 * [Treatments](topics/anaphylaxis-treatments/)
-* [Anaphylaxis and anaphlactoid reactions](topics/anaphylaxis-and-anaphlactoid-reactions/)
+* [Anaphylactic versus anaphylactoid](topics/anaphylactic-versus-anaphylactoid/)
 
 ### [Anaphylaxis emergency treatment](topics/anaphylaxis-emergency-treatment/)
 
@@ -477,6 +480,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Diagnostics](topics/diagnostics/)
 
+* [Medical history](topics/medical-history/)
+* [Physical examination](topics/physical-examination/)
+* [Diagnostic tests](topics/diagnostic-tests/)
 * [24-hour urine test](topics/24-hour-urine-test/)
 * [Allergy testing](topics/allergy-testing/)
 * [Anti-IgE IgG test](topics/anti-ige-igg-test/)
@@ -532,6 +538,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Cyproheptadine](topics/cyproheptadine/) (brand name: Periactin)
 * [Desloratadine](topics/desloratadine/) (brand name: Clarinex)
 * [Diphenhydramine](topics/diphenhydramine/) (brand name: Benadryl)
+* [Epinastine](topics/epinastine/) (brand names: Alesion, Elestat, Purivist)
 * [Fexofenadine](topics/fexofenadine/) (brand name: Allegra)
 * [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
 * [Hydroxyzine](topics/hydroxyzine/) (brand names: Atarax, Vistaril)
@@ -550,6 +557,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Anti-IgE therapy](topics/anti-ige-therapy/)
 
 * [Omalizumab](topics/omalizumab/) (brand name: Xolair)
+
+### [Antidepressant medications](topics/antidepressant-medications/)
 
 ### [Asthma medications](topics/asthma-medications/)
 
@@ -609,7 +618,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [KIT-D816X](topics/kit-d816x/)
 * [MTHFR gene](topics/mthfr-gene/)
 
-### [Mineralcorticoids](topics/mineralocorticoids/)
+### [Mineralocorticoids](topics/mineralocorticoids/)
 
 ### [Luteolin](topics/luteolin/)
 
@@ -695,7 +704,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   
 ### Organizations
 
-* [National Institute for Health and Care Excellence (NICE)](../topics/national-institute-for-health-and-care-excellence/)
+* [National Institute for Health and Care Excellence (NICE)](topics/national-institute-for-health-and-care-excellence/)
 
 ### [Comments](topics/comments/)
 
@@ -708,7 +717,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Stomach acid + antihistamines + proton pump inhibitors](topics/stomach-acid-antihistamines-proton-pump-inhibitors/)
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 * [Data protection](topics/data-protection/)
-
+  
 ### [Glossary](topics/glossary/)
 
 * [Glossary of medical roles](topics/glossary-of-medical-roles/)

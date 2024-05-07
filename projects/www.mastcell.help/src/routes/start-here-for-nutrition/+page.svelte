@@ -10,15 +10,15 @@
 <a href="/elimination-diet/">elimination diet</a>,
 <a href="/intermittent-fasting/">intermittent fasting (IF)</a>.</p>
 <p><strong>Lower exposures</strong>:
-<a href="topics/low-histamine-diet/">low-histamine diet</a>,
-<a href="topics/low-allergen-diet/">low-allergen diet</a>,
-<a href="topics/low-amine-diet/">low-amine diet</a>,
-<a href="topics/low-amylose-diet/">low-amylose diet</a>,
-<a href="topics/low-oxalate-diet/">Low-oxalate diet</a>,
-<a href="topics/low-lectin-diet/">low-lectin diet</a>,
-<a href="topics/low-salicylate-diet/">low-salicylate diet</a>,
-<a href="topics/low-sodium-diet/">low-sodium diet</a>,
-<a href="topics/low-fodmap-diet/">low-FODMAP diet</a>.</p>
+<a href="/low-histamine-diet/">low-histamine diet</a>,
+<a href="/low-allergen-diet/">low-allergen diet</a>,
+<a href="/low-amine-diet/">low-amine diet</a>,
+<a href="/low-amylose-diet/">low-amylose diet</a>,
+<a href="/low-oxalate-diet/">Low-oxalate diet</a>,
+<a href="/low-lectin-diet/">low-lectin diet</a>,
+<a href="/low-salicylate-diet/">low-salicylate diet</a>,
+<a href="/low-sodium-diet/">low-sodium diet</a>,
+<a href="/low-fodmap-diet/">low-FODMAP diet</a>.</p>
 <p><strong>Boost your health</strong>:
 <a href="/dietary-supplements/">dietary supplements</a>,
 <a href="/macronutrients-and-micronutrients/">macronutrients and micronutrients</a>,
@@ -30,7 +30,7 @@
 <a href="/quercetin/">quercetin</a>,
 <a href="/glutathione/">glutathione</a>,
 <a href="/diamine-oxidase/">diamine oxidase (DAO)</a>,
-<a href="/vitamin-c-low-histamine-forms/">vitamin C low-histamine forms</a>,
+<a href="/vitamin-c-ascorbic-acid/">vitamin C (ascorbic acid)</a>,
 <a href="/omega-3/">omega-3</a>,
 <a href="/turmeric/">turmeric</a>,
 <a href="/calcium/">calcium</a>,
@@ -51,9 +51,9 @@
 <a href="/ginseng/">ginseng</a>,
 <a href="/garlic/">garlic</a>,
 <a href="/holy-basil/">holy basil</a>,
-<a href="topics/pinella/">pinella</a>,
-<a href="topics/khellin/">kellin</a>,
-<a href="topics/nigella-sativa/">nigella sativa (black seed)</a>,
-<a href="topics/scutellaria/">scutellaria (skullcap)</a>.</p>
+<a href="/pinella/">pinella</a>,
+<a href="/khellin/">kellin</a>,
+<a href="/nigella-sativa/">nigella sativa (black seed)</a>,
+<a href="/scutellaria/">scutellaria (skullcap)</a>.</p>
 
 </div>

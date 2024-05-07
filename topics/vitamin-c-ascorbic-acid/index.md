@@ -21,3 +21,5 @@ Vitamin C (also known as ascorbic acid) is a water-soluble vitamin that plays a 
 * **Deficiency**: Severe deficiency leads to scurvy, fatigue, swollen and bleeding gums, joint pain, and skin conditions.
 
 * **Recommended Dietary Allowance (RDA)**: 65-90 milligrams per day for adults. Higher during pregnancy and lactation.
+
+* **Forms**: Ascorbic acid is the most common and purest form of vitamin C; it is generally well-tolerated by individuals with histamine intolerance. Sodium ascorbate and calcium Ascorbate are buffered forms of vitamin C that are less acidic, and recommended for individuals who may experience stomach irritation with ascorbic acid. 

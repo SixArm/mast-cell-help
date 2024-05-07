@@ -9,7 +9,6 @@
 <p><strong>Key points</strong>:</p>
 <ul>
 <li><p><strong>Allergic Response</strong>: IgE antibodies are primarily involved in allergic reactions. When a person with allergies is exposed to an allergen (such as pollen, pet dander, or certain foods), their immune system may produce IgE antibodies specific to that allergen.</p></li>
-<li></li>
 <li><p><strong>Release of Histamine</strong>: When the allergen is encountered again, it binds to the IgE antibodies on the surface of mast cells and basophils, triggering the release of inflammatory substances such as histamine. This leads to the characteristic symptoms of an allergic reaction.</p></li>
 <li><p><strong>Defense Against Parasites</strong>: In addition to its role in allergic reactions, IgE also plays a role in defending against certain parasitic infections, such as helminths (worms). IgE antibodies can bind to parasites and activate immune responses that help to expel or destroy the parasites.</p></li>
 <li><p><strong>Elevated Levels</strong>: Elevated levels of IgE in the blood are often seen in individuals with allergies, asthma, and certain parasitic infections. Measuring IgE levels can sometimes help diagnose allergic conditions and monitor their severity.</p></li>

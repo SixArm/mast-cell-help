@@ -14,7 +14,7 @@ Histamine intolerance treatment typically involve identifying and addressing fac
 
 * **Address Gut Issues**: Treat conditions like small intestinal bacterial overgrowth (SIBO) or leaky gut syndrome.
 
-* **Antihistamine Medications**: Use [antihistamines](../anthistamines/) such as cetirizine (H1 blocker/) or ranitidine (H2 blocker).
+* **Antihistamine Medications**: Use [antihistamines](../antihistamines/) such as cetirizine (H1 blocker/) or ranitidine (H2 blocker).
 
 * **Avoid Alcohol**: Limit alcohol because it can interfere with histamine metabolism and contribute to symptom exacerbation.
 

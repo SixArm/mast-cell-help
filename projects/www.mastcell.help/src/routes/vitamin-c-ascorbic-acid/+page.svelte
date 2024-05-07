@@ -17,6 +17,7 @@
 <li><p><strong>Dietary Sources</strong>: Vitamin C is found in citrus fruits (oranges, lemons, grapefruits), berries (strawberries, blueberries), kiwi, guava, papaya, red and green bell peppers, and broccoli.</p></li>
 <li><p><strong>Deficiency</strong>: Severe deficiency leads to scurvy, fatigue, swollen and bleeding gums, joint pain, and skin conditions.</p></li>
 <li><p><strong>Recommended Dietary Allowance (RDA)</strong>: 65-90 milligrams per day for adults. Higher during pregnancy and lactation.</p></li>
+<li><p><strong>Forms</strong>: Ascorbic acid is the most common and purest form of vitamin C; it is generally well-tolerated by individuals with histamine intolerance. Sodium ascorbate and calcium Ascorbate are buffered forms of vitamin C that are less acidic, and recommended for individuals who may experience stomach irritation with ascorbic acid.</p></li>
 </ul>
 
 </div>

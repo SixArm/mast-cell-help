@@ -63,6 +63,7 @@
 <li><a href="/antihistamines/">Antihistamines</a></li>
 <li><a href="/antihistamine-types/">Antihistamines: types</a></li>
 <li><a href="/antihistamines-and-mast-cell-stabilizers/">Antihistamines and mast cell stabilizers</a></li>
+<li><a href="/nonsteroidal-anti-inflammatory-drugs/">Nonsteroidal anti-inflammatory drugs (NSAIDs)</a></li>
 <li><a href="/diamine-oxidase/">Diamine oxidase</a></li>
 <li><a href="/tryptase/">Tryptase</a></li>
 <li><a href="/heparin/">Heparin</a></li>
@@ -243,7 +244,6 @@
 <li><a href="/vitamin-b9-folate/">Vitamin B9 (folate)</a></li>
 <li><a href="/vitamin-b12-cobalamin/">Vitamin B12 (cobalamin)</a></li>
 <li><a href="/vitamin-c-ascorbic-acid/">Vitamin C (ascorbic acid)</a></li>
-<li><a href="/vitamin-c-ascorbic-acid-low-histamine-forms/">Vitamin C (ascorbic acid) low-histamine forms</a></li>
 <li><a href="/vitamin-d-calciferol/">Vitamin D (calciferol)</a></li>
 <li><a href="/vitamin-e-tocopherol/">Vitamin E (tocopherol)</a></li>
 <li><a href="/vitamin-k1-phylloquinone/">Vitamin K1 (phylloquinone)</a></li>
@@ -283,6 +283,9 @@
 <li><a href="/allergic-reactions/">Allergic reactions</a></li>
 <li><a href="/allergy-drops/">Allergy drops (a.k.a. sublingual immunotherapy)</a></li>
 <li><a href="/allergy-shots/">Allergy shots (a.k.a. subcutaneous immunotherapy)</a></li>
+<li><a href="/allergic-rhinitis/">Allergic rhinitis</a> (hay fever)</li>
+<li><a href="/allergic-conjunctivitis/">Allergic conjunctivitis</a></li>
+<li><a href="/hives/">Hives</a> (urticaria)</li>
 <li><a href="/textile-dermatitis/">Textile dermatitis</a></li>
 <li><a href="/hypoallergenic-products/">Hypoallergenic products</a></li>
 <li><a href="/avocado-allergy/">Avocado allergy</a></li>
@@ -301,7 +304,7 @@
 <li><a href="/anaphylaxis-diagnosis/">Diagnosis</a></li>
 <li><a href="/anaphylaxis-severity/">Severity</a></li>
 <li><a href="/anaphylaxis-treatments/">Treatments</a></li>
-<li><a href="/anaphylaxis-and-anaphlactoid-reactions/">Anaphylaxis and anaphlactoid reactions</a></li>
+<li><a href="/anaphylactic-versus-anaphylactoid/">Anaphylactic versus anaphylactoid</a></li>
 </ul>
 <h3 id="anaphylaxis-emergency-treatment"><a href="/anaphylaxis-emergency-treatment/">Anaphylaxis emergency treatment</a></h3>
 <ul>
@@ -415,6 +418,9 @@
 <p><img src="/assets/images/pexels/pexels-lu-rodriguez-17225909/1920x960.jpg" alt="doctors doing diagnostics" style="width: 100%;"/></p>
 <h3 id="diagnostics"><a href="/diagnostics/">Diagnostics</a></h3>
 <ul>
+<li><a href="/medical-history/">Medical history</a></li>
+<li><a href="/physical-examination/">Physical examination</a></li>
+<li><a href="/diagnostic-tests/">Diagnostic tests</a></li>
 <li><a href="/24-hour-urine-test/">24-hour urine test</a></li>
 <li><a href="/allergy-testing/">Allergy testing</a></li>
 <li><a href="/anti-ige-igg-test/">Anti-IgE IgG test</a></li>
@@ -467,6 +473,7 @@
 <li><a href="/cyproheptadine/">Cyproheptadine</a> (brand name: Periactin)</li>
 <li><a href="/desloratadine/">Desloratadine</a> (brand name: Clarinex)</li>
 <li><a href="/diphenhydramine/">Diphenhydramine</a> (brand name: Benadryl)</li>
+<li><a href="/epinastine/">Epinastine</a> (brand names: Alesion, Elestat, Purivist)</li>
 <li><a href="/fexofenadine/">Fexofenadine</a> (brand name: Allegra)</li>
 <li><a href="/histamine-n-methyltransferase/">Histamine N-methyltransferase (HNMT)</a></li>
 <li><a href="/hydroxyzine/">Hydroxyzine</a> (brand names: Atarax, Vistaril)</li>
@@ -484,8 +491,9 @@
 </ul>
 <h3 id="anti-ige-therapy"><a href="/anti-ige-therapy/">Anti-IgE therapy</a></h3>
 <ul>
-<li><a href="/omalizumab/">Omalizumab</a> (brand name: ??)</li>
+<li><a href="/omalizumab/">Omalizumab</a> (brand name: Xolair)</li>
 </ul>
+<h3 id="antidepressant-medications"><a href="/antidepressant-medications/">Antidepressant medications</a></h3>
 <h3 id="asthma-medications"><a href="/asthma-medications/">Asthma medications</a></h3>
 <ul>
 <li><a href="/albuterol-sulfate/">Albuterol sulfate</a> (brand names: ProAir, Proventil, Ventolinr)</li>
@@ -535,7 +543,7 @@
 <li><a href="/kit-d816x/">KIT-D816X</a></li>
 <li><a href="/mthfr-gene/">MTHFR gene</a></li>
 </ul>
-<h3 id="mineralcorticoids"><a href="/mineralocorticoids/">Mineralcorticoids</a></h3>
+<h3 id="mineralocorticoids"><a href="/mineralocorticoids/">Mineralocorticoids</a></h3>
 <h3 id="luteolin"><a href="/luteolin/">Luteolin</a></h3>
 <h3 id="proton-pump-inhibitors"><a href="/proton-pump-inhibitors/">Proton pump inhibitors</a></h3>
 <ul>
@@ -612,7 +620,7 @@
 </ul>
 <h3 id="organizations">Organizations</h3>
 <ul>
-<li><a href="../topics/national-institute-for-health-and-care-excellence/">National Institute for Health and Care Excellence (NICE)</a></li>
+<li><a href="/national-institute-for-health-and-care-excellence/">National Institute for Health and Care Excellence (NICE)</a></li>
 </ul>
 <h3 id="comments"><a href="/comments/">Comments</a></h3>
 <ul>
@@ -621,8 +629,10 @@
 <li><a href="/water-treatment-home-tips/">Water treatment home tips</a></li>
 <li><a href="/traditional-mix-up/">Traditional mix-up</a></li>
 <li><a href="/cosmetic-chemist-tips/">Cosmetic chemist tips</a></li>
+<li><a href="/essential-oil-caution/">Essential oil caution</a></li>
 <li><a href="/stomach-acid-antihistamines-proton-pump-inhibitors/">Stomach acid + antihistamines + proton pump inhibitors</a></li>
 <li><a href="/accelerator-free-protective-gloves/">Accelerator-free protective gloves</a></li>
+<li><a href="/data-protection/">Data protection</a></li>
 </ul>
 <h3 id="glossary"><a href="/glossary/">Glossary</a></h3>
 <ul>

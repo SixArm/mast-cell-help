@@ -8,7 +8,7 @@ Fludrocortisone is a synthetic corticosteroid medication that is used for its mi
 
 **Indications**: It is primarily used in conditions where increased levels of aldosterone are needed. It is often prescribed for [adrenal insufficiency](../adrenal-insufficiency/) and [Congenital Adrenal Hyperplasia (CAH)](../congenital-adrenal-hyperplasia/)
 
-**Mineralocorticoid Effects**: The [mineralocorticoid](../mineralocorticoid/) effects of fludrocortisone include promoting sodium retention and potassium excretion, helping to maintain blood pressure and electrolyte balance.
+**Mineralocorticoid Effects**: The mineralocorticoid effects of fludrocortisone include promoting sodium retention and potassium excretion, helping to maintain blood pressure and electrolyte balance.
 
 **Administration**: The dosage is individual dependent. It is usually taken orally as a tablet.
 

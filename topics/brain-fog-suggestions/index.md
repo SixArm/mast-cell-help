@@ -15,7 +15,7 @@ Supplements, especially
 [vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/),
 [vitamin D (calciferol)](../vitamin-d-calciferol/),
 [magnesium supplements](../magnesium-supplements/),
-[chlorella](../chorella).
+[chlorella](../chlorella).
 
 Fresh air.
 

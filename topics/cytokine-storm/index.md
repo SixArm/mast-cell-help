@@ -8,7 +8,7 @@ If someone suspects they are experiencing symptoms of a cytokine storm, seek pro
 
 * **Excessive Inflammation**: The immune system is activated to respond to an infection, injury, or other stimuli. In a cytokine storm, the immune response becomes exaggerated, leading to a surge in pro-inflammatory cytokines.
 
-* **Potential Triggers**: Cytokine storms can be triggered by various factors, including severe infections (such as certain viral infections), autoimmune diseases, certain treatments (such as immunotherapies), and other immune system dysregulations.
+* **Potential Triggers**: Cytokine storms can be triggered by various factors, including severe infections (such as certain viral infections), autoimmune diseases, certain treatments (such as [immunotherapy](../immunotherapy/)), and other immune system dysregulations.
 
 * **Impact on Organs**: The excessive release of cytokines can lead to widespread inflammation and tissue damage. This can affect multiple organs and systems, leading to serious complications.
 

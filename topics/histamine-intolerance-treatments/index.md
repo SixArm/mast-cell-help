@@ -18,7 +18,7 @@ Histamine intolerance treatment typically involve identifying and addressing fac
 
 * **Avoid Alcohol**: Limit alcohol because it can interfere with histamine metabolism and contribute to symptom exacerbation.
 
-* **Avoid Trigger Medications**: Certain medications, such as [nonsteroidal anti-inflammatory drugs (NSAIDs)](../nonsteroidal-anti-inflammatory-drugs/) and some prescription medications, can contribute to histamine release.
+* **Avoid Trigger Medications**: Certain medications, such as [non-steroidal anti-inflammatory drugs (NSAIDs)](../non-steroidal-anti-inflammatory-drugs/) and some prescription medications, can contribute to histamine release.
 
 * **Reduce Stress**: Stress can trigger or exacerbate symptoms. Try meditation, deep breathing, yoga, and relaxation exercises.
 

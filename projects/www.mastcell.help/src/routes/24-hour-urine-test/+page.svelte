@@ -10,7 +10,7 @@
 <ul>
 <li><p><strong>Steps</strong>: The patient collects all urine produced over a 24-hour period. Usually, the process starts with an empty bladder, and all urine thereafter is collected, including the first morning urine the next day. Urine is stored in a container provided by the healthcare provider, and kept in a refrigerator to prevent bacterial growth.</p></li>
 <li><p><strong>Analysis</strong>: The laboratory analyzes the urine sample to measure various substances such as creatinine, electrolytes (sodium, potassium, chloride), protein, hormones, and other markers.</p></li>
-<li><p><strong>Interpretation</strong>: Results are interpreted by healthcare providers in the context of the patient’s medical history and symptoms. Abnormal levels of certain substances may indicate kidney dysfunction, dehydration, electrolyte imbalances, or other health issues.</p></li>
+<li><p><strong>Interpretation</strong>: Results are interpreted by healthcare providers in the context of the patient’s [medical history](../medical-history/) and symptoms. Abnormal levels of certain substances may indicate kidney dysfunction, dehydration, electrolyte imbalances, or other health issues.</p></li>
 </ul>
 <p><strong>Tests may include</strong>:</p>
 <ul>

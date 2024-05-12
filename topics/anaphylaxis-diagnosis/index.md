@@ -1,6 +1,6 @@
 # Anaphylaxis diagnosis
 
-[Anaphylaxis](../anaphylaxis/) diagnosis is primarily based on clinical evaluation and a thorough medical history, as well as the recognition of characteristic signs and symptoms that occur after exposure to an allergen or trigger.
+[Anaphylaxis](../anaphylaxis/) diagnosis is primarily based on clinical evaluation and a thorough [medical history](../medical-history/\), as well as the recognition of characteristic signs and symptoms that occur after exposure to an allergen or trigger.
 
 **Key points**:
 

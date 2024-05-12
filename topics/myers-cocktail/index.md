@@ -8,4 +8,4 @@ The Myers' Cocktail is often used as a complementary therapy for various conditi
 
 Myers' Cocktail efficacy is a topic of debate within the medical community. Scientific evidence supporting its use for general wellness or specific medical conditions is limited.
 
-Individuals considering the Myers' Cocktail or any other IV nutrient therapy should consult with a qualified healthcare professional. The decision to use IV nutrient therapy should be based on an individual's health status, medical history, and the guidance of a healthcare provider. It's crucial to ensure that the therapy is administered by trained healthcare professionals in a controlled and sterile environment to minimize risks.
+Individuals considering the Myers' Cocktail or any other IV nutrient therapy should consult with a qualified healthcare professional. The decision to use IV nutrient therapy should be based on an individual's health status, [medical history](../medical-history/\), and the guidance of a healthcare provider. It's crucial to ensure that the therapy is administered by trained healthcare professionals in a controlled and sterile environment to minimize risks.

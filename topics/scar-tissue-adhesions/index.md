@@ -12,6 +12,6 @@ Scar tissue adhesions refer to the abnormal connections or attachments that can 
 
 * **Complications**: Adhesions can lead to complications, especially when they cause structures or organs to become stuck together.
 
-* **Diagnosis**: Diagnosing scar tissue adhesions often involves a combination of clinical evaluation, medical history review, and imaging studies such as ultrasound, CT scans, or MRI. In some cases, diagnostic laparoscopy may be performed.
+* **Diagnosis**: Diagnosing scar tissue adhesions often involves a combination of clinical evaluation, [medical history](../medical-history/\) review, and imaging studies such as ultrasound, CT scans, or MRI. In some cases, diagnostic laparoscopy may be performed.
 
 * **Treatment**: May include physical therapy, massage, medications to manage pain and inflammation, or surgical intervention to release or remove adhesions.

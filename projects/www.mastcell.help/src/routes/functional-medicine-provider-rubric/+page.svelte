@@ -9,7 +9,7 @@
 <p>If a provider says “root cause”, then ask their opinion of Causal Analysis based on System Theory (CAST). CAST tackles problems with multiple causes and multiple interactions.</p>
 <ul>
 <li><p>Good response: “Yes we’ll use CAST”.</p></li>
-<li><p>Bad response: “No we won’t use CAST” or the simplistic “one root cause for many conditions, or many root causes for one condition”.</p></li>
+<li><p>Bad response: “No we won’t use CAST” or the simplistic “one root cause for many conditions” or “many root causes for one condition”.</p></li>
 </ul>
 <p>If a provider says “all the best tests”, then ask which ones.</p>
 <ul>

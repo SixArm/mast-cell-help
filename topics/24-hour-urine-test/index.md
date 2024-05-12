@@ -8,7 +8,7 @@ A 24-hour urine test is a diagnostic procedure used to measure various substance
 
 * **Analysis**: The laboratory analyzes the urine sample to measure various substances such as creatinine, electrolytes (sodium, potassium, chloride), protein, hormones, and other markers.
   
-* **Interpretation**: Results are interpreted by healthcare providers in the context of the patient's medical history and symptoms. Abnormal levels of certain substances may indicate kidney dysfunction, dehydration, electrolyte imbalances, or other health issues.
+* **Interpretation**: Results are interpreted by healthcare providers in the context of the patient's [medical history](../medical-history/\) and symptoms. Abnormal levels of certain substances may indicate kidney dysfunction, dehydration, electrolyte imbalances, or other health issues.
 
 **Tests may include**:
 

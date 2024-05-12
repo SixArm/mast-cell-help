@@ -6,7 +6,7 @@ Median arcuate ligament syndrome (MALS), also known as celiac artery compression
 
 * **Symptoms**: Chronic postprandial (after eating) abdominal pain. Other symptoms may include nausea, vomiting, diarrhea, unintentional weight loss, and an audible bruit (abnormal sound) over the abdomen.
 
-* **Diagnosis**: Use a combination of medical history, physical examination, imaging studies (such as CT angiography or duplex ultrasound), and sometimes diagnostic injections to confirm the compression of the celiac artery.
+* **Diagnosis**: Use a combination of [medical history](../medical-history/\), [physical examination](../physical-examination/), imaging studies (such as CT angiography or duplex ultrasound), and sometimes diagnostic injections to confirm the compression of the celiac artery.
 
 * **Treatment**: Relieve the compression of the celiac artery and alleviate symptoms. Conservative management includes dietary modifications, pain management, and lifestyle changes. For severe symptoms, surgery can divide the median arcuate ligament to release the compression on the celiac artery, known as median arcuate ligament release.
 

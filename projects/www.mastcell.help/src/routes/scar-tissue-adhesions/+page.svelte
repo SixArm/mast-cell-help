@@ -12,7 +12,7 @@
 <li><p><strong>Causes</strong>: Common causes of scar tissue adhesions include surgical procedures, abdominal or pelvic surgeries, inflammation (such as from infections or autoimmune diseases), and trauma or injury.</p></li>
 <li><p><strong>Symptoms</strong>: Pain, restricted movement, or dysfunction of affected organs. For example, adhesions in the abdominal or pelvic area may cause pain during movement or interfere with the normal functioning of organs.</p></li>
 <li><p><strong>Complications</strong>: Adhesions can lead to complications, especially when they cause structures or organs to become stuck together.</p></li>
-<li><p><strong>Diagnosis</strong>: Diagnosing scar tissue adhesions often involves a combination of clinical evaluation, medical history review, and imaging studies such as ultrasound, CT scans, or MRI. In some cases, diagnostic laparoscopy may be performed.</p></li>
+<li><p><strong>Diagnosis</strong>: Diagnosing scar tissue adhesions often involves a combination of clinical evaluation, [medical history](../medical-history/) review, and imaging studies such as ultrasound, CT scans, or MRI. In some cases, diagnostic laparoscopy may be performed.</p></li>
 <li><p><strong>Treatment</strong>: May include physical therapy, massage, medications to manage pain and inflammation, or surgical intervention to release or remove adhesions.</p></li>
 </ul>
 

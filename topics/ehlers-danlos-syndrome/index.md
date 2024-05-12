@@ -6,7 +6,7 @@ Ehlers-Danlos syndrome (EDS) is a group of rare genetic connective tissue disord
 
 * **Symptoms**: Common symptoms may include joint hypermobility, joint dislocations, chronic pain, skin problems (such as hyperelasticity, easy bruising, and poor wound healing), and various complications related to connective tissue weaknesses. Some forms of EDS, especially the vascular type, can be life-threatening due to the risk of organ and blood vessel ruptures.
 
-* **Diagnosis**: EDS is typically diagnosed through a physical examination, medical history, and genetic testing.
+* **Diagnosis**: EDS is typically diagnosed through a [physical examination](../physical-examination/), [medical history](../medical-history/\), and genetic testing.
 
 * **Treatment**: Focus on relieving symptoms and preventing complications. This often involves a multidisciplinary approach, including physical therapy to strengthen muscles and stabilize joints, pain management, and, in some cases, surgery to repair damaged joints.
 

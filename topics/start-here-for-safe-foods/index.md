@@ -1,41 +1,36 @@
 # Start here for safe foods
 
-"Safe foods" is the nickname for foods that you can eat without symptoms. Safe foods can be different per person, and can change over time.
+"Safe foods" means foods that you can eat without symptoms. 
+Safe foods can be different per person, and can change over time.
 
 **Try these first**:
 
-* **Arborio rice.** Lowest oxalate, lowest salicylate. 
+* **Rice:** Arborio or jasmine. Not brown or wild.
 
-* **White potatoes.** Peeled and boiled. Lowest oxalate, lowest salicylate. 
+* **Potatoes:** White or small red. Peeled and boiled.
 
-* **Golden Delicious Apples.** Wash thoroughly or peel.
+* **Apples:** Peeled Golden Delicious or pure organic applesauce.
 
-* **Egg yolks.** Ideally free-range. Egg whites may cause reactions.
+* **Egg yolks:** Ideally free-range. Egg whites may cause reactions.
 
-* **Chicken.** Skinned and boiled. Free-range. Fresh or flash-frozen.
+* **Chicken:** Skinned and boiled. Free-range. Fresh or flash-frozen.
 
-* **Cod.** Wild-caught. Fresh or flash-frozen.
+* **Cod:** Wild-caught. Fresh or flash-frozen.
 
-* **Cucumbers.**
+* **Rutabaga**: Peeled. Low oxalate/histamine/salicylate + high fiber.
 
-* **Popcorn.** Ideally air pop. No microwave bags.
+* **Corn-free popcorn:** Such as makhana or puffed rice.
 
-* **Coconut water.** Ideally without pulp.
+* **Coconut water:** Ideally without pulp or sweeteners.
 
-* **Gluten-Free Oatmeal.** Be aware oat avenin protein is similar to gluten, so may cause reactions. Be aware oats can carry mold.
+* **Gluten-Free Oatmeal:** Be aware oat avenin protein is similar to gluten, so may cause reactions. Be aware oats can carry mold.
+
+* **Others**: Asparagus, broccoli, bok choi, blackcurrants, redcurrants, cucumbers, cherries, beetroot, radish, lettuce, sweet potatoes, white parsley, celeriac, carrots, apricots, grapes, pomegranate seeds, honeydew melon, blueberries. Wash thoroughly.
 
 **Tips**:
 
 * **Maximize quality**: Seek organic, locally-grown, GMO-free.
 
-* **Minimize factory farming**: Prefer free range and/or grass-fed.
+* **Minimize triggers**: Such as additives, biocides, and cross contaminations.
 
-* **Minimize delays**: Buy and cook the same day, or buy pre-frozen.
-
-* **No additives**: Such as colors, flavors, hormones, preservatives.
-
-* **No leftovers**: These can develop triggers over time.
-
-* **No biocides**: No pesticides, herbicides, fungicides.
-
-* **No cross-contamination**: Processed products may have intermingled with other products that are triggers.
+* **Minimize delays**: Buy fresh or flash-frozen. Cook and eat ASAP. No leftovers.

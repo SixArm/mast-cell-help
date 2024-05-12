@@ -10,7 +10,7 @@ Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is
 
 * **Post-Exertional Malaise (PEM)**: CFS is often associated with post-exertional malaise, where physical or mental exertion can exacerbate symptoms and lead to a prolonged worsening of fatigue.
 
-* **Diagnosis**: Diagnosing CFS can be challenging as there are no specific tests. Healthcare professionals typically rely on a thorough medical history, physical examination, and the exclusion of other possible causes of fatigue.
+* **Diagnosis**: Diagnosing CFS can be challenging as there are no specific tests. Healthcare professionals typically rely on a thorough [medical history](../medical-history/\), [physical examination](../physical-examination/), and the exclusion of other possible causes of fatigue.
 
 * **Unknown Cause**: CFS is complex condition with multiple potential contributing factors, including viral infections, immune system dysfunction, hormonal imbalances, and genetic predisposition.
 

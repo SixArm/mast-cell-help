@@ -8,7 +8,7 @@ Rheumatoid arthritis (RA) is an autoimmune disease that primarily affects the jo
 
 * **Diagnosis**: Blood tests look for rheumatoid factor and anti-cyclic citrullinated peptide or anti-CCP antibodies. Imaging studies can help.
 
-* **Treatment**: Treatment for RA aims to reduce inflammation, relieve pain, slow down joint damage, and improve the patient's quality of life. Common treatments include disease-modifying antirheumatic drugs (DMARDs), nonsteroidal anti-inflammatory drugs (NSAIDs), and biologic therapies. Lifestyle modifications include physical therapy, stopping smoking, stress management, and exercise.
+* **Treatment**: Treatment for RA aims to reduce inflammation, relieve pain, slow down joint damage, and improve the patient's quality of life. Common treatments include disease-modifying antirheumatic drugs (DMARDs), non-steroidal anti-inflammatory drugs (NSAIDs), and biologic therapies. Lifestyle modifications include physical therapy, stopping smoking, stress management, and exercise.
 
 * **Autoimmune Disease**: In RA, the body's immune system mistakenly attacks healthy tissues, primarily the synovium, causing inflammation.
 

@@ -8,7 +8,7 @@ Dyshidrotic eczema, also known as dyshidrosis or pompholyx, is a type of eczema 
 
 * **Triggers**: Allergies or sensitivities to some metals (like nickel), detergents, or certain foods. Stress or emotional factors. Hot or humid weather with sweating. Contact with irritants.
 
-* **Diagnosis**: Clinical examination and medical history. In some cases, a healthcare provider may perform patch testing or other diagnostic tests to rule out other potential causes of blistering skin conditions.
+* **Diagnosis**: Clinical examination and [medical history](../medical-history/\). In some cases, a healthcare provider may perform patch testing or other diagnostic tests to rule out other potential causes of blistering skin conditions.
 
 * **Treatment**: Oral antihistamines, topical corticosteroids, calcineurin inhibitors, moisturizers or emollients, trigger avoidance, and phototherapy (light therapy).
 

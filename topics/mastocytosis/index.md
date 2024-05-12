@@ -10,6 +10,6 @@ Mastocytosis is a rare disorder characterized by the abnormal accumulation and p
 
 Symptoms of mastocytosis can vary widely. Common symptoms may include skin rashes, itching, flushing, abdominal pain, diarrhea, nausea, vomiting, and in some cases, more severe systemic symptoms, such as anaphylaxis.
 
-Diagnosing mastocytosis typically involves a combination of clinical evaluation, physical examination, laboratory tests to measure mast cell mediators, skin biopsies, and sometimes bone marrow biopsies.
+Diagnosing mastocytosis typically involves a combination of clinical evaluation, [physical examination](../physical-examination/), laboratory tests to measure mast cell mediators, skin biopsies, and sometimes bone marrow biopsies.
 
 Management and treatment depend on the subtype and severity of mastocytosis. For some individuals with indolent disease, management may focus on controlling symptoms and avoiding triggers, while aggressive forms may require more intensive treatments, such as targeted therapy or bone marrow transplant in rare cases.

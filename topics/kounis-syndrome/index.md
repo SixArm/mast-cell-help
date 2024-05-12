@@ -4,7 +4,7 @@ Kounis syndrome is a medical condition characterized by the onset of acute coron
 
 **Key points**:
 
-* **Triggers**: Medications (such as antibiotics, nonsteroidal anti-inflammatory drugs, and contrast agents), insect stings, foods, environmental allergens, and latex.
+* **Triggers**: Medications (such as antibiotics, non-steroidal anti-inflammatory drugs, and contrast agents), insect stings, foods, environmental allergens, and latex.
   
 * **Symptoms**: Chest pain, shortness of breath, palpitations, dizziness, and sweating.
 

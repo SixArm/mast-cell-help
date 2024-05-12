@@ -6,7 +6,7 @@ If a provider says "root cause", then ask their opinion of Causal Analysis based
 
 * Good response: "Yes we'll use CAST".
 
-* Bad response: "No we won't use CAST" or the simplistic "one root cause for many conditions, or many root causes for one condition".
+* Bad response: "No we won't use CAST" or the simplistic "one root cause for many conditions" or "many root causes for one condition".
 
 If a provider says "all the best tests", then ask which ones.
 

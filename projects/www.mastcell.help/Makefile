@@ -4,7 +4,7 @@ bin="bin"
 
 all: build
 
-new: clean build
+clear: clean all
 
 .PHONY: clean
 clean:

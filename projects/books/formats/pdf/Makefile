@@ -9,7 +9,7 @@ pandoc="pandoc-from-markdown-to-pdf"
 
 all: ${links} ${bound} ${output}
 
-new: clean all
+clear: clean all
 
 .PHONY: clean
 clean:

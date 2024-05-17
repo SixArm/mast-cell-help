@@ -7,7 +7,7 @@ project_dir="$git_top_dir/projects/www.mastcell.help"
 topics_dir="$git_top_dir/topics"
 static_dir="$project_dir/static"
 routes_dir="$project_dir/src/routes"
-template_file="$project_dir/bin/build-pandoc-template.svelte"
+template_file="$project_dir/bin/build-via-pandoc-with-template.svelte"
 title_suffix=" | mastcell.help"
 
 do_pandoc() {

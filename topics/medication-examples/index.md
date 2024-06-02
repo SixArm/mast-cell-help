@@ -19,3 +19,31 @@ Evening:
 * x2 Vitamin C 1000mg 
 * 1x Famotidine 20mg 
 * 1x fexofenadine 120mg
+
+Medication examples from a person who has multiple diagnoses...
+
+For MCAS: 
+
+* Pecid
+* Zyrtec
+* Singular, 
+* Hydroxyzine,
+* Chromolin sodium 2-3 vials daily
+* Quercetin
+
+For MCAS & POTS & hypermobility pain:
+
+* Cymbalta
+* Low dose naltrexone
+* Lyrica
+* Amitriptyline
+* Flexiril
+
+For Hyperadrenergic POTS:
+
+* Chlonidine HCL
+* Pyriostigmine
+
+For GI:
+
+* Zofran

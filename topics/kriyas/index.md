@@ -1,6 +1,6 @@
-# Kriya
+# Kriyas
 
-Kriya refers to a set of yogic practices aimed at helping physical health, mental clarity, and spiritual growth.
+Kriyas refers to yogic practices aimed at helping physical health, mental clarity, and spiritual growth.
 
 **Types**:
 

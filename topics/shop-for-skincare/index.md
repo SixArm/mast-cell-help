@@ -18,6 +18,8 @@ Skincare products suggested by mast cell patients.
 
 * [Peach & Lily - Power Calm Hydrating Gel Cleanser](https://www.peachandlily.com/products/power-calm-hydrating-gel-cleanser)
 
+* [Tre Olive - Extra Virgin Olive Oil Soap Unscented](https://treolive.com/products/extra-virgin-olive-oil-soap-unscented)
+
 **Skincare lotions**
 
 * [CeraVe - Moisturizing Cream](https://www.cerave.com/skincare/moisturizers/moisturizing-cream)

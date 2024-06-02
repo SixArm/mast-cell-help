@@ -1,4 +1,4 @@
-# Symjepi adrenaline syringe
+# Symjepi
 
 Symjepi is a single-dose, prefilled syringe of adrenaline (a.k.a. epinephrine) for the emergency treatment of anaphylaxis. The product is not an auto-injector.
 

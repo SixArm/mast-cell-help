@@ -1,6 +1,6 @@
 # Adrenaline auto-injector instructions
 
-When to use your adrenaline auto-injector (AAI) such as your brand name EpiPen®?
+When to use your adrenaline auto-injector (AAI), also known as an epinephrine emergency shot, such as a brand name EpiPen® device?
 
 Use your adrenaline auto-injector immediately if you experience ANY of the following serious symptoms of anaphylaxis, or anaphylactic shock, or anaphylactoid shock:
 

@@ -20,6 +20,8 @@
 
 "I reacted to vibrations long before knowing I had a mast cell issue. Once I was on the train with my newborn, sleep-deprived and stressed and everything suddenly felt so overwhelming and I just felt the need to get off the train. I got off in the middle of nowhere and just thought: thank god the vibrations are over!!! the same with busses unfortunately. and certain music."
 
+"I can’t handle jets in a hot tub or any massage that causes vibration."
+
 "My daughter gets attacks triggered by the vibration of lawn mowers and other loud/heavy machines."
 
 "I thought I was crazy but my husband's large truck shakes/vibrates at 40mph and the other day I thought I was gonna die from not being able to breathe when it started, like it was shaking the air out of me."

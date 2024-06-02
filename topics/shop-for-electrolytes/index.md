@@ -14,7 +14,7 @@ Electrolytes recommended by mast cell people. Read ingredients lists because you
 
 * [Nuun - Daily Hydration](https://nuunlife.com/products/nuun-daily)
 
-* [Buoy - Hydration Drops](https://justaddbuoy.com/products/hydration-drops)
+* [Buoy - Hydration Drops - low sodium](https://justaddbuoy.com/products/hydration-drops)
 
 * [SALTT - Electrolyte Drink Mix - Variety Pack](https://saltt.com/products/saltt-electrolyte-drink-mix?variant=43982790066314)
 

@@ -8,7 +8,7 @@ You can keep a trigger tracker by using a physical notebook or by using a spread
 
 * **Record details**: Write down every interaction with every item. Be as specific as possible.
 
-* **Use the six W's**: Write down "Who, What, Where, When, Why, HoW". These six terms are good prompts for information gathering and problem solving.
+* **Use the six W's**: Write down "Who, What, Where, When, Why, How". These six terms are good prompts for information gathering and problem solving.
 
 * **Add Notes**: Include any relevant notes, such as how you felt (e.g. stressed, hungry, hot) and any reactions you have, during and after.
 

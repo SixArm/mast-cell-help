@@ -1,6 +1,6 @@
 # Mast Cell Activation Syndrome (MCAS) versus allergies
 
-Mast Cell Activation Syndrome (MCAS) and allergies are both immune system dysregulations, but they have different underlying mechanisms and clinical features.
+Mast Cell Activation Syndrome (MCAS) and allergies are both immune system dysregulations, but they have different underlying aspects.
 
 **Key points**:
 
@@ -12,4 +12,4 @@ Mast Cell Activation Syndrome (MCAS) and allergies are both immune system dysreg
 
 * **Symptoms**: MCAS can cause many symptoms, from slow allergy-like reactions to fast anaphylactoid shock, and can be unpredictable and vary from person to person. An allergy causes a specific allergic reaction.
 
-* **Treatment**: MCAS treatment emphasizes mast cell stabilizers, leukotriene inhibitors, and limbic system recovery, along with addressing probable causes such as toxins or infections. Allergy treatment emphasizes allergen avoidance, medications to relieve symptoms (antihistamines, nasal corticosteroids, bronchodilators), and, in some cases, allergen immunotherapy (allergy shots or allergy drops).
+* **Treatment**: MCAS treatment emphasizes mast cell stabilizers, leukotriene inhibitors, and limbic system recovery, along with addressing probable causes such as toxins or infections. Allergy treatment emphasizes allergen avoidance, medications to relieve symptoms (antihistamines, corticosteroids, bronchodilators) and immunotherapy (allergy shots or allergy drops).

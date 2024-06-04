@@ -104,7 +104,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Red light therapy](topics/red-light-therapy/)
 * [Patient advocates](topics/patient-advocates/)
 * [Home hunting](topics/home-hunting/)
-
+* [Medical alert bracelet](topics/medical-alert-bracelet/)
+  
 ### [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine/)
 
 * [Acupuncture](topics/acupuncture/)
@@ -124,7 +125,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Trigger cleaning](topics/trigger-cleaning/)
 
-* [Trigger tracker](../trigger-tracker/)
+* [Trigger tracker](topics/trigger-tracker/)
 * [Trigger triage - cleaning](topics/trigger-triage-cleaning/)
 * [Household triggers](topics/household-triggers/)
 * [Chemical triggers](topics/chemical-triggers/)
@@ -135,6 +136,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Bed triggers](topics/bed-triggers/)
 * [Cooking triggers](topics/cooking-triggers/)
 * [Car triggers](topics/car-triggers/)
+* [Car triggers - tests](topics/car-triggers-tests/)
+* [Car triggers - treatments](topics/car-triggers-tests/)
 * [Allergens, irritants, toxins](topics/allergens-irritants-toxins/)
 * [Air filters](topics/air-filters/)
 * [Water filters](topics/water-filters/)
@@ -157,7 +160,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Buteyko breathing method](topics/buteyko-breathing-method/)
 * [Rapid Resolution Therapy (RRT)](topics/rapid-resolution-therapy/)
 * [The Spoon Theory](topics/the-spoon-theory/)
-* [Kriya](topics/kriya/)
+* [Kriyas](topics/kriyas/)
 
 ### [Vagus nerve reset](topics/vagus-nerve-reset/)
 
@@ -193,6 +196,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Foods to boost your immune system](topics/foods-to-boost-your-immune-system/)
 * [Total parenteral nutrition (TPN)](topics/total-parenteral-nutrition/)
 * [Histamine metabolism of foods](topics/histamine-metabolism-of-foods/)
+* [Flash-frozen food](topics/flash-frozen-food/)
 * [Nutrigenomics](topics/nutrigenomics/)
 
 ### [Elimination diet](topics/elimination-diet/)
@@ -523,7 +527,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
 * [Complete blood count (CBC)](topics/complete-blood-count/)
 * [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
-* [Esophageal pH Test](topics/esophageal-ph-test/)
+* [Esophageal pH test](topics/esophageal-ph-test/)
 * [Genetic Environmental Illness (GENIE) test](topics/genetic-environmental-illness-test/)
 * [GeneSight test](topics/genesight-test/)
 * [HBAG stool test for Helicobacter pylori](topics/hbag-stool-test-for-helicobacter-pylori/)
@@ -542,7 +546,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Stomach acid test](topics/stomach-acid-test/)
 * [Total iron-binding capacity test](topics/total-iron-binding-capacity-test/)
 * [Treatment as test](topics/treatment-as-test/) (a.k.a. test of treatment)
-* [Visual contrast sensitivity (VCS) test](topica/visual-contrast-sensitivity-test/)
+* [Visual contrast sensitivity (VCS) test](topics/visual-contrast-sensitivity-test/)
 * [Western blot test](topics/western-blot-test/) (a.k.a. immunoblot)
 
 ### [Diagnostics companies]
@@ -560,6 +564,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Computed tomography (CT)](topics/computed-tomography/)
 * [Digital motion x-ray (DMX)](topics/digital-motion-x-ray/)
 * [Magnetic resonance angiography (MRA)](topics/magnetic-resonance-angiography/)
+* [Magnetic resonance imaging (MRI)](topics/magnetic-resonance-imaging/)
 * [Magnetic resonance cholangiopancreatography (MRCP)](topics/magnetic-resonance-cholangiopancreatography/)
 
 ### [Mold exposure diagnostics](topics/mold-exposure-diagnostics/)
@@ -700,7 +705,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Tricyclic antidepressants (TCAs)](topics/tricyclic-antidepressants/)
 
-* [Tricyclic antidepressants (TCAs) versus other antidepressants](topics/tricyclic-antidepressants-tcas-versus-other-antidepressants/)
+* [Tricyclic antidepressants versus other antidepressants](topics/tricyclic-antidepressants-versus-other-antidepressants/)
 * [Nortriptyline](topics/nortriptyline/)
 
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
@@ -808,7 +813,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Glossary of medical tests](topics/glossary-of-medical-tests/)
 * [Glossary of units of measurement](topics/glossary-of-units-of-measurement/)
 * [Glossary of medical abbreviations](topics/glossary-of-medical-abbreviations/)
-* [Sensitivity versus specificity](topics/sensitivity-vs-specificity/)
+* [Sensitivity versus specificity](topics/sensitivity-versus-specificity/)
   
 ### [Conclusion](topics/conclusion/)
 

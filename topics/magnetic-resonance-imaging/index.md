@@ -1,3 +1,5 @@
+[//]: # (source: gpt-40)
+
 # Magnetic resonance imaging (MRI)
 
 Magnetic Resonance Imaging (MRI) is a non-invasive diagnostic technique that uses powerful magnetic fields, radio waves, and a computer to generate detailed images of the body's internal structures. Unlike X-rays or CT scans, MRI does not use ionizing radiation, making it a safer option for imaging, especially for repeated use. MRI is particularly useful for visualizing soft tissues, such as the brain, spinal cord, muscles, and joints, providing high-resolution images that are crucial for accurate diagnosis and treatment planning.

@@ -31,8 +31,3 @@
 * 12% Anxiety and/or panic
 * 12% Vertebral disease
 * 12% Cardiovascular malformations
-* 11% Dermatitides
-* 11% [Presyncope](../presyncope/) and/or syncope
-* 11% Interstitial cystitis
-* 10% Chronic kidney disease
-* 10% [Postural Orthostatic Tachycardia Syndrome (POTS)](../postural-orthostatic-tachycardia-syndrome/)

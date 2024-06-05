@@ -26,6 +26,7 @@ Shopping for Mast Cell Activation Syndrome (MCAS), allergies, and histamine into
 * [Shop for shampoo](../shop-for-shampoo/)
 * [Shop for deodorant](../shop-for-deodorant/)
 * [Shop for skincare](../shop-for-skincare/)
+* [Shop for sunscreen](../shop-for-sunscreen/)
 * [Shop for personal care products](../shop-for-personal-care-products/)
 * [Shop for laundry detergent](../shop-for-laundry-detergent/)
 * [Shop for cleaners](../shop-for-cleaners/)

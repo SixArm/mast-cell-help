@@ -1,6 +1,6 @@
-# Complement C3 + C4 test
+# Complement C3 + C4 blood test
 
-The Complement C3 + C4 test is a blood test used to measure the levels of complement proteins C3 and C4 in the blood. Complement proteins C3 and C4 are key components of the complement system, a group of proteins that play a central role in the innate immune response, inflammation, and host defense against pathogens.
+The complement C3 + C4 blood test measures the levels of complement proteins C3 and C4 in the blood. Complement proteins C3 and C4 are key components of the complement system, a group of proteins that play a central role in the innate immune response, inflammation, and host defense against pathogens.
 
 **Overview**:
 

@@ -1,3 +1,5 @@
+[//]: # (source: gpt-40)
+
 # Prostaglandins
 
 Prostaglandins are a group of lipid compounds derived from fatty acids that play a crucial role in the body's physiological functions. They act as signaling molecules involved in a wide range of processes, including inflammation, pain regulation, blood flow, the formation of blood clots, and the induction of labor. Unlike hormones, which are secreted by specific glands and travel through the bloodstream to distant targets, prostaglandins are produced at the site of tissue damage or infection, where they exert their effects locally.

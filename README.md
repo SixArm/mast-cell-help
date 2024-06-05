@@ -199,6 +199,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Flash-frozen food](topics/flash-frozen-food/)
 * [Nutrigenomics](topics/nutrigenomics/)
 
+### [Food sensitivities](topics/food-sensitivities/)
+
+* [Gluten sensitivity](topics/gluten-sensitivity/)
+* [Dairy sensitivity](topics/dairy-sensistivity/)
+* [Oxalate sensitivity](topics/oxalate-sensitivity/)
+* [Salicylate sensitivity](topics/salicylate-sensitivity/)
+
 ### [Elimination diet](topics/elimination-diet/)
 
 * [Low-histamine diet](topics/low-histamine-diet/)
@@ -394,6 +401,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)
 
+### [Hashimoto's thyroiditis](topics/hashimotos-thyroiditis/)
+
 ### [Histamine psychosis](topics/histamine-psychosis/)
 
 ### [Hypertension](topics/hypertension/)
@@ -523,8 +532,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Anti-IgE IgG test](topics/anti-ige-igg-test/)
 * [Antineutrophil cytoplasmic antibodies (ANCA) test](topics/antineutrophil-cytoplasmic-antibodies-test/)
 * [Bone marrow biopsy](topics/bone-marrow-biopsy/)
-* [Complement C3 + C4 test](topics/complement-c3-c4-test/)
+* [Complement C3 + C4 test](topics/complement-c3-c4-blood-test/)
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
+* [Complement AH50 blood test](topics/complement-ah50-blood-test/)
+* [Complement CH50 blood test](topics/complement-ch50-blood-test/)
 * [Complete blood count (CBC)](topics/complete-blood-count/)
 * [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
 * [Esophageal pH test](topics/esophageal-ph-test/)
@@ -738,6 +749,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Microbiota](topics/microbiota/)
 
+### [Prostaglandins](topics/prostaglandins/)
+
 ### [Videos](topics/videos/)
 
 * [What is the role of mast cells in inflammation? - By Animated Biology with Arpan](topics/what-is-the-role-of-mast-cells-in-inflammation-by-animated-biology-with-arpan/)
@@ -767,20 +780,21 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Shop](topics/shop/)
 
-* [Shop for food & drinks](topics/shop-for-food-and-drinks/)
-* [Shop for nutrition shakes](topics/shop-for-nutrition-shakes/)
-* [Shop for protein powder](topics/shop-for-protein-powder/)
-* [Shop for snacks](topics/shop-for-snacks/)
-* [Shop for electrolytes](topics/shop-for-electrolytes/)
-* [Shop for shampoo](topics/shop-for-shampoo/)
-* [Shop for deodorant](topics/shop-for-deodorant/)
-* [Shop for skincare](topics/shop-for-skincare/)
-* [Shop for personal care products](topics/shop-for-personal-care-products/)
-* [Shop for laundry detergent](topics/shop-for-laundry-detergent/)
-* [Shop for cleaners](topics/shop-for-cleaners/)
-* [Shop for digestive enzymes](topics/shop-for-digestive-enzymes/)
-* [Shop for air purifiers](topics/shop-for-air-purifiers/)
-* [Shop for cookware](topics/shop-for-cookware/)
+* [Food & drinks](topics/shop-for-food-and-drinks/)
+* [Nutrition shakes](topics/shop-for-nutrition-shakes/)
+* [Protein powder](topics/shop-for-protein-powder/)
+* [Snacks](topics/shop-for-snacks/)
+* [Electrolytes](topics/shop-for-electrolytes/)
+* [Shampoo](topics/shop-for-shampoo/)
+* [Deodorant](topics/shop-for-deodorant/)
+* [Skincare](topics/shop-for-skincare/)
+* [Sunscreen](topics/shop-for-sunscreen/)
+* [Personal care products](topics/shop-for-personal-care-products/)
+* [Laundry detergent](topics/shop-for-laundry-detergent/)
+* [Cleaners](topics/shop-for-cleaners/)
+* [Digestive enzymes](topics/shop-for-digestive-enzymes/)
+* [Air purifiers](topics/shop-for-air-purifiers/)
+* [Cookware](topics/shop-for-cookware/)
 
 ### Organizations
 

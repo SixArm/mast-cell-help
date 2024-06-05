@@ -1,6 +1,6 @@
 # Complement C4-A blood test
 
-The complement C4-A blood test measures the levels of complement component 4A (C4-A) in the blood. The complement system is a part of the immune system that plays a crucial role in the body's defense against infections and the clearance of damaged or abnormal cells. Complement C4-A is a specific subtype of the complement protein C4.
+The complement C4-A blood test measures the levels of the complement component 4A (C4-A) in the blood. The complement system is a part of the immune system that plays a crucial role in the body's defense against infections and the clearance of damaged or abnormal cells. Complement C4-A is a specific subtype of the complement protein C4.
 
 **Key points**:
 

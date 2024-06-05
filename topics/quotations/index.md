@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: quotations)
+
 # Quotations
 
 "For months I had an exclusive diet of rice, chicken, carrots, cooked apples. I noticed a change in my body that prompted me to introduce new foods and now I can eat potatoes, blueberries, sweet potatoes, cola, coffee, ginger ale, meat, tea . During all these months I have taken care of my diet, I have tried to relax, calm my central nervous system and take my medications (fexofenadine am and pm, glutamine, vitamin d3, vitamin c, probiotic, montelukast). I believe that healing is possible and that is what I wish for everyone."

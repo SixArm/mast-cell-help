@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions causes)
+
 # Hypotension causes
 
 Hypotension (low blood pressure) has various potential causes and types, including:

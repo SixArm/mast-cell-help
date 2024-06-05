@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Kawasaki disease
 
 Kawasaki disease, also known as Kawasaki syndrome, is a rare but serious condition that primarily affects children under the age of 5. It causes inflammation in the walls of medium-sized arteries throughout the body, including the coronary arteries, which supply blood to the heart. The exact cause of Kawasaki disease is unknown, but it is believed to involve a combination of genetic factors, environmental triggers, and an abnormal immune response.

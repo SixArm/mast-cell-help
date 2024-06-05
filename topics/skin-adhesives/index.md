@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: triggers)
+
 # Skin adhesives
 
 Skin adhesives can cause symptoms, such as when a person uses bandages, or medical monitoring electrodes.

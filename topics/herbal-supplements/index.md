@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals supplements)
+
 # Herbal supplements
 
 Herbal supplements are products made from plants or plant extracts that are taken orally to supplement the diet and promote health and well-being. They have been used for centuries in various cultures for their purported medicinal properties.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: VOC)
+[//]: # (tags: triggers)
+
 # Volatile organic compounds (VOCs)
 
 Volatile Organic Compounds (VOCs) are a group of organic chemicals that have a high vapor pressure at room temperature, meaning they can easily evaporate into the air. See also [activated carbon filters](../activated-carbon-filters/).

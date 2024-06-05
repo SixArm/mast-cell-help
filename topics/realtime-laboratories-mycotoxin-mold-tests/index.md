@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: toxin tests companies)
+
 # RealTime Laboratories mycotoxin mold tests
 
 The RealTime total mycotoxin panel tests for the presence of 16 of the most common and toxic mycotoxins produced by indoor mold contaminants. RealTime offers complimentary physician consultations with a RealTime medical consultant to help explain patient result. RealTime offers complimentary patient consultations with the RealTime Patient Navigator to help people understand their results.

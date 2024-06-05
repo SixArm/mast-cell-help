@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Histone antibodies test
 
 A histone antibodies test is a blood test that measures the levels of antibodies against histones in the blood. Histones are proteins found in the nucleus of cells, where they help package and organize DNA. Antibodies are proteins produced by the immune system that target foreign substances, such as viruses or bacteria, but in some cases, they can also target the body's own proteins, leading to autoimmune diseases.

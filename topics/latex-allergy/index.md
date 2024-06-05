@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergies)
+
 # Latex allergy
 
 Latex allergy is an allergic reaction to latex, a natural rubber material derived from the sap of the rubber tree (Hevea brasiliensis). Latex is commonly used in a wide range of products, including gloves, condoms, balloons, rubber bands, medical devices, and certain types of clothing and footwear. Individuals with latex allergy develop an immune response to proteins found in natural latex rubber, leading to allergic reactions upon exposure.

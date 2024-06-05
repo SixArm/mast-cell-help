@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components)
+
 # Phosphatidylcholine
 
 Phosphatidylcholine is a type of phospholipid, a class of lipids that are essential components of cell membranes. Phosphatidylcholine also is a precursor for the neurotransmitter acetylcholine, which is involved in memory, learning, and muscle contraction.

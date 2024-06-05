@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: steroids corticosteroids mineralocorticoids medications)
+
 # Fludrocortisone
 
 Fludrocortisone is a synthetic corticosteroid medication that is used for its mineralocorticoid properties.

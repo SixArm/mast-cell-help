@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: BMS)
+[//]: # (tags: conditions)
+
 # Burning mouth syndrome (BMS)
 
 Burning Mouth Syndrome (BMS) is a complex and often painful condition characterized by a burning sensation in the mouth, typically on the tongue, lips, palate, or throughout the entire oral cavity. This condition can also be referred to as "glossodynia", "stomatodynia", or "oral dysesthesia". BMS is a chronic condition that can persist for months or even years.

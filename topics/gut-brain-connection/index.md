@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: processes)
+
 # Gut-brain connection
 
 The gut-brain connection refers to the bidirectional interaction between the gastrointestinal (GI) tract (the gut) and the brain, such as via the nervous system, the immune system, and the endocrine system.

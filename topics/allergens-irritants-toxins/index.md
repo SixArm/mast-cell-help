@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergens irritants toxins)
+
 # Allergens, irritants, toxins
 
 Allergens, irritants, and toxins are terms used to describe substances that can have adverse effects on human health. While they are related concepts, there are distinctions in their definitions and the ways they impact the body. The distinctions can be helpful when discussing health conditions, exposures to substances, and symptom triggers.

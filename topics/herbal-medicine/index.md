@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals treatments)
+
 # Herbal medicine
 
 Herbal medicine, also known as botanical medicine or phytotherapy, is the use of plants or plant extracts for therapeutic purposes. Herbal medicines contain active compounds that can have physiological effects on the body, such as alkaloids, flavonoids, terpenes, and phenolic acids. Different parts of the plant, including leaves, flowers, roots, seeds, and bark, may be used in herbal preparations.

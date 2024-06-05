@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: KPV)
+[//]: # (tags: supplements amino-acids)
+
 # Lysine-proline-valine (KPV)
 
 Lysine-proline-valine, abbreviated as KPV, represents a sequence of three amino acids: lysine (K), proline (P), and valine (V). These are essential amino acids, meaning that the body cannot produce them on its own and must obtain them through dietary sources. Amino acids are the building blocks of proteins.

@@ -1,6 +1,11 @@
+[//]: # (source: ?)
+[//]: # (tags: allergies)
+[//]: # (aka: gold sensitivity)
+[//]: # (aka: contact dermatitis to gold)
+
 # Gold allergy
 
-Gold allergy, also known as gold hypersensitivity or contact dermatitis to gold, is an allergic reaction to gold or gold-containing materials. Gold is a relatively inert metal and is generally considered hypoallergenic. However, allergic reactions to gold can occur in some individuals, particularly those with sensitive skin or a predisposition to metal allergies. Patch testing may be performed by a dermatologist to confirm the diagnosis.
+Gold allergy, also known as gold sensitivity or contact dermatitis to gold, is an allergic reaction to gold or gold-containing materials. Gold is a relatively inert metal and is generally considered hypoallergenic. However, allergic reactions to gold can occur in some individuals, particularly those with sensitive skin or a predisposition to metal allergies. Patch testing may be performed by a dermatologist to confirm the diagnosis.
 
 **Symptoms**:
 

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Asthma lifestyle management
 
 [Asthma](../asthma/) lifestyle management means you can adjust your daily activities to help improve your condition.

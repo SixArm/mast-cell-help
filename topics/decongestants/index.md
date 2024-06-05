@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: decongestants medications)
+
 # Decongestants
 
 Decongestants are medications commonly used to relieve nasal congestion by narrowing the blood vessels in the nasal passages. They are often used to alleviate symptoms associated with conditions such as the common cold, flu, sinusitis, or allergies.

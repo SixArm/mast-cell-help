@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Probiotic supplements
 
 Probiotics are live microorganisms, mainly bacteria and yeast, that confer health benefits when consumed in adequate amounts. Probiotic supplements are formulations designed to provide a concentrated source of these beneficial microorganisms.

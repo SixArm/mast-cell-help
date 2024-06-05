@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: psychology treatments)
+
 # Buteyko breathing method
 
 The Buteyko Breathing Method is a set of breathing techniques designed to address various health issues, particularly those related to breathing difficulties and respiratory conditions, by teaching individuals how to modify their breathing patterns.

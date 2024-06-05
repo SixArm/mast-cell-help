@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Cholestasis
 
 Cholestasis is a condition characterized by a reduction or cessation of bile flow from the liver into the intestine. Cholestasis can be a serious condition, especially if left untreated, as it can lead to liver damage and complications. Early diagnosis and appropriate management are crucial.

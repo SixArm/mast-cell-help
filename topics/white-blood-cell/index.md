@@ -1,3 +1,9 @@
+[//]: # (source: ?)
+[//]: # (abbr: WBC)
+[//]: # (aka: leukocyte)
+[//]: # (tags: component blood)
+[//]: # (cf: red blood cell)
+
 # White blood cell (WBC)
 
 White blood cells (WBCs), also known as leukocytes, are a crucial component of the immune system and play a key role in defending the body against infections and foreign invaders. They are produced in the bone marrow and circulate throughout the bloodstream, where they can travel to sites of infection and inflammation to combat pathogens.

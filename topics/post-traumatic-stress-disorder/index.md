@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PTSD)
+[//]: # (tags: diagnoses)
+
 # Post-traumatic stress disorder (PTSD)
 
 Post-traumatic stress disorder (PTSD) is a mental health condition that can develop after experiencing or witnessing a traumatic event. It's characterized by a range of symptoms that can significantly impact a person's daily life, including their thoughts, emotions, and behaviors.

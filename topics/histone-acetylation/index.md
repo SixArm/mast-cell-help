@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: processes)
+
 # Histone acetylation
 
 Histone acetylation is a biochemical process that involves the addition of acetyl groups to histone proteins, which are proteins that help package and organize DNA in the nucleus of cells. This process is a key mechanism in the regulation of gene expression, as histone acetylation typically results in a more open chromatin structure, allowing for easier access of transcriptional machinery to DNA.

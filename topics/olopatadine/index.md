@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Patanase, Pataday, Pazeo)
+[//]: # (tags: antihistamines medications)
+
 # Olopatadine
 
 Olopatadine is an antihistamine medication used primarily for the treatment of allergic conditions affecting the eyes, such as allergic conjunctivitis. Olopatadine ophthalmic solution is an effective and well-tolerated treatment option for allergic conjunctivitis, providing rapid relief of symptoms with twice-daily dosing. Brand names: Patanase, Pataday, Pazeo.

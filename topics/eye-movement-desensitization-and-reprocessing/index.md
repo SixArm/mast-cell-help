@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: EMDR)
+[//]: # (tags: psychology treatments)
+
 # Eye Movement Desensitization and Reprocessing (EMDR)
 
 Eye Movement Desensitization and Reprocessing (EMDR) is a psychotherapy approach to treat individuals who have experienced traumatic events. EMDR is based on the idea that traumatic experiences can become "stuck" in the brain, leading to symptoms such as intrusive memories, flashbacks, nightmares, and emotional distress. The goal of EMDR therapy is to help individuals process these traumatic memories and alleviate associated symptoms by accessing and reprocessing the memories in a safe and controlled way.

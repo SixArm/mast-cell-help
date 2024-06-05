@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Bromelain
 
 Bromelain is a mixture of proteolytic enzymes found in the pineapple plant (Ananas comosus). It is commonly used as a dietary supplement for its health benefits, including anti-inflammatory, analgesic, and digestive properties. People with allergies to pineapple should avoid bromelain.

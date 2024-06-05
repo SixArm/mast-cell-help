@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: security records)
+
 # Data protection
 
 If a provider says "intake" or "history", then ask them to put in writing that your data is solely for the provider for one-on-one treatment, and never for the provider's vendors for advertising, marketing, promotion, aggregation, or anonymization.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergies)
+
 # Garlic  allergy
 
 [Source](https://www.allergycliniclondon.co.uk/three-less-common-food-allergies-you-might-not-know-about/)

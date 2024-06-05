@@ -1,6 +1,10 @@
+[//]: # (source: ?)
+[//]: # (brands: Periactin, Ciplactin, Cyheptine, Cyprogin, Cyprono, Cyprosian, Klarivitina, Nuran, Periactine, Periactinol, Peritol, Polytab, Practin, Preptin, Supersan, Trimetabol)
+[//]: # (tags: antihistamines)
+
 # Cyproheptadine
 
-Cyproheptadine is a first-generation antihistamine medication with additional anticholinergic and antiserotonergic properties. It provides rapid relief of symptoms but may cause sedation and other CNS side effects.
+Cyproheptadine is a first-generation antihistamine medication with additional anticholinergic and antiserotonergic properties. It provides rapid relief of symptoms but may cause sedation and other CNS side effects. Brand names: Periactin, Ciplactin, Cyheptine, Cyprogin, Cyprono, Cyprosian, Klarivitina, Nuran, Periactine, Periactinol, Peritol, Polytab, Practin, Preptin, Supersan, Trimetabol.
 
 **Key points**:
 

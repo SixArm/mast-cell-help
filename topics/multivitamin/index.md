@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements vitamins)
+
 # Multivitamin
 
 A multivitamin is a dietary supplement that contains a combination of essential vitamins and minerals. These supplements are designed to provide a convenient way to ensure that you get the recommended daily intake of various vitamins and minerals, especially when your diet may not provide all the necessary nutrients. Multivitamins come in various formulations, catering to different age groups, genders, and specific nutritional needs.

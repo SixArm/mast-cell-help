@@ -1,6 +1,10 @@
+[//]: # (source: ?)
+[//]: # (brands: Tavist Allergy, Dayhist Allergy)
+[//]: # (tags: antihistamines)
+
 # Clemastine
 
-Clemastine is a first-generation antihistamine medication used primarily for the treatment of allergic conditions such as allergic rhinitis (hay fever), allergic conjunctivitis, and itching associated with chronic urticaria (hives). It provides rapid relief of symptoms but requires twice-daily dosing and may cause sedation and other CNS side effects. 
+Clemastine is a first-generation antihistamine medication used primarily for the treatment of allergic conditions such as allergic rhinitis (hay fever), allergic conjunctivitis, and itching associated with chronic urticaria (hives). It provides rapid relief of symptoms but requires twice-daily dosing and may cause sedation and other CNS side effects. Brand names: Tavist Allergy, Dayhist Allergy.
 
 **Key points**:
 

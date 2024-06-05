@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms differentials)
+
 # Adrenaline dump versus histamine dump
 
 An adrenaline dump feels like one or more of these:

@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: quotations)
+
 # Doctor quotations
 
 "Why do you want it to be something I can't treat?"

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Low stomach acid suggestions
 
 Try acid supplements such as Betaine HCL or liquid HCL.

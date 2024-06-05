@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Allergy testing
 
 Allergy testing is a medical procedure used to identify specific substances or allergens that may trigger an allergic reaction in an individual.

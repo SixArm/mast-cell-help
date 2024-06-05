@@ -1,6 +1,12 @@
+[//]: # (source: ?)
+[//]: # (aka: subcutaneous immunotherapy (SCIT))
+[//]: # (aka: sublingual immunotherapy (SLIT))
+[//]: # (cf: allergy-drops)
+[//]: # (tags: immunotherapies)
+
 # Allergy shots
 
-Allergy shots are a form of treatment for allergies. The shots drops desensitize individuals to specific allergens, such as pollen, dust mites, pet dander, and molds. Allergy shots are also known as subcutaneous immunotherapy (SCIT), and they are an alternative to [allergy drops](../allergy-drops/), also known as sublingual immunotherapy (SLIT/).
+Allergy shots are a form of treatment for allergies. The shots drops desensitize individuals to specific allergens, such as pollen, dust mites, pet dander, and molds. Allergy shots are also known as subcutaneous immunotherapy (SCIT), and they are an alternative to [allergy drops](../allergy-drops/), also known as sublingual immunotherapy (SLIT).
 
 **Key points**:
 

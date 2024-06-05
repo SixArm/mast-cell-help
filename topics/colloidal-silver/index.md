@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Colloidal silver
 
 Colloidal silver is a suspension of tiny silver particles in a liquid, typically water. It has been used for centuries for its purported antimicrobial properties and has been marketed as a dietary supplement, topical remedy, and disinfectant. However, its safety and effectiveness are debated.

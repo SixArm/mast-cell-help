@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: ME)
+[//]: # (tags: diagnoses)
+
 # Myalgic encephalomyelitis (ME)
 
 Myalgic encephalomyelitis (ME), also known as chronic fatigue syndrome (CFS), is a complex and debilitating medical condition characterized by profound fatigue. ME/CFS affects multiple body systems, including the immune, neurological, and endocrine systems. ME/CFS can significantly impair a person's ability to carry out daily activities.

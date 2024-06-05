@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: psychology treatments)
+
 # Meditation
 
 Meditation is a practice that involves focusing the mind and calming the thoughts, to achieve a state of mental clarity, relaxation, and heightened awareness. It has been practiced for thousands of years in various cultures and spiritual traditions.

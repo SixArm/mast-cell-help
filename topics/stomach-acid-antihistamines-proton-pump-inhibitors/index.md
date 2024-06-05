@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: stomach-acid antihistamines proton-pump-inhibitors)
+
 # Stomach acid + antihistamines + proton pump inhibitors
 
 Stomach acid is necessary for digestion. The parietal cells of the stomach produce hydrochloric acid, the main constituent of gastric juice. Hydrochloric acid breaks down the food we eat, and kills pathogenic bacteria, and prompts the release of digestive enzymes from the pancreas and bile from the gall bladder.

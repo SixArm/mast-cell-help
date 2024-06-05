@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: severities)
+
 # Anaphylaxis emergency grades
 
 [Anaphylaxis](../anaphylaxis/) emergency grades for communicating with emergency healthcare providers: [Source](https://www.worldallergyorganizationjournal.org/article/S1939-4551(24)00007-3/pdf)

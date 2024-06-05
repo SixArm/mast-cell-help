@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Omega-3
 
 Omega-3 fatty acids are a class of essential polyunsaturated fats that are important for various aspects of human health. These fats are considered essential because the human body cannot synthesize them on its own and must obtain them from dietary sources.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components)
+
 # Serrapeptase
 
 Serrapeptase, also known as serratiopeptidase, is a proteolytic enzyme produced by the bacterium Serratia marcescens found in the intestines of silkworms. Serrapeptase is a popular natural supplement remedy with potential anti-inflammatory, pain-relieving, and mucolytic properties.

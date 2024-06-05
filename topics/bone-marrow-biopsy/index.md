@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests biopsies)
+
 # Bone marrow biopsy
 
 A bone marrow biopsy is a medical procedure in which a small sample of bone marrow tissue is extracted for examination. The bone marrow is the spongy tissue found within the cavities of certain bones, such as the hipbone, sternum (breastbone), and the long bones of the arms and legs.

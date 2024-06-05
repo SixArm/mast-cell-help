@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CM)
+[//]: # (tags: conditions)
+
 # Cutaneous mastocytosis (CM)
 
 Cutaneous mastocytosis (CM) primarily affects the skin and is more common in children.

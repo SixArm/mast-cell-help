@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: genetics)
+
 # Genetic mutation
 
 A genetic mutation is an alteration in the DNA sequence of an organism's genome. A mutation can lead to a wide range of effects, from no discernible impact to significant changes in an organism's traits and characteristics. Genetic mutations are a fundamental driver of evolution and are central to the understanding of genetics and inherited traits.

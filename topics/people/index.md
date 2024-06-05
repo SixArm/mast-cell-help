@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: persons)
+
 # People
 
 People who are especially involved in the evolving diagnosis of MCAS, including the "consensus 2" criteria:

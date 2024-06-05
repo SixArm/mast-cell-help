@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: device)
+
 # Heart rate variability monitor
 
 A heart rate variability (HRV) monitor is a device used to measure the variation in time intervals between consecutive heartbeats, reflecting the body's autonomic nervous system activity. It's a key indicator of the balance between the sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) branches of the nervous system. 

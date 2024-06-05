@@ -1,4 +1,5 @@
 [//]: # (source: gpt-40)
+[//]: # (tags: herbals)
 
 # Mastic gum
 

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antihistamines medications)
+
 # Levocetirizine
 
 Levocetirizine is an antihistamine medication that is commonly used to relieve symptoms associated with allergic conditions. It is the active enantiomer of cetirizine and belongs to the second-generation antihistamine class.

@@ -1,3 +1,6 @@
+[//]: # (source: https://www.re-origin.com/)
+[//]: # (tags: neuroplasticity brands)
+
 # Re-Origin™
 
 [Re-origin website](https://www.re-origin.com/) excerpts…

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Welchol)
+[//]: # (tags: anticholesterols bile-acid-sequestrants)
+
 # Colesevelam
 
 Colesevelam is a medication used to lower cholesterol levels in people with high cholesterol and to improve glycemic control in individuals with type 2 diabetes mellitus. Brand name: Welchol.

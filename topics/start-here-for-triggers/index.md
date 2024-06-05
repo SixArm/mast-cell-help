@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: starters)
+
 # Start here to find your triggers
 
 Triggers refers to whatever causes your symptoms. Some triggers are hard to find: you may have a low-level intolerance to a trigger that's in many of your household products, or that adds up over time in your body.

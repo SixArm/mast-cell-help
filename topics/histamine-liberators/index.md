@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: categories)
+
 # Histamine liberators
 
 Histamine liberators are substances that trigger the release of histamine from mast cells and basophils, which are types of immune cells involved in allergic reactions and inflammation. When histamine is released into the bloodstream, it can cause a variety of symptoms associated with allergic responses, such as itching and hives.

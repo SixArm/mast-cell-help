@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: resources)
+
 # Support groups
 
 A serious medical condition can have significant impact on a person's health and quality of life. Support groups can be valuable resources for individuals, as they provide a platform for sharing experiences, seeking advice, and finding emotional support from others.

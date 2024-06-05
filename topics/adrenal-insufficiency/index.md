@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: Addison's disease)
+[//]: # (tags: conditions)
+
 # Adrenal insufficiency
 
 Adrenal insufficiency, also known as Addison's disease, is a rare but serious condition that occurs when the adrenal glands do not produce enough cortisol and, in some cases, aldosterone. The adrenal glands are located on top of each kidney, and play a crucial role in producing hormones that regulate bodily functions.

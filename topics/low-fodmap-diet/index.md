@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-FODMAP diet
 
 A low-FODMAP diet is a dietary approach designed to manage and alleviate gastrointestinal symptoms, particularly in individuals with irritable bowel syndrome (IBS). The goal is to identify and manage specific triggers, then develop an eating plan. FODMAPs are types of carbohydrates that can be poorly absorbed in the small intestine. When these carbohydrates reach the colon, they can be fermented by gut bacteria, leading to gas production and gastrointestinal discomfort in some people.

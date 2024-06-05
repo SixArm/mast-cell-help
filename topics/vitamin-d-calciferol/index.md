@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: calciferol)
+[//]: # (tags: vitamins)
+
 # Vitamin D (calciferol)
 
 Vitamin D (also known as calciferol) is a fat-soluble vitamin that plays a crucial role in various physiological processes in the body. It is unique among vitamins because the body can produce it when the skin is exposed to sunlight.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: MIS)
+[//]: # (tags: diagnoses)
+
 # Multisystem Inflammatory Syndrome (MIS)
 
 Multisystem Inflammatory Syndrome (MIS) is a rare and severe medical condition characterized by significant inflammation in multiple organ systems.

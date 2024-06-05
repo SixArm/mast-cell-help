@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (abbr: RBC)
+[//]: # (tags: components blood)
+[//]: # (cf: white blood cell)
+
 # Red blood cell (RBC)
 
 Red blood cells (RBCs), also known as erythrocytes, are the most abundant type of blood cell in the human body. They are essential for the transport of oxygen from the lungs to the body's tissues, and for the transport of carbon dioxide, a waste product of metabolism, from the tissues back to the lungs for exhalation.

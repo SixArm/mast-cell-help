@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CBC)
+[//]: # (tags: tests)
+
 # Complete blood count (CBC)
 
 A complete blood count (CBC) is a common blood test. It is used by healthcare providers to assess overall health, screen for various medical conditions, and monitor the effectiveness of treatments. 

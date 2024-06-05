@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: bacteria)
+
 # Borrelia
 
 Borrelia is a genus of bacteria belonging to the spirochete phylum. The most well-known species within this genus is Borrelia burgdorferi, which is responsible for causing Lyme disease, a tick-borne illness.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: microorganisms)
+
 # Microbiome testing
 
 Microbiome testing involves analyzing the microorganisms that inhabit a particular environment, such as the gut, skin, or mouth. The human microbiome consists of trillions of microorganisms, including bacteria, viruses, fungi, and other microbes. These microorganisms play a crucial role in health, digestion, immune function, and metabolism. A healthy microbiome is often characterized by a high diversity of microorganisms.

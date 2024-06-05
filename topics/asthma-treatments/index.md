@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Asthma treatments
 
 [Asthma](../asthma/) is a chronic respiratory condition. Treatment typically involves a combination of medications.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: stress treatments)
+
 # Stress management
 
 Stress management is crucial for maintaining physical well-being and mental well-being. Stress is a part of life, and some level of stress is normal, but chronic stress can lead to a range of health problems.

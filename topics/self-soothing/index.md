@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: psychology treatments)
+
 # Self-soothing
 
 Self-soothing refers to the ability to comfort and calm oneself in times of stress, discomfort, or emotional distress. It can contribute to emotional regulation and overall well-being.

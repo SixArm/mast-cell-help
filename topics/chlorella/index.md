@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: superfoods herbals)
+
 # Chlorella
 
 Chlorella is a type of single-celled green algae that grows in fresh water. It is considered a superfood due to its high nutritional content and potential health benefits. Chlorella is available in various forms, including powder, tablets, capsules, and liquid extracts. It can be consumed on its own or added to smoothies, juices, or other foods and beverages.

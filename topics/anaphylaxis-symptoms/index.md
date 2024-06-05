@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Anaphylaxis symptoms
 
 [Anaphylaxis](../anaphylaxis/) is a severe allergic reaction that can occur rapidly after exposure to an allergen. Anaphylaxis can progress rapidly and can be fatal. Seek emergency help immediately.

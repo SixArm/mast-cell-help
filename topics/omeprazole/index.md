@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: proton-pump-inhibitors medications)
+
 # Omeprazole
 
 Omeprazole is a medication that belongs to a class of drugs known as proton pump inhibitors (PPIs). It works by reducing the production of stomach acid by blocking the action of proton pumps, which are responsible for the secretion of acid into the stomach. Brand name: Prilosec.

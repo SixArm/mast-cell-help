@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: toxins treatments)
+
 # Biotoxin treatments
 
 The treatment of biotoxin-related conditions, such as those associated with mold exposure in Chronic Inflammatory Response Syndrome (CIRS), is complex and often requires a multidisciplinary approach.

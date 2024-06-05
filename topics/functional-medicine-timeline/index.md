@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Functional medicine timeline
 
 The functional medicine timeline is a comprehensive overview of a patient's health history, including key events, exposures, and experiences that may have influenced their current health status.

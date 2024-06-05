@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (aka: cromolyn)
+[//]: # (brands: Gastrocrom)
+[//]: # (tags: mast-cell-stabilizers medications)
+
 # Cromolyn sodium
 
 Cromolyn sodium is a medication that belongs to a class of drugs called mast cell stabilizers. Cromolyn sodium can help treat allergic responses and inflammation. Cromolyn sodium originally derived from a healing herb called ammi visnaga. Brand name: Gastrocrom.

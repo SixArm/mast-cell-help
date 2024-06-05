@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: SAAT) 
+[//]: # (tags: treatments acupunture brands)
+
 # Soliman Auricular Allergy Treatment (SAAT)
 
 Soliman Auricular Allergy Treatment (SAAT) is a technique developed by Dr. Nader Soliman to treat allergies using auricular acupuncture. The approach involves applying acupuncture needles or pressure to specific points on the outer ear (auricle) that correspond to various organ systems and areas of the body.

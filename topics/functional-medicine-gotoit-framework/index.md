@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Functional medicine GOTOIT framework
 
 The functional medicine GOTOIT framework provides a systematic way to assess and address an individual's health and well-being.

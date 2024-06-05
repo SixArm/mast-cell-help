@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-amine diet
 
 A low-amine diet is a dietary approach that restricts foods high in amines, which are compounds naturally present in certain foods. Amines include substances like histamine, tyramine, and phenylethylamine, which can accumulate in certain foods as they age, ferment, or are processed. 

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Potassium supplements
 
 Potassium supplements are dietary supplements that contain potassium. Potassium is an electrolyte, which means it helps conduct electrical impulses in the body and is essential for maintaining proper fluid balance, nerve function, muscle contractions, and heart rhythm.

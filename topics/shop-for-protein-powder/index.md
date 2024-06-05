@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for protein powder
 
 Protein powder recommended by mast cell people. Try to read ingredients lists carefully, because you may want to avoid chocolate, bone broth, collagen, dyes, thickeners, citric acid, or other additives.

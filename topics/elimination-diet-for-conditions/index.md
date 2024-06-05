@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Elimination diet for conditions
 
 The purpose of an elimination diet can vary, and it is often used to identify and manage the following conditions:

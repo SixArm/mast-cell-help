@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Anti-IgE IgG test
 
 The anti-IgE IgG test, also known as anti-immunoglobulin E (IgE) immunoglobulin G (IgG) antibody testing, is a laboratory test used to measure the levels of IgG antibodies directed against IgE antibodies in the bloodstream. This test is often performed in the context of evaluating allergic or hypersensitivity reactions, particularly those mediated by IgE antibodies.

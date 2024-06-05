@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: GAPS)
+[//]: # (tags: diets)
+
 # Gut and Psychology Syndrome (GAPS) diet
 
 The Gut and Psychology Syndrome (GAPS) diet is a therapeutic dietary protocol developed by Dr. Natasha Campbell-McBride, a neurologist and nutritionist. The diet is designed to address conditions related to gut health and is often used to support individuals with digestive issues such as irritable bowel syndrome (IBS), neurological disorders such as autism spectrum disorders, and certain psychological conditions such asa anxiety and depression.

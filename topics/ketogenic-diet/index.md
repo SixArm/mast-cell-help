@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Ketogenic diet
 
 The ketogenic diet, a.k.a. keto diet, is a low-carbohydrate medium-protein high-fat diet. The goal is to induce ketosis, which shifts the body's energy source from carbohydrates and glucose to fat and ketones.

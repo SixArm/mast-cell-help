@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: mast-cell-stabilizers supplements)
+
 # Mast cell stabilizer supplements
 
 Mast cell stabilizer supplements are substances that may help stabilize mast cells, which are immune cells involved in allergic reactions and inflammatory responses. Some natural compounds and dietary supplements may have mast cell stabilizing properties, or may help modulate the immune response. Effectiveness may vary by person.

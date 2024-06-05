@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diagnoses)
+
 # Asthma diagnosis
 
 [Asthma](../asthma/) diagnosis typically involves a combination of [medical history](../medical-history/), [physical examination](../physical-examination/), and [diagnostic tests](../diagnostic-tests/).

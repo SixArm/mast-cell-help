@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Functional medicine - provider rubric
 
 These are my notes about how I choose a functional provider for mast cell issues. These notes are based on my own interactions with hundreds of providers, learning what helps and what causes errors.

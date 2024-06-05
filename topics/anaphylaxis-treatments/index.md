@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Anaphylaxis treatments
 
 [Anaphylaxis](../anaphylaxis/) is a severe and life-threatening allergic reaction that requires immediate medical attention. If you or someone you are with is experiencing anaphylaxis, follow these steps for treatment.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: traditional-chinese-medicine)
+
 # Cupping
 
 Cupping is a [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/) practice that involves placing cups on the skin to create suction. The suction is typically created by heating the air inside the cup or by using a vacuum pump. Cupping is used for pain relief, promoting relaxation, and improving overall well-being.

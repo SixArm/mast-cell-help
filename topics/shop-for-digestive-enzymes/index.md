@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for digestive enzymes
 
 * [Healthy Gut - Holozyme](https://healthygut.com/product/holozyme/)

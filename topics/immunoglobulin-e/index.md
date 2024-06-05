@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: IgE)
+[//]: # (tags: immunoglobulins antibodies components)
+
 # Immunoglobulin E (IgE)
 
 Immunoglobulin E (IgE) is a type of antibody that plays a crucial role in the immune system's response to allergens and parasitic infections. It is produced by specialized white blood cells called plasma cells and is found in small amounts in the bloodstream.

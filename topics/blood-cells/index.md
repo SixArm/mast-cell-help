@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components blood)
+
 # Blood cells
 
 Blood is composed of various types of cells that serve different functions in the body. Blood cells are produced in the bone marrow, a spongy tissue found within the cavities of certain bones.

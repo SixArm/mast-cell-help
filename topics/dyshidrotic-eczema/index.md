@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Dyshidrotic eczema
 
 Dyshidrotic eczema, also known as dyshidrosis or pompholyx, is a type of eczema characterized by small, intensely itchy blisters that typically develop on the hands and feet. These blisters are often filled with clear fluid and can cause discomfort and irritation. Dyshidrotic eczema can be acute or chronic and may occur in episodes or flare-ups.

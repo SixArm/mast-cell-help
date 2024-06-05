@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: serverities)
+
 # Asthma severity
 
 [Asthma](../asthma/) can vary in severity from person to person.

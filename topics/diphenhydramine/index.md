@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Benadryl)
+[//]: # (tags: antihistamine)
+
 # Diphenhydramine
 
 Diphenhydramine is an antihistamine that is commonly used to relieve symptoms associated with allergies and allergic reactions. Brand name: Benadryl.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: neurotranmitters components)
+
 # Histamine
 
 Histamine is a biologically active compound that acts as a neurotransmitter and plays several important roles in the body. It is produced and released by mast cells and basophils, two types of white blood cells, as well as by certain cells in the stomach lining.

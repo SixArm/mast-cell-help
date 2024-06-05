@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Histamine testing
 
 Histamine testing is often done to assess the levels of histamine in the body, particularly in cases where there is suspicion of histamine intolerance or other conditions related to histamine regulation. Histamine is a chemical involved in several bodily functions, including the immune response, regulation of stomach acid, and neurotransmission.

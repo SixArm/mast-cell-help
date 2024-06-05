@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-lectin diet
 
 A low-lectin diet is a dietary approach that restricts the intake of foods high in lectins, which are naturally occurring proteins found in a variety of plant-based foods. Lectins serve various functions in plants, including defense against pests and pathogens. While lectins are not inherently harmful to most people when consumed in normal amounts, some individuals may choose to reduce their dietary lectin intake due to concerns about potential adverse effects on health.

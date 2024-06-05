@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Allergic rhinitis
 
 Allergic rhinitis, commonly known as hay fever, is an allergic reaction that occurs when the immune system overreacts to allergens in the air, such as pollen, dust mites, pet dander, or mold spores. It's a prevalent condition that affects millions of people.

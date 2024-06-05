@@ -1,4 +1,6 @@
 [//]: # (source: gpt-40)
+[//]: # (aka: oxaloacetate)
+[//]: # (tags: components)
 
 # Oxaloacetic acid
 

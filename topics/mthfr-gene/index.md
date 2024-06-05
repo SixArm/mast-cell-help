@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: genes)
+
 # MTHFR gene
 
 The MTHFR gene provides instructions for making an enzyme called methylenetetrahydrofolate reductase. This enzyme is involved in the processing of folate (also known as vitamin B9) in the body.

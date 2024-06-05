@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Garlic
 
 Garlic has been used for its medicinal properties for centuries, and it contains various bioactive compounds that are believed to contribute to its health benefits. Key components are allicin, sulfides, saponins, and flavonoids.

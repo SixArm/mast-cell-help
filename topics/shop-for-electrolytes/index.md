@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for electrolytes
 
 Electrolytes recommended by mast cell people. Read ingredients lists because you may want specific levels of specific electrolytes, and may want to avoid citric acid or other additives.

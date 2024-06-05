@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components body-complement-system)
+
 # Complement C3 protein
 
 Complement C3 is a crucial protein that helps the body fight infections and clear away damaged cells. C3 is a central component of the complement cascade, which consists of a series of proteins that work together to recognize and eliminate pathogens, opsonize (mark for destruction) microbes, and induce inflammatory responses.

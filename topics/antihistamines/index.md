@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antihistamines)
+
 # Antihistamines
 
 Antihistamines are a class of medications that are commonly used to treat allergic reactions and allergic symptoms.

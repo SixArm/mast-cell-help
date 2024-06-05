@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Bespoke boutiques
 
 Bespoke boutiques are healthcare provider groups that offer individualized specialized care, such as for general nutrition and wellness, or symptoms such as histamine intolerance or mycotoxin cleanses.

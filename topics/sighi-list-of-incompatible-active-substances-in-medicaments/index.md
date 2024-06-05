@@ -1,3 +1,6 @@
+[//]: # (source: histaminintoleranz.ch)
+[//]: # (tags: reference)
+
 # SIGHI list of incompatible active substances in medicaments 
 
 Source: https://www.histaminintoleranz.ch/en/therapy_medicaments.html

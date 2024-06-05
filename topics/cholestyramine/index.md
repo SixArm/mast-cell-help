@@ -1,4 +1,8 @@
-# Cholestyramine (brand name Questran)
+[//]: # (source: ?)
+[//]: # (brands: Questran)
+[//]: # (tags: anticholesterols bile-acid-sequestrants medications)
+
+# Cholestyramine
 
 Cholestyramine is a medication primarily used to lower cholesterol levels in people with high cholesterol, particularly those at risk of heart disease. Brand name: Questran.
 

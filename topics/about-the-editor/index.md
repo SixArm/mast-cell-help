@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: meta)
+
 # About the editor
 
 I'm Joel Parker Henderson. I'm a software developer and writer.

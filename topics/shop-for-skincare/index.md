@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for skincare
 
 Skincare products suggested by mast cell patients.

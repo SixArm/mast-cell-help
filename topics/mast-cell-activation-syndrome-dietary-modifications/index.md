@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Mast Cell Activation Syndrome (MCAS): dietary modifications
 
 Mast Cell Activation Syndrome (MCAS) treatments can use dietary modifications such as:

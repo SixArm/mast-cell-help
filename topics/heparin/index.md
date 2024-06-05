@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: anticoagulants medications)
+
 # Heparin
 
 Heparin is an anticoagulant medication, which means it helps prevent the formation of blood clots. It is commonly used in medical settings to prevent and treat conditions in which the formation of blood clots poses a risk to a patient's health. Heparin works by interfering with the body's blood clotting process, specifically by inhibiting the action of certain clotting factors in the blood.

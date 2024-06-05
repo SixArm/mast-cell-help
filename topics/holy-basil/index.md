@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Holy basil
 
 Holy basil, also known as Tulsi, is an aromatic herb. It has been revered for its medicinal properties and used for thousands of years in traditional Ayurvedic medicine. It contains bioactive components, including eugenol, ocimumosides, ursolic acid, and rosmarinic acid; these have antioxidant effects and anti-inflammatory effects.

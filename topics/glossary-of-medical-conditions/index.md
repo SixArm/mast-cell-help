@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: glossary)
+
 # Glossary of medical conditions
 
 * **APS**: [Antiphospholipid Syndrome](../antiphospholipid-syndrome/)

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: MRCP)
+[//]: # (tags: imaging tests)
+
 # Magnetic resonance cholangiopancreatography (MRCP)
 
 Magnetic resonance cholangiopancreatography (MRCP) is a non-invasive imaging technique used to visualize the bile ducts and pancreatic ducts. It utilizes magnetic resonance imaging (MRI) to create detailed images of the biliary and pancreatic systems without the need for contrast material or invasive procedures.

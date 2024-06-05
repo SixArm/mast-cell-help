@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergies)
+
 # Allergy load
 
 The term "allergy load" (a.k.a. "total allergen load") refers to the cumulative

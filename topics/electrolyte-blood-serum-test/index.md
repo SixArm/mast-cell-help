@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: electrolytes tests)
+
 # Electrolyte blood serum test
 
 An electrolyte blood serum test, also known as an electrolyte panel, is a group of medical tests that measure the levels of electrolytes in the blood serum. Electrolytes are minerals that carry an electric charge and play a crucial role in various physiological processes in the body, including fluid balance, nerve function, muscle contraction, and acid-base balance.

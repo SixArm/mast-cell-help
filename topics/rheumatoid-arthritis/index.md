@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: RA)
+[//]: # (tags: conditions)
+
 # Rheumatoid arthritis (RA)
 
 Rheumatoid arthritis (RA) is an autoimmune disease that primarily affects the joints but can also impact other parts of the body. It is characterized by inflammation in the synovium, the lining of the membranes that surround the joints. This chronic inflammation can lead to joint damage, pain, stiffness, and functional impairment.

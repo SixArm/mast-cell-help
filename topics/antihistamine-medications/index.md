@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antihistamines)
+
 # Antihistamine medications
 
 Antihistamine medications are a class of drugs commonly used to relieve allergy symptoms and manage various allergic conditions. They work by blocking the effects of histamine, a chemical released by the body in response to allergens.

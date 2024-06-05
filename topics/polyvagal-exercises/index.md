@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: limbic-system psychology treatments)
+
 # Polyvagal exercises
 
 Polyvagal exercises are activities to influence the functioning of the the polyvagal system and autonomic nervous system. The aim is to promote a sense of safety, social connection, and well-being.

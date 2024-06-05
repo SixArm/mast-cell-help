@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Iron supplements
 
 Iron supplements are dietary supplements that contain iron. Iron is a vital mineral essential for the body's formation of hemoglobin, the protein in red blood cells that carries oxygen from the lungs to tissues throughout the body.

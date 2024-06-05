@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: starters)
+
 # Start here for safe foods
 
 "Safe foods" means foods that you can eat without symptoms. 

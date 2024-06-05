@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: severities)
+
 # Mast Cell Activation Syndrome (MCAS): severity
 
 Mast Cell Activation Syndrome (MCAS) is a complex and variable condition where mast cells, a type of immune cell, are hyperactive and release excessive amounts of various chemical mediators. Symptoms and severity can vary widely among individuals with MCAS.

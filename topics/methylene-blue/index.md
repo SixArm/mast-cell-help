@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments chemicals tests)
+
 # Methylene blue
 
 Methylene blue is a blue-colored medication and dye. It has medicinal properties, and also is used in laboratories for microscopic studies.

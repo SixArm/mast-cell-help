@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: semantics)
+
 # Syndromes, disorders, diseases, illnesses, conditions
 
 [Source](https://www.verywellhealth.com/disease-vs-disorder-5092243)

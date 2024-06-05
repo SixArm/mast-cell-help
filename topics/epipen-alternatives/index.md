@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: alternatives treatments)
+
 # EpiPen alternatives
 
 [Source](https://www.drugs.com/article/epipen-cost-alternatives.html)

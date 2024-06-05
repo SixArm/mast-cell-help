@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications triggers)
+
 # Excipients
 
 Excipients are inactive ingredients added to medications. Some individuals have sensitivities to specific excipients.

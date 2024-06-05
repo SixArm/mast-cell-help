@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: DMX)
+[//]: # (tags: imaging)
+
 # Digital motion x-ray (DMX)
 
 Digital motion x-ray (DMX) is a diagnostic imaging technique used to assess dynamic movement of the spine and joints in real-time. Unlike traditional X-rays, which capture static images of bones and tissues, DMX provides continuous, dynamic imaging as the patient moves.

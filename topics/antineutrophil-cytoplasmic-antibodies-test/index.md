@@ -1,4 +1,6 @@
 [//]: # (source: gpt-40)
+[//]: # (abbr: ANCA)
+[//]: # (tags: tests)
 
 # Antineutrophil cytoplasmic antibodies (ANCA) test
 

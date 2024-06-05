@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: toxins triggers conditions)
+
 # Sick building syndrome
 
 "Sick building syndrome" refers to a condition in which occupants of a building experience a range of non-specific health symptoms or discomfort that are linked to the time spent in that particular building. These symptoms often improve or disappear when individuals leave the building.

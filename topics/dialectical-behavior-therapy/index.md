@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: DBT)
+[//]: # (tags: psychology treatments)
+
 # Dialectical Behavior Therapy (DBT)
 
 Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral therapy

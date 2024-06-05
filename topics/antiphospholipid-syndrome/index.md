@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (abbr: APS)
+[//]: # (aka: Hughes syndrome)
+[//]: # (tags: conditions)
+
 # Antiphospholipid syndrome (APS)
 
 Antiphospholipid syndrome (APS), also known as Hughes syndrome, is an autoimmune disorder characterized by the presence of antiphospholipid antibodies in the blood. These antibodies can lead to abnormal blood clotting in arteries and veins, as well as a range of other symptoms.

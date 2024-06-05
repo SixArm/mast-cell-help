@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: processes)
+
 # Histamine metabolism of foods
 
 [Source](https://www.histaminintoleranz.ch/downloads/SIGHI-Leaflet_HistamineEliminationDiet.pdf)

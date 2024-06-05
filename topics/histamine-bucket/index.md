@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: theories)
+
 # Histamine bucket
 
 The "histamine bucket" theory is the idea that each person has a histamine threshold for how much histamine their bodies can tolerate. If the histamine exceeds the threshold, then the "histamine bucket overflows", which causes symptoms.

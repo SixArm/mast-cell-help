@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Magnesium supplements
 
 Magnesium supplements are dietary supplements that contain magnesium. It is involved in over 300 biochemical reactions, including energy metabolism, protein synthesis, muscle and nerve function, blood glucose regulation, and blood pressure control.

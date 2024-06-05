@@ -1,7 +1,10 @@
+[//]: # (source: ?)
+[//]: # (brands: Tagamet HB)
+[//]: # (tags: antihistamines)
+
 # Cimetidine
 
-Cimetidine is a medication belonging to a class of drugs known as H2 receptor antagonists, or H2 blockers. It works by blocking the action of histamine on the stomach cells, thereby reducing the production of stomach acid.
-Brand name: Tagamet HB.
+Cimetidine is an antihistamine medication belonging to a class of drugs known as H2 receptor antagonists, or H2 blockers. It works by blocking the action of histamine on the stomach cells, thereby reducing the production of stomach acid. Brand name: Tagamet HB.
 
 Cimetidine is primarily used to treat conditions such as gastroesophageal reflux disease (GERD), peptic ulcer disease, and Zollinger-Ellison syndrome. It helps relieve symptoms such as heartburn, acid indigestion, and stomach pain caused by excess stomach acid.
 

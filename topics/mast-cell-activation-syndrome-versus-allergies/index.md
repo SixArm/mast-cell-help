@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions dx)
+
 # Mast Cell Activation Syndrome (MCAS) versus allergies
 
 Mast Cell Activation Syndrome (MCAS) and allergies are both immune system dysregulations, but they have different underlying aspects.

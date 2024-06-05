@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antifungals)
+
 # Antifungal medications
 
 Antifungal medications are drugs used to treat fungal infections. Fungal infections can affect various parts of the body, including the skin, nails, hair, and internal organs. Antifungal medications work by targeting specific aspects of fungal cell structures or functions.

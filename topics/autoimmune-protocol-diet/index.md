@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: AIP)
+[//]: # (tags: diets)
+
 # Autoimmune Protocol (AIP) diet
 
 Autoimmune Protocol (AIP) diet is a specialized version of the paleo diet designed to help individuals with autoimmune diseases manage their symptoms and improve their overall health. It focuses on removing potentially inflammatory foods while emphasizing nutrient-dense, healing foods to support the immune system and reduce inflammation in the body.

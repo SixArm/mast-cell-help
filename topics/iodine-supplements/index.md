@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Iodine supplements
 
 Iodine supplements are dietary supplements that contain iodine. Iodine is essential for the synthesis of thyroid hormones, which play a crucial role in regulating metabolism, growth, development, and energy balance.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components body-systems)
+
 # Limbic system
 
 The limbic system is a complex network of structures in the brain that plays a central role in regulating emotions, motivation, learning, and memory. It is sometimes referred to as the "emotional brain" or the "emotional center" of the brain.

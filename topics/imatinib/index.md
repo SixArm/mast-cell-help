@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications)
+
 # Imatinib
 
 Imatinib is a medication used in the treatment of certain types of cancer. It belongs to a class of drugs called tyrosine kinase inhibitors (TKIs). Imatinib works by blocking the activity of specific proteins known as tyrosine kinases, which are involved in the growth and spread of cancer cells. Brand name: Glivec.

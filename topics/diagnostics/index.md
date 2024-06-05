@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Diagnostics
 
 Diagnostics refers to the process of identifying the nature or cause of a particular phenomenon, often related to health or the functioning of a system.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Histamine intolerance: treatments
 
 Histamine intolerance treatment typically involve identifying and addressing factors that contribute to histamine accumulation and symptoms.

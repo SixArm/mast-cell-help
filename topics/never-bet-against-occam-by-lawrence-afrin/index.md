@@ -1,3 +1,6 @@
+[//]: # (source: https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615)
+[//]: # (tags: book)
+
 # Never Bet Against Occam - By Lawrence Afrin
 
 Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity

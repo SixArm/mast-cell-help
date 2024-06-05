@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: foods)
+
 # Flash-frozen food
 
 Flash-frozen food refers to food that has been rapidly frozen at extremely low temperatures to preserve its freshness, texture, and nutritional value. The process typically involves exposing the food to temperatures of -30°C to -50°C (-22°F to -58°F) for a short period, which quickly freezes the water inside the food into small ice crystals. This rapid freezing process minimizes the damage to the cellular structure of the food, maintaining its quality better than slower freezing methods.

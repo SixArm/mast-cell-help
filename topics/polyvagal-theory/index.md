@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: limbic-system theories)
+
 # Polyvagal Theory
 
 The Polyvagal Theory explores the functioning of the vagus nerve and autonomic nervous system (ANS), and their roles in social behavior, emotional regulation, and stress responses. The Polyvagal Theory is influential in the fields of psychology, psychiatry, and trauma therapy.

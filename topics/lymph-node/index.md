@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components)
+
 # Lymph node
 
 A lymph node is a small, bean-shaped structure that is part of the lymphatic system, and that plays a key role in immune response and defense against infections. The lymphatic system helps filter and drain lymph, a fluid that contains white blood cells and waste products, from various parts of the body.

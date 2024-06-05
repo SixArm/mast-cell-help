@@ -1,3 +1,6 @@
+[//]: # (source: https://www.amazon.com/Trifecta-Passport-Orthostatic-Tachycardia-Ehlers-Danlos-ebook/dp/B08TV8PTBP)
+[//]: # (tags: book)
+
 # The Trifecta Passport – By Amber Walker
 
 The Trifecta Passport: Tools for Mast Cell Activation Syndrome, Postural Orthostatic Tachycardia Syndrome and Ehlers-Danlos Syndrome

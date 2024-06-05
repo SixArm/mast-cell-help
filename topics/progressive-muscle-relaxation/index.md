@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PMR)
+[//]: # (tags: psychology treatments)
+
 # Progressive Muscle Relaxation (PMR)
 
 Progressive Muscle Relaxation (PMR) is a relaxation technique. It involves systematically tensing and then relaxing different muscle groups to induce a state of physical and mental relaxation. PMR is often used as a stress management and relaxation tool and is helpful for individuals dealing with anxiety, tension, or sleep difficulties.

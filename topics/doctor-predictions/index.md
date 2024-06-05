@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: quotations)
+
 # Doctor predictions
 
 "It’s just asthma." - Two days later ER myocarditis, four weeks in hospital.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Ginger
 
 Ginger has been used for its medicinal properties for centuries. It contains various bioactive compounds, including gingerols, shogaols, and paradols, which are believed to contribute to its health benefits.

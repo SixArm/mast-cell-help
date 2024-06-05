@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: advice)
+
 # Home hunting
 
 Home hunting means looking for a place to live, such as an apartment, condo, house, etc. This page has advice.

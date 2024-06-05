@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: genetics mutuations)
+
 # KIT-D816X
 
 KIT-D816X is a specific genetic mutation associated with a gene called KIT, which is also known as CD117. The KIT gene encodes a protein called KIT receptor tyrosine kinase, which is involved in various cellular processes, including cell growth, proliferation, and differentiation. Mutations in the KIT gene can lead to abnormal or uncontrolled cell growth and are associated with several health conditions, most notably certain types of cancers and rare genetic disorders.

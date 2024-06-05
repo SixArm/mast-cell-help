@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Brain fog suggestions
 
 Brain fog suggestions by people who have mast cell illnesses. In approximate order of importance.

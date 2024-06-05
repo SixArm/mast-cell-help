@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Bronchospasm
 
 Bronchospasm refers to the sudden constriction or narrowing of the airways in the lungs, particularly the bronchi and bronchioles. This constriction is caused by the tightening of the smooth muscles that surround the airways. It can lead to difficulty breathing and is a characteristic feature of various respiratory conditions, such as asthma and chronic obstructive pulmonary disease (COPD).

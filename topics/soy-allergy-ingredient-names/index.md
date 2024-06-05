@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergy semantics)
+
 # Soy allergy ingredient names
 
 If you’re doing an elimination diet, or you have a soy allergy, then check food labels for ingredient names that may be related to soy derivatives. Credit: Soy Allergy Board.

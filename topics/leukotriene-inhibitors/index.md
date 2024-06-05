@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: leukotrine-inhibitors medications)
+
 # Leukotriene inhibitors
 
 Leukotriene inhibitors are a class of medications used to manage inflammatory conditions, particularly those involving the respiratory system. Leukotrienes are inflammatory molecules produced by the immune system, by various cells, including mast cells, eosinophils, and macrophages, in response to allergens, infections, or other stimuli. Leukotriene inhibitors block the action of leukotrienes.

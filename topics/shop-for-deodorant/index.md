@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for deodorant
 
 Deodorant suggestions from people with mast cell issues.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergies)
+
 # Allergy types
 
 Allergies are a common chronic condition in which the immune system reacts to substances that are typically harmless. Reactions can range from a rash to hives to severe anaphylaxis.

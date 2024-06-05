@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: anesthetics medications depression)
+
 # Ketamine therapy
 
 Ketamine is an anesthetic medication that has therapy use in mental health treatments, such as for major depressive disorder (MDD), bipolar disorder, and treatment-resistant depression (TRD).

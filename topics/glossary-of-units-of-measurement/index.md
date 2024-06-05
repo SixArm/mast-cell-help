@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: glossary)
+
 # Glossary of units of measurement
 
 **Some common units**:

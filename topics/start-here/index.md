@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: starters)
+
 # Start here
 
 If you're sick and you need help now, start here. If you're experiencing severe symptoms, or anaphylaxis, then seek emergency medical help.

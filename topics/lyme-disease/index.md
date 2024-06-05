@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: lyme toxins conditions )
+
 # Lyme disease
 
 Lyme disease is an infectious illness caused by the bacterium [Borrelia](../borrelia/) burgdorferi. It is primarily transmitted to humans through the bite of infected ticks. Lyme disease is more easily treated in its early stages, so prompt medical attention is essential.

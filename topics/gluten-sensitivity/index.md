@@ -1,4 +1,5 @@
 [//]: # (source: gpt-40)
+[//]: # (abbr: NCGS)
 [//]: # (aka: non-celiac gluten sensitivity (NCGS))
 
 # Gluten sensitivity

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: meta)
+
 # About the ebook PDF
 
 This ebook PDF is generated from the repository markdown files. The process uses custom book build tools, fonts thanks to Adobe, our open source tools, and the program `pandoc`.

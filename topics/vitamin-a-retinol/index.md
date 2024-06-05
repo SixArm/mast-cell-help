@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: retinol)
+[//]: # (tags: vitamins)
+
 # Vitamin A (retinol)
 
 Vitamin A (also known as retinol) is a fat-soluble vitamin that plays a crucial role in various physiological functions within the body. It exists in different forms, including retinol (preformed vitamin A found in animal products) and provitamin A carotenoids (found in plant-based foods), which can be converted to active vitamin A in the body.

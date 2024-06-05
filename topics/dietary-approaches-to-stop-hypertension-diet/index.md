@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: DASH)
+[//]: # (tags: diets)
+
 # Dietary Approaches to Stop Hypertension (DASH) diet
 
 Dietary Approaches to Stop Hypertension (DASH) is a diet for heart health. It emphasizes foods rich in nutrients that help lower blood pressure, such as potassium, calcium, magnesium, and fiber, while limiting foods high in saturated fat, cholesterol, and sodium.

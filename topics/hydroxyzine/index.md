@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antihistamines medications)
+
 # Hydroxyzine
 
 Hydroxyzine is an antihistamine medication commonly used to treat itching caused by allergies, as well as to alleviate symptoms of anxiety and tension. It belongs to the class of first-generation antihistamines. Brand names: Atarax, Vistaril.

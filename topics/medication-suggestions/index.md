@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications list)
+
 # Medication suggestions
 
 Medication types that can help make big improvements, thanks to suggestions by patients in a mast cell illness group.

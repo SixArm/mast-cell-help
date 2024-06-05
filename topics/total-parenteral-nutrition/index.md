@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: TPN)
+[//]: # (tags: nutrition treatments)
+
 # Total parenteral nutrition (TPN)
 
 Total parenteral nutrition (TPN) is a method of delivering nutrition directly into the bloodstream when a person is unable to obtain adequate nutrition through oral or enteral (tube feeding) routes. TPN provides all essential nutrients, including carbohydrates, proteins, fats, vitamins, minerals, and electrolytes, in a sterile, hypertonic solution.

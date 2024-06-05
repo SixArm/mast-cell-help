@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: DNRS)
+[//]: # (tags: limbic-system neuroplasticity brands)
+
 # Dynamic Neural Retraining System™ (DNRS)
 
 [Retraining The Brain website](https://retrainingthebrain.com) excerpts…

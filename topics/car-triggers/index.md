@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: cars triggers)
+
 # Car triggers
 
 Cars can have many triggers. If you react when you're in a car, then consider this list. See [car triggers - diagnostics](../car-triggers-tests) then see [car triggers - treatment](../car-triggers-treatments/).

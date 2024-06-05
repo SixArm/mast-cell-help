@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-sodium diet
 
 A low-sodium diet, often referred to as a low-salt diet, is a dietary approach that restricts the intake of sodium, a mineral commonly found in salt (sodium chloride).  This supports overall health and specific medical conditions, including hypertension, kidney disease, liver disease, and edema.

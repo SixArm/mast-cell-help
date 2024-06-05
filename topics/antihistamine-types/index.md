@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antihistamines)
+
 # Antihistamine types
 
 [Antihistamines](../antihistamines/) are available in two main types: first-generation and second-generation. Antihistamines are available in two main durations of action: short-acting and long-acting. Antihistamines are available in two main ways to purchase: over the counter and by prescription.

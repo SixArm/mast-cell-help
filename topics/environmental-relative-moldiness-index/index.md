@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: ERMI)
+[//]: # (tags: mold tests)
+
 # Environmental Relative Moldiness Index (ERMI)
 
 The Environmental Relative Moldiness Index (ERMI) is a tool used to assess the potential mold contamination in indoor environments. The ERMI is based on the analysis of dust samples collected from homes and measures the concentrations of specific mold species.

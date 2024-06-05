@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments acupuncture comments)
+
 # Soliman Auricular Allergy Treatment (SAAT) - Comments
 
 I can say it’s really hard to not itch when you know they are there. They don’t itch… it’s just knowing! Ugh!

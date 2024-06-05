@@ -1,6 +1,10 @@
+[//]: # (source: ?)
+[//]: # (brands:  Alerfedine D, Allegra-D, Allergyna-D, Allevia, Altiva-D, Dellegra, Fexo Plus, Fexofed, Fixal Plus, Ridrinal D, Rinolast D, Telfast D, Treathay)
+[//]: # (tags: antihistamines)
+
 # Fexofenadine
 
-Fexofenadine is a second-generation antihistamine medication used primarily for the treatment of allergic conditions such as allergic rhinitis (hay fever) and chronic idiopathic urticaria (hives).  It provides rapid and long-lasting relief of symptoms with once-daily dosing, making it a convenient option.
+Fexofenadine is a second-generation antihistamine medication used primarily for the treatment of allergic conditions such as allergic rhinitis (hay fever) and chronic idiopathic urticaria (hives).  It provides rapid and long-lasting relief of symptoms with once-daily dosing, making it a convenient option. Brand names: Alerfedine D, Allegra-D, Allergyna-D, Allevia, Altiva-D, Dellegra, Fexo Plus, Fexofed, Fixal Plus, Ridrinal D, Rinolast D, Telfast D, Treathay.
 
 **Key points**:
 

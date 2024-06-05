@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diagnosis)
+
 # Sjögren's syndrome
 
 Sjögren's syndrome is a chronic autoimmune condition characterized by inflammation of the glands that produce moisture, such as the salivary and lacrimal glands. The primary symptoms involve dryness of the eyes and mouth, but the condition can also affect other parts of the body.

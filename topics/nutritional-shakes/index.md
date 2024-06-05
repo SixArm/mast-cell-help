@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: nutrition shakes)
+
 # Nutritional shakes
 
 Nutritional shakes, also known as meal replacement shakes, are beverages designed to provide a balanced and convenient source of essential nutrients. These shakes typically include a mix of proteins, carbohydrates, fats, vitamins, and minerals to serve as a substitute for a regular meal.

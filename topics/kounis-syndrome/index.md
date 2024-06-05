@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Kounis syndrome
 
 Kounis syndrome is a medical condition characterized by the onset of acute coronary syndrome (ACS) in association with an allergic or hypersensitivity reaction. It typically occurs when a person with pre-existing coronary artery disease experiences an allergic or hypersensitivity reaction, which triggers the release of inflammatory mediators such as histamine, leukotrienes, and cytokines. This leads to spasm of the coronary arteries, causing reduced blood flow to the heart and potentially angina or even myocardial infarction (heart attack).

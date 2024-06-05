@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: biotin)
+[//]: # (tags: vitamins)
+
 # Vitamin B7 (biotin)
 
 Vitamin B7 (also known as biotin) is a water-soluble vitamin that plays a crucial role in various metabolic functions within the body. Biotin is essential for the metabolism of fats, carbohydrates, and proteins. It also plays a role in maintaining healthy hair, skin, and nails.

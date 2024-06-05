@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: foods tactics)
+
 # Food diary
 
 A food diary, also known as a food journal or food log, is a record of the foods and beverages you consume throughout the day. It's a valuable tool for tracking your dietary habits, calorie intake, and nutritional choices.

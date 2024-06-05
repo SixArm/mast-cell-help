@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Meadowsweet
 
 Meadowsweet (Filipendula ulmaria) is a flowering plant in the Rosaceae family. It's also known as queen of the meadow, mead wort, and meadow queen. Meadowsweet has been used for centuries for its anti-inflammatory, analgesic (pain-relieving), and antacid properties.

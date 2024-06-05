@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: riboflavin)
+[//]: # (tags: vitamins)
+
 # Vitamin B2 (riboflavin)
 
 Vitamin B2 (also known as riboflavin) play essentials roles in various metabolic processes in the body, for maintaining good health. Like other B-vitamins, riboflavin is water-soluble, meaning the body does not store it for long periods, so it needs to be regularly obtained from the diet.

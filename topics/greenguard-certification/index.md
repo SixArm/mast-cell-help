@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: volatile-organic-compounds certifications)
+
 # GreenGuard certification
 
 The GreenGuard certification program sets standards for volatile organic compound (VOC) emissions and chemical content in various products, including building materials, furnishings, electronics, cleaning products, and personal care items. Products that meet GreenGuard's stringent criteria are awarded certification, indicating that they have been tested and verified to have low emissions of harmful chemicals and pollutants.

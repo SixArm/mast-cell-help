@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # ISAC allergy blood test
 
 ISAC is an allergy test that covers 112 allergenic components in food and airborne allergens. It is a screening test that gives all this information during one test. ISAC is a molecular blood test, can be done from a finger prick at home, or from a vein sampletaken by a phlebotomist in a blood laboratory.

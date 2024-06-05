@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: NAC)
+[//]: # (tags: supplements)
+
 # N-acetyl cysteine (NAC)
 
 N-acetyl cysteine (NAC) is a dietary supplement that is a form of the amino acid cysteine. NAC is known for its antioxidant properties and its role in supporting several bodily functions.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Cytokine storm
 
 A cytokine storm is an excessive and uncontrolled release of pro-inflammatory signaling molecules called cytokines. Cytokines play a crucial role in the body's immune response by coordinating communication between cells. However, when the immune system becomes dysregulated and produces an overwhelming amount of cytokines, it can lead to harmful effects on the body's tissues and organs.

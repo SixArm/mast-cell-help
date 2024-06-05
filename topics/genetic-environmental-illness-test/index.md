@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: GENIE)
+[//]: # (tags: genetics tests)
+
 # Genetic Environmental Illness (GENIE) test
 
 Genetic Environmental Illness (GENIE) test is a genetic susceptibility test used in the context of biotoxin-related illnesses. This type of test aims to identify genetic factors that may make individuals more susceptible to the effects of biotoxins, potentially leading to conditions like Chronic Inflammatory Response Syndrome (CIRS).

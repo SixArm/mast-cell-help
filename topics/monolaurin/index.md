@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components)
+
 # Monolaurin
 
 Monolaurin is a naturally occurring fatty acid derived from lauric acid, which is found in coconut oil and human breast milk. It has gained attention for its potential health benefits, particularly its antimicrobial properties. Monolaurin is believed to have antibacterial, antiviral, and antifungal effects, making it a popular ingredient in dietary supplements and natural health products.

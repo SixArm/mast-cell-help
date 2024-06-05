@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components body-systems)
+
 # Lymph
 
 Lymph is a colorless fluid that circulates in the body, to maintain tissue health and support the immune system. Lymph is produced as an extracellular fluid, known as interstitial fluid, that bathes the cells and tissues of the body. Lymph is collected and transported through a network of lymphatic vessels and lymph nodes.

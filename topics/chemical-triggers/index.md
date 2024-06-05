@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: triggers)
+
 # Chemical triggers
 
 Chemical triggers refer to adverse reactions triggered by exposure to certain chemicals.

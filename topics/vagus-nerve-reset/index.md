@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: limbic-system treatments)
+
 # Vagus nerve reset
 
 The vagus nerve is the longest cranial nerve in the body. The vagus nerve has sensory functions and motor functions. It is involved in the regulation of heart rate, digestion, respiratory rate, and more. Stimulating the vagus nerve can have various effects, and there are practices and techniques that some people refer to as a "vagus nerve reset".

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Emoquil, Marzine, Valoid)
+[//]: # (tags: antinauseas)
+
 # Cyclizine
 
 Cyclizine is a medication used to prevent and treat nausea, vomiting, and dizziness associated with motion sickness, as well as some histamine symptoms. Brand names: Emoquil, Marzine, Valoid.

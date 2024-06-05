@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: processes)
+
 # Ferroptosis
 
 Ferroptosis is a form of regulated cell death, characterized by the iron-dependent accumulation of lipid peroxides that ultimately lead to cell membrane damage and cell death. It is different from other forms of cell death, such as apoptosis and necrosis, and has gained attention in the field of cell biology and medicine for its potential role in various diseases, including cancer, neurodegenerative disorders, and ischemia-reperfusion injury.

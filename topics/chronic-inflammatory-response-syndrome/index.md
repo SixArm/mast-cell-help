@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CIRS)
+[//]: # (tags: conditions)
+
 # Chronic Inflammatory Response Syndrome (CIRS)
 
 Chronic Inflammatory Response Syndrome (CIRS) is a medical condition characterized by a persistent and excessive inflammatory response in the body.

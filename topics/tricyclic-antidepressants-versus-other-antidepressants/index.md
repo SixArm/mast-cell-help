@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments antidepressants)
+
 # Tricyclic antidepressants (TCAs) versus other antidepressants
 
 Tricyclic antidepressants (TCAs) are generally better than selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs), for typical people who have mast cell disorders. In addition, the inhibitory effect of tricyclic antidepressants on mast cells has been shown to improve mood and physical symptoms of MCAS, compared with other antidepressant classes.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: TCA)
+[//]: # (tags: antidepressants treatments)
+
 # Tricyclic antidepressants (TCAs)
 
 Tricyclic antidepressants (TCAs) are a class of medications primarily used to treat depression. They are called "tricyclic" because their chemical structure contains three rings of atoms. TCAs may also be used to treat other conditions, including: anxiety disorders, chronic pain conditions, migraines, and certain sleep disorders such as insomnia.

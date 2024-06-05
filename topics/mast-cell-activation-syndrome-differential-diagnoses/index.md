@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: differential-diagnoses)
+
 # Mast Cell Activation Syndrome (MCAS): differential diagnoses
 
 * diabetes mellitus

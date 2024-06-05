@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: meta)
+
 # About the AI
 
 OpenAI ChatGPT generated text for this book. The editor provided direction to generate prototype text for each topic, then edited all of it by hand for clarity, correctness, coherence, fitness, and the like.

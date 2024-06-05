@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CRP)
+[//]: # (tags: tests components)
+
 # C-reactive protein (CRP)
 
 C-reactive protein (CRP) is a blood test marker that measures the level of inflammation in the body. It is produced by the liver and released into the bloodstream in response to inflammation.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Diagnostic tests
 
 Diagnostic tests are essential procedures used by healthcare providers to identify or confirm the presence of a disease or condition. These tests and a [physical examination](../physical-examination/) guide treatment decisions.

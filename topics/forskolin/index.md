@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Forskolin
 
 Forskolin is a natural compound found in the roots of the Indian coleus plant (Coleus forskohlii). It has been used for centuries in traditional Ayurvedic medicine to treat various conditions, including heart disorders, respiratory issues, and digestive disorders. Forskolin is thought to increase the levels of cyclic adenosine monophosphate (cAMP) in the body, which may stimulate the breakdown of fat cells and promote weight loss.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: psychology training limbic-system)
+
 # Limbic system retraining
 
 Limbic system retraining refers to techniques aimed at improving the functioning of the limbic system. The limbic system is a complex set of brain structures involved that plays a crucial role in processing emotions, responding to stress, and regulating the autonomic nervous system. 

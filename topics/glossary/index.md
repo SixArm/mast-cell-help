@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: glossary)
+
 # Glossary of medical terminology
 
 **Medical chart summarization**:

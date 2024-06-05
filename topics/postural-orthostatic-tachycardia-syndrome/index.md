@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: POTS)
+[//]: # (tags: diagsnoses)
+
 # Postural Orthostatic Tachycardia Syndrome (POTS)
 
 Postural Orthostatic Tachycardia Syndrome (POTS) is a form of dysautonomia, a disorder of the autonomic nervous system. POTS primarily affects the cardiovascular system, causing an abnormal increase in heart rate when transitioning from lying down to standing up.

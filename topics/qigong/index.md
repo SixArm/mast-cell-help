@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: traditional-chinese-medicine treatments)
+
 # Qigong
 
 Qigong (pronounced "chee-gong") is a [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/) practice that combines movement, meditation, and breath control to promote health, vitality, and spiritual cultivation. It has been practiced for thousands of years as a means of enhancing physical and mental well-being.

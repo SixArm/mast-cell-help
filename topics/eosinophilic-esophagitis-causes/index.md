@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: EoE)
+[//]: # (tags: conditions causes)
+
 # Eosinophilic esophagitis (EoE) causes
 
 Eosinophilic esophagitis (EoE) causes have five general kinds:

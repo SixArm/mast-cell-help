@@ -1,6 +1,10 @@
+[//]: # (source: ?)
+[//]: # (brands: Astelin)
+[//]: # (tags: antihistamines medications)
+
 # Azelastine
 
-Azelastine is a medication primarily used for the treatment of allergic rhinitis, commonly known as hay fever, and allergic conjunctivitis. Azelastine comes as a nasal spray or eye drops. Brand name: Astelin.
+Azelastine is a antihistamine medication primarily used for the treatment of allergic rhinitis, commonly known as hay fever, and allergic conjunctivitis. Azelastine comes as a nasal spray or eye drops. Brand name: Astelin.
 
 **Key points**:
 

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Nasal swab
 
 A nasal swab is a medical test in which a sample is collected from the inside of the nose using a swab. This sample is then analyzed to identify microorganisms, such as bacteria or viruses, that may be present in the nasal passages. The sample is also known as a nasopharyngeal culture.

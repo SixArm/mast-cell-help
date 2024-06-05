@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: MARCoNS)
+[//]: # (tags: conditions)
+
 # Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)
 
 Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS) is a term used to describe a group of bacteria that belong to the genus Staphylococcus and are resistant to multiple antibiotics.

@@ -1,6 +1,10 @@
-# Sulfur intolerance
+[//]: # (source: ?)
+[//]: # (aka: sulfur intolerance)
+[//]: # (tags: sensitivities)
 
-Sulfur intolerance, also known as sulfur sensitivity, is a condition in which an individual experiences adverse reactions to foods and substances containing sulfur or sulfites. Sulfur is a mineral that is naturally present in various foods and is an essential component of some amino acids and vitamins. However, some people may be sensitive or intolerant to sulfur-containing compounds, leading to a range of symptoms.
+# Sulfur sensitivity
+
+Sulfur sensitivity, also known as sulfur intolerance, is a condition in which an individual experiences adverse reactions to foods and substances containing sulfur or sulfites. Sulfur is a mineral that is naturally present in various foods and is an essential component of some amino acids and vitamins. However, some people may be sensitive or intolerant to sulfur-containing compounds, leading to a range of symptoms.
 
 **Common symptoms**:
 

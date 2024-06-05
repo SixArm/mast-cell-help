@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Asthma symptoms
 
 [Asthma](../asthma/) symptoms can vary from person to person and can range from mild to severe. They are typically episodic, with periods of symptom flare-ups (asthma attacks) and times of improved lung function.

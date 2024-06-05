@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: glossary)
+
 # Glossary of medical abbreviations
 
 * a̅ = before (from Latin "ante")

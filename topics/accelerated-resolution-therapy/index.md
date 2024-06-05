@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: ART)
+[//]: # (tags: psychotherapies treatments)
+
 # Accelerated resolution therapy (ART)
 
 Accelerated Resolution Therapy (ART) is a form of psychotherapy designed to help individuals overcome various mental health challenges, including trauma-related disorders such as [post-traumatic stress disorder (PTSD)](../post-traumatic-stress-disorder/), anxiety, depression, and phobias. It focuses on helping individuals process traumatic memories and negative emotions more rapidly and effectively than traditional talk therapy.

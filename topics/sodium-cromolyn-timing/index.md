@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Sodium cromolyn timing
 
 For people who are taking sodium cromolyn medication, timing matters. Generally follow the directions here: https://www.drugs.com/cons/cromolyn-oral.html

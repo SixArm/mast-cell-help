@@ -1,3 +1,6 @@
+[//]: # (source: https://www.amazon.com/4-Phase-Histamine-Reset-Plan-Migraines-ebook/dp/B07LF5NDKW)
+[//]: # (tags: book)
+
 # The 4-Phase Histamine Reset Plan - By Becky Campbell
 
 The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More

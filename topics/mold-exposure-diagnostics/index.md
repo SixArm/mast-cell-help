@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: mold toxins tests)
+
 # Mold exposure diagnostics
 
 Mold exposure diagnostics involve a combination of clinical assessment, [medical history](../medical-history/\), and various diagnostic tests to determine if an individual has been exposed to mold and if the exposure is contributing to health issues.

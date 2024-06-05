@@ -1,6 +1,12 @@
-# Omalizumab (brand name Xolair)
+[//]: # (source: ?)
+[//]: # (brands: Xolair)
+[//]: # (tags: medications)
+
+# Omalizumab
 
 Omalizumab is a monoclonal antibody medication used for the treatment of certain allergic conditions. It is also known as brand name Xolair. Omalizumab is designed to target and inhibit the action of immunoglobulin E (IgE), a type of antibody involved in allergic reactions.
+
+Brand name: Xolair.
 
 **Key points**:
 

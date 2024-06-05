@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: water triggers)
+
 # Shower triggers
 
 Shower triggers come in four major types:

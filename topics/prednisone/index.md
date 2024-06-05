@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Rayos)
+[//]: # (tags: medications)
+
 # Prednisone (brand name Rayos)
 
 Prednisone is a corticosteroid medication that belongs to a class of drugs known as glucocorticoids. It is used to treat a variety of conditions due to its potent anti-inflammatory and immunosuppressive properties.

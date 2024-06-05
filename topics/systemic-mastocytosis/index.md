@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: SM)
+[//]: # (tags: conditions)
+
 # Systemic mastocytosis (SM)
 
 Systemic mastocytosis (SM) affects the skin and also other organs and tissues in the body.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: NSAID)
+[//]: # (tags: anti-inflammatories medications)
+
 # Non-steroidal anti-inflammatory drugs (NSAIDs)
 
 Non-steroidal anti-inflammatory drugs (NSAIDs) are a class of medications commonly used to alleviate pain, inflammation, and fever. They work by inhibiting the activity of cyclooxygenase (COX) enzymes, to reduce the production of prostaglandins, resulting in decreased inflammation and pain relief.

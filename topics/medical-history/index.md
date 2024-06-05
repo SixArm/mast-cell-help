@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Medical history
 
 A medical history is a comprehensive record of a person's past and present health status, including information about medical conditions, treatments, surgeries, medications, allergies, and family medical history. It helps healthcare providers make informed decisions about diagnosis, treatment, and preventive care.

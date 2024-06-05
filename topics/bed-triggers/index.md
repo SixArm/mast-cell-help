@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: beds triggers)
+
 # Bed triggers
 
 Bed triggers can include any of these:

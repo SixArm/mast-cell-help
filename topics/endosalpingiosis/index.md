@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Endosalpingiosis
 
 Endosalpingiosis is a condition characterized by the presence of glandular tissue similar to that of the fallopian tubes in areas where it is not normally found, such as the pelvic peritoneum (the membrane lining the abdominal cavity) or other pelvic organs. Endosalpingiosis is a relatively rare condition, and typically benign.

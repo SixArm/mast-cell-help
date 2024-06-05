@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: protocols)
+
 # Anaphylaxis emergency room
 
 [Anaphylaxis](../anaphylaxis/) emergency hospital treatment in an emergency room, or emergency department, or by an emergency physician:

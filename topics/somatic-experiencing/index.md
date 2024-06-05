@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: SE)
+[//]: # (tags: psychology treatments)
+
 # Somatic Experiencing (SE)
 
 Somatic Experiencing (SE) is a therapeutic approach to heal trauma. This method focuses on the connection between the mind and body, recognizing the significance of the body's physical sensations in the experience and resolution of trauma.

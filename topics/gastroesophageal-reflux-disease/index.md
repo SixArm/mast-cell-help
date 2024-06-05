@@ -1,6 +1,10 @@
-# Gastroesophageal Reflux Disease (GERD)
+[//]: # (source: ?)
+[//]: # (abbr: GERD)
+[//]: # (tags: conditions)
 
-Gastroesophageal Reflux Disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn't function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus.
+# Gastroesophageal reflux disease (GERD)
+
+Gastroesophageal reflux disease (GERD) is a chronic medical condition that occurs when stomach acid frequently flows back into the esophagus. When the lower esophageal sphincter (LES), a ring of muscle at the bottom of the esophagus, doesn't function properly, it can allow stomach acid to reflux, or flow backward, into the esophagus.
 
 GERD can often be managed with lifestyle and dietary changes, as well as over-the-counter or prescription medications. Long-term, untreated GERD can lead to complications, such as erosive esophagitis (inflammation of the esophagus lining), Barrett's esophagus (changes in the lining that can increase the risk of esophageal cancer), and narrowing of the esophagus (stricture).
 

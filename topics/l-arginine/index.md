@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: amino-acids components)
+
 # L-arginine
 
 L-arginine is an amino acid that helps the body build protein, and also is an essential substrate for the synthesis of nitric oxide (NO), creatine, polyamines, homoarginine, and agmatine in mammals (including humans). NO is a major vasodilator and increases blood flow to tissues.

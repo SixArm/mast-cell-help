@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: RRT)
+[//]: # (tags: neuroplasticity treatments)
+
 # Rapid Resolution Therapy (RRT)
 
 Rapid Resolution Therapy (RRT) is a psychotherapeutic approach designed to quickly and effectively address and resolve emotional and behavioral issues.

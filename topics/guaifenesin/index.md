@@ -1,3 +1,9 @@
+[//]: # (source: gpt-40)
+[//]: # (aka: glyceryl guaiacolate)
+[//]: # (brands: Mucinex)
+[//]: # (treats: attention-deficit-hyperactivity-disorder hypertension)
+[//]: # (tags: medications)
+
 # Guaifenesin
 
 Guaifenesin is an expectorant medication commonly used to relieve symptoms associated with respiratory conditions such as the common cold, bronchitis, and other respiratory infections. It works by thinning and loosening mucus in the airways, making it easier to cough up and expel. Brand name: Mucinex.

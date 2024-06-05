@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Alesion, Elestat, Purivist)
+[//]: # (tags: antihistamines)
+
 # Epinastine
 
 Epinastine is an antihistamine medication used to treat symptoms of allergic conjunctivitis, such as itching and redness of the eyes. It belongs to the class of drugs known as H1-receptor antagonists, which work by blocking the action of histamine, a chemical released by the body during allergic reactions. Brand names: Alesion, Elestat, Purivist.

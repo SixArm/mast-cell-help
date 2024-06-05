@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Physical examination
 
 A physical examination is a comprehensive assessment of a person's overall health status through observation, palpation, auscultation, and other diagnostic techniques. It an essential part of diagnosing medical conditions, monitoring health, and providing preventive care.

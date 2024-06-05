@@ -1,3 +1,6 @@
+[//]: # (source: Manda Ferguson Facebook comment)
+[//]: # (tags: cosmetics advice)
+
 # Cosmetic chemist tips
 
 Thanks to Manda Ferguson, cosmetic chemist.

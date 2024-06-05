@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Prebiotic supplements
 
 Prebiotics are substances that promote the growth and activity of beneficial bacteria (probiotics) in the gastrointestinal tract. Unlike probiotics, which are live microorganisms, prebiotics are non-digestible fibers, carbohydrates, or compounds that serve as a food source for beneficial bacteria.

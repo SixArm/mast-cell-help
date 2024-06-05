@@ -205,6 +205,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dairy sensitivity](topics/dairy-sensistivity/)
 * [Oxalate sensitivity](topics/oxalate-sensitivity/)
 * [Salicylate sensitivity](topics/salicylate-sensitivity/)
+* [Sulfur sensitivity](topics/sulfur-sensisitive/)
 
 ### [Elimination diet](topics/elimination-diet/)
 
@@ -459,8 +460,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Scar tissue adhesions](topics/scar-tissue-adhesions/)
 
 ### [Sjögren's syndrome](topics/sjogrens-syndrome/)
-
-### [Sulfur intolerance](topics/sulfur-intolerance/)
 
 ### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans/)
 
@@ -808,6 +807,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   
 ### [Comments](topics/comments/)
 
+* [Low-dose naltrexone (LDN) - Comments](topics/low-dose-naltrexone-comments/)
 * [Soliman Auricular Allergy Treatment (SAAT) - Comments](topics/soliman-auricular-allergy-treatment-comments/)
 * [Functional medicine provider rubric](topics/functional-medicine-provider-rubric/)
 * [Water treatment home tips](topics/water-treatment-home-tips/)

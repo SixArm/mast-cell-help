@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Khellin
 
 Khellin is a natural compound derived from the seeds of the Ammi visnaga plant, also known as Khella or Bishop's weed. It has been used historically in traditional medicine for various purposes, including the treatment of cardiovascular conditions, respiratory disorders, and kidney stones. Khellin has a derivative medication [cromolyn sodium](../cromolyn-sodium/) which is widely used for treatment of mast cell disorders.

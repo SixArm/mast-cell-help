@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Adrenaline dumping
 
 "Adrenaline dumping" is a colloquial term often used to describe the rapid release of [adrenaline](../adrenaline/) (also known as epinephrine) into the bloodstream. Adrenaline is a hormone and neurotransmitter that plays a key role in the body's "fight or flight" response to stress or danger. When the body perceives a threat, the adrenal glands release adrenaline to prepare the body for quick action.

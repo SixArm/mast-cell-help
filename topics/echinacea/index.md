@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Echinacea
 
 Echinacea is a popular herbal remedy derived from the Echinacea purpurea plant, also known as purple coneflower. It has a long history of traditional use among Native American tribes for various medicinal purposes, including the treatment of respiratory infections, wounds, and snakebites.

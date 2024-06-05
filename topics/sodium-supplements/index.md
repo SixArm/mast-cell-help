@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Sodium supplements
 
 Sodium supplements are dietary supplements that contain sodium. Sodium is an essential mineral and electrolyte necessary for the body to maintain fluid balance, regulate blood pressure, transmit nerve impulses, and support muscle function.

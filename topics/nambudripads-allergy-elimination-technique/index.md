@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: NAET)
+[//]: # (tags: tests traditional-chinese-medicine allergies)
+
 # Nambudripad's Allergy Elimination Technique (NAET)
 
 Nambudripad's Allergy Elimination Technique (NAET) is a holistic therapy developed by Dr. Devi Nambudripad in the 1980s. It is based on the principles of traditional Chinese medicine (TCM), acupuncture, chiropractic techniques, kinesiology, and nutrition.

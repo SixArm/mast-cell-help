@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Singulair)
+[//]: # (tags: antihistamines medications)
+
 # Montelukast
 
 Montelukast is a medication primarily used to treat asthma and allergic rhinitis (hay fever). It belongs to a class of drugs called leukotriene receptor antagonists. Brand name: Singulair.

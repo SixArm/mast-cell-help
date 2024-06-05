@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: toxins mold)
+
 # Mold exposure
 
 Mold exposure occurs when individuals come into contact with mold spores, either through inhalation, ingestion, or skin contact. While most molds are harmless, certain types of molds can produce mycotoxins or trigger allergic reactions in susceptible individuals.

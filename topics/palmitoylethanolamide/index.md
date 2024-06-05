@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PEA)
+[//]: # (tags: components)
+
 # Palmitoylethanolamide (PEA)
 
 Palmitoylethanolamide (PEA) is a naturally occurring fatty acid amide compound that is produced in the body as part of the endocannabinoid system, which plays a role in regulating various physiological processes, including pain sensation, inflammation, and immune response. PEA is found in many tissues throughout the body, including the brain, spinal cord, and peripheral nerves.

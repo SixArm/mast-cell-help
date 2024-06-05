@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components body-systems)
+
 # Lymphatic system
 
 The lymphatic system is a network of tissues, organs, and vessels that play a vital role in maintaining fluid balance, filtering harmful substances, and supporting the body's immune function. It complements the circulatory system (blood vessels) and is responsible for the circulation of lymph, a clear, colorless fluid that contains white blood cells, known as lymphocytes, and other immune cells.

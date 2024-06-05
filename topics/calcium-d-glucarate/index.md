@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Calcium D-glucarate
 
 Calcium D-glucarate is a natural compound found in fruits and vegetables, and it is also available as a dietary supplement. It is the calcium salt of D-glucaric acid, a substance that the body produces in small amounts. Calcium D-glucarate is known for its potential health benefits, particularly in supporting detoxification processes in the body.

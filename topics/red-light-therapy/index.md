@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Red light therapy
 
 Red light therapy, also known as low-level laser therapy (LLLT) or photobiomodulation (PBM), is a non-invasive treatment that uses specific wavelengths of red or near-infrared light to stimulate cellular function. These wavelengths penetrate the skin and are absorbed by mitochondria, the energy-producing organelles within cells. This absorption of light energy helps stimulate cellular metabolism, increase ATP (adenosine triphosphate) production, and enhance cellular repair and regeneration processes.

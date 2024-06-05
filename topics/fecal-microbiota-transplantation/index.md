@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (abbr: FMT)
+[//]: # (aka: fecal transplant)
+[//]: # (tags: transplants treatments)
+
 # Fecal microbiota transplantation (FMT)
 
 Fecal microbiota transplantation (FMT), commonly known as fecal transplant, is a medical procedure in which fecal matter is collected from a healthy donor and transferred to the gastrointestinal tract of an ill recipient. The goal of FMT is to introduce a diverse community of beneficial microorganisms (microbiota) to improving gut health.

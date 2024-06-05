@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Biofilm busters
 
 Biofilm busters are substances or compounds that are capable of disrupting or breaking down biofilms. Biofilms are complex communities of microorganisms (bacteria, fungi, algae, etc.) that adhere to surfaces and are encapsulated within a matrix of extracellular polymeric substances (EPS). These biofilms can form on a wide range of surfaces, including medical devices, implants, teeth, and industrial equipment, and they can cause various problems, such as infections, fouling, and corrosion.

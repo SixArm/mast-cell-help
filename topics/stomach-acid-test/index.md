@@ -1,4 +1,6 @@
 [//]: # (source: gpt-40)
+[//]: # (aka: gastric acid secretion test)
+[//]: # (tags: tests)
 
 # Stomach acid test
 

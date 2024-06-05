@@ -2,6 +2,7 @@
 [//]: # (abbr: AH50)
 [//]: # (aka: alternative pathway hemolytic assay)
 [//]: # (aka: alternative pathway hemolytic 50% lysis test for complement system)
+[//]: # (tags: tests body-complement-system)
 
 # Complement AH50 blood test
 

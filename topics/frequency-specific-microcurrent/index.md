@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: FSM)
+[//]: # (tags: electrostimulations treatments)
+
 # Frequency-specific microcurrent (FSM)
 
 Frequency-specific microcurrent (FSM) uses low-level electrical currents to target specific tissues and physiological processes in the body. These currents are thought to mimic the body's natural electrical signals and may help restore normal cellular function, reduce inflammation, improve circulation, and relieve pain.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: IgG) 
+[//]: # (tags: immunoglobulins antibodies components)
+
 # Immunoglobulin G (IgG)
 
 Immunoglobulin G (IgG) is the most abundant class of antibodies found in the bloodstream and extracellular fluids. It plays a crucial role in the adaptive immune response, providing defense against pathogens such as bacteria, viruses, and toxins.

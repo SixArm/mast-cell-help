@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Bronchospasm treatments
 
 Bronchospasm refers to the sudden constriction of the muscles in the walls of the bronchioles, which are small airways in the lungs. This constriction can lead to difficulty breathing, wheezing, and other respiratory symptoms.

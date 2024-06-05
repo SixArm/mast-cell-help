@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Leaky gut
 
 "Leaky gut" is a term used to describe a condition where the lining of the gut becomes more porous, allowing substances to pass through that normally would not. Also known as increased intestinal permeability.

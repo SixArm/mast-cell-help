@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: steroids hormones components)
+
 # Mineralocorticoids
 
 Mineralocorticoids are a class of steroid hormones that play a crucial role in regulating electrolyte and water balance in the body. The primary mineralocorticoid is aldosterone, which is produced by the adrenal glands, specifically in the outer layer known as the adrenal cortex.

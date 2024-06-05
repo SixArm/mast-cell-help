@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications treatments)
+
 # Ranitidine
 
 Ranitidine is a medication commonly used to reduce the production of stomach acid. It belongs to a class of drugs called H2 blockers. Ranitidine works by blocking the action of histamine on the stomach cells, which reduces the production of acid. Brand name: rand name Zantac.

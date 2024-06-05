@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Ozone therapy
 
 Ozone therapy is a form of alternative medicine that involves the administration of ozone gas to the body for therapeutic purposes. Ozone (O3) is a molecule composed of three oxygen atoms, and it is known for its strong oxidizing properties.

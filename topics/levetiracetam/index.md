@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (brands: Keppra)
+[//]: # (tags: anticonvulsants antiepileptics)
+
 # Levetiracetam
 
 Levetiracetam is a medication primarily used to treat epilepsy. Levetiracetam belongs to a class of medications known as anticonvulsants or antiepileptic drugs (AEDs). Brand name Keppra.

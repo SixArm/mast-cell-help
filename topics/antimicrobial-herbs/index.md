@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antimicrobials herbals)
+
 # Antimicrobial herbs
 
 Many herbs have been recognized for their potential antimicrobial properties, meaning they may have the ability to inhibit or kill microorganisms, including bacteria, viruses, fungi, and parasites.

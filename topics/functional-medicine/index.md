@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Functional medicine
 
 Functional medicine is an approach to healthcare that focuses on understanding the root causes of illness and treating the whole person, rather than just addressing specific symptoms or diseases.

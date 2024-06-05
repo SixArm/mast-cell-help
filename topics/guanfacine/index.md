@@ -1,4 +1,7 @@
 [//]: # (source: gpt-40)
+[//]: # (brands: Tenex (immediate-release), Intuniv (extended-release))
+[//]: # (treats: attention-deficit-hyperactivity-disorder hypertension)
+[//]: # (tags: medication)
 
 # Guanfacine
 

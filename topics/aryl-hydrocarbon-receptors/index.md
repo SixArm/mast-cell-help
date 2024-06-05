@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: AhR)
+[//]: # (tags: toxins receptors)
+
 # Aryl hydrocarbon receptors (AhR)
 
 Aryl hydrocarbon receptors (AhR) are transcription factors that play a critical role in the body's response to environmental toxins, specifically aromatic hydrocarbons. AhR activation is involved in regulating the expression of a wide range of genes.

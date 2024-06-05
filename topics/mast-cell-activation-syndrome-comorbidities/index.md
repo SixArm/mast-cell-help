@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: comorbidities)
+
 # Mast Cell Activation Syndrome (MCAS) comorbidities
 
 [Source: Characterization of Mast Cell Activation Syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341697/)

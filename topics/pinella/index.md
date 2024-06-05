@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbal supplements)
+
 # Pinella
 
 Pinella is an herbal supplement derived from the root of the Pimpinella anisum plant, commonly known as anise. It has been used traditionally in herbal medicine, primarily to support gastrointestinal health and soothe digestive discomfort.

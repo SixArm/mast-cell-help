@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: VIP)
+[//]: # (tags: component)
+
 # Vasoactive Intestinal Peptide (VIP)
 
 Vasoactive Intestinal Peptide (VIP) is a neuropeptide that plays a crucial role in various physiological functions, including the regulation of the gastrointestinal tract, vascular system, and immune system.

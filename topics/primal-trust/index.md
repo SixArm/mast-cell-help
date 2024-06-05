@@ -1,3 +1,6 @@
+[//]: # (source: https://www.primaltrust.org)
+[//]: # (tags: neuroplasticity treatments brands)
+
 # Primal Trust™
 
 [Primal Trust website](https://www.primaltrust.org/regulate-level-1/) excerpts…

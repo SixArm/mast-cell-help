@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Grape seed extract
 
 Grape seed extract is a dietary supplement derived from the seeds of grapes, particularly from red wine grapes (Vitis vinifera). It contains a variety of beneficial compounds, including flavonoids, phenolic acids, and oligomeric proanthocyanidin complexes (OPCs).

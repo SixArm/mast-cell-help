@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (abbr: CFS)
+[//]: # (aka: myalgic encephalomyelitis)
+[//]: # (tags: conditions)
+
 # Chronic Fatigue Syndrome (CFS)
 
 Chronic Fatigue Syndrome (CFS), also known as myalgic encephalomyelitis (ME), is a complex and debilitating medical condition characterized by persistent and unexplained fatigue that is not alleviated by rest. CFS is a chronic condition.

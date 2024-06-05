@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: components blood)
+
 # Platelet
 
 Platelets, also known as thrombocytes, are small cell fragments found in the bloodstream. They play a crucial role in the body's ability to stop bleeding and form blood clots when blood vessels are injured.

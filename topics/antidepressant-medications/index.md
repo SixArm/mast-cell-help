@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antidepressants)
+
 # Antidepressant medications
 
 Antidepressant medications are commonly used to treat various mental health conditions, primarily depression and anxiety disorders. These medications work by altering the levels of neurotransmitters in the brain, such as serotonin, norepinephrine, and dopamine, which are involved in regulating mood, emotions, and behavior. 

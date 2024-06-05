@@ -1,6 +1,12 @@
+[//]: # (source: ?)
+[//]: # (brands: Lastacaft)
+[//]: # (tags: antihistamines)
+
 # Alcaftadine
 
 Alcaftadine is an antihistamine medication used to treat allergic conjunctivitis, which is inflammation of the conjunctiva (the thin membrane that covers the white part of the eye and the inner surface of the eyelids) due to allergies. It is available in eye drop form.
+
+Brand name: Lastacaft.
 
 **Key points**:
 

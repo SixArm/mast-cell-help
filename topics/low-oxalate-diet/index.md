@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-oxalate diet
 
 A low-oxalate diet is a dietary approach that restricts the intake of foods high in oxalates. Oxalates are natural compounds found in a variety of plant-based foods and are also produced by the human body. In individuals who are prone to kidney stones or have certain medical conditions, a low-oxalate diet may be recommended to reduce the risk of developing kidney stones or to manage related health issues.

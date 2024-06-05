@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Mast Cell Activation Syndrome (MCAS): supportive measures
 
 Mast Cell Activation Syndrome (MCAS) treatments can use supportive measures such as:

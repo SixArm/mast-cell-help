@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Neuroinflammation
 
 Neuroinflammation refers to inflammation that occurs in the nervous system, particularly in the brain and spinal cord. Inflammation is a complex biological response to various insults, such as infection, injury, toxins, or autoimmune reactions. While inflammation is a critical part of the body's defense mechanism and plays a role in tissue repair and healing, excessive or chronic neuroinflammation can have detrimental effects on the nervous system.

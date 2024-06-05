@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CAH)
+[//]: # (tags: conditions)
+
 # Congenital Adrenal Hyperplasia (CAH)
 
 Congenital Adrenal Hyperplasia (CAH) refers to a group of genetic disorders that affect the adrenal glands, leading to an imbalance in the production of certain hormones.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: HNMT)
+[//]: # (tags: enzymes components)
+
 # Histamine N-methyltransferase (HNMT)
 
 Histamine N-methyltransferase (HNMT) is an enzyme that is responsible for breaking down histamine, by adding a methyl group to it (a process known as methylation).

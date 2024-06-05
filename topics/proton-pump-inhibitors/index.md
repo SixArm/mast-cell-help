@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PPI) 
+[//]: # (tags: treatments medications)
+
 # Proton pump inhibitors (PPIs)
 
 Proton pump inhibitors (PPIs) are a class of medications used to reduce the production of stomach acid. They work by inhibiting the activity of proton pumps in the stomach lining, which are responsible for the secretion of acid into the stomach.

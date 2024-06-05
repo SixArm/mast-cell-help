@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: IF)
+[//]: # (tags: diets)
+
 # Intermittent fasting (IF)
 
 Intermittent fasting (IF) is an eating pattern that cycles between periods of eating and fasting. Unlike traditional diets that focus on what to eat, intermittent fasting is more about when to eat.

@@ -1,6 +1,9 @@
+[//]: # (source: jph)
+[//]: # (tags: meta)
+
 # What is this book?
 
-Mast Cell Help is a guide book. It brings together topic summaries for 100+ medical concepts about mast cell symptoms, conditions, and treatments. This includes information about Mast Cell Activation Syndrome (MCAS), the immune system, histamines and anti-histamines, and many related medical areas.
+Mast Cell Help is a guide book. It brings together topic summaries for 100+ medical concepts about mast cell symptoms, conditions, and treatments. This includes information about Mast Cell Activation Syndrome (MCAS), the immune system, histamines and antihistamines, and many related medical areas.
 
 This guide book is similar to a glossary, or a primer, or a specific encyclopedia. The guide is intended for quick easy learning and sharing.
 

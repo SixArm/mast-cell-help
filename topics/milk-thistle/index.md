@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Milk thistle
 
 Milk thistle (also known as Silybum marianum) is a flowering herb. It has been used for centuries as a traditional herbal remedy for various liver disorders and other health conditions.

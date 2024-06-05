@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: adrenaline-emergencies medications)
+
 # Adrenaline auto-injector instructions
 
 When to use your adrenaline auto-injector (AAI), also known as an epinephrine emergency shot, such as a brand name EpiPen® device?
@@ -18,7 +21,7 @@ Use your adrenaline auto-injector immediately if you experience ANY of the follo
 
 - Loss of consciousness
 
-If you are only experiencing the following mild symptoms, then take your usual anti-histamines and treatments, and in addition have your adrenaline auto-injector ready in case of worsening symptoms:
+If you are only experiencing the following mild symptoms, then take your usual antihistamines and treatments, and in addition have your adrenaline auto-injector ready in case of worsening symptoms:
 
 - Red, raised, itchy rash
 

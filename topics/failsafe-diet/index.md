@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (abbr: RPHA)
+[//]: # (aka: Royal Prince Alfred Hospital Elimination Diet)
+[//]: # (tags: diets)
+
 # FAILSAFE diet (aka RPHA diet)
 
 The FAILSAFE diet is a dietary approach aimed at identifying and managing food sensitivities. The term "FAILSAFE" stands for "Free of Additives, Low in Salicylates, Amines, and Flavor Enhancers". Also known as the Royal Prince Alfred Hospital (RPAH) Elimination Diet.

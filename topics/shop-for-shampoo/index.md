@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for shampoo
 
 Shampoo recommended by mast cell people. Try to read ingredients lists carefully. You may want to avoid parabans, sulphates such as sodium laurel sulfate, citrus-related ingredients such as citric acid, preservatives such as formaldehyde,  

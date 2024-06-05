@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Lecithin
 
 Lecithin is a naturally occurring fatty substance found in plant and animal tissues. Lecithin is commonly extracted from sources such as soybeans, sunflower seeds, and egg yolks.

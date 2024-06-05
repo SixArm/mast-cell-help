@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: allergy)
+
 # Nickel allergy
 
 Nickel allergy, also known as nickel dermatitis, is a common allergic skin reaction to nickel, a metal that is widely used in various consumer products. Nickel is found in items such as jewelry (particularly earrings and other metal accessories), watches, eyeglass frames, buttons, zippers, belt buckles, and some tools and utensils.

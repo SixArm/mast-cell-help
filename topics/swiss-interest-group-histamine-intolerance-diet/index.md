@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: SIGHI)
+[//]: # (tags: diet)
+
 # Swiss Interest Group Histamine Intolerance (SIGHI) diet
 
 The Swiss Interest Group Histamine Intolerance (SIGHI) publishes a simplified

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Median arcuate ligament syndrome
 
 Median arcuate ligament syndrome (MALS), also known as celiac artery compression syndrome, is a rare condition characterized by compression of the celiac artery and nearby nerves by the median arcuate ligament (MAL), a fibrous band of tissue that connects the diaphragm to the spine. This compression can lead to symptoms such as abdominal pain, nausea, and weight loss, particularly after eating.

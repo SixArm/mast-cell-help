@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: differential-diagnosis)
+
 # Anaphylactic versus anaphylactoid
 
 Anaphylactic and anaphylactoid are similar words for similar symptoms. The difference is whether there's an allergic reaction or not.

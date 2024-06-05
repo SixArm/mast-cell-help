@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: TKI)
+[//]: # (tags: component)
+
 # Tyrosine kinase inhibitors (TKIs)
 
 Tyrosine kinase inhibitors (TKIs) are a class of medications that interfere with the activity of tyrosine kinases, enzymes that play a crucial role in cell signaling and growth. Tyrosine kinases are involved in various cellular processes, including cell proliferation, differentiation, and survival.

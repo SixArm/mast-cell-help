@@ -1,3 +1,6 @@
+[//]: # (source: https://medlineplus.gov/genetics/gene/adgre2/)
+[//]: # (tags: gene)
+
 # ADGRE2
 
 [ADGRE2: Adhesion G protein-coupled receptor E2](https://medlineplus.gov/genetics/gene/adgre2/)

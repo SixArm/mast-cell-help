@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for snacks
 
 Snacks suggested by mast cell patients.

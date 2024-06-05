@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: bronchodilators medications)
+
 # Bronchodilators
 
 Bronchodilators are a class of medications used to open up the airways in the lungs by relaxing and widening the bronchial tubes. They are primarily used in the treatment of respiratory conditions characterized by narrowed or constricted airways, such as asthma, chronic obstructive pulmonary disease (COPD), and bronchitis.

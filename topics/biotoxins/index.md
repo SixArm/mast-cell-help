@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: toxins)
+
 # Biotoxins
 
 Biotoxins are toxic substances produced by living organisms, including bacteria, fungi, algae, plants, and animals. They can enter the body through various routes such as ingestion, inhalation, or skin contact. Once inside the body, biotoxins can cause a wide range of health effects, from mild irritation to severe illness or even death, depending on the type and amount of toxin involved and the route of exposure.

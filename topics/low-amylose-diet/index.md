@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-amylose diet
 
 A low-amylose diet typically refers to a dietary approach that limits or reduces the intake of foods containing high levels of amylose, which is a type of starch. Starch is a complex carbohydrate made up of two main components: amylose and amylopectin. Amylose is a linear chain of glucose molecules linked by alpha-1,4-glycosidic bonds.

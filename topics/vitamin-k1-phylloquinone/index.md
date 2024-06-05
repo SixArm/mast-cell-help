@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: phylloquinone)
+[//]: # (tags: vitamins)
+
 # Vitamin K1 (phylloquinone)
 
 Vitamin K1, also known as phylloquinone, is one of the two primary forms of vitamin K, along with vitamin K2 (menaquinone). It is a fat-soluble vitamin that plays a crucial role in blood clotting (coagulation) and bone health.

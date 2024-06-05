@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: TCM)
+[//]: # (tags: treatments traditional-chinese-medicine)
+
 # Traditional Chinese Medicine (TCM)
 
 Traditional Chinese Medicine (TCM) is a comprehensive and ancient system of medicine that has been practiced for thousands of years in China and East Asia. TCM emphasizes the interconnectedness of physical, mental, and emotional well-being. It uses concepts such as Yin and Yang, the Five Elements (Wood, Fire, Earth, Metal, Water), and the flow of Qi to diagnose and treat health issues.

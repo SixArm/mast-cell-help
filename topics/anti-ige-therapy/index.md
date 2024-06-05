@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications)
+
 # Anti-IgE therapy
 
 Anti-IgE therapy is a type of biologic medication used to treat allergic conditions, particularly allergic asthma and chronic idiopathic urticaria (chronic hives). It works by targeting and blocking immunoglobulin E (IgE), a type of antibody that plays a central role in allergic reactions.

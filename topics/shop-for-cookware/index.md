@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for cookware
 
 Cookware recommended by mast cell patients is generally made of ceramic, enamel, cast iron, or stainless steel.

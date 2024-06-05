@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: triggers)
+
 # Asthma triggers
 
 [Asthma](../asthma/) may be triggered or worsened by various factors, including:

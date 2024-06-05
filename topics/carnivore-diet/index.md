@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Carnivore diet
 
 The carnivore diet is a type of diet that emphasizes the consumption of animal products exclusively and excludes plant-based foods. Individuals following the carnivore diet typically eat meat, fish, and other animal-derived foods while eliminating fruits, vegetables, grains, legumes, and other plant-based foods.

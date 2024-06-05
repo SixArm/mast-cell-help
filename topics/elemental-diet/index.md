@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Elemental diet
 
 An elemental diet is a specialized form of medical nutrition therapy that involves consuming a liquid formula containing essential nutrients in their simplest form. This type of diet is designed to provide complete nutrition that is easy to digest. Elemental diets are often used for specific medical conditions or situations where normal food intake is challenging.

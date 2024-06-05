@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: severities)
+
 # Anaphylaxis severity
 
 [Anaphylaxis](../anaphylaxis/) is a severe and potentially life-threatening allergic reaction. Severity of anaphylaxis can escalate rapidly, and the presentation can vary from person to person.

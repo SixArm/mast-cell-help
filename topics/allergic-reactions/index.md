@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Allergic reactions
 
 Allergic reactions are categorized into several types based on their clinical features and mechanisms.

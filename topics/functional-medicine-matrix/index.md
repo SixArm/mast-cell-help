@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: care-categories)
+
 # Functional medicine matrix
 
 The functional medicine matrix is a framework for organizing and evaluating a patient's health history, symptoms, and clinical findings within six key areas, known as the "Seven Core Clinical Imbalances".

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antimalarials immunomodulatories medications)
+
 # Hydroxychloroquine
 
 Hydroxychloroquine, which is an antimalarial and immunomodulatory drug. It is primarily used to treat or prevent malaria. It is also used for the treatment of certain autoimmune diseases. Brand name: Plaquenil.

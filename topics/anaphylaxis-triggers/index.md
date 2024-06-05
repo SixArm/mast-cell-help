@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: triggers)
+
 # Anaphylaxis triggers
 
 Anaphylaxis has many potential triggers that depend on the person and their allergies:

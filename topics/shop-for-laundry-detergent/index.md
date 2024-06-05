@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for laundry detergent
 
 Laundry detergent recommended by mast cell people:

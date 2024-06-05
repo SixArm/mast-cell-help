@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (aka: albuterol)
+[//]: # (brands: ProAir HFA, ProAir RespiClick, Proventil HFA, Ventolin HFA, AccuNeb)
+[//]: # (tags: beta-agonists)
+
 # Albuterol sulfate
 
 Albuterol sulfate is a medication used to treat bronchospasm in conditions such as asthma, chronic obstructive pulmonary disease (COPD), and other respiratory conditions. It belongs to a class of drugs known as beta-agonists, specifically beta-2 adrenergic agonists. Brand names: ProAir, Proventil, Ventolinr.

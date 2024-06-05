@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Daith piercing
 
 A daith piercing is a type of ear piercing that passes through the innermost fold of the cartilage of the ear, known as the "daith" (pronounced like "dayth"). It is named after this specific anatomical feature. Daith piercings have gained popularity in recent years for therapeutic benefits.

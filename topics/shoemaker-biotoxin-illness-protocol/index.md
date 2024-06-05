@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments protocols toxins)
+
 # Shoemaker Biotoxin Illness Protocol
 
 The Shoemaker Biotoxin Illness Protocol is a treatment approach developed by Dr. Ritchie Shoemaker for individuals with Chronic Inflammatory Response Syndrome (CIRS). CIRS is associated with exposure to biotoxins, particularly mycotoxins produced by molds. The protocol is designed to address the underlying environmental triggers, reduce inflammation, and support the body's detoxification processes.

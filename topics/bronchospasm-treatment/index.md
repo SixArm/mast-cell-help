@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Bronchospasm treatment
 
 [Bronchospasm](../bronchospasm/) treatment typically involves:

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (treats: hypermobile-ehlers-danlos-syndrome)
+[//]: # (tags: protocols)
+
 # Cusack protocol
 
 The Cusack protocol is a treatment for hypermobile Ehlers-Danlos syndrome (hEDS), a connective tissue disorder characterized by joint hypermobility, skin laxity, and various other symptoms. The protocol focuses on a multidisciplinary approach to symptom management and aims to improve quality of life for individuals with hEDS.

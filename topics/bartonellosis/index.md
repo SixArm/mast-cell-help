@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: bacteria)
+
 # Bartonellosis
 
 Bartonellosis is an infectious disease caused by bacteria of the genus Bartonella. The disease can manifest in various forms, and the symptoms can range from mild to severe. Bartonella species are transmitted to humans primarily through the bites of infected arthropods, such as fleas, ticks, lice, and sandflies.

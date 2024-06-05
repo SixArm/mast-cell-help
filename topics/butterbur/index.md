@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Butterbur
 
 Butterbur (Petasites hybridus) is a herbaceous plant that has been used for centuries in traditional medicine for various health purposes. Its root and rhizome, or underground stem, are the parts of the plant most commonly used for medicinal purposes.

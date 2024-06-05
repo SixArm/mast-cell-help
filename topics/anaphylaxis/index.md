@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Anaphylaxis
 
 Anaphylaxis is a medical term that describes a potentially life-threatening reaction affecting multiple systems in the body.

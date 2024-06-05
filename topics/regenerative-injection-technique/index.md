@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: RIT)
+[//]: # (tags: treatments injections)
+
 # Regenerative injection technique (RIT)
 
 Regenerative Injection Technique (RIT) is a minimally invasive procedure used to treat musculoskeletal pain and injuries by promoting tissue repair and regeneration. It involves the injection of biological substances, such as platelet-rich plasma (PRP), autologous blood, or other growth factors, into damaged or painful areas of the body to stimulate healing and reduce pain.

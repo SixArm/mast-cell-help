@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: antidepressants medications)
+
 # Nortriptyline
 
 Nortriptyline is a medication primarily used to treat depression. It belongs to a class of drugs known as tricyclic antidepressants (TCAs).

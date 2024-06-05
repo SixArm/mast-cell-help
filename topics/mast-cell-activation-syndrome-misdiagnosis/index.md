@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: misdiagnoses)
+
 # Mast Cell Activation Syndrome - misdiagnosis
 
 Took me 2 years of convincing people and doctors I was sick. Now I look back on my life and realize I was sick before I even paid attention. I've been diagnosed with so many things. But mcas was the last thing.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: MIS-C)
+[//]: # (tags: diagnoses)
+
 # Multisystem Inflammatory Syndrome in Children (MIS-C)
 
 Multisystem Inflammatory Syndrome in Children (MIS-C) is a rare but serious condition. It is characterized by widespread inflammation affecting multiple organ systems in the body. MIS-C is currently linked to coronavirus disease 2019 (COVID-19).

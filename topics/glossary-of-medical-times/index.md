@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: glossary)
+
 # Glossary of medical time
 
 **When to do treatments**:

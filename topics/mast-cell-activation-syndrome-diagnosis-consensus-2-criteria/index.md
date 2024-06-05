@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests standards)
+
 # Mast Cell Activation Syndrome (MCAS): diagnosis consensus-2 criteria
 
 [Source](https://www.degruyter.com/document/doi/10.1515/dx-2020-0005/html). Diagnosis established upon demonstration of the major criterion combined with at least one minor criterion (and absence of any other disease better accounting for the problems).

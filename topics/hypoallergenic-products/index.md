@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: hypoallergenics list)
+
 # Hypoallergenic products
 
 "Hypoallergenic" is a term used to describe products that are designed to minimize the likelihood of causing allergic reactions and sensitivity symptoms. Hypoallergenic products are formulated to be less likely to cause skin irritation or trigger allergies in individuals with sensitive skin.

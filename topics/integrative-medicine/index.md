@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: integrative healthcare)
+[//]: # (tags: care-categories)
+
 # Integrative medicine
 
 Integrative medicine, also known as integrative healthcare, is an approach to medical practice that combines conventional Western medicine with complementary and alternative therapies (CAM). It emphasizes the importance of addressing the whole person, including their physical, emotional, mental, social, and spiritual well-being, rather than just treating specific symptoms or diseases

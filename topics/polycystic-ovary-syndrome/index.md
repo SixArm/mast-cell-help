@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PCOS)
+[//]: # (tags: diagnoses)
+
 # Polycystic Ovary Syndrome (PCOS)
 
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder that affects people with ovaries, particularly during their reproductive years. PCOS is a chronic condition that requires ongoing management.

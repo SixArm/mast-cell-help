@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: menaquinone)
+[//]: # (tags: vitamins)
+
 # Vitamin K2 (menaquinone)
 
 Vitamin K2, also known as menaquinone, is one of the two primary forms of vitamin K, alongside vitamin K1 (phylloquinone). Like vitamin K1, vitamin K2 is a fat-soluble vitamin that plays essential roles in various bodily functions, including blood clotting, bone metabolism, and cardiovascular health.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: microorganisms)
+
 # Microbiota
 
 Microbiota refers to the diverse community of microorganisms that inhabit a particular environment, such as the human body or specific ecological niches. These microorganisms include bacteria, viruses, fungi, archaea, and other single-celled organisms.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: corticosteroids steroids hormones medications)
+
 # Corticosteroids
 
 Corticosteroids, often referred to simply as steroids, are a class of synthetic drugs that mimic the natural corticosteroid hormones produced by the adrenal glands. These medications are commonly prescribed for their anti-inflammatory and immunosuppressive properties. Examples: prednisone, dexamethasone, hydrocortisone.

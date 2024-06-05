@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Hypertension
 
 Hypertension, commonly known as high blood pressure, is a condition characterized by elevated pressure in the arteries. It's a significant risk factor for various cardiovascular diseases, including heart attack, stroke, and heart failure, as well as kidney disease.

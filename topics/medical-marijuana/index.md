@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals treatments)
+
 # Medical marijuana
 
 Medical marijuana, also known as medical cannabis, refers to the use of the cannabis plant or its extracts to treat medical conditions and alleviate symptoms. The plant contains numerous compounds, including cannabinoids such as tetrahydrocannabinol (THC) and cannabidiol (CBD), which have potential therapeutic effects on the body.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: triggers warnings)
+
 # Essential oil caution
 
 Thanks to Manda Ferguson, cosmetic chemist.

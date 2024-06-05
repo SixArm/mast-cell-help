@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: lyme toxins conditions)
+
 # Lyme disease with Borrelia, Bartonella, Babesia
 
 [Lyme disease](../lyme-disease/) is caused by the tick-borne bacterium [Borrelia](../borrelia/)  burgdorferi, often with co-infections by microorganisms [Bartonella](../bartonella/) and [Babesia](../babesia/).

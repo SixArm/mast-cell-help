@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: foods triggers)
+
 # Food triggers
 
 Foods triggers refer to adverse reactions triggered by exposure to certain foods. Individuals may experience symptoms ranging from mild irritation to severe reactions or [anaphylaxis](../anaphylaxis/).

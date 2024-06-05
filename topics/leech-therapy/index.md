@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Leech therapy
 
 Leech therapy, also known as hirudotherapy, is an ancient medical practice that involves the application of medicinal leeches (usually species such as Hirudo medicinalis) to the skin to treat various medical conditions. Leech therapy has been used for centuries and is still utilized in modern medicine for certain conditions.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: EDS)
+[//]: # (tags: conditions)
+
 # Ehlers-Danlos syndrome (EDS)
 
 Ehlers-Danlos syndrome (EDS) is a group of rare genetic connective tissue disorders that affect the body's collagen, which is a key component of the connective tissues supporting the skin, bones, blood vessels, and organs. EDS results in a range of symptoms and can vary in severity from person to person.

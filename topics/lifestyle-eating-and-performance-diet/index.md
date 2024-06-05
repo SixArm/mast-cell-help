@@ -1,4 +1,6 @@
 [//]: # (source: gpt-40)
+[//]: # (abbr: LEAP)
+[//]: # (tags: diets)
 
 # Lifestyle, Eating, And Performance (LEAP) diet
 

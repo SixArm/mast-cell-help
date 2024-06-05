@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Mast Cell Activation Syndrome (MCAS): diagnosis via clinical evaluation
 
 The diagnosis of Mast Cell Activation Syndrome (MCAS) can be challenging because the symptoms can overlap with many other medical conditions, and there is no single definitive test to diagnose it. MCAS is typically diagnosed through a combination of clinical evaluation, laboratory tests, and sometimes specialized assessments.

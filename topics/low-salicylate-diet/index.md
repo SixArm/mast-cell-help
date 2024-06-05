@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Low-salicylate diet
 
 A low-salicylate diet, sometimes called a low-salicylic acid diet, is a dietary approach that restricts foods and beverages with high levels of salicylates. Salicylates are naturally occurring chemicals found in various plants and foods. In some people, salicylates can cause headaches, skin rashes, digestive issues, and other discomfort.

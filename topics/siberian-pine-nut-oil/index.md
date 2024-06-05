@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Siberian pine nut oil
 
 Siberian pine nut oil is a type of vegetable oil derived from the seeds of the Siberian pine tree (Pinus sibirica). It has a long history of traditional use in Siberian and Russian folk medicine and cuisine. 

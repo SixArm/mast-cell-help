@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Mast Cell Activation Syndrome (MCAS): symptoms
 
 Mast Cell Activation Syndrome (MCAS) can lead to a wide range of symptoms that can affect various organ systems. These symptoms can vary from person to person and may be mild or severe.

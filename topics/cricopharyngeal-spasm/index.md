@@ -1,3 +1,8 @@
+[//]: # (source: ?)
+[//]: # (aka: upper esophageal sphincter dysfunction)
+[//]: # (aka: cricopharyngeal dysfunction)
+[//]: # (tags: conditions)
+
 # Cricopharyngeal spasm
 
 Cricopharyngeal spasm, also known as upper esophageal sphincter (UES) dysfunction or cricopharyngeal dysfunction, is a condition characterized by the abnormal contraction of the cricopharyngeal muscle, which is a ring-like muscle at the top of the esophagus. This muscle normally helps prevent air from entering the esophagus during breathing and prevents reflux of stomach contents into the throat.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: protections)
+
 # Accelerator-free protective gloves
 
 If you're going to the doctor, or work in healthcare, you can bring your own protective gloves.

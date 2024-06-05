@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: diets)
+
 # Metabolic Type diet
 
 [Source](https://stephenduncan.co/13-reactive-foods-to-restrict/)

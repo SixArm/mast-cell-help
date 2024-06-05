@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: symptoms)
+
 # Bradycardia
 
 Bradycardia means an abnormally slow heart rate, typically a resting heart rate of less than 60 beats per minute (BPM) in adults.

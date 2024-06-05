@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals treatments)
+
 # Ibogaine therapy
 
 Ibogaine therapy involves the use of ibogaine, a psychoactive substance found in the roots of the iboga plant native to Central Africa. Ibogaine has been studied for its potential therapeutic effects, particularly in the treatment of substance use disorders, including opioid addiction.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Mastocytosis
 
 Mastocytosis is a rare disorder characterized by the abnormal accumulation and proliferation of mast cells in various tissues throughout the body. Mast cells are immune cells that are involved in the body's response to allergens and immune challenges. In mastocytosis, these cells are overproduced and abnormally shaped.

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: tests)
+
 # Mast cell tryptase stimulation test
 
 The mast cell tryptase stimulation test, also known as the Tryptase Release Test (TRT), is a diagnostic test used to assess mast cell activation. This test measures the levels of tryptase, an enzyme released by mast cells, before and after a provoking stimulus that triggers mast cell degranulation.

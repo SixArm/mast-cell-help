@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: medications)
+
 # Promethazine
 
 Promethazine is a versatile medication used for various purposes. Overall, promethazine is a versatile medication with multiple uses as an antihistamine, antiemetic, and sedative. It is effective for treating allergies, nausea and vomiting, and insomnia, but it should be used with caution and under the guidance of a healthcare professional due to the risk of side effects and drug interactions.

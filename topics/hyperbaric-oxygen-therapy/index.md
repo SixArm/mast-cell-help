@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: HBOT)
+[//]: # (tags: treatments)
+
 # Hyperbaric oxygen therapy (HBOT)
 
 Hyperbaric oxygen therapy (HBOT) is a medical treatment that involves breathing pure oxygen in a pressurized environment, typically a hyperbaric chamber. This therapy is based on the principle that increasing the amount of oxygen in the bloodstream can promote healing and provide various therapeutic benefits. 

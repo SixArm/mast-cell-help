@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: herbals)
+
 # Ginseng
 
 Ginseng is a popular herbal remedy that has been used for centuries in traditional medicine, particularly in East Asia. Ginseng is believed to have various health benefits, and it is often touted as an adaptogen, meaning it may help the body adapt to stress and promote overall well-being.

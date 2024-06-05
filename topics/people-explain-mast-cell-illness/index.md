@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: quotations)
+
 # People explain mast cell illness
 
 "My body acts as if I am allergic to anything at any time without rhyme or reason."

@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: adrenaline-emergencies medications brands)
+
 # Auvi-Q
 
 Auvi-Q is a brand name for an [adrenaline auto-injector](../adrenaline-auto-injector/) used to treat severe allergic reactions, including anaphylaxis. It delivers a single dose of adrenaline quickly and easily in emergency situations when an individual experiences symptoms such as difficulty breathing, swelling of the face or throat, hives, or a rapid drop in blood pressure.

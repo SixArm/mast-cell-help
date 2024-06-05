@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: conditions)
+
 # Histamine psychosis
 
 Histamine psychosis, also known as histaminergic psychosis, refers to a rare condition in which excessive levels of histamine in the body lead to the development of psychotic symptoms. Histamine is a neurotransmitter involved in various physiological processes, including the regulation of sleep, appetite, and mood. However, when histamine levels become dysregulated, it can result in abnormal neurological and psychiatric symptoms.

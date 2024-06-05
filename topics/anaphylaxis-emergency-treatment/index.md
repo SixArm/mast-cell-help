@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: treatments)
+
 # Anaphylaxis emergency treatment
 
 [Anaphylaxis](../anaphylaxis/) emergency treatment in a pre-hospital setting:

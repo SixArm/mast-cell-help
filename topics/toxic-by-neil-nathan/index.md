@@ -1,3 +1,6 @@
+[//]: # (source: https://www.amazon.com/Toxic-Toxicity-Multiple-Sensitivities-Environmental/dp/1628603119)
+[//]: # (tags: toxins book)
+
 # Toxic - By  Neil Nathan
 
 Toxic: Heal Your Body from Mold Toxicity, Lyme Disease, Multiple Chemical Sensitivities, and Chronic Environmental Illness

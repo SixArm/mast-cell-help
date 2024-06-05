@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: CBT)
+[//]: # (tags: psychology treatments)
+
 # Cognitive-Behavioral Therapy (CBT)
 
 Cognitive-Behavioral Therapy (CBT) is a widely used therapeutic approach that focuses on the connection between thoughts, feelings, and behaviors. It is an evidence-based psychological treatment that has been applied to a variety of mental health conditions.

@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: WFPB)
+[//]: # (tags: diet)
+
 # Whole food plant-based (WFPB) diet
 
 A whole food plant-based (WFPB) diet is a dietary pattern centered around whole, minimally processed plant foods. It emphasizes fruits, vegetables, whole grains, legumes, nuts, and seeds, while minimizing or excluding animal products and processed foods.

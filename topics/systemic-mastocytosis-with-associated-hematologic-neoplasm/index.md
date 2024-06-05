@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: SM-AHN)
+[//]: # (tags: diagnosis)
+
 # Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)
 
 Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN) is a rare and complex disorder In SM-AHN, there is an overgrowth of mast cells and also an associated hematologic neoplasm, which refers to an abnormal growth of blood cells.

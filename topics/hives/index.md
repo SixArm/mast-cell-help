@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (aka: urticaria)
+[//]: # (tags: conditions)
+
 # Hives
 
 Hives, also known as urticaria, are a common skin reaction characterized by raised, red, and itchy welts or bumps. They can vary in size and shape and may appear suddenly on any part of the body. Hives are often accompanied by itching, which can be severe and disruptive.

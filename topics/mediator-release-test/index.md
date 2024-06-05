@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: MRT)
+[//]: # (tags: tests)
+
 # Mediator Release Test (MRT)
 
 The Mediator Release Test (MRT) is a type of blood test used to test your body's reactions to 0ver 170 foods and food additives. It is a patented test from Oxford Biomedical Technologies, Inc. The cost is advertised at $695.

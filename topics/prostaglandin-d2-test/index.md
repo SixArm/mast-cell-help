@@ -1,3 +1,7 @@
+[//]: # (source: ?)
+[//]: # (abbr: PGD2)
+[//]: # (tags: tests)
+
 # Prostaglandin D2 (PGD2) test
 
 The Prostaglandin D2 (PGD2) test is a diagnostic tool used to measure the levels of prostaglandin D2, a type of signaling molecule, in biological samples such as blood or urine. Elevated levels of PGD2 may indicate increased activity of mast cells, which are immune cells involved in allergic and inflammatory responses.

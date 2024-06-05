@@ -1,3 +1,6 @@
+[//]: # (source: jph)
+[//]: # (tags: shop)
+
 # Shop for cleaners
 
 Cleaners that mast cell patients say work for them.

@@ -1,5 +1,6 @@
 [//]: # (source: gpt-40)
 [//]: # (aka: salicylate intolerance)
+[//]: # (tags: sensitivities)
 
 # Salicylate sensitivity 
 

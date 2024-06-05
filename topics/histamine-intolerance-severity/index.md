@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: severities)
+
 # Histamine intolerance: severity
 
 The severity of histamine intolerance can vary widely among individuals.

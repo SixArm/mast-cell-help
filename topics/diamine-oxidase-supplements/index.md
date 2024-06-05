@@ -1,3 +1,6 @@
+[//]: # (source: ?)
+[//]: # (tags: supplements)
+
 # Diamine oxidase supplements
 
 Diamine oxidase (DAO) is an enzyme that plays a role in the breakdown of histamine, a compound involved in various physiological processes and allergic reactions.

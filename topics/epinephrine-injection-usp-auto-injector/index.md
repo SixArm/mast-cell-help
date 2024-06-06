@@ -1,6 +1,7 @@
 [//]: # (source: https://epinephrineautoinject.com/)
 [//]: # (aka: epinephrine auto-injector)
-[//]: # (tags: adrenaline-emergencies medications brands)
+[//]: # (brands: Adrenaclick)
+[//]: # (tags: adrenaline-emergencies medications)
 
 # Epinephrine Injection, USP Auto-Injector
 

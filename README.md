@@ -105,7 +105,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Patient advocates](topics/patient-advocates/)
 * [Home hunting](topics/home-hunting/)
 * [Medical alert bracelet](topics/medical-alert-bracelet/)
-  
+* [GHK-CU peptide](topics/ghk-cu-peptide/)
+
 ### [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine/)
 
 * [Acupuncture](topics/acupuncture/)
@@ -230,8 +231,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Nutritional shakes](topics/nutritional-shakes/)
 * [Neocate Splash](topics/neocate-splash/)
 * [Multivitamin](topics/multivitamin/)
-* [Prebiotic supplements](topics/prebiotic-supplements/)
-* [Probiotic supplements](topics/probiotic-supplements/)
 * [Antioxidants](topics/antioxidants/)
 * [Flavonoids](topics/flavonoids/)
 * [Diamine oxidase supplements](topics/diamine-oxidase-supplements/)
@@ -256,6 +255,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Tiger milk mushroom](topics/tiger-milk-mushroom/)
 * [Turmeric](topics/turmeric/)
 * [Zinc](topics/zinc/)
+
+### [Prebiotic supplements](topics/prebiotic-supplements/)
+
+### [Probiotic supplements](topics/probiotic-supplements/)
+
+* [Lacticaseibacillus rhamnosus](topics/lacticaseibacillus-rhamnosus/)
 
 ### [Mast cell stabilizer supplements](topics/mast-cell-stabilizer-supplements/)
 
@@ -291,15 +296,16 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ginseng](topics/ginseng/)
 * [Holy basil](topics/holy-basil/)
 * [Khellin](topics/khellin/)
+* [Mastic gum](topics/mastic-gum/)
 * [Meadowsweet](topics/meadowsweet/)
 * [Milk thistle](topics/milk-thistle/)
+* [Oil of oregano](topics/oil-of-oregano/)
 * [Pinella](topics/pinella/)
 * [Nigella sativa (black seed)](topics/nigella-sativa/)
 * [Scutellaria (skullcap)](topics/scutellaria/)
+* [Shilajit](topics/shilajit/)
 * [Stinging nettle](topics/stinging-nettle/)
 * [Antimicrobial herbs](topics/antimicrobial-herbs/)
-* [Mastic gum](topics/mastic-gum/)
-* [Oil of oregano](topics/oil-of-oregano/)
 
 <img src="assets/images/pexels/pexels-rdne-stock-project-6129507/1920x960.jpg" alt="doctors" style="width: 100%;"/>
 
@@ -422,6 +428,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Borrelia](topics/borrelia/)
 * [Bartonella](topics/bartonella/)
 * [Babesia](topics/babesia/)
+* [Rocky Mountain Spotted Fever (RMSF)](topics/rocky-mountain-spotted-fever/)
+* [Rickettsia rickettsii](topics/rickettsia-rickettsii/)
 
 ### [Mastocytosis](topics/mastocytosis/)
 
@@ -598,7 +606,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [EpiPen alternatives](topics/epipen-alternatives/)
 * [Auvi-Q](topics/auvi-q/) (adrenaline/epinephrine auto-injector)
 * [Symjepi](topics/symjepi/) (adrenaline/epinephrine syringe)
-* [Adrenaclick](topics/adrenaclick/)
+* [Epinephrine Injection, USP Auto-Injector](topics/epinephrine-injection-usp-auto-injector/)
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
@@ -644,15 +652,20 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants/)
 
 * [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol/)
-* [Cholestyramine (brand name: Questran)](topics/cholestyramine/)
-* [Colesevelam (brand name: Welchol)](topics/colesevelam/)
-* [Colestipol (brand name: Colestid)](topics/colestipol/)
+* [Cholestyramine](topics/cholestyramine/) (brand name: Questran)
+* [Colesevelam](topics/colesevelam/) (brand name: Welchol)
+* [Colestipol](topics/colestipol/) (brand name: Colestid)
 * [Activated charcoal](topics/activated-charcoal/)
+* [Bentonite clay](topics/bentonite-clay/)
 
 ### [Biofilm busters](topics/biofilm-busters/)
 
 * [Colloidal silver](topics/colloidal-silver/)
 * [Monolaurin](topics/monolaurin/)
+* [Butyrate supplements](topics/butyrate-supplements/)
+* [Quorum quenching (QQ)](topics/quorum-quenching/)
+* [Quorum sensing inhibitors (QSI)](topics/quorum-sensing-inhibitors/)
+* [Stealth pathogen](topics/stealth-pathogen/)
 
 ### [Biotoxin treatments](topics/biotoxin-treatments/)
 
@@ -818,8 +831,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Medication examples](topics/medication-examples/)
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 * [Water damage mold list](topics/water-damage-mold-list/)
-* [Data protection](topics/data-protection/)
-    
+
+### [Data protection](topics/data-protection/)
+
+* [Health Insurance Portability and Accountability Act (HIPAA)]
+
 ### [Glossary](topics/glossary/)
 
 * [Glossary of medical roles](topics/glossary-of-medical-roles/)

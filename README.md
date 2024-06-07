@@ -802,6 +802,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Quotations](topics/quotations/)
 
 * [People explain mast cell illness](topics/people-explain-mast-cell-illness/)
+* [What led to your MCAS diagosis?](topics/what-led-to-your-mcas-diagnosis/)
 * [Hurting](topics/hurting/)
 * [Doctor quotations](topics/doctor-quotations/)
 * [Doctor predictions](topics/doctor-predictions/)

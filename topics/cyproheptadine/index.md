@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Periactin, Ciplactin, Cyheptine, Cyprogin, Cyprono, Cyprosian, Klarivitina, Nuran, Periactine, Periactinol, Peritol, Polytab, Practin, Preptin, Supersan, Trimetabol)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Periactin, Ciplactin, Cyheptine, Cyprogin, Cyprono, Cyprosian, Klarivitina, Nuran, Periactine, Periactinol, Peritol, Polytab, Practin, Preptin, Supersan, Trimetabol
+tags: antihistamines
+)
 
 # Cyproheptadine
 

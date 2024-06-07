@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (treats: gout, inflammation, familial Mediterranean fever (FMF), pericarditis)
-[//]: # (tags: anti-inflammatories medications)
+[//]: # (
+source: gpt-40
+treats: gout, inflammation, familial Mediterranean fever (FMF), pericarditis
+tags: anti-inflammatories medications
+)
 
 # Colchicine
 
@@ -8,6 +10,6 @@ Colchicine is a medication primarily used to treat gout, a condition characteriz
 
 In addition to treating acute gout flares, colchicine is used for familial Mediterranean fever (FMF), a genetic disorder that causes recurrent fevers and inflammation. Colchicine can also be prescribed for pericarditis, an inflammation of the sac surrounding the heart, and is being explored for potential benefits in other inflammatory and cardiovascular conditions.
 
-Despite its therapeutic benefits, colchicine must be used with caution due to its narrow therapeutic index. The difference between an effective dose and a toxic dose is small, and overdose can lead to severe gastrointestinal symptoms, organ failure, and even death. Common side effects at therapeutic doses include diarrhea, nausea, and abdominal pain. 
+Despite its therapeutic benefits, colchicine must be used with caution due to its narrow therapeutic index. The difference between an effective dose and a toxic dose is small, and overdose can lead to severe gastrointestinal symptoms, organ failure, and even death. Common side effects at therapeutic doses include diarrhea, nausea, and abdominal pain.
 
 Colchicine's interactions with other medications and potential for serious side effects necessitate careful medical supervision. Patients are advised to follow their healthcare provider's instructions precisely to avoid complications and ensure optimal treatment outcomes.

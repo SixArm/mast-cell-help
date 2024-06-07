@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: TPN)
-[//]: # (tags: nutrition treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: TPN
+tags: nutrition treatments
+)
 
 # Total parenteral nutrition (TPN)
 

@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: persons)
+[//]: # (
+source: jph
+tags: persons
+)
 
 # People
 

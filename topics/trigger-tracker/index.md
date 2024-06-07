@@ -1,3 +1,8 @@
+[//]: # (
+source: jph
+tags: triggers help
+)
+
 # Trigger tracker
 
 A trigger tracker is a record-keeping technique that helps a person discover their triggers, and how they relate to symptoms, treatments, and improvements. A trigger tracker is also known as a journal, log, record, or diary.

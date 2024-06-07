@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: TKI)
-[//]: # (tags: component)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: TKI
+tags: component
+)
 
 # Tyrosine kinase inhibitors (TKIs)
 

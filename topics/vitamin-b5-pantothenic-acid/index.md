@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: pantothenic acid)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: pantothenic acid
+tags: vitamins
+)
 
 # Vitamin B5 (pantothenic acid)
 

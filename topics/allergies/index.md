@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: allergies)
+[//]: # (
+source: gpt-3 + jph editing
+tags: allergies
+)
 
 # Allergies
 

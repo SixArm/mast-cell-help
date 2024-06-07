@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: SM)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: SM
+tags: conditions
+)
 
 # Systemic mastocytosis (SM)
 

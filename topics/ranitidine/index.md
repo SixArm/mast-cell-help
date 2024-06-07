@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: medications treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: medications treatments
+)
 
 # Ranitidine
 

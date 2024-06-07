@@ -1,11 +1,13 @@
-[//]: # (source: jph)
-[//]: # (tags: water triggers)
+[//]: # (
+source: jph
+tags: water triggers
+)
 
 # Shower triggers
 
 Shower triggers come in four major types:
 
-1. Water triggers: some people react to household tap water, because it contains elements and minerals and chemicals. 
+1. Water triggers: some people react to household tap water, because it contains elements and minerals and chemicals.
 
 2. Sensation triggers: some people react to the sensation of a shower, especially if the water impact causes body vibrations.
 

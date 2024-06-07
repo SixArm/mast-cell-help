@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Keppra)
-[//]: # (tags: anticonvulsants antiepileptics)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Keppra
+tags: anticonvulsants antiepileptics
+)
 
 # Levetiracetam
 

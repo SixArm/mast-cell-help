@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: differential-diagnosis)
+[//]: # (
+source: gpt-3 + jph editing
+tags: differential-diagnosis
+)
 
 # Anaphylactic versus anaphylactoid
 
@@ -7,11 +9,11 @@ Anaphylactic and anaphylactoid are similar words for similar symptoms. The diffe
 
 **Anaphylactic reactions have identifiable antigens**:
 
-The body's immune system recognizes the antigen, and binds it with an antibody called immunoglobin E (IgE). 
+The body's immune system recognizes the antigen, and binds it with an antibody called immunoglobin E (IgE).
 
-The result is called an "antibody-antigen complex", and it triggers receptors on mast cells and basophils. 
+The result is called an "antibody-antigen complex", and it triggers receptors on mast cells and basophils.
 
-This causes the release of histamine and other chemicals into the body, and generates the hypersensitivity response. 
+This causes the release of histamine and other chemicals into the body, and generates the hypersensitivity response.
 
 If the reaction is localized, then it is stereotyped as an allergic reaction.
 
@@ -27,4 +29,4 @@ But does not create an "antibody-antigen complex" so cannot be detected by many 
 
 Examples are MCAS reactions to sunshine, or heat, or vibration, or foods that don't cause IgE binding.
 
-Many adverse reactions to drugs, or drug hypersensitivies, are actually anaphylactoid reactions and not true allergies. 
+Many adverse reactions to drugs, or drug hypersensitivies, are actually anaphylactoid reactions and not true allergies.

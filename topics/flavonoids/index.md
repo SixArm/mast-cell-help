@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: herbals)
+[//]: # (
+source: gpt-40
+tags: herbals
+)
 
 # Flavonoids
 

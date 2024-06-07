@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: theories)
+[//]: # (
+source: gpt-3 + jph editing
+tags: theories
+)
 
 # Histamine bucket
 

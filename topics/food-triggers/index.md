@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: foods triggers)
+[//]: # (
+source: gpt-3 + jph editing
+tags: foods triggers
+)
 
 # Food triggers
 

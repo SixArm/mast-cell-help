@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: supplements vitamins minerals iv treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: supplements vitamins minerals iv treatments
+)
 
 # Myers' Cocktail
 

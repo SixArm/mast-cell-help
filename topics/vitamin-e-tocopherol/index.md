@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: tocopherol)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: tocopherol
+tags: vitamins
+)
 
 # Vitamin E (tocopherol)
 

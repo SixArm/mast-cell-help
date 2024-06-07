@@ -1,7 +1,9 @@
-[//]: # (source: ?)
-[//]: # (aka: cromolyn)
-[//]: # (brands: Gastrocrom)
-[//]: # (tags: mast-cell-stabilizers medications)
+[//]: # (
+source: gpt-3 + jph editing
+aka: cromolyn
+brands: Gastrocrom
+tags: mast-cell-stabilizers medications
+)
 
 # Cromolyn sodium
 

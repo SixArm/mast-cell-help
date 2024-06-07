@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: herbals)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbals
+)
 
 # Milk thistle
 

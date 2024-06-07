@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: proton-pump-inhibitors medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: proton-pump-inhibitors medications
+)
 
 # Omeprazole
 

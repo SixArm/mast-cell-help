@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: stomach-acid antihistamines proton-pump-inhibitors)
+[//]: # (
+source: gpt-3 + jph editing
+tags: stomach-acid antihistamines proton-pump-inhibitors
+)
 
 # Stomach acid + antihistamines + proton pump inhibitors
 
@@ -7,9 +9,9 @@ Stomach acid is necessary for digestion. The parietal cells of the stomach produ
 
 Having too little stomach acid or too much stomach acid can cause some similar symptoms: acid reflux, heartburn and pain, belching, nausea. The symptoms feel similar, even though the causes are opposite.
 
-You can try a quick home test to see if you have enough stomach acid. Dissolve a quarter teaspoon of bicarbonate of soda in a little water and drink it on an empty stomach. If you have enough stomach acid, then you should experience belching within approximately 5 minutes. If you don't have enough stomach acid, then nothing notable will happen. 
+You can try a quick home test to see if you have enough stomach acid. Dissolve a quarter teaspoon of bicarbonate of soda in a little water and drink it on an empty stomach. If you have enough stomach acid, then you should experience belching within approximately 5 minutes. If you don't have enough stomach acid, then nothing notable will happen.
 
-Be aware that not everyone can belch, so this test may not work if you have that as a complication. Be aware that in healthy humans, the half-life of PPIs is about 1 hour (9 hours for tenatoprazole), but the duration of acid inhibition is 48 hours because of irreversible binding to the H,K-ATPase. Also be aware that the quick home test is not scientifically proven and may not be accurate. 
+Be aware that not everyone can belch, so this test may not work if you have that as a complication. Be aware that in healthy humans, the half-life of PPIs is about 1 hour (9 hours for tenatoprazole), but the duration of acid inhibition is 48 hours because of irreversible binding to the H,K-ATPase. Also be aware that the quick home test is not scientifically proven and may not be accurate.
 
 For a more accurate formal test, your doctor can have you swallow a small capsule with a radio transmitter that measures the pH levels in your stomach. After taking a baseline measurement, you'll drink a baking soda solution to neutralize your stomach acid. Then the test measures how long it takes your stomach to return to baseline acid levels.
 

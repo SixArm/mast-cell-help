@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: CT)
-[//]: # (tags: imaging)
+[//]: # (
+source: gpt-40
+abbr: CT
+tags: imaging
+)
 
 # Computed tomography (CT)
 

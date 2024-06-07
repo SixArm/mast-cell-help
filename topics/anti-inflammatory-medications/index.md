@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: anti-inflammatories medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: anti-inflammatories medications
+)
 
 # Anti-inflammatory medications
 

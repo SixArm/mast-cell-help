@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antihistamines mast-cell-stabilizers)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antihistamines mast-cell-stabilizers
+)
 
 # Antihistamines and mast cell stabilizers
 
@@ -28,7 +30,7 @@ with mast cell stabilizer effects:
 - [azelastine](../azelastine/) (brand names Astepro, Astelin)
 
 - [olopatadine](../olopatadine/) (brand names: Patanase, Pataday, Pazeo)
-  
+ 
 - [alcaftadine](../alcaftadine/) (brand name: Lastacaft)
 
 If you're trying to convince your doctor that you may have a mast cell disorder,
@@ -38,11 +40,11 @@ weeks, then an H1 blocker without mast cell stabilizer effects for 2 weeks. If
 you feel better on the first one, then that's evidence you have a mast cell
 problem.
 
-Other mast cell stabilizers include 
-[vitamin C](../vitamin-c-ascorbic-acid/), 
-[diamine oxidase](../diamine-oxidase/), 
+Other mast cell stabilizers include
+[vitamin C](../vitamin-c-ascorbic-acid/),
+[diamine oxidase](../diamine-oxidase/),
 [quercetin](../quercetin/),
 [cromolyn sodium](../cromolyn-sodium/),
-[omalizumab](../omalizumab/), 
+[omalizumab](../omalizumab/),
 [hydroxychloroquine](../hydroxychloroquine/),
 [medical marijuana](../medical-marijuana/).

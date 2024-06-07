@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: traditional-chinese-medicine)
+[//]: # (
+source: gpt-3 + jph editing
+tags: traditional-chinese-medicine
+)
 
 # Gua Sha
 

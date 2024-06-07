@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: DMARD)
-[//]: # (tags: antirheumatics)
+[//]: # (
+source: gpt-40
+abbr: DMARD
+tags: antirheumatics
+)
 
 # Disease-modifying antirheumatic drugs (DMARDs)
 

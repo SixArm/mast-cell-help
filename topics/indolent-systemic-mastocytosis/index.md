@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: ISM)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: ISM
+tags: conditions
+)
 
 # Indolent Systemic Mastocytosis (ISM)
 

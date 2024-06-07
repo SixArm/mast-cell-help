@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: quotations)
+[//]: # (
+source: jph
+tags: quotations
+)
 
 # People explain mast cell illness
 

@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: supplements biofilm-busters)
+[//]: # (
+source: gpt-40
+tags: supplements biofilm-busters
+)
 
 # Butyrate supplements
 

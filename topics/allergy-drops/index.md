@@ -1,8 +1,10 @@
-[//]: # (source: ?)
-[//]: # (aka: subcutaneous immunotherapy (SCIT))
-[//]: # (aka: sublingual immunotherapy (SLIT))
+[//]: # (
+source: gpt-3 + jph editing
+aka: subcutaneous immunotherapy (SCIT)
+aka: sublingual immunotherapy (SLIT)
 [//]: # (cf: allergy-shots)
-[//]: # (tags: immunotherapies)
+tags: immunotherapies
+)
 
 # Allergy drops
 

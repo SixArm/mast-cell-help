@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: mast-cells
+)
+
 # Where are mast cells?
 
 Mast cells are a type of white blood cell found throughout the body, but they are primarily concentrated in specific tissues and organs, where they play a significant role in the immune system and allergic reactions.

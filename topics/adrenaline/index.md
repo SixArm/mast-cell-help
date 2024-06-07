@@ -1,10 +1,12 @@
-[//]: # (source: ?)
-[//]: # (aka: epinephrine)
-[//]: # (tags: hormones neurotransmitters)
+[//]: # (
+source: gpt-3 + jph editing
+aka: epinephrine
+tags: hormones neurotransmitters
+)
 
 # Adrenaline
 
-Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that plays a crucial role in the body's "fight or flight" response to stress or danger. Adrenaline is produced by the adrenal glands on top of each kidney. 
+Adrenaline (also known as epinephrine) is a hormone and neurotransmitter that plays a crucial role in the body's "fight or flight" response to stress or danger. Adrenaline is produced by the adrenal glands on top of each kidney.
 
 **Key points**:
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: herbals treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbals treatments
+)
 
 # Medical marijuana
 

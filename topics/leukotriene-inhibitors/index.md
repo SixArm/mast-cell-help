@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: leukotrine-inhibitors medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: leukotrine-inhibitors medications
+)
 
 # Leukotriene inhibitors
 

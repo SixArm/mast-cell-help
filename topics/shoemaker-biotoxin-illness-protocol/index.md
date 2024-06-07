@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: treatments protocols toxins)
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments protocols toxins
+)
 
 # Shoemaker Biotoxin Illness Protocol
 

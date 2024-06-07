@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: herbal supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbal supplements
+)
 
 # Pinella
 

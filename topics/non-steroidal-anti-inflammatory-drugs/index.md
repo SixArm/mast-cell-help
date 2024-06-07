@@ -1,7 +1,9 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: NSAID)
-[//]: # (treats: pain, inflammation, fever)
-[//]: # (tags: anti-inflammatories medications)
+[//]: # (
+source: gpt-40
+abbr: NSAID
+treats: pain, inflammation, fever
+tags: anti-inflammatories medications
+)
 
 # Non-steroidal anti-inflammatory drugs (NSAIDs)
 

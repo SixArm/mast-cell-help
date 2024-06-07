@@ -1,7 +1,9 @@
-[//]: # (source: ?)
-[//]: # (abbr: CFS)
-[//]: # (aka: myalgic encephalomyelitis)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CFS
+aka: myalgic encephalomyelitis
+tags: conditions
+)
 
 # Chronic Fatigue Syndrome (CFS)
 

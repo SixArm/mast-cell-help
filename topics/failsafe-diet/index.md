@@ -1,7 +1,9 @@
-[//]: # (source: ?)
-[//]: # (abbr: RPHA)
-[//]: # (aka: Royal Prince Alfred Hospital Elimination Diet)
-[//]: # (tags: diets)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: RPHA
+aka: Royal Prince Alfred Hospital Elimination Diet
+tags: diets
+)
 
 # FAILSAFE diet (aka RPHA diet)
 

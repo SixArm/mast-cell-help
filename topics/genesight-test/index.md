@@ -1,7 +1,9 @@
-[//]: # (source: ?)
-[//]: # (tags: genetics tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: genetics tests
+)
 
-# GeneSight test 
+# GeneSight test
 
 TODO (to match medications to DNA)
 

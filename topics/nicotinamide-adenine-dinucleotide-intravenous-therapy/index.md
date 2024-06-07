@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: NAD+)
-[//]: # (tags: treatments iv)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: NAD+
+tags: treatments iv
+)
 
 # Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy
 

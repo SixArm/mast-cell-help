@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: conditions
+)
 
 # Contact allergic dermatitis
 

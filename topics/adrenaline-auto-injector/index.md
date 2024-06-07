@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: adrenaline-emergencies treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: adrenaline-emergencies treatments
+)
 
 # Adrenaline auto-injector
 

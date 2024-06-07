@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: yoga treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: yoga treatments
+)
 
 # Kriyas
 

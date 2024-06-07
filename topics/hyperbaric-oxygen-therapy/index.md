@@ -1,10 +1,12 @@
-[//]: # (source: ?)
-[//]: # (abbr: HBOT)
-[//]: # (tags: treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: HBOT
+tags: treatments
+)
 
 # Hyperbaric oxygen therapy (HBOT)
 
-Hyperbaric oxygen therapy (HBOT) is a medical treatment that involves breathing pure oxygen in a pressurized environment, typically a hyperbaric chamber. This therapy is based on the principle that increasing the amount of oxygen in the bloodstream can promote healing and provide various therapeutic benefits. 
+Hyperbaric oxygen therapy (HBOT) is a medical treatment that involves breathing pure oxygen in a pressurized environment, typically a hyperbaric chamber. This therapy is based on the principle that increasing the amount of oxygen in the bloodstream can promote healing and provide various therapeutic benefits.
 
 During HBOT sessions, patients are placed in a hyperbaric chamber that is pressurized to two to three times the normal atmospheric pressure. They breathe 100% oxygen through a mask or hood while inside the chamber for a specified period, typically ranging from 60 to 90 minutes per session. The increased pressure allows the body to absorb higher levels of oxygen than would be possible at normal atmospheric pressure.
 
@@ -12,5 +14,5 @@ HBOT has several indications, including wound healing, treatment of decompressio
 
 While HBOT is generally considered safe when administered by trained healthcare professionals, it may have some side effects. These can include ear discomfort or barotrauma due to pressure changes (which can be equalized by techniques like swallowing or yawning), temporary changes in vision (particularly in individuals with pre-existing eye conditions), and oxygen toxicity, which is rare but can occur with prolonged exposure to high levels of oxygen.
 
-There are also certain contraindications to HBOT, such as untreated pneumothorax (collapsed lung), congenital spherocytosis (a type of anemia), and a history of recent ear surgery or severe chronic obstructive pulmonary disease (COPD). 
+There are also certain contraindications to HBOT, such as untreated pneumothorax (collapsed lung), congenital spherocytosis (a type of anemia), and a history of recent ear surgery or severe chronic obstructive pulmonary disease (COPD).
 

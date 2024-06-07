@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: CRP)
-[//]: # (tags: tests components)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CRP
+tags: tests components
+)
 
 # C-reactive protein (CRP)
 

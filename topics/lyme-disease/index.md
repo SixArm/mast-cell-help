@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: lyme toxins conditions )
+[//]: # (
+source: gpt-3 + jph editing
+tags: lyme toxins conditions
+)
 
 # Lyme disease
 

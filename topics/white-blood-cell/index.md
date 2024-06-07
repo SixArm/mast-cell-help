@@ -1,8 +1,10 @@
-[//]: # (source: ?)
-[//]: # (abbr: WBC)
-[//]: # (aka: leukocyte)
-[//]: # (tags: component blood)
-[//]: # (cf: red blood cell)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: WBC
+aka: leukocyte
+cf: red blood cell
+tags: component blood
+)
 
 # White blood cell (WBC)
 

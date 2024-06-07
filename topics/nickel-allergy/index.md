@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: allergy)
+[//]: # (
+source: gpt-3 + jph editing
+tags: allergy
+)
 
 # Nickel allergy
 

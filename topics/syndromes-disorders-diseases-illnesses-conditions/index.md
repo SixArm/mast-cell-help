@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: semantics)
+[//]: # (
+source: gpt-3 + jph editing
+tags: semantics
+)
 
 # Syndromes, disorders, diseases, illnesses, conditions
 
@@ -13,4 +15,4 @@
 
 **Illnesses**: An illness is a broad concept and subjective. You may identify as feeling ill based on your symptoms, even without any medical diagnosis.
 
-**Conditions**: A condition indicates your state of health. It is an abnormal state that feels different from your normal state of well-being. Often, you’ll hear about someone’s condition when they are hospitalized and noted as being in stable or critical condition. 
+**Conditions**: A condition indicates your state of health. It is an abnormal state that feels different from your normal state of well-being. Often, you’ll hear about someone’s condition when they are hospitalized and noted as being in stable or critical condition.

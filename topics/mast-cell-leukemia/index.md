@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MCL)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MCL
+tags: conditions
+)
 
 # Mast Cell Leukemia (MCL)
 

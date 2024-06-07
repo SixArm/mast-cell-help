@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: foods tactics)
+[//]: # (
+source: gpt-3 + jph editing
+tags: foods tactics
+)
 
 # Food diary
 

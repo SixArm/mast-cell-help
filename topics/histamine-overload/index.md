@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-40
+tags: conditions
+)
 
 # Histamine overload
 

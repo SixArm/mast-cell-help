@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: genes)
+[//]: # (
+source: gpt-3 + jph editing
+tags: genes
+)
 
 # MTHFR gene
 

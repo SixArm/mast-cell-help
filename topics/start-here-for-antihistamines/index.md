@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: starters)
+[//]: # (
+source: jph
+tags: starters
+)
 
 # Start here for antihistamines
 
@@ -25,4 +27,4 @@ Antihistamine H2-blockers help with gastrointestinal symptoms:
 
 Antihistamine first-generation for flares or sleep:
 
-1. [Diphenhydramine](../diphenhydramine/), brand name Benadryl. Try 25mg. Can be taken 25-50mg every 5 hours. If it doesn't help, then discontinue. 
+1. [Diphenhydramine](../diphenhydramine/), brand name Benadryl. Try 25mg. Can be taken 25-50mg every 5 hours. If it doesn't help, then discontinue.

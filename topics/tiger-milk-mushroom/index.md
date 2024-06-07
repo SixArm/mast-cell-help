@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments traditional herbal
+)
+
 # Tiger milk mushroom
 
 Tiger milk mushroom (a.k.a. Lignosus rhinocerus) is a species of mushroom that has been used in traditional medicine for its purported health benefits. It is native to Southeast Asia, particularly Malaysia, where it is commonly known as "Cendawan Susu Rimau".

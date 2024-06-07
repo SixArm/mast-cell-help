@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: water triggers
+)
+
 # Water triggers
 
 Water is crucial for life. But for some mast cell patients, water can be a surprising source of triggers. For these patients, it can help to use [water filters](../water-filters/).

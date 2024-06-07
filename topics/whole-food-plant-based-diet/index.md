@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: WFPB)
-[//]: # (tags: diet)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: WFPB
+tags: diets
+)
 
 # Whole food plant-based (WFPB) diet
 

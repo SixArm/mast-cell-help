@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: tests
+)
 
 # Mast cell count ranges
 
@@ -15,8 +17,8 @@ For average mast cells. Metric is mean count per high power field (HFP) 6. 2 sta
 
 * **colon**: 5.16-26.58 (tryptase) and 10.59-35.57 (CD117)
 
-CD117 counts were consistently higher than those with tryptase stain (p<0.01). 
+CD117 counts were consistently higher than those with tryptase stain (p<0.01).
 
-Average and peak MC counts were correlated (mean coefficient of determination r250.74, p<0.01). 
+Average and peak MC counts were correlated (mean coefficient of determination r250.74, p<0.01).
 
-Source: [Journal of Clinical Allergy](https://www.jacionline.org/article/S0091-6749(22)01810-3/pdf)
+source: [Journal of Clinical Allergy](https://www.jacionline.org/article/S0091-6749(22)01810-3/pdf

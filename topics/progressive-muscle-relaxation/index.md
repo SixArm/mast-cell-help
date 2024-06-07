@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: PMR)
-[//]: # (tags: psychology treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: PMR
+tags: psychology treatments
+)
 
 # Progressive Muscle Relaxation (PMR)
 

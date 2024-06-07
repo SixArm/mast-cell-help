@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: herbal)
+[//]: # (
+source: gpt-40
+tags: herbal
+)
 
 # Shilajit
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: traditional-chinese-medicine treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: traditional-chinese-medicine treatments
+)
 
 # Qigong
 

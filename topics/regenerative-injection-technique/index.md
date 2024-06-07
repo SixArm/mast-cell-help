@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: RIT)
-[//]: # (tags: treatments injections)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: RIT
+tags: treatments injections
+)
 
 # Regenerative injection technique (RIT)
 

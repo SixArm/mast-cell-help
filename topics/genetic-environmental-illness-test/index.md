@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: GENIE)
-[//]: # (tags: genetics tests)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: GENIE
+tags: genetics tests
+)
 
 # Genetic Environmental Illness (GENIE) test
 

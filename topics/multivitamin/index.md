@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: supplements vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+tags: supplements vitamins
+)
 
 # Multivitamin
 

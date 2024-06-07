@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: bacteria)
+[//]: # (
+source: gpt-3 + jph editing
+tags: bacteria
+)
 
 # Bartonellosis
 

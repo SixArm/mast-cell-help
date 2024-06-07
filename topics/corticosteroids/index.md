@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: corticosteroids steroids hormones medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: corticosteroids steroids hormones medications
+)
 
 # Corticosteroids
 

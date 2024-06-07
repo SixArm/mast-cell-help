@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: tests
+)
 
 # HBAG stool test for Helicobacter pylori
 

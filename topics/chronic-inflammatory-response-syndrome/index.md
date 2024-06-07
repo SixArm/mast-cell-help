@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: CIRS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CIRS
+tags: conditions
+)
 
 # Chronic Inflammatory Response Syndrome (CIRS)
 

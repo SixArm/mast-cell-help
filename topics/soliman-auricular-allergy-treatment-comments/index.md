@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: treatments acupuncture comments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments acupuncture comments
+)
 
 # Soliman Auricular Allergy Treatment (SAAT) - Comments
 

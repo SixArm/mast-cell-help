@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: semantics
+)
+
 # Traditional mix-up
 
 The word "traditional" in medicine has a mix-up because it has two opposite meanings.

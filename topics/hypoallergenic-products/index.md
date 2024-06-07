@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: hypoallergenics list)
+[//]: # (
+source: gpt-3 + jph editing
+tags: hypoallergenics list
+)
 
 # Hypoallergenic products
 

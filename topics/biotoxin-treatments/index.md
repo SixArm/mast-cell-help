@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: toxins treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: toxins treatments
+)
 
 # Biotoxin treatments
 

@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: metaphor
+)
+
 # The Spoon Theory
 
 The Spoon Theory is a metaphor used to explain the limited energy and resources that people with chronic illnesses or disabilities have to manage their daily activities. It was created by Christine Miserandino in 2003 to help her friend understand what it's like to live with lupus.

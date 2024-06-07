@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: neuroplasticity)
+[//]: # (
+source: gpt-3 + jph editing
+tags: neuroplasticity
+)
 
 # Brain retraining products
 

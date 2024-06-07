@@ -1,5 +1,7 @@
-[//]: # (source: https://www.youtube.com/watch?v=CChlT3K2Q68)
-[//]: # (tags: videos)
+[//]: # (
+source: https://www.youtube.com/watch?v=CChlT3K2Q68
+tags: videos
+)
 
 # Living with hEDS, MCAS, and a Low Histamine Diet - By Kate Robinson
 

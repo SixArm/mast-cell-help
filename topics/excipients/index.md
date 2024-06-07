@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: medications triggers)
+[//]: # (
+source: gpt-3 + jph editing
+tags: medications triggers
+)
 
 # Excipients
 

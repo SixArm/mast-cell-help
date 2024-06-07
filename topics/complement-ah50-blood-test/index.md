@@ -1,8 +1,10 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: AH50)
-[//]: # (aka: alternative pathway hemolytic assay)
-[//]: # (aka: alternative pathway hemolytic 50% lysis test for complement system)
-[//]: # (tags: tests body-complement-system)
+[//]: # (
+source: gpt-40
+abbr: AH50
+aka: alternative pathway hemolytic assay
+aka: alternative pathway hemolytic 50% lysis test for complement system
+tags: tests body-complement-system
+)
 
 # Complement AH50 blood test
 

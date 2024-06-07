@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MCAS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MCAS
+tags: conditions
+)
 
 # Mast Cell Activation Syndrome (MCAS)
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MIS-C)
-[//]: # (tags: diagnoses)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MIS-C
+tags: diagnoses
+)
 
 # Multisystem Inflammatory Syndrome in Children (MIS-C)
 

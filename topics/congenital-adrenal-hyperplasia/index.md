@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: CAH)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CAH
+tags: conditions
+)
 
 # Congenital Adrenal Hyperplasia (CAH)
 

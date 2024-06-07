@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: tests biopsies)
+[//]: # (
+source: gpt-3 + jph editing
+tags: tests biopsies
+)
 
 # Bone marrow biopsy
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: BPC-157)
-[//]: # (tags: peptides treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: BPC-157
+tags: peptides treatments
+)
 
 # Body Protection Compound 157 (BPC-157)
 

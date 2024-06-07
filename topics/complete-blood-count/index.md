@@ -1,10 +1,12 @@
-[//]: # (source: ?)
-[//]: # (abbr: CBC)
-[//]: # (tags: tests)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CBC
+tags: tests
+)
 
 # Complete blood count (CBC)
 
-A complete blood count (CBC) is a common blood test. It is used by healthcare providers to assess overall health, screen for various medical conditions, and monitor the effectiveness of treatments. 
+A complete blood count (CBC) is a common blood test. It is used by healthcare providers to assess overall health, screen for various medical conditions, and monitor the effectiveness of treatments.
 
 The CBC measures several key components of the blood, including red blood cells (RBCs), white blood cells (WBCs), and platelets, as well as additional parameters such as hemoglobin and hematocrit levels. RBCs are responsible for carrying oxygen from the lungs to the body's tissues, while WBCs are part of the body's immune system and help fight infections and diseases. Platelets play a crucial role in blood clotting and wound healing.
 

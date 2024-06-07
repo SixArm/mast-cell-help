@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition
+)
 
 # Superfoods
 

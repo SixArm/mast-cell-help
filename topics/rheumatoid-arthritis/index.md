@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: RA)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: RA
+tags: conditions
+)
 
 # Rheumatoid arthritis (RA)
 

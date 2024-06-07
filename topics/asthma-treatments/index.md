@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments
+)
 
 # Asthma treatments
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: severities)
+[//]: # (
+source: gpt-3 + jph editing
+tags: severities
+)
 
 # Anaphylaxis emergency grades
 
@@ -14,9 +16,9 @@ TODO: UPDATE
 **Grade 2 - moderate - skin & gastrointestinal systemic reactions**
 
 * Any of the above, plus systemic reactions without cardiovascular and/or respiratory and/or neurological involvement.
-  
-* Skin examples: urticaria (hives), angioedema (deep skin swelling), flush.
  
+* Skin examples: urticaria (hives), angioedema (deep skin swelling), flush.
+
 * Gastrointestinal examples: abdominal pain, upset stomach, nausea, vomiting, acid reflux, diarrhea.
 
 **Grade 3 - severe - cardiovascular & respiratory & neurological systemic reactions**

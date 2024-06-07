@@ -1,8 +1,10 @@
-[//]: # (source: gpt-40)
-[//]: # (aka: glyceryl guaiacolate)
-[//]: # (brands: Mucinex)
-[//]: # (treats: attention-deficit-hyperactivity-disorder hypertension)
-[//]: # (tags: medications)
+[//]: # (
+source: gpt-40
+aka: glyceryl guaiacolate
+brands: Mucinex
+treats: attention-deficit-hyperactivity-disorder hypertension
+tags: medications
+)
 
 # Guaifenesin
 

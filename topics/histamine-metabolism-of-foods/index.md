@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: processes)
+[//]: # (
+source: gpt-3 + jph editing
+tags: processes
+)
 
 # Histamine metabolism of foods
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: care-categories)
+[//]: # (
+source: gpt-3 + jph editing
+tags: care-categories
+)
 
 # Bespoke boutiques
 

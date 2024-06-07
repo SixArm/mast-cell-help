@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: genetics)
+[//]: # (
+source: gpt-3 + jph editing
+tags: genetics
+)
 
 # Genetic polymorphisms
 

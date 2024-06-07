@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: PEA)
-[//]: # (tags: components)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: PEA
+tags: components
+)
 
 # Palmitoylethanolamide (PEA)
 

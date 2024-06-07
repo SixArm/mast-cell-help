@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: amino-acids components)
+[//]: # (
+source: gpt-3 + jph editing
+tags: amino-acids components
+)
 
 # L-arginine
 

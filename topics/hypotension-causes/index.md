@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: conditions causes)
+[//]: # (
+source: gpt-3 + jph editing
+tags: conditions causes
+)
 
 # Hypotension causes
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition genomics)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition genomics
+)
 
 # Nutrigenomics
 

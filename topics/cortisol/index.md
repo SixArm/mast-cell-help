@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: steroids hormones)
+[//]: # (
+source: gpt-40
+tags: steroids hormones
+)
 
 # Cortisol
 

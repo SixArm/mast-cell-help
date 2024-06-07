@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: differential-diagnoses)
+[//]: # (
+source: gpt-3 + jph editing
+tags: differential-diagnoses
+)
 
 # Mast Cell Activation Syndrome (MCAS): differential diagnoses
 

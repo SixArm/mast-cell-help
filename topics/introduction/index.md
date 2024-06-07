@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: meta)
+[//]: # (
+source: jph
+tags: meta
+)
 
 # What is this book?
 

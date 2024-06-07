@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: water filters
+)
+
 # Water filters
 
 Water filters are devices designed to remove impurities, contaminants, and undesirable substances from water, making it suitable for consumption, cooking, and various household uses. There are many types of water filters, such as for home use pitchers, sink faucets, or for whole-building filtration. See also [activated carbon filters](../activated-carbon-filters/).

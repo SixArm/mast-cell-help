@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: water tips
+)
+
 # Water treatment home tips
 
 Water treatment at home uses a water filter. Here are tips that may help you.

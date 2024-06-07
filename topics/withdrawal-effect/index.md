@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: symptoms
+)
+
 # Withdrawal effect
 
 The withdrawal effect, also known as withdrawal syndrome or discontinuation syndrome, refers to a set of symptoms that occur when a person stops taking a medication or substance to which they have become dependent or accustomed. These symptoms can range from mild discomfort to severe. The withdrawal effect is an important consideration when discontinuing medications or substances, and careful management is essential to ensure a safe and comfortable transition. Compare [rebound effect](../rebound-effect/).

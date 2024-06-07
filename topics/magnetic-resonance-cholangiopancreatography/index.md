@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MRCP)
-[//]: # (tags: imaging tests)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MRCP
+tags: imaging tests
+)
 
 # Magnetic resonance cholangiopancreatography (MRCP)
 

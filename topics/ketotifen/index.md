@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antihistamines mast-cell-stabilizers medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antihistamines mast-cell-stabilizers medications
+)
 
 # Ketotifen
 

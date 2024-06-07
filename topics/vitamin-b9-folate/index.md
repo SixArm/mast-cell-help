@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: folate)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: folate
+tags: vitamins
+)
 
 # Vitamin B9 (folate)
 

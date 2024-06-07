@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antihistamines
+)
 
 # Antihistamine types
 

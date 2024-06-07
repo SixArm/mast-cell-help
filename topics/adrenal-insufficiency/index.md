@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: Addison's disease)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+aka: Addison's disease
+tags: conditions
+)
 
 # Adrenal insufficiency
 

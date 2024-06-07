@@ -1,7 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: CH50)
-[//]: # (aka: classical pathway hemolytic assay)
-[//]: # (aka: classical pathway hemolytic assay 50% lysis test for complement system)
+[//]: # (
+source: gpt-40
+abbr: CH50
+aka: classical pathway hemolytic assay
+aka: classical pathway hemolytic assay 50% lysis test for complement system
 
 # Complement CH50 blood test
 

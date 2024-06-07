@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: toxins triggers
+)
+
 # Toxin exposure
 
 Toxin exposure refers to the contact or ingestion of substances that can be harmful or poisonous to living organisms, including humans. Health effects can range from mild to severe.

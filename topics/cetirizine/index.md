@@ -1,10 +1,12 @@
-[//]: # (source: ?)
-[//]: # (brands: Zyrtec)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Zyrtec
+tags: antihistamines
+)
 
 # Cetirizine
 
-Cetirizine is an antihistamine medication used to treat allergy symptoms. 
+Cetirizine is an antihistamine medication used to treat allergy symptoms.
 
 It is available over-the-counter. Brand name: Zyrtec.
 

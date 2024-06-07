@@ -1,9 +1,11 @@
-[//]: # (source: ?)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: conditions
+)
 
 # Allergic conjunctivitis
 
-Allergic conjunctivitis is a common condition characterized by inflammation of the conjunctiva, the thin membrane that covers the white part of the eye and the inner surface of the eyelids. It occurs when the eyes come into contact with allergens such as pollen, dust mites, pet dander, or certain chemicals, triggering an allergic reaction. 
+Allergic conjunctivitis is a common condition characterized by inflammation of the conjunctiva, the thin membrane that covers the white part of the eye and the inner surface of the eyelids. It occurs when the eyes come into contact with allergens such as pollen, dust mites, pet dander, or certain chemicals, triggering an allergic reaction.
 
 **Key points**:
 

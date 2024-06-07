@@ -1,5 +1,7 @@
-[//]: # (source: Manda Ferguson Facebook comment)
-[//]: # (tags: cosmetics advice)
+[//]: # (
+source: Manda Ferguson Facebook comment
+tags: cosmetics advice
+)
 
 # Cosmetic chemist tips
 
@@ -7,9 +9,9 @@ Thanks to Manda Ferguson, cosmetic chemist.
 
 I am a cosmetic chemist and I’d like to give a few tips on safety. Anyone can react to anything at any time, if someone else doesn’t, it doesn’t mean you won’t.
 
-Keep cosmetics in a cool dry area. Don’t keep cosmetics in an area that gets hot or humid, like a bathroom. 
+Keep cosmetics in a cool dry area. Don’t keep cosmetics in an area that gets hot or humid, like a bathroom.
 
-Keep an eye on your products. Are there any changes in smell, look, feel, or color of the product? If so, the product is becoming unstable and/or the preservation system is breaking down, so discard the product. 
+Keep an eye on your products. Are there any changes in smell, look, feel, or color of the product? If so, the product is becoming unstable and/or the preservation system is breaking down, so discard the product.
 
 Check your product's expiration date, and period after opening date (the little open pot symbol with a time one it, for example 12m means 12 months). Beyond these times, the preservation system is breaking down, so discard the product.
 

@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: toc)
+[//]: # (
+source: jph
+tags: toc
+)
 
 # Shop
 

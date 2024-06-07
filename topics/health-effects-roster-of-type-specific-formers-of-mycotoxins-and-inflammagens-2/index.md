@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: HERTSMI-2)
-[//]: # (tags: mold tests)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: HERTSMI-2
+tags: mold tests
+)
 
 # Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)
 

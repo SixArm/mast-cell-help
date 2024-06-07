@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: KPV)
-[//]: # (tags: supplements amino-acids)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: KPV
+tags: supplements amino-acids
+)
 
 # Lysine-proline-valine (KPV)
 

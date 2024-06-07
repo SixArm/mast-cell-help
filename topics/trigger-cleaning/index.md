@@ -1,3 +1,8 @@
+[//]: # (
+source: jph
+tags: triggers help
+)
+
 # Trigger cleaning
 
 Trigger cleaning refers to a set of cleaning practices and measures aimed at reducing or eliminating allergens and irritants from the environment.

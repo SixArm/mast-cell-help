@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: SIGHI)
-[//]: # (tags: diet)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: SIGHI
+tags: diet
+)
 
 # Swiss Interest Group Histamine Intolerance (SIGHI) diet
 

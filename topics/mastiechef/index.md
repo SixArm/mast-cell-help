@@ -1,6 +1,8 @@
-[//]: # (source: https://mastiechef.com/)
-[//]: # (aka: Cooking for the Cluster)
-[//]: # (tags: website diets)
+[//]: # (
+source: https://mastiechef.com/
+aka: Cooking for the Cluster
+tags: website diets
+)
 [//]: # (persons: Kate Robinson)
 
 

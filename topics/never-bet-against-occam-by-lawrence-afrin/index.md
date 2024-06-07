@@ -1,5 +1,7 @@
-[//]: # (source: https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615)
-[//]: # (tags: book)
+[//]: # (
+source: https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615
+tags: book
+)
 
 # Never Bet Against Occam - By Lawrence Afrin
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands:  Alerfedine D, Allegra-D, Allergyna-D, Allevia, Altiva-D, Dellegra, Fexo Plus, Fexofed, Fixal Plus, Ridrinal D, Rinolast D, Telfast D, Treathay)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Alerfedine D, Allegra-D, Allergyna-D, Allevia, Altiva-D, Dellegra, Fexo Plus, Fexofed, Fixal Plus, Ridrinal D, Rinolast D, Telfast D, Treathay
+tags: antihistamines
+)
 
 # Fexofenadine
 

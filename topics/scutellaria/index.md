@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: skullcap)
-[//]: # (tags: herbal treatments)
+[//]: # (
+source: gpt-3 + jph editing
+aka: skullcap
+tags: herbal treatments
+)
 
 # Scutellaria (skullcap)
 
@@ -12,7 +14,7 @@ Scutellaria is a genus of flowering plants in the mint family. Several species o
 
 * **Anti-inflammatory Effects**: Compounds in Scutellaria species, such as baicalin and baicalein in Scutellaria baicalensis, exhibit anti-inflammatory properties. These compounds may help reduce inflammation and alleviate symptoms of inflammatory conditions.
 
-* **Antioxidant Activity**: Scutellaria species contain flavonoids, phenolic compounds, and other antioxidants that help protect cells from oxidative damage caused by free radicals. 
+* **Antioxidant Activity**: Scutellaria species contain flavonoids, phenolic compounds, and other antioxidants that help protect cells from oxidative damage caused by free radicals.
 
 * **Neuroprotection**: Scutellaria baicalensis may have neuroprotective effects and could potentially help protect against neurodegenerative diseases like Alzheimer's and Parkinson's disease.
 

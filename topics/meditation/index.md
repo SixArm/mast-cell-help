@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: psychology treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: psychology treatments
+)
 
 # Meditation
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: retinol)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: retinol
+tags: vitamins
+)
 
 # Vitamin A (retinol)
 

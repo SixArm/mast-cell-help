@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: mast-cell-stabilizers medications )
+[//]: # (
+source: gpt-3 + jph editing
+tags: mast-cell-stabilizers medications
+)
 
 # Mast cell stabilizers
 

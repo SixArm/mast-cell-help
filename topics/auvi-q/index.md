@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: adrenaline-emergencies medications brands)
+[//]: # (
+source: gpt-3 + jph editing
+tags: adrenaline-emergencies medications brands
+)
 
 # Auvi-Q
 

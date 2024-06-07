@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: anticoagulants medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: anticoagulants medications
+)
 
 # Heparin
 

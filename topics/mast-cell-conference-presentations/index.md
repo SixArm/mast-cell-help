@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: conferences presentations)
+[//]: # (
+source: jph
+tags: conferences presentations
+)
 
 # Mast cell conference presentations
 

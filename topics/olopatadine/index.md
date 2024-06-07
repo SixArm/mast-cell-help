@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Patanase, Pataday, Pazeo)
-[//]: # (tags: antihistamines medications)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Patanase, Pataday, Pazeo
+tags: antihistamines medications
+)
 
 # Olopatadine
 

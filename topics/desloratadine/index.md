@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Clarinex)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Clarinex
+tags: antihistamines
+)
 
 # Desloratadine
 

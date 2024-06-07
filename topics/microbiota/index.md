@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: microorganisms)
+[//]: # (
+source: gpt-3 + jph editing
+tags: microorganisms
+)
 
 # Microbiota
 

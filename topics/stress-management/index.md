@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: stress treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: stress treatments
+)
 
 # Stress management
 

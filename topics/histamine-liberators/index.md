@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: categories)
+[//]: # (
+source: gpt-3 + jph editing
+tags: categories
+)
 
 # Histamine liberators
 

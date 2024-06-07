@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: starters)
+[//]: # (
+source: jph
+tags: starters
+)
 
 # Start here for supplements
 

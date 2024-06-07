@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: EDS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: EDS
+tags: conditions
+)
 
 # Ehlers-Danlos syndrome (EDS)
 

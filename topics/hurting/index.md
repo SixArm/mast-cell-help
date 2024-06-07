@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: quotations)
+[//]: # (
+source: gpt-3 + jph editing
+tags: quotations
+)
 
 # Hurting
 

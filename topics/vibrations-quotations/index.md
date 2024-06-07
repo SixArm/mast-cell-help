@@ -1,6 +1,11 @@
+[//]: # (
+source: jph
+tags: comments triggers
+)
+
 # Vibrations quotations
 
-"I get vibrations almost daily for years but now that I figured out the trigger of mcas and eat low histamine foods and tons of meds it’s more under control. 
+"I get vibrations almost daily for years but now that I figured out the trigger of mcas and eat low histamine foods and tons of meds it’s more under control.
 
 "For me it’s usually in my head with a rhythmic squeezing but I’ve gotten it other places too."
 

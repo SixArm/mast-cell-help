@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: bile-acid-sequestrants treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: bile-acid-sequestrants treatments
+)
 
 # Activated charcoal
 

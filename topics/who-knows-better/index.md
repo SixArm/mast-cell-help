@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: comments
+)
+
 # Who knows better?
 
 "Commit to eating better over the next month and I guarantee you will feel fine." - Sure I've been on a medical diet for eight years and I've got MCAS, POTS, dystonia in my back and neck, complex migraines with right sided facial spasms, but sure, food will fix it.

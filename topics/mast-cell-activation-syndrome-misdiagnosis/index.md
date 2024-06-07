@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: misdiagnoses)
+[//]: # (
+source: gpt-3 + jph editing
+tags: misdiagnoses
+)
 
 # Mast Cell Activation Syndrome - misdiagnosis
 
@@ -11,7 +13,7 @@ Hypochondriac, Anxiety, Panic Disorder, a liar seeking attention, PMDD.
 
 They tried to say everything was in my head and I have anxiety. Same with my vascular eagles syndrome. I proved them wrong in time.
 
-I’ve had a lot of diagnosis in my life. Anxiety, IBS, IC etc. Those diagnosis appear correct but maybe MCAS a syndrome of many issues. 
+I’ve had a lot of diagnosis in my life. Anxiety, IBS, IC etc. Those diagnosis appear correct but maybe MCAS a syndrome of many issues.
 
 I think most people who have pursued a suspected MCAS diagnosis have been improperly diagnosed and treated at some point.
 

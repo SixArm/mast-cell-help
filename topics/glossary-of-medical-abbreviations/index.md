@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: glossary)
+[//]: # (
+source: gpt-3 + jph editing
+tags: glossary
+)
 
 # Glossary of medical abbreviations
 
@@ -813,7 +815,7 @@
 * RT = Respiratory Therapy
 * Rt.L = right leg
 * RTC = return to clinic
-* Rx = prescription 
+* Rx = prescription
 * s̅ = without (from Latin "sine")
 * S.G. = specific gravity
 * S/P = status post

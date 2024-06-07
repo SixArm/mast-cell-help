@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: decongestants medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: decongestants medications
+)
 
 # Decongestants
 

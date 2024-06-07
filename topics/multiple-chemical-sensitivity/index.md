@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MCS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MCS
+tags: conditions
+)
 
 # Multiple Chemical Sensitivity (MCS)
 

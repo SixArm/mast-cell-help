@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: components)
+[//]: # (
+source: gpt-40
+tags: components
+)
 
 # Prostaglandins
 

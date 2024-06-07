@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: symptoms)
+[//]: # (
+source: gpt-3 + jph editing
+tags: symptoms
+)
 
 # Rebound effect
 

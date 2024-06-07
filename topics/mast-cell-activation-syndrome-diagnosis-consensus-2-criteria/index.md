@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: tests standards)
+[//]: # (
+source: gpt-3 + jph editing
+tags: tests standards
+)
 
 # Mast Cell Activation Syndrome (MCAS): diagnosis consensus-2 criteria
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: tests
+)
 
 # Mast cell activation syndrome (MCAS) spurious antibodies
 

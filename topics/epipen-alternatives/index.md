@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: alternatives treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: alternatives treatments
+)
 
 # EpiPen alternatives
 
@@ -11,7 +13,7 @@ One brand name EpiPen costs roughly $300 USD for people who are paying cash. Som
 
 Generic versions are available and are generally more affordable. Generic adrenaline/epinephrine is covered by most insurers, including Medicare, Medicaid, and commercial insurance plans.
 
-You can ask a doctor or pharmacist or manufacturer if there are ways to pay less, such as with generic versions, alternative brands, financial assistance, insurance, discounts, coupons, and the like. 
+You can ask a doctor or pharmacist or manufacturer if there are ways to pay less, such as with generic versions, alternative brands, financial assistance, insurance, discounts, coupons, and the like.
 
 Some countries, such as the United States, require a prescription. Some countries, such as Canada, permit over-the-counter purchases. Be wary of online purchases of adrenaline/epinephrine over the Internet, even those that claim to be Canadian pharmacies. The product might be contaminated or fake.
 

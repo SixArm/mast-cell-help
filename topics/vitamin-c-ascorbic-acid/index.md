@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: ascorbic acid) 
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: ascorbic acid
+tags: vitamins
+)
 
 # Vitamin C (ascorbic acid)
 
@@ -27,4 +29,4 @@ Vitamin C (also known as ascorbic acid) is a water-soluble vitamin that plays a 
 * **Recommended Dietary Allowance (RDA)**: 65-90 milligrams per day for adults. Higher during pregnancy and lactation.
 
 * **Forms**: Ascorbic acid is generally good for individuals with histamine intolerance. Sodium ascorbate and calcium ascorbate are better for people who have stomach irritation.
-    
+   

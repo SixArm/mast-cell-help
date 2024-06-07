@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: bronchodilators medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: bronchodilators medications
+)
 
 # Bronchodilators
 

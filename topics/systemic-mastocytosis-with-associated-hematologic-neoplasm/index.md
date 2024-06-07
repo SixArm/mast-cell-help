@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: SM-AHN)
-[//]: # (tags: diagnosis)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: SM-AHN
+tags: diagnosis
+)
 
 # Systemic Mastocytosis with Associated Hematologic Neoplasm (SM-AHN)
 

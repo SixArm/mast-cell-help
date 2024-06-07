@@ -1,4 +1,6 @@
-[//]: # (source: jph)
-[//]: # (tags: pathogens biofilms)
+[//]: # (
+source: jph
+tags: pathogens biofilms
+)
 
 # Stealth pathogen

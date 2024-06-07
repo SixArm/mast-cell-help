@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antifungals)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antifungals
+)
 
 # Antifungal medications
 

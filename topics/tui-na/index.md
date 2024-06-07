@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: traditional-chinese-medicine treatments
+)
+
 # Tui Na
 
 Tui Na (pronounced "twee nah") is a [Traditional Chinese Medicine (TCM)](../traditional-chinese-medicine/) practice.  Tui Na involves various hands-on techniques, including massage, manipulation, and acupressure, to stimulate the flow of qi (vital energy) within the body and promote healing. It is often used in conjunction with [acupuncture](../acupuncture/), [cupping](../cupping/), herbal medicine, and other traditional modalities.

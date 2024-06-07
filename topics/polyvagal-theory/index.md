@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: limbic-system theories)
+[//]: # (
+source: gpt-3 + jph editing
+tags: limbic-system theories
+)
 
 # Polyvagal Theory
 

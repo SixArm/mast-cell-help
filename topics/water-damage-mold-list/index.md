@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: water mold
+)
+
 # Water damage mold list
 
 Water damage mold list from a mold test:

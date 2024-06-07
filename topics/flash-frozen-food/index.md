@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: foods)
+[//]: # (
+source: gpt-3 + jph editing
+tags: foods
+)
 
 # Flash-frozen food
 

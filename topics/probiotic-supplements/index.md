@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: supplements
+)
 
 # Probiotic supplements
 

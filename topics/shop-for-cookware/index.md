@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: shop)
+[//]: # (
+source: jph
+tags: shop
+)
 
 # Shop for cookware
 
@@ -15,6 +17,6 @@ Cookware recommended by mast cell patients is generally made of ceramic, enamel,
 
 * [Caraway - ceramic cookware sets - induction-compatible](https://www.carawayhome.com/products/cookware-sets)
 
-Be aware many non-stick pans can release microparticles, such as microplastics and microshards of chemicals. For example, some low-budget non-stick pans can accumulate scratches that release microparticles that pollute your food. 
+Be aware many non-stick pans can release microparticles, such as microplastics and microshards of chemicals. For example, some low-budget non-stick pans can accumulate scratches that release microparticles that pollute your food.
 
 Be aware some electric glass top stoves have directions that state not to use cast iron cookware. Some cast iron cookware has enamel coating that may work with glass top stoves.

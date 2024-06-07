@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antioxidants)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antioxidants
+)
 
 # Glutathione
 

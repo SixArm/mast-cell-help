@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: POTS)
-[//]: # (tags: diagsnoses)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: POTS
+tags: diagsnoses
+)
 
 # Postural Orthostatic Tachycardia Syndrome (POTS)
 

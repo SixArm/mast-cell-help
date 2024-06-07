@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: toxins triggers conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: toxins triggers conditions
+)
 
 # Sick building syndrome
 

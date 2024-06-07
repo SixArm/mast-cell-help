@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: shop)
+[//]: # (
+source: jph
+tags: shop
+)
 
 # Shop for electrolytes
 
@@ -30,11 +32,11 @@ Electrolytes recommended by mast cell people. Read ingredients lists because you
 * [Adapted Nutrition - Keto K1000 unflavored](https://adapted-nutrition.com/products/keto-k1000-unflavored)
 
 * [Mother Earth Labs - Fulvic 400X](https://motherearthlabs.com/product/fulvic-400x-supplement/)
-  
+ 
 **Flavored-only**:
 
 * [BioSteel - Hydration mix - Watermelon flavor](https://biosteel.com/collections/hydration-mix-5oz/products/hydration-mix-watermelon-20-servings)
-  
+ 
 * [Propel Water - Watermelon - Tablet](https://www.propelwater.com/products/electrolyte-hydration/tablet/berry/single-serve-10ct-carton)
 
 * [Pedialyte® - Powder Variety Pack](https://www.pedialyte.com/products/powder-packs/variety-pack)
@@ -47,7 +49,7 @@ Electrolytes recommended by mast cell people. Read ingredients lists because you
 
 **Generic**:
 
-* Distilled water with hand-picked electrolytes added. For example, the World Health Organization (WHO) Oral Rehydration Solution (ORS) recommendation is NaCl (salt) 2.6g/L + Trisodium citrate dihydrate 2.9g/L + KCl (NoSalt) 1.5g/L + anhydrous glucose 13.5g/L. 
+* Distilled water with hand-picked electrolytes added. For example, the World Health Organization (WHO) Oral Rehydration Solution (ORS) recommendation is NaCl (salt) 2.6g/L + Trisodium citrate dihydrate 2.9g/L + KCl (NoSalt) 1.5g/L + anhydrous glucose 13.5g/L.
 
 * Coconut water, unsweetened. Good for potassium.
 

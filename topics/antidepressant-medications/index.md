@@ -1,9 +1,11 @@
-[//]: # (source: ?)
-[//]: # (tags: antidepressants)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antidepressants
+)
 
 # Antidepressant medications
 
-Antidepressant medications are commonly used to treat various mental health conditions, primarily depression and anxiety disorders. These medications work by altering the levels of neurotransmitters in the brain, such as serotonin, norepinephrine, and dopamine, which are involved in regulating mood, emotions, and behavior. 
+Antidepressant medications are commonly used to treat various mental health conditions, primarily depression and anxiety disorders. These medications work by altering the levels of neurotransmitters in the brain, such as serotonin, norepinephrine, and dopamine, which are involved in regulating mood, emotions, and behavior.
 
 There are several classes of antidepressants, each with its unique mechanism of action and potential side effects. Selective serotonin reuptake inhibitors (SSRIs) are one of the most commonly prescribed types of antidepressants. They work by blocking the reabsorption of serotonin in the brain, thereby increasing the levels of this neurotransmitter. Examples of SSRIs include fluoxetine (Prozac), sertraline (Zoloft), and escitalopram (Lexapro).
 

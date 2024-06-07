@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: spice
+)
+
 # Turmeric
 
 Turmeric is a bright yellow spice derived from the root of the Curcuma longa plant, which is native to Southeast Asia. It is a popular dietary supplement and natural remedy known for its potential health benefits. The key bioactive compound in turmeric is curcumin, which is believed to have anti-inflammatory and antioxidant properties.

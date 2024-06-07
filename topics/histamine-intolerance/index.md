@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: HI)
-[//]: # (tags: condition)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: HI
+tags: condition
+)
 
 # Histamine intolerance (HI)
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: NAET)
-[//]: # (tags: tests traditional-chinese-medicine allergies)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: NAET
+tags: tests traditional-chinese-medicine allergies
+)
 
 # Nambudripad's Allergy Elimination Technique (NAET)
 

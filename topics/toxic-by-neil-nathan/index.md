@@ -1,5 +1,7 @@
-[//]: # (source: https://www.amazon.com/Toxic-Toxicity-Multiple-Sensitivities-Environmental/dp/1628603119)
-[//]: # (tags: toxins book)
+[//]: # (
+source: https://www.amazon.com/Toxic-Toxicity-Multiple-Sensitivities-Environmental/dp/1628603119
+tags: toxins book
+)
 
 # Toxic - By  Neil Nathan
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: diets)
+[//]: # (
+source: gpt-3 + jph editing
+tags: diets
+)
 
 # Elimination diet for conditions
 

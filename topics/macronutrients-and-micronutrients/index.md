@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition supplements
+)
 
 # Macronutrients and micronutrients
 

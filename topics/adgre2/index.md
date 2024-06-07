@@ -1,13 +1,15 @@
-[//]: # (source: https://medlineplus.gov/genetics/gene/adgre2/)
-[//]: # (tags: gene)
+[//]: # (
+source: https://medlineplus.gov/genetics/gene/adgre2/
+tags: gene
+)
 
 # ADGRE2
 
 [ADGRE2: Adhesion G protein-coupled receptor E2](https://medlineplus.gov/genetics/gene/adgre2/)
 
-**Normal function** 
+**Normal function**
 
-The ADGRE2 gene provides instructions for making a protein found in several types of immune system cells, including mast cells. Mast cells, which are found in many body tissues including the skin, are important for the normal protective functions of the immune system. They also play a role in allergic reactions, which occur when the immune system overreacts to stimuli that are not harmful. The specific role of the ADGRE2 protein in mast cells is not well understood. 
+The ADGRE2 gene provides instructions for making a protein found in several types of immune system cells, including mast cells. Mast cells, which are found in many body tissues including the skin, are important for the normal protective functions of the immune system. They also play a role in allergic reactions, which occur when the immune system overreacts to stimuli that are not harmful. The specific role of the ADGRE2 protein in mast cells is not well understood.
 
 The ADGRE2 protein consists of two parts (subunits) that interact with each other: an alpha subunit that lies on the outside surface of the cell and a beta subunit that crosses the cell membrane and extends into the cell.
 

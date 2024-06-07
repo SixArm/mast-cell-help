@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: herbals supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbals supplements
+)
 
 # Herbal supplements
 

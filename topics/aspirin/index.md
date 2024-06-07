@@ -1,7 +1,9 @@
-[//]: # (source: gpt-40)
-[//]: # (aka: acetylsalicylic acid)
-[//]: # (treats: pain, inflammation, fever)
-[//]: # (tags: non-steroidal-anti-inflammatory-drugs medications)
+[//]: # (
+source: gpt-40
+aka: acetylsalicylic acid
+treats: pain, inflammation, fever
+tags: non-steroidal-anti-inflammatory-drugs medications
+)
 
 # Aspirin
 

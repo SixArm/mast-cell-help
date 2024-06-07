@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: autoimmunity conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: autoimmunity conditions
+)
 
 # Autoimmune disorder
 
@@ -7,7 +9,7 @@ In immunology, autoimmunity is the system of immune responses of an organism
 against its own healthy cells, tissues and other normal body constituents.
 
 Any disorder resulting from this type of immune response is termed an "autoimmune
-disorder". 
+disorder".
 
 Prominent examples include celiac disease, diabetes mellitus type 1,
 Henoch–Schönlein purpura, systemic lupus erythematosus, Sjögren syndrome,

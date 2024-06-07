@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antimicrobials herbals)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antimicrobials herbals
+)
 
 # Antimicrobial herbs
 

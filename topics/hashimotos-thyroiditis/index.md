@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: chronic lymphocytic thyroiditis)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+aka: chronic lymphocytic thyroiditis
+tags: conditions
+)
 
 # Hashimoto's thyroiditis
 

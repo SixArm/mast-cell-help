@@ -1,3 +1,9 @@
+[//]: # (
+source: gpt-3 + jph editing
+aka: immunoblot, immunoblotting
+aka: immunoblotting
+)
+
 # Western blot test
 
 The Western blot test, also known as immunoblotting, is a laboratory technique used to detect specific proteins in a sample of tissue homogenate or cell lysate. It is widely used in molecular biology and biochemistry research, as well as in medical diagnostics.

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: AhR)
-[//]: # (tags: toxins receptors)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: AhR
+tags: toxins receptors
+)
 
 # Aryl hydrocarbon receptors (AhR)
 

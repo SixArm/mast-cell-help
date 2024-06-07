@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: conditions
+)
 
 # Allergic rhinitis
 
@@ -12,7 +14,7 @@ Allergic rhinitis, commonly known as hay fever, is an allergic reaction that occ
 * **Types**: Seasonal, typically due to outdoor pollen. Perennial, typically due to indoor allergens, such as dust mites, pet dander, or mold.
 
 * **Causes**: Allergic rhinitis is triggered by exposure to allergens, which prompt the immune system to release histamine and other chemicals, leading to inflammation and allergy symptoms.
-  
+ 
 * **Genetics**: There is a genetic predisposition to allergic diseases.
 
 * **Diagnosis**: [medical history](../medical-history/\) and [physical examination](../physical-examination/).  Skin prick tests or blood tests (specific IgE tests) can identify allergens that trigger symptoms.

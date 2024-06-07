@@ -1,4 +1,7 @@
-[//]: # (source: gpt-40)
+[//]: # (
+source: gpt-40
+tags: urine-tests tests
+)
 
 # 2,3 Dinor-11Beta-Prostaglandin F2 Alpha, 24-hour urine test
 

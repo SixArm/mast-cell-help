@@ -1,3 +1,8 @@
+[//]: # (
+source: https://SurvivingToxicMold.com
+tags: triggers triage
+)
+
 # Trigger triage cleaning
 
 Trigger triage cleaning advice from [SurvivingToxicMold.com](https://SurvivingToxicMold.com).
@@ -5,7 +10,7 @@ Trigger triage cleaning advice from [SurvivingToxicMold.com](https://SurvivingTo
 **Household**:
 
 * Clean often. Examples: dust daily, clean weekly, deep clean monthly.
-  
+ 
 * Wear protection. Examples: respirator, eyewear, gloves.
 
 * When you enter the home, remove your shoes and jackets in your entry area. Before a pet enters the home, wash their feet.

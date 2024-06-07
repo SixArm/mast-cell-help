@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Astelin)
-[//]: # (tags: antihistamines medications)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Astelin
+tags: antihistamines medications
+)
 
 # Azelastine
 

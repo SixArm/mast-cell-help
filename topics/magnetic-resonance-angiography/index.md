@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: MRA)
-[//]: # (tags: imaging tests)
+[//]: # (
+source: gpt-40
+abbr: MRA
+tags: imaging tests
+)
 
 # Magnetic resonance angiography (MRA)
 

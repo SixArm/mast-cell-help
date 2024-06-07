@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: ME)
-[//]: # (tags: diagnoses)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: ME
+tags: diagnoses
+)
 
 # Myalgic encephalomyelitis (ME)
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: links)
+[//]: # (
+source: gpt-3 + jph editing
+tags: links
+)
 
 # Links to more information
 

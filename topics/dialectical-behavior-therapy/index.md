@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: DBT)
-[//]: # (tags: psychology treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: DBT
+tags: psychology treatments
+)
 
 # Dialectical Behavior Therapy (DBT)
 

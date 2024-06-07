@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: psychology treatments protocols)
+[//]: # (
+source: gpt-3 + jph editing
+tags: psychology treatments protocols
+)
 
 # SHINE protocol
 

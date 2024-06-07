@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: genetics links)
+[//]: # (
+source: gpt-3 + jph editing
+tags: genetics links
+)
 
 # Gene databases
 

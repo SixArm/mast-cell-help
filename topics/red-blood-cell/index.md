@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: RBC)
-[//]: # (tags: components blood)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: RBC
+tags: components blood
+)
 [//]: # (cf: white blood cell)
 
 # Red blood cell (RBC)

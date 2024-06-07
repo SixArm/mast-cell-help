@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: mold toxins tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: mold toxins tests
+)
 
 # Mold exposure diagnostics
 

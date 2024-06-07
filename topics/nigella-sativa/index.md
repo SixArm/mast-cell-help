@@ -1,8 +1,10 @@
-[//]: # (source: ?)
-[//]: # (aka: black seed, black cumin)
-[//]: # (tags: herbals)
+[//]: # (
+source: gpt-3 + jph editing
+aka: black seed, black cumin
+tags: herbals
+)
 
-# Nigella sativa (black seed) 
+# Nigella sativa (black seed)
 
 Nigella sativa, commonly known as black seed or black cumin, is a small flowering plant that has been used for centuries in traditional medicine practices, particularly in the Middle East.
 

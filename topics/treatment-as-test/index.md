@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments tests
+)
+
 # Treatment as test
 
 "Treatment as test" is the idea that the treatments administered to patients serve as a form of test to evaluate the patients' conditions, and treatments' effectiveness.

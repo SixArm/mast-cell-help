@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: serverities)
+[//]: # (
+source: gpt-3 + jph editing
+tags: serverities
+)
 
 # Asthma severity
 

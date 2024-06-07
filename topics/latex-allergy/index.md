@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: allergies)
+[//]: # (
+source: gpt-3 + jph editing
+tags: allergies
+)
 
 # Latex allergy
 
@@ -11,4 +13,4 @@ Latex allergy is an allergic reaction to latex, a natural rubber material derive
 
 * **Risk factors**:  Previous exposure to latex, particularly repeated or prolonged exposure, increases the risk of sensitization and development of latex allergy. Occupational exposure, such as for healthcare workers and laboratory technicians who frequently use latex gloves or come into contact with latex-containing products. Individuals with a history of other allergies, such as hay fever (allergic rhinitis), asthma, or allergies to certain foods (such as bananas, avocados, kiwi, chestnuts, or tomatoes), may be at increased risk of latex allergy.
 
-* **Management**: Take precautions to avoid inhaling latex particles, such as avoiding areas where powdered latex gloves are used. Use latex-free gloves, medical devices, and other products whenever possible. Inform healthcare providers, dentists, and other caregivers about latex allergy to ensure appropriate precautions are taken during medical procedures or surgeries. Wear a medical alert bracelet or necklace indicating latex allergy, particularly for individuals at risk of severe allergic reactions. 
+* **Management**: Take precautions to avoid inhaling latex particles, such as avoiding areas where powdered latex gloves are used. Use latex-free gloves, medical devices, and other products whenever possible. Inform healthcare providers, dentists, and other caregivers about latex allergy to ensure appropriate precautions are taken during medical procedures or surgeries. Wear a medical alert bracelet or necklace indicating latex allergy, particularly for individuals at risk of severe allergic reactions.

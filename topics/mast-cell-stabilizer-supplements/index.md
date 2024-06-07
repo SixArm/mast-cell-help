@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: mast-cell-stabilizers supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: mast-cell-stabilizers supplements
+)
 
 # Mast cell stabilizer supplements
 

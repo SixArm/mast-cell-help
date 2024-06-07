@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: triggers)
+[//]: # (
+source: gpt-3 + jph editing
+tags: triggers
+)
 
 # Environmental triggers
 

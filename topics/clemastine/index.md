@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Tavist Allergy, Dayhist Allergy)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Tavist Allergy, Dayhist Allergy
+tags: antihistamines
+)
 
 # Clemastine
 

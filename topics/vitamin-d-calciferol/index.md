@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: calciferol)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: calciferol
+tags: vitamins
+)
 
 # Vitamin D (calciferol)
 

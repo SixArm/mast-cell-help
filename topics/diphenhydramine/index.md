@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Benadryl)
-[//]: # (tags: antihistamine)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Benadryl
+tags: antihistamine
+)
 
 # Diphenhydramine
 

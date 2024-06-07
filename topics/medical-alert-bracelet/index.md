@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: treatments devices)
+[//]: # (
+source: gpt-40
+tags: treatments devices
+)
 
 # Medical alert bracelet
 

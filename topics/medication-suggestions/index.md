@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: medications list)
+[//]: # (
+source: gpt-3 + jph editing
+tags: medications list
+)
 
 # Medication suggestions
 

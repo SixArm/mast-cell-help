@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: toxins mold)
+[//]: # (
+source: gpt-3 + jph editing
+tags: toxins mold
+)
 
 # Mold exposure
 

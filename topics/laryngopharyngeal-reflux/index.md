@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (abbr: LPR)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-40
+abbr: LPR
+tags: conditions
+)
 
 # Laryngopharyngeal reflux (LPR)
 

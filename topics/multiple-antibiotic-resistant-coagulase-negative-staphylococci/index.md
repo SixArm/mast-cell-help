@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: MARCoNS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: MARCoNS
+tags: conditions
+)
 
 # Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)
 

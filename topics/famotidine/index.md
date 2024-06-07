@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Pepcid)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Pepcid
+tags: antihistamines
+)
 
 # Famotidine
 

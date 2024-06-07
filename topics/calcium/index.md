@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: minerals supplements)
+[//]: # (
+source: gpt-3 + jph editing
+tags: minerals supplements
+)
 
 # Calcium
 

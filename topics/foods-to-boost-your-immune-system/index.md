@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: foods)
+[//]: # (
+source: gpt-3 + jph editing
+tags: foods
+)
 
 # Foods to boost your immune system
 
@@ -27,7 +29,7 @@
 
 **Hemp seeds**: Hemp seeds contain plant-based protein, fiber and heart-healthy fats, and they are also loaded with zinc. Zinc activates lymphocytes, or T-cells, which are necessary to initiate an immune response.
 
-**Mushrooms**: Mushrooms have anti-viral properties and can help protect against a variety of infections. 
+**Mushrooms**: Mushrooms have anti-viral properties and can help protect against a variety of infections.
 
 **Greek yogurt**: Filled with probiotics and is packed with more protein than regular yogurt. Probiotics can help to prevent and treat the common cold.
 
@@ -35,6 +37,6 @@
 
 **Whole-grain bread**: Whole grains contain anti-inflammatory properties, which increase production of healthy bacteria in the gut.
 
-**Eggs**: Eggs, especially the yolks, contain a high amount of [vitamin D (calciferol)](../vitamin-d-calciferol/), vital in regulating and strengthening immunity. 
+**Eggs**: Eggs, especially the yolks, contain a high amount of [vitamin D (calciferol)](../vitamin-d-calciferol/), vital in regulating and strengthening immunity.
 
-**Garlic**: Garlic has built a reputation for being one of the best cold-curing foods. 
+**Garlic**: Garlic has built a reputation for being one of the best cold-curing foods.

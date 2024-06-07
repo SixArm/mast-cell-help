@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: protocols)
+[//]: # (
+source: gpt-3 + jph editing
+tags: protocols
+)
 
 # Anaphylaxis emergency room
 

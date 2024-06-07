@@ -1,5 +1,7 @@
-[//]: # (source: https://www.primaltrust.org)
-[//]: # (tags: neuroplasticity treatments brands)
+[//]: # (
+source: https://www.primaltrust.org
+tags: neuroplasticity treatments brands
+)
 
 # Primal Trust™
 

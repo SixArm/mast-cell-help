@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: herbal treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbal treatments
+)
 
 # Stinging nettle
 

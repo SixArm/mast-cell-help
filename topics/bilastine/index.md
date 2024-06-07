@@ -1,11 +1,13 @@
-[//]: # (source: ?)
-[//]: # (brands: Alektos, Alerex, Bellozal, Bilador, Bilanoa, Bilargen, Bilaska, Bilaxten, Bilaxten, Bilaz, Bilidren, Bitosen, Blexten, Borenar, Clatra, Drynol, Fortecal, Gosall, Ibis, Ilaxten, Ilexel, Inorial, Lendin, Lergonix, Menarini, Nasitop, Nixar, Obalix, Olisir, Omarit, Opexa, Revitelle, Robilas, Xados, Zilas)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Alektos, Alerex, Bellozal, Bilador, Bilanoa, Bilargen, Bilaska, Bilaxten, Bilaxten, Bilaz, Bilidren, Bitosen, Blexten, Borenar, Clatra, Drynol, Fortecal, Gosall, Ibis, Ilaxten, Ilexel, Inorial, Lendin, Lergonix, Menarini, Nasitop, Nixar, Obalix, Olisir, Omarit, Opexa, Revitelle, Robilas, Xados, Zilas
+tags: antihistamines
+)
 
 
 # Bilastine
 
-Bilastine is a second-generation antihistamine medication used primarily for the treatment of allergic rhinitis (hay fever) and chronic idiopathic urticaria (hives of unknown cause). 
+Bilastine is a second-generation antihistamine medication used primarily for the treatment of allergic rhinitis (hay fever) and chronic idiopathic urticaria (hives of unknown cause).
 
 Brand names: Alektos, Alerex, Bellozal, Bilador, Bilanoa, Bilargen, Bilaska, Bilaxten, Bilaxten, Bilaz, Bilidren, Bitosen, Blexten, Borenar, Clatra, Drynol, Fortecal, Gosall, Ibis, Ilaxten, Ilexel, Inorial, Lendin, Lergonix, Menarini, Nasitop, Nixar, Obalix, Olisir, Omarit, Opexa, Revitelle, Robilas, Xados, Zilas.
 

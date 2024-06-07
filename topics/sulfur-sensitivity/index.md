@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: sulfur intolerance)
-[//]: # (tags: sensitivities)
+[//]: # (
+source: gpt-3 + jph editing
+aka: sulfur intolerance
+tags: sensitivities
+)
 
 # Sulfur sensitivity
 

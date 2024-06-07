@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: VOC)
-[//]: # (tags: triggers)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: VOC
+tags: triggers
+)
 
 # Volatile organic compounds (VOCs)
 

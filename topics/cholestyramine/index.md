@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Questran)
-[//]: # (tags: anticholesterols bile-acid-sequestrants medications)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Questran
+tags: anticholesterols bile-acid-sequestrants medications
+)
 
 # Cholestyramine
 

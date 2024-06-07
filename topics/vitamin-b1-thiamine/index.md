@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: thiamine)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: thiamine
+tags: vitamins
+)
 
 # Vitamin B1 (thiamine)
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: limbic-system conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: limbic-system conditions
+)
 
 # Limbic system impairment
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: allergy semantics)
+[//]: # (
+source: gpt-3 + jph editing
+tags: allergy semantics
+)
 
 # Soy allergy ingredient names
 

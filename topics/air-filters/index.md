@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: filters)
+[//]: # (
+source: gpt-3 + jph editing
+tags: filters
+)
 
 # Air filters
 

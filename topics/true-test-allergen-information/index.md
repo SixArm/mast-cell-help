@@ -1,3 +1,8 @@
+[//]: # (
+source: https://www.smartpractice.com/shop/category?id=508222&m=SPA
+tags: tests company
+)
+
 # T.R.U.E. TEST allergen Information
 
 [Source](https://www.smartpractice.com/shop/category?id=508222&m=SPA)

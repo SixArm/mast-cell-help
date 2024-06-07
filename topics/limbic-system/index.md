@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: components body-systems)
+[//]: # (
+source: gpt-3 + jph editing
+tags: components body-systems
+)
 
 # Limbic system
 

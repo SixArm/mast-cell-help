@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: severities)
+[//]: # (
+source: gpt-3 + jph editing
+tags: severities
+)
 
 # Histamine intolerance: severity
 

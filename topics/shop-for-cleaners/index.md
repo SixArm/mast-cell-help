@@ -1,5 +1,7 @@
-[//]: # (source: jph)
-[//]: # (tags: shop)
+[//]: # (
+source: jph
+tags: shop
+)
 
 # Shop for cleaners
 

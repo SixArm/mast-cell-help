@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: glossary)
+[//]: # (
+source: gpt-3 + jph editing
+tags: glossary
+)
 
 # Glossary of medical time
 

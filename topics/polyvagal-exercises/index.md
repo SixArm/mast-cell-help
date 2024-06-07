@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: limbic-system psychology treatments)
+[//]: # (
+source: gpt-3 + jph editing
+tags: limbic-system psychology treatments
+)
 
 # Polyvagal exercises
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition shakes)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition shakes
+)
 
 # Nutritional shakes
 

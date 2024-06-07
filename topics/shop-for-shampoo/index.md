@@ -1,11 +1,13 @@
-[//]: # (source: jph)
-[//]: # (tags: shop)
+[//]: # (
+source: jph
+tags: shop
+)
 
 # Shop for shampoo
 
-Shampoo recommended by mast cell people. Try to read ingredients lists carefully. You may want to avoid parabans, sulphates such as sodium laurel sulfate, citrus-related ingredients such as citric acid, preservatives such as formaldehyde,  
+Shampoo recommended by mast cell people. Try to read ingredients lists carefully. You may want to avoid parabans, sulphates such as sodium laurel sulfate, citrus-related ingredients such as citric acid, preservatives such as formaldehyde, 
 or other additives such as colors or scents or preservatives. Some patients report better success by rotating i.e. changing the shampoo brand each day or week.
- 
+
 * [Renpure - Biotin Collagen Thickening Conditioner](https://www.renpure.com/products/hair/biotin-collagen-thickening-conditioner/)
 
 * [Odele - Volumizing Shampoo](https://odelebeauty.com/products/volumizing-shampoo)
@@ -39,21 +41,21 @@ or other additives such as colors or scents or preservatives. Some patients repo
 TODO:
 
 * The Vida Bars - the reyna and hydrate formulas are my favorites.
-  
-* Zotos all about curls from Sally's. 
+ 
+* Zotos all about curls from Sally's.
 
 * Monday
 
 * Heritage by Mandy McKight
-  
+ 
 * Maui
 
 * Carina Organics - unscented
 
 * Australian Aboriginals
- 
+
 * Murri’s
- 
+
 * Vanicream products, they have a few different things like shampoo, conditioner, soaps, sunscreen I believe. Dye free, fragrance free, masking fragrance free, formaldehyde free.
 
 * Ecoslay products organic for curls

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: RRT)
-[//]: # (tags: neuroplasticity treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: RRT
+tags: neuroplasticity treatments
+)
 
 # Rapid Resolution Therapy (RRT)
 

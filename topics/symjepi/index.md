@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: treatments brands)
+[//]: # (
+source: gpt-3 + jph editing
+tags: treatments brands
+)
 
 # Symjepi
 

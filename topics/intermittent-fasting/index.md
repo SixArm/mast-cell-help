@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: IF)
-[//]: # (tags: diets)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: IF
+tags: diets
+)
 
 # Intermittent fasting (IF)
 

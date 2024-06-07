@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: vagus treatment
+)
+
 # Vagal tone stimulation
 
 Vagal tone stimulation refers to techniques or interventions aimed at increasing the activity of the vagus nerve. The vagus nerve is the longest cranial nerve in the body, in the parasympathetic nervous system. Increasing vagal tone has been associated with improved mood, better heart health, and enhanced resilience to stressors.

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: GAPS)
-[//]: # (tags: diets)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: GAPS
+tags: diets
+)
 
 # Gut and Psychology Syndrome (GAPS) diet
 

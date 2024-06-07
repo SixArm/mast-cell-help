@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: PGD2)
-[//]: # (tags: tests)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: PGD2
+tags: tests
+)
 
 # Prostaglandin D2 (PGD2) test
 

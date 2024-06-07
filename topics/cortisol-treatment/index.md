@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: ?)
+[//]: # (
+source: gpt-3 + jph editing
+tags: ?
+)
 
 # Cortisol treatment
 

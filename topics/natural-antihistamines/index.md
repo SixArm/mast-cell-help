@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antihistamines)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antihistamines
+)
 
 # Natural antihistamines
 
@@ -84,7 +86,7 @@ Note, however, that chocolate also contains some histamine, and researchers
 suspect that it may encourage histamine release. The net effect of cocoa is
 unknown; we recommend that you test your own individual response and see what it
 does for you. Note, also, that organic chocolate contains fewer biogenic amines
-than non-organic chocolate. 
+than non-organic chocolate.
 
 ## Animal & Cell Studies (Lacking Evidence) ##
 

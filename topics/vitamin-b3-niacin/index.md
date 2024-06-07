@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: niacin)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: niacin
+tags: vitamins
+)
 
 # Vitamin B3 (niacin)
 

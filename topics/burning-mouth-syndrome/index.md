@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: BMS)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: BMS
+tags: conditions
+)
 
 # Burning mouth syndrome (BMS)
 

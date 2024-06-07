@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: toxins)
+[//]: # (
+source: gpt-3 + jph editing
+tags: toxins
+)
 
 # Biotoxins
 

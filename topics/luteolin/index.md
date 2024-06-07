@@ -1,9 +1,11 @@
-[//]: # (source: ?)
-[//]: # (tags: herbals)
+[//]: # (
+source: gpt-3 + jph editing
+tags: herbals
+)
 
 # Luteolin
 
-Luteolin is a flavonoid, a type of plant compound with antioxidant and anti-inflammatory properties. It is found in various fruits, vegetables, and herbs, including parsley, celery, thyme, peppers, and chamomile tea. 
+Luteolin is a flavonoid, a type of plant compound with antioxidant and anti-inflammatory properties. It is found in various fruits, vegetables, and herbs, including parsley, celery, thyme, peppers, and chamomile tea.
 
 **Potential health benefits**:
 

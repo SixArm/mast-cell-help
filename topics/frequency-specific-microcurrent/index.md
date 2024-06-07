@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: FSM)
-[//]: # (tags: electrostimulations treatments)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: FSM
+tags: electrostimulations treatments
+)
 
 # Frequency-specific microcurrent (FSM)
 

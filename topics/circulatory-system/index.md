@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: cardiovascular system)
-[//]: # (tags: body-systems)
+[//]: # (
+source: gpt-3 + jph editing
+aka: cardiovascular system
+tags: body-systems
+)
 
 # Circulatory system
 

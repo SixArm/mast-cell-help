@@ -1,3 +1,8 @@
+[//]: # (
+source: gpt-3 + jph editing
+tags: air
+)
+
 # Ventilation
 
 Ventilation is a crucial aspect of maintaining indoor air quality and a healthy living environment. Proper ventilation helps to remove pollutants, control humidity levels, and ensure a continuous supply of fresh air.

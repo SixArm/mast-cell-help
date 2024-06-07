@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: CM)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: CM
+tags: conditions
+)
 
 # Cutaneous mastocytosis (CM)
 

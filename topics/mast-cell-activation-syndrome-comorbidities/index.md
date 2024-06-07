@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: comorbidities)
+[//]: # (
+source: gpt-3 + jph editing
+tags: comorbidities
+)
 
 # Mast Cell Activation Syndrome (MCAS) comorbidities
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition tests)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition tests
+)
 
 # Nutrition testing
 

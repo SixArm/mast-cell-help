@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+tags: conditions
+)
 
 # Hypertension
 
@@ -9,7 +11,7 @@ Blood pressure is measured in millimeters of mercury (mmHg) and is expressed as 
 
 **Key points**:
 
-* **Primary and secondary types**: Primary hypertension is the most common type of hypertension, and tends to develop gradually over many years and is influenced by a combination of genetic, environmental, and lifestyle factors, such as diet, physical activity, and stress. Secondary hypertension occurs as a result of an underlying medical condition or certain medications. 
+* **Primary and secondary types**: Primary hypertension is the most common type of hypertension, and tends to develop gradually over many years and is influenced by a combination of genetic, environmental, and lifestyle factors, such as diet, physical activity, and stress. Secondary hypertension occurs as a result of an underlying medical condition or certain medications.
 
 * **Risk factors**: Agee, family history, obesity, high salt intake, excessive alcohol consumption,  diet high in saturated fats and cholesterol, lack of physical activity, stress, smoking, and some chronic conditions such as diabetes, kidney disease, and sleep apnea.
 

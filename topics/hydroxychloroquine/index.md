@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antimalarials immunomodulatories medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antimalarials immunomodulatories medications
+)
 
 # Hydroxychloroquine
 

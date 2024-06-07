@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: resources)
+[//]: # (
+source: gpt-3 + jph editing
+tags: resources
+)
 
 # Support groups
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: nutrition shakes brands)
+[//]: # (
+source: gpt-3 + jph editing
+tags: nutrition shakes brands
+)
 
 # Neocate Splash
 

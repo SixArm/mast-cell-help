@@ -1,9 +1,11 @@
-[//]: # (source: jph)
-[//]: # (tags: starters)
+[//]: # (
+source: jph
+tags: starters
+)
 
 # Start here for safe foods
 
-"Safe foods" means foods that you can eat without symptoms. 
+"Safe foods" means foods that you can eat without symptoms.
 Safe foods can be different per person, and can change over time.
 
 **Try these first**:

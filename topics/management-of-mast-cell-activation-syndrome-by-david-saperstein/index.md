@@ -1,5 +1,7 @@
-[//]: # (source: https://www.youtube.com/watch?v=fvTIO-RTr9Y)
-[//]: # (tags: videos)
+[//]: # (
+source: https://www.youtube.com/watch?v=fvTIO-RTr9Y
+tags: videos
+)
 
 # Management of Mast Cell Activation Syndrome (MCAS) - By David Saperstein
 

@@ -1,6 +1,8 @@
-[//]: # (source: gpt-40)
-[//]: # (treats: rheumatoid arthritis, psoriasis, inflammatory bowel disease)
-[//]: # (tags: biologics medications)
+[//]: # (
+source: gpt-40
+treats: rheumatoid arthritis, psoriasis, inflammatory bowel disease
+tags: biologics medications
+)
 
 # Biologics
 

@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: antihistamines medications)
+[//]: # (
+source: gpt-3 + jph editing
+tags: antihistamines medications
+)
 
 # Loratadine
 

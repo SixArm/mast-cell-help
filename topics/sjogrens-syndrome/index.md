@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: diagnosis)
+[//]: # (
+source: gpt-3 + jph editing
+tags: diagnosis
+)
 
 # Sjögren's syndrome
 

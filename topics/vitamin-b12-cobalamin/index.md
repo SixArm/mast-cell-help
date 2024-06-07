@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: cobalamin)
-[//]: # (tags: vitamins)
+[//]: # (
+source: gpt-3 + jph editing
+aka: cobalamin
+tags: vitamins
+)
 
 # Vitamin B12 (cobalamin)
 

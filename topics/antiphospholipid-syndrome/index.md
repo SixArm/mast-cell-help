@@ -1,7 +1,9 @@
-[//]: # (source: ?)
-[//]: # (abbr: APS)
-[//]: # (aka: Hughes syndrome)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: APS
+aka: Hughes syndrome
+tags: conditions
+)
 
 # Antiphospholipid syndrome (APS)
 

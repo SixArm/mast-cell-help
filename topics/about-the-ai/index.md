@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: meta)
+[//]: # (
+source: gpt-3 + jph editing
+tags: meta
+)
 
 # About the AI
 

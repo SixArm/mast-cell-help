@@ -1,3 +1,8 @@
+[//]: # (
+source:
+tags: nutrition mineral
+)
+
 # Zinc
 
 Zinc is an essential mineral that plays a crucial role in the development and function of immune cells, as well as roles in tissue repair, wound healing, DNA synthesis, and cell division. Zinc is important for growth, especially in children, and for the development of sexual organs during puberty. Zinc is necessary for normal taste and smell perception.

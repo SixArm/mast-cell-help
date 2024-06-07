@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: TCM)
-[//]: # (tags: treatments traditional-chinese-medicine)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: TCM
+tags: treatments traditional-chinese-medicine
+)
 
 # Traditional Chinese Medicine (TCM)
 

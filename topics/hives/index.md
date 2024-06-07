@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (aka: urticaria)
-[//]: # (tags: conditions)
+[//]: # (
+source: gpt-3 + jph editing
+aka: urticaria
+tags: conditions
+)
 
 # Hives
 

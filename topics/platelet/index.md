@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: components blood)
+[//]: # (
+source: gpt-3 + jph editing
+tags: components blood
+)
 
 # Platelet
 

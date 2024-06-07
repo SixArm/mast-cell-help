@@ -1,5 +1,7 @@
-[//]: # (source: gpt-40)
-[//]: # (tags: bile-acid-sequestrants)
+[//]: # (
+source: gpt-40
+tags: bile-acid-sequestrants
+)
 
 # Bentonite clay
 

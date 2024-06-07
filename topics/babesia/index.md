@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: parasites protozoa)
+[//]: # (
+source: gpt-3 + jph editing
+tags: parasites protozoa
+)
 
 # Babesia
 

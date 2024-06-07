@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (brands: Emoquil, Marzine, Valoid)
-[//]: # (tags: antinauseas)
+[//]: # (
+source: gpt-3 + jph editing
+brands: Emoquil, Marzine, Valoid
+tags: antinauseas
+)
 
 # Cyclizine
 

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: IgG) 
-[//]: # (tags: immunoglobulins antibodies components)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: IgG
+tags: immunoglobulins antibodies components
+)
 
 # Immunoglobulin G (IgG)
 

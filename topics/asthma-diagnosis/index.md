@@ -1,5 +1,7 @@
-[//]: # (source: ?)
-[//]: # (tags: diagnoses)
+[//]: # (
+source: gpt-3 + jph editing
+tags: diagnoses
+)
 
 # Asthma diagnosis
 

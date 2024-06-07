@@ -1,3 +1,8 @@
+[//]: # (
+source: https://SurvivingToxicMold.com
+tags: trigger triage
+)
+
 # Trigger triage kitchen
 
 Trigger triage kitchen advice from [SurvivingToxicMold.com](https://SurvivingToxicMold.com).

@@ -1,6 +1,8 @@
-[//]: # (source: ?)
-[//]: # (abbr: HαT)
-[//]: # (tags: genetics)
+[//]: # (
+source: gpt-3 + jph editing
+abbr: HαT
+tags: genetics
+)
 
 # Hereditary Alpha-Tryptasemia (HαT)
 

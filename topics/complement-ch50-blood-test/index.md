@@ -1,4 +1,4 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: CH50
 aka: classical pathway hemolytic assay

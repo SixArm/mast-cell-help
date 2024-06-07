@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: EoE
 tags: conditions causes
-)
+-->
 
 # Eosinophilic esophagitis (EoE) causes
 

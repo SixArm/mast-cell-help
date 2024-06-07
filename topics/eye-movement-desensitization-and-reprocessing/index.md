@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: EMDR
 tags: psychology treatments
-)
+-->
 
 # Eye Movement Desensitization and Reprocessing (EMDR)
 

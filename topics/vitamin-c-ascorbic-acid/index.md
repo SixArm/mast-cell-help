@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: ascorbic acid
 tags: vitamins
-)
+-->
 
 # Vitamin C (ascorbic acid)
 

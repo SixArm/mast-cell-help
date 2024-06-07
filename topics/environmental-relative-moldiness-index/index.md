@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: ERMI
 tags: mold tests
-)
+-->
 
 # Environmental Relative Moldiness Index (ERMI)
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://www.vibrant-wellness.com/Testing/
 tags: tests company
-)
+-->
 
 # Vibrant Wellness testing
 

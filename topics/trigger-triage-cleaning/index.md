@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://SurvivingToxicMold.com
 tags: triggers triage
-)
+-->
 
 # Trigger triage cleaning
 

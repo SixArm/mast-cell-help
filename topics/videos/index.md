@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: video toc
-)
+-->
 
 # Videos
 

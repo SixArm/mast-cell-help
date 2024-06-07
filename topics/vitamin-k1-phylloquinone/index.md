@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: phylloquinone
 tags: vitamins
-)
+-->
 
 # Vitamin K1 (phylloquinone)
 

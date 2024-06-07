@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 treats: pain, inflammation, fever, arthritis, tendinitis, bursitis, menstrual cramps, musculoskeletal disorders
 tags: non-steroidal-anti-inflammatory-drugs medications
-)
+-->
 
 # Naproxen
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Tagamet HB
 tags: antihistamines
-)
+-->
 
 # Cimetidine
 

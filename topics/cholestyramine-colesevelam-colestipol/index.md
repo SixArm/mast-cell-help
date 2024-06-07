@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Questran, Welchol, Colestid
 tags: anticholesterols bile-acid-sequestrants
-)
+-->
 
 # Cholestyramine, Colesevelam, Colestipol
 

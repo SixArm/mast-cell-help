@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: menaquinone
 tags: vitamins
-)
+-->
 
 # Vitamin K2 (menaquinone)
 

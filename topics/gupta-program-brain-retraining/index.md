@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: limbic-system treatments brands
-)
+-->
 
 # Gupta Program Brain Retraining™
 

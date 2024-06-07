@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: PPI
 tags: treatments medications
-)
+-->
 
 # Proton pump inhibitors (PPIs)
 

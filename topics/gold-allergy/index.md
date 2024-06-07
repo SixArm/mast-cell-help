@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: allergies
-)
+-->
 aka: gold sensitivity
 aka: contact dermatitis to gold
 

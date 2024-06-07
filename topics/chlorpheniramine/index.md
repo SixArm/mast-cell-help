@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Chlor-Trimeton
 tags: antihistamines medications
-)
+-->
 
 # Chlorpheniramine
 

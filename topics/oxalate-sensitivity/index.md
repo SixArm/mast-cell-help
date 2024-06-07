@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 aka: oxalate intolerance
 tags: sensitivities
-)
+-->
 
 # Oxalate sensitivity
 

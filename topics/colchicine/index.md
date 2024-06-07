@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 treats: gout, inflammation, familial Mediterranean fever (FMF), pericarditis
 tags: anti-inflammatories medications
-)
+-->
 
 # Colchicine
 

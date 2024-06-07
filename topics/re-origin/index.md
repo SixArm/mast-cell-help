@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://www.re-origin.com/
 tags: neuroplasticity brands
-)
+-->
 
 # Re-Origin™
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: quotations
-)
+-->
 
 # Doctor predictions
 

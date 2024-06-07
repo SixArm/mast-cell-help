@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: ART
 tags: psychotherapies treatments
-)
+-->
 
 # Accelerated resolution therapy (ART)
 

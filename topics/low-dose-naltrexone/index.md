@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: LDN
 tags: antiinflammatories medications
-)
+-->
 
 # Low-dose naltrexone (LDN)
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: MRI
 tags: imaging tests
-)
+-->
 
 # Magnetic resonance imaging (MRI)
 

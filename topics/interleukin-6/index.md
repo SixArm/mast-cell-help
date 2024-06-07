@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: IL-6
 tags: cytokines molecules components
-)
+-->
 
 # Interleukin-6 (IL-6)
 

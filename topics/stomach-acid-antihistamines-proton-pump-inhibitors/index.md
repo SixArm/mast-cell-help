@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: stomach-acid antihistamines proton-pump-inhibitors
-)
+-->
 
 # Stomach acid + antihistamines + proton pump inhibitors
 

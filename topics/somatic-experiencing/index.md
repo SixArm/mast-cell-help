@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: SE
 tags: psychology treatments
-)
+-->
 
 # Somatic Experiencing (SE)
 

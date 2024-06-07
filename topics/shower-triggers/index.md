@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: water triggers
-)
+-->
 
 # Shower triggers
 

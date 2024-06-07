@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://histaminintoleranz.ch
 tags: reference
-)
+-->
 
 # SIGHI list of incompatible active substances in medicaments
 

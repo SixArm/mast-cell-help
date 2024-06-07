@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: HIPAA
 tags: data laws
-)
+-->
 
 # Health Insurance Portability and Accountability Act (HIPAA)
 

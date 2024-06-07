@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: VIP
 tags: component
-)
+-->
 
 # Vasoactive Intestinal Peptide (VIP)
 

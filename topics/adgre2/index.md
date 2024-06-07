@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://medlineplus.gov/genetics/gene/adgre2/
 tags: gene
-)
+-->
 
 # ADGRE2
 

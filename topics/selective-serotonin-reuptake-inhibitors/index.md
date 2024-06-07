@@ -1,9 +1,9 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: SSRI
 treats: depression, anxiety
 tags: selective-serotonin-reuptake-inhibitors anti-depressants medications
-)
+-->
 
 # Selective serotonin reuptake inhibitors (SSRIs)
 

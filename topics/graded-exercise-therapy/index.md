@@ -1,9 +1,9 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: GET
 treats: chronic fatigue syndrome (CFS), myalgic encephalomyelitis (ME)
 tags: psychology treatments
-)
+-->
 
 # Graded Exercise Therapy (GET)
 

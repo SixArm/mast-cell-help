@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: volatile-organic-compounds certifications
-)
+-->
 
 # GreenGuard certification
 

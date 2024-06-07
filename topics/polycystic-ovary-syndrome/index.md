@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: PCOS
 tags: diagnoses
-)
+-->
 
 # Polycystic Ovary Syndrome (PCOS)
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: steroids corticosteroids mineralocorticoids medications
-)
+-->
 
 # Fludrocortisone
 

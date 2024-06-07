@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source:
 tags: nutrition mineral
-)
+-->
 
 # Zinc
 

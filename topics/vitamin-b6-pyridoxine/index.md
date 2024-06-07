@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: pyridoxine
 tags: vitamins
-)
+-->
 
 # Vitamin B6 (pyridoxine)
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: DAO
 tags: enzymes
-)
+-->
 
 # Diamine oxidase (DAO)
 

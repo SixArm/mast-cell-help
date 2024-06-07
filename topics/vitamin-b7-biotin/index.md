@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: biotin
 tags: vitamins
-)
+-->
 
 # Vitamin B7 (biotin)
 

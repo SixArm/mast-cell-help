@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: QSI
 tags: biofilm-busters quorum-sensing-inhibitors
-)
+-->
 
 # Quorum sensing inhibitors (QSI)
 

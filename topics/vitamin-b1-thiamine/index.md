@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: thiamine
 tags: vitamins
-)
+-->
 
 # Vitamin B1 (thiamine)
 

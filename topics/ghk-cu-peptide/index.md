@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 aka: copper peptide
 tags: peptides
-)
+-->
 
 # GHK-CU peptide
 

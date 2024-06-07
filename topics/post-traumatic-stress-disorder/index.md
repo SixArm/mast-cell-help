@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: PTSD
 tags: diagnoses
-)
+-->
 
 # Post-traumatic stress disorder (PTSD)
 

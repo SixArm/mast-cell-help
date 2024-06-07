@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: tests
-)
+-->
 
 # Mast Cell Activation Syndrome (MCAS): diagnosis via laboratory tests
 

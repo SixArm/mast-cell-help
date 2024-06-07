@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 treats: hypermobile-ehlers-danlos-syndrome
 tags: protocols
-)
+-->
 
 # Cusack protocol
 

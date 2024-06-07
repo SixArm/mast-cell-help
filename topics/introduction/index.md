@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: meta
-)
+-->
 
 # What is this book?
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://drkellymccann.com/mcas-how-to-regain-control/
 tags: courses
-)
+-->
 
 # MCAS: How to Regain Control
 

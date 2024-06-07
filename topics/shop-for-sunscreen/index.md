@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: shop
-)
+-->
 
 # Shop for sunscreen
 

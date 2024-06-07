@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: integrative healthcare
 tags: care-categories
-)
+-->
 
 # Integrative medicine
 

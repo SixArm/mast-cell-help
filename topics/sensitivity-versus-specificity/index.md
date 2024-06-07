@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-40
 tags: semantics
-)
+-->
 
 # Sensitivity versus specificity
 

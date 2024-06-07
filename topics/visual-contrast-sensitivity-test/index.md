@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: VCS
 tags: tests
-)
+-->
 
 # Visual contrast sensitivity (VCS) test
 

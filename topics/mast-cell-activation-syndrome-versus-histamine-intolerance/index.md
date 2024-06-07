@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: conditions dx
-)
+-->
 
 # Mast Cell Activation Syndrome (MCAS) versus Histamine Intolerance (HI)
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: SVT
 tags: diagnosis
-)
+-->
 
 # Supraventricular tachycardia (SVT)
 

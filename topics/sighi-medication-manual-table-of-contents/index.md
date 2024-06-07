@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://mastzellaktivierung.info
 tags: reference
-)
+-->
 
 # SIGHI Medication Manual - Table of Contents
 

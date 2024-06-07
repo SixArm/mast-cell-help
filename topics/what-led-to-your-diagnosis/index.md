@@ -1,6 +1,7 @@
-[//]: # (
-source: jph)
-tags: comments)
+<!--
+source: jph
+tags: comments
+-->
 
 # What led to your diagnosis?
 

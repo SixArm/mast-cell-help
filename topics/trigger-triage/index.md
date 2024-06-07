@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://SurvivingToxicMold.com
 tags: trigger triage
-)
+-->
 
 # Trigger triage kitchen
 

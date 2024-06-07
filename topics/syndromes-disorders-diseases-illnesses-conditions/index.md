@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: semantics
-)
+-->
 
 # Syndromes, disorders, diseases, illnesses, conditions
 

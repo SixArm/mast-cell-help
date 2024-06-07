@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: CAM
 tags: care-categories
-)
+-->
 
 # Complementary and alternative medicine (CAM)
 

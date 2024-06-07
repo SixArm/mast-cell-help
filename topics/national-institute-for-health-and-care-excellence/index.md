@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: https://www.nice.org.uk/
 abbr: NICE
 tags: organizations
-)
+-->
 
 # National Institute for Health and Care Excellence (NICE)
 

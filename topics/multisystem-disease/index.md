@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: conditions
-)
+-->
 
 # Multisystem disease
 

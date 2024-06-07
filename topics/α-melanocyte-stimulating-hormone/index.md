@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: α-MSH
 tags: peptides hormones
-)
+-->
 
 # α-melanocyte stimulating hormone (α-MSH)
 

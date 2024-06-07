@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Alesion, Elestat, Purivist
 tags: antihistamines
-)
+-->
 
 # Epinastine
 

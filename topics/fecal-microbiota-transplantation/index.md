@@ -1,9 +1,9 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: FMT
 aka: fecal transplant
 tags: transplants treatments
-)
+-->
 
 # Fecal microbiota transplantation (FMT)
 

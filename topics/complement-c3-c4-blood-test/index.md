@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: tests body-complement-system
-)
+-->
 
 # Complement C3 + C4 blood test
 

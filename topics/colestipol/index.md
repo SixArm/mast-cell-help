@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Colestid
 tags: anticholesterols bile-acid-sequestrants
-)
+-->
 
 # Colestipol
 

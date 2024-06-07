@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 aka: Lactobacillus rhamnosus
 tags: probiotics
-)
+-->
 
 # Lacticaseibacillus rhamnosus
 

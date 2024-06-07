@@ -1,4 +1,4 @@
-[//]: # (
+<!--
 source: gpt-40
 aka: lactose intolerance
 aka: dairy intolerance

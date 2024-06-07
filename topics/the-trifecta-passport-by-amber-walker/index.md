@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://www.amazon.com/Trifecta-Passport-Orthostatic-Tachycardia-Ehlers-Danlos-ebook/dp/B08TV8PTBP
 tags: book
-)
+-->
 
 # The Trifecta Passport – By Amber Walker
 

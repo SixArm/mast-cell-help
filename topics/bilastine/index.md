@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Alektos, Alerex, Bellozal, Bilador, Bilanoa, Bilargen, Bilaska, Bilaxten, Bilaxten, Bilaz, Bilidren, Bitosen, Blexten, Borenar, Clatra, Drynol, Fortecal, Gosall, Ibis, Ilaxten, Ilexel, Inorial, Lendin, Lergonix, Menarini, Nasitop, Nixar, Obalix, Olisir, Omarit, Opexa, Revitelle, Robilas, Xados, Zilas
 tags: antihistamines
-)
+-->
 
 
 # Bilastine

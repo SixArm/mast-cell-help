@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: jph
 brands: Kate Farms, Neocate, Ripple Nutrition, NutriBiotics, Herbalife Nutrition, microingredients
 tags: shop nutrition shakes
-)
+-->
 
 # Shop for nutrition shakes
 

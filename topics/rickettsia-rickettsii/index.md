@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-40
 tags: ticks bacteria
-)
+-->
 
 # Rickettsia rickettsii
 

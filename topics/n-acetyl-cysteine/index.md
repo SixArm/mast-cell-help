@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: NAC
 tags: supplements
-)
+-->
 
 # N-acetyl cysteine (NAC)
 

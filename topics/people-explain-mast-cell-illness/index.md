@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: quotations
-)
+-->
 
 # People explain mast cell illness
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: https://www.amazon.com/Understanding-Histamine-Intolerance-Mast-Activation-ebook/dp/B00YU07VC6
 tags: book
-)
+-->
 
 # Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: MIS
 tags: diagnoses
-)
+-->
 
 # Multisystem Inflammatory Syndrome (MIS)
 

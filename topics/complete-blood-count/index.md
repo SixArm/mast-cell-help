@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: CBC
 tags: tests
-)
+-->
 
 # Complete blood count (CBC)
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: facebook.com
 abbr: LDN
 tags: comments
-)
+-->
 
 # Low-dose naltrexone (LDN) comments
 

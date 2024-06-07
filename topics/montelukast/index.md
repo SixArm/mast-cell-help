@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Singulair
 tags: antihistamines medications
-)
+-->
 
 # Montelukast
 

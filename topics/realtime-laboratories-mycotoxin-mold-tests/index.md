@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: toxin tests companies
-)
+-->
 
 # RealTime Laboratories mycotoxin mold tests
 

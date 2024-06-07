@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: DNRS
 tags: limbic-system neuroplasticity brands
-)
+-->
 
 # Dynamic Neural Retraining System™ (DNRS)
 

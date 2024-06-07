@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 brands: Tavist Allergy, Dayhist Allergy
 tags: antihistamines
-)
+-->
 
 # Clemastine
 

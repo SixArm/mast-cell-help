@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: HNMT
 tags: enzymes components
-)
+-->
 
 # Histamine N-methyltransferase (HNMT)
 

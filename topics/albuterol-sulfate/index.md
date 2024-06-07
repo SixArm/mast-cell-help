@@ -1,9 +1,9 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: albuterol
 brands: ProAir HFA, ProAir RespiClick, Proventil HFA, Ventolin HFA, AccuNeb
 tags: beta-agonists
-)
+-->
 
 # Albuterol sulfate
 

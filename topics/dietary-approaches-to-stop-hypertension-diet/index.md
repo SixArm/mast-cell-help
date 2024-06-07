@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: DASH
 tags: diets
-)
+-->
 
 # Dietary Approaches to Stop Hypertension (DASH) diet
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-40
 abbr: RMSF
 tags: ticks
-)
+-->
 
 # Rocky Mountain Spotted Fever (RMSF)
 

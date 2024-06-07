@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 tags: treatments
-)
+-->
 
 # Mast Cell Activation Syndrome (MCAS): dietary modifications
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: comments triggers
-)
+-->
 
 # Vibrations quotations
 

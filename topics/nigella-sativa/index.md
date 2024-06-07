@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: black seed, black cumin
 tags: herbals
-)
+-->
 
 # Nigella sativa (black seed)
 

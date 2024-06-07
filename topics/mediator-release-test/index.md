@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: MRT
 tags: tests
-)
+-->
 
 # Mediator Release Test (MRT)
 

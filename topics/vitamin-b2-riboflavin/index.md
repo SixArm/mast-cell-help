@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: riboflavin
 tags: vitamins
-)
+-->
 
 # Vitamin B2 (riboflavin)
 

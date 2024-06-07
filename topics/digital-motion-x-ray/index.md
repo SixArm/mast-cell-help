@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: DMX
 tags: imaging
-)
+-->
 
 # Digital motion x-ray (DMX)
 

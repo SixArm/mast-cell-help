@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: SAAT
 tags: treatments acupunture brands
-)
+-->
 
 # Soliman Auricular Allergy Treatment (SAAT)
 

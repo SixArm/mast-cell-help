@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: IgE
 tags: immunoglobulins antibodies components
-)
+-->
 
 # Immunoglobulin E (IgE)
 

@@ -1,7 +1,7 @@
-[//]: # (
+<!--
 source: jph
 tags: triggers help
-)
+-->
 
 # Trigger cleaning
 

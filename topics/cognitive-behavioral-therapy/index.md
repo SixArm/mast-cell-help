@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: CBT
 tags: psychology treatments
-)
+-->
 
 # Cognitive-Behavioral Therapy (CBT)
 

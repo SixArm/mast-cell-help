@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: TCA
 tags: antidepressants treatments
-)
+-->
 
 # Tricyclic antidepressants (TCAs)
 

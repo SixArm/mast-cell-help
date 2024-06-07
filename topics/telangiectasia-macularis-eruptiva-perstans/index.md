@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: TMEP
 tags: diagnosis
-)
+-->
 
 # Telangiectasia Macularis Eruptiva Perstans (TMEP)
 

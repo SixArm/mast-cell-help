@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: AIP
 tags: diets
-)
+-->
 
 # Autoimmune Protocol (AIP) diet
 

@@ -1,8 +1,8 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 abbr: GERD
 tags: conditions
-)
+-->
 
 # Gastroesophageal reflux disease (GERD)
 

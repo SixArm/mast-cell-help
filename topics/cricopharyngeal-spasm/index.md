@@ -1,9 +1,9 @@
-[//]: # (
+<!--
 source: gpt-3 + jph editing
 aka: upper esophageal sphincter dysfunction
 aka: cricopharyngeal dysfunction
 tags: conditions
-)
+-->
 
 # Cricopharyngeal spasm
 

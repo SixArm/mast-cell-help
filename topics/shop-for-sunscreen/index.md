@@ -5,7 +5,7 @@ tags: shop
 
 # Shop for sunscreen
 
-Suncreen recommendations by mast cell patients, and especially including face sunscreens.
+Suncreen recommendations by mast cell patients, and especially including face sunscreens. Generally prefer hypoallergenic ingredients, free of artificial colors, scents, and additives. Be sure to check ingredients lists. Be aware that in some countries, the same brand name can have different ingredients.
 
 * [Sun Bum](https://www.sunbum.com/) - [Mineral SPF 30 Sunscreen Face Lotion - Fragrance-free](https://www.sunbum.com/products/mineral-spf-30-sunscreen-face-lotion)
  
@@ -26,5 +26,9 @@ Suncreen recommendations by mast cell patients, and especially including face su
 * [Hookya](https://hookyaproducts.com/) - [Mineral Sport Sunscreen SPF 50](https://hookyaproducts.com/shop/mineral-sport-sunscreen-spf-50-two-pack/)
 
 * [La Roche Posay](https://www.laroche-posay.us/) - [Anthelios UV Hydra Hydrating Face Sunscreen SPF 50 With Hyaluronic Acid](https://www.laroche-posay.us/our-products/sun/face-sunscreen/anthelios-uv-hydra-hydrating-face-sunscreen-spf-50-with-hyaluronic-acid-3606000613126.html)
+
+* [All Good](https://allgoodbodycare.com/) - [SPF50 Anti-Aging Daily Mineral Sunscreen Facial Moisturizer](https://allgoodbodycare.com/shop/sun/face/spf50-anti-aging-daily-mineral-sunscreen-facial-moisturizer-1-oz/)
+
+* [Colorscience](https://colorescienceuk.com/) - [Sunforgettable Total Protection Face Shield SPF 50 in Classic](https://colorescienceuk.com/collections/fragrance-free-sunscreen/products/sunforgettable-total-protection-face-shield-spf-50)
 
 * [Pat Collins](https://patcollins.com.au/) - [Sun Cream with Zinc](https://patcollins.com.au/Shop/All/Sun-Cream-with-Zinc.html)

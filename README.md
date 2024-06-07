@@ -61,6 +61,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Histamine](topics/histamine/)
 
 * [Histamine bucket](topics/histamine-bucket/)
+* [Histamine breakdown](topics/histamine-breakdown/)
 * [Histamine overload](topics/histamine-overload/)
 * [Histamine liberators](topics/histamine-liberators/)
 * [Antihistamines](topics/antihistamines/)
@@ -104,6 +105,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Patient advocates](topics/patient-advocates/)
 * [Home hunting](topics/home-hunting/)
 * [Medical alert bracelet](topics/medical-alert-bracelet/)
+* [Medical alert bracelet - what to put on it](topics/medical-alert-bracelet/)
 * [GHK-CU peptide](topics/ghk-cu-peptide/)
 
 ### [Traditional Chinese Medicine (TCM)](topics/traditional-chinese-medicine/)
@@ -599,7 +601,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline](topics/adrenaline/)
 
-### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand names: EpiPen, Auvi-Q, Symjepi, Adrenaclick)
+### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand names: EpiPen, Auvi-Q, Symjepi)
 
 * [Adrenaline auto-injector instructions](topics/adrenaline-auto-injector-instructions/)
 * [EpiPen alternatives](topics/epipen-alternatives/)
@@ -852,9 +854,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 * [Water damage mold list](topics/water-damage-mold-list/)
 
-### [Data protection](topics/data-protection/)
+### [Electronic health records (EHR)]
 
-* [Health Insurance Portability and Accountability Act (HIPAA)]
+* [Health Insurance Portability and Accountability Act (HIPAA)](topics/health-insurance-portability-and-accountability-act/)
+* [Data protection](topics/data-protection/)
 
 ### [Glossary](topics/glossary/)
 

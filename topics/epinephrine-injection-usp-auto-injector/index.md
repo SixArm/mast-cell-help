@@ -9,7 +9,7 @@ tags: adrenaline-emergencies medications
 
 Source: https://epinephrineautoinject.com/
 
-Epinephrine Injection, USP Auto-Injector (also called epinephrine auto-injector) is an affordable option for epinephrine.†
+Epinephrine Injection, USP Auto-Injector (also called epinephrine auto-injector) is an affordable option for epinephrine.
 
 Our auto-injector lets patients always be prepared with a convenient, easy-to-carry, single dose of epinephrine that they may give to themselves or may be given by a caregiver or healthcare provider.
 

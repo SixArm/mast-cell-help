@@ -69,7 +69,6 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Inflammation](topics/inflammation/)
 
-* [Non-steroidal anti-inflammatory drugs (NSAIDs)](topics/non-steroidal-anti-inflammatory-drugs/)
 * [Diamine oxidase](topics/diamine-oxidase/)
 * [Tryptase](topics/tryptase/)
 * [Heparin](topics/heparin/)
@@ -643,6 +642,28 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Antidepressant medications](topics/antidepressant-medications/)
 
+#### [Tricyclic antidepressants (TCAs)](topics/tricyclic-antidepressants/)
+
+* [Tricyclic antidepressants versus other antidepressants](topics/tricyclic-antidepressants-versus-other-antidepressants/)
+* [Nortriptyline](topics/nortriptyline/)
+
+#### [Monoamine oxidase inhibitors (MAOIs)](topics/monoamine-oxidase-inhibitors/)
+
+#### [Selective serotonin reuptake inhibitors (SSRIs)](topics/selective-serotonin-reuptake-inhibitors/)
+
+* [Fluoxetine](topics/fluoxetine/) (brand name: Prozac)
+* [Sertraline](topics/sertraline/) (brand name: Zoloft)
+* [Escitalopram](topics/escitalopram/) (brand name: Lexapro)
+
+### [Anti-inflammatory medications](topics/antiinflammatory-medications/)
+
+* [Aspirin](topics/aspirin/)
+* [Colchicine](topics/colchicine/)
+* [Ibuprofin](topics/ibuprofin/)
+* [Naproxen](topics/naproxen/)
+* [Non-steroidal anti-inflammatory drugs (NSAIDs)](topics/non-steroidal-anti-inflammatory-drugs/)
+* [Disease-modifying antirheumatic drugs (DMARDs)](topics/disease-modifying-antirheumatic-drugs/)
+
 ### [Asthma medications](topics/asthma-medications/)
 
 * [Albuterol sulfate](topics/albuterol-sulfate/) (brand names: ProAir, Proventil, Ventolinr)
@@ -666,6 +687,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Quorum quenching (QQ)](topics/quorum-quenching/)
 * [Quorum sensing inhibitors (QSI)](topics/quorum-sensing-inhibitors/)
 * [Stealth pathogen](topics/stealth-pathogen/)
+
+### [Biologics](topics/biologics/)
 
 ### [Biotoxin treatments](topics/biotoxin-treatments/)
 
@@ -726,16 +749,12 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Skin adhesives](topics/skin-adhesives/)
 
-### [Tricyclic antidepressants (TCAs)](topics/tricyclic-antidepressants/)
-
-* [Tricyclic antidepressants versus other antidepressants](topics/tricyclic-antidepressants-versus-other-antidepressants/)
-* [Nortriptyline](topics/nortriptyline/)
-
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
 
 * [Imatinib](topics/imatinib/) (brand name: Glivec)
 
 ### [Excipients](topics/excipients/)
+
 
 
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>

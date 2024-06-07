@@ -1,1 +1,0 @@
-# Antirheumatic drugs (DMARDs)

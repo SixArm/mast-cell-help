@@ -56,7 +56,7 @@ www.mastzellaktivierung.info
 * 3.2.1 Cromoglicinic acid, sodium cromoglicate 
 * 3.2.1.1 Nalcrom®
 * 3.2.2 Ketotifen (Zaditen®) 
-* 3.3 Prostaglandin synthesis inhibitors, nonsteroidal antiinflammatory drugs (NSAIDs) △ 
+* 3.3 Prostaglandin synthesis inhibitors, non-steroidal antiinflammatory drugs (NSAIDs) △ 
 * 3.3.1 Ibuprofen △ 
 * 3.3.2 Dexibuprofen △ 
 * 3.3.3 Acetylsalicylic acid (ASS) △

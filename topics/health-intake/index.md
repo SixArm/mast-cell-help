@@ -15,5 +15,5 @@ Health intake describes when a healthcare patient comes to a healthcare provider
 May include broader aspects such as nutrition history, lifestyle history, occupational history, psychosocial history, family history.
 
 * **Diagnostics**: Common diagnostic tests for new patient intake may include a complete blood count (CBC), 24-hour urine test, and more.
- 
+
 * **Goals**: Goals are the patient's desired improvements. Ideally create goals that are SMART: specific, measurable, achievable, relevant, and timely.

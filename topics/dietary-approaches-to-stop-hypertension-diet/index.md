@@ -21,5 +21,5 @@ Dietary Approaches to Stop Hypertension (DASH) is a diet for heart health. It em
 * **Cut back on sodium**: Sodium can raise blood pressure. Limit sodium to 2,300 milligrams of sodium per day, or even less if you have hypertension or are at risk of developing it.
 
 * **Moderate alcohol**: Limit alcohol intake to one drink per day.
- 
+
 * **Watch portion sizes**: Use smaller portion sizes to avoid overeating.

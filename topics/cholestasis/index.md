@@ -19,5 +19,5 @@ Cholestasis is a condition characterized by a reduction or cessation of bile flo
 * **Diagnosis**: Blood tests for liver function (elevated bilirubin, alkaline phosphatase, and transaminases), serum bile acid levels. Imaging studies including ultrasound, CT scan, MRI, or MRCP (magnetic resonance cholangiopancreatography) to visualize the bile ducts and liver. Liver biopsy.
 
 * **Treatment**: Treatment may involve medications to manage liver diseases, surgical removal of gallstones or obstruction, or treatment of underlying conditions such as viral hepatitis. A low-fat diet may be recommended to reduce the workload on the liver.
- 
- 
+
+

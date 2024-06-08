@@ -21,5 +21,5 @@ Accelerated Resolution Therapy (ART) is a form of psychotherapy designed to help
 **Benefits**:
 
 * **Rapid Results**: ART can produce significant improvements in a relatively short period compared to traditional therapy approaches.
- 
+
 * **Reduced Relapse Rates**: ART may lead to lower rates of symptom recurrence compared to other therapies for trauma-related disorders.

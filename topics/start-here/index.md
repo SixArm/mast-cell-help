@@ -19,7 +19,7 @@ Ideally try to find sugar-free color-free additive-free versions.
 Start with 3 days of just arborio rice, fresh chicken, and distilled water.
 Do 1 month with no gluten, dairy, additives, hormones, or spices.
 No skins or peels. Always fresh or flash-frozen. No leftovers.
-Boil or steam. Do not fry or grill. 
+Boil or steam. Do not fry or grill.
 
 **Try supplements**: Before meals: [diamine oxidase (DAO)](../diamine-oxidase/) and [quercetin](../quercetin/).
 With meals: [vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/), [omega-3](../omega-3/), [n-acetyl cysteine (NAC)](../n-acetyl-cysteine/).

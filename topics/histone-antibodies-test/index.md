@@ -10,7 +10,7 @@ A histone antibodies test is a blood test that measures the levels of antibodies
 **Key points**:
 
 * **Purpose**: Diagnose autoimmune diseases, particularly those affecting the connective tissues, such as systemic lupus erythematosus (SLE) and drug-induced lupus.
- 
+
 * **Indications**: A histone antibodies test may be ordered if a person has symptoms suggestive of an autoimmune disease, such as joint pain, fatigue, skin rashes, or fever. It may also be ordered if someone has been exposed to medications known to cause drug-induced lupus, such as certain antihypertensive drugs or antiseizure medications.
 
 * **Procedure**: The test involves taking a blood sample from a vein, usually from the arm. The blood is then sent to a laboratory for analysis.

@@ -14,4 +14,4 @@ The stomach acid test can provide valuable insights into various gastrointestina
 
 While the stomach acid test is informative, it is not commonly performed as a routine diagnostic procedure due to its invasive nature. It is typically reserved for cases where other diagnostic methods, like endoscopy or pH monitoring, have not provided sufficient information. The test must be conducted by a skilled healthcare professional to ensure accuracy and minimize discomfort for the patient.
 
-   
+  

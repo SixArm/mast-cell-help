@@ -100,6 +100,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Leech therapy](topics/leech-therapy/)
 * [Frequency-specific microcurrent (FSM)](topics/frequency-specific-microcurrent/)
 * [Fecal microbiota transplantation (FMT)](topics/fecal-microbiota-transplantation/)
+* [Parasite cleanse](topics/parasite-cleanse/)
 * [Ozone therapy](topics/ozone-therapy/)
 * [Red light therapy](topics/red-light-therapy/)
 * [Patient advocates](topics/patient-advocates/)
@@ -241,7 +242,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Calcium](topics/calcium/)
 * [Calcium D-glucarate](topics/calcium-d-glucarate/)
 * [Chlorella](topics/chlorella/)
+* [Colostrum](topics/colostrum/)
 * [Copper](topics/copper/)
+* [Curcumin](topics/curcumin/)
 * [Forskolin](topics/forskolin/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)
@@ -300,6 +303,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Mastic gum](topics/mastic-gum/)
 * [Meadowsweet](topics/meadowsweet/)
 * [Milk thistle](topics/milk-thistle/)
+* [Lobelia](topics/lobelia/)
 * [Oil of oregano](topics/oil-of-oregano/)
 * [Pinella](topics/pinella/)
 * [Nigella sativa (black seed)](topics/nigella-sativa/)
@@ -657,6 +661,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Sertraline](topics/sertraline/) (brand name: Zoloft)
 * [Escitalopram](topics/escitalopram/) (brand name: Lexapro)
 
+#### [Serotonin and norepinephrine reuptake inhibitors (SNRIs)](topics/serotonin-and-norepinephrine-reuptake-inhibitors/)
+
+
 ### [Anti-inflammatory medications](topics/antiinflammatory-medications/)
 
 * [Aspirin](topics/aspirin/)
@@ -681,6 +688,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Activated charcoal](topics/activated-charcoal/)
 * [Bentonite clay](topics/bentonite-clay/)
 
+### [Bile salts](topics/bile-salts/)
+
 ### [Biofilm busters](topics/biofilm-busters/)
 
 * [Colloidal silver](topics/colloidal-silver/)
@@ -688,7 +697,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Butyrate supplements](topics/butyrate-supplements/)
 * [Quorum quenching (QQ)](topics/quorum-quenching/)
 * [Quorum sensing inhibitors (QSI)](topics/quorum-sensing-inhibitors/)
-* [Stealth pathogen](topics/stealth-pathogen/)
+* [Stealth pathogens](topics/stealth-pathogens/)
 
 ### [Biologics](topics/biologics/)
 
@@ -742,6 +751,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Mineralocorticoids](topics/mineralocorticoids/)
 
 ### [Luteolin](topics/luteolin/)
+
+### [Palmitoylethanolamide (PEA)](topics/palmitoylethanolamide/)
 
 ### [Proton pump inhibitors](topics/proton-pump-inhibitors/)
 

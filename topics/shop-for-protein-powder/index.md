@@ -46,7 +46,7 @@ Protein powder recommended by mast cell people. Try to read ingredients lists ca
 * Pumpkin seed protein powder, or hydrolyzed pea protein, or hemp seed protein powder. Look for any certified organic source.
 
 * Egg protein
- 
+
 * Bone broth protein
 
 **Reject**:

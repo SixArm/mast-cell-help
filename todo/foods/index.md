@@ -4,7 +4,7 @@
 ## Low-histamine low-salicylate low-allergen diet
 
 * [ ] White potatoes, peeled and boiled (low oxalate, low salicylate).
- 
+
 * [ ] Arborio rice (low oxalate, low salicylate).
 
 * [ ] Cruciferous vegetables such as broccoli and kale

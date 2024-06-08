@@ -32,11 +32,11 @@ Electrolytes recommended by mast cell people. Read ingredients lists because you
 * [Adapted Nutrition - Keto K1000 unflavored](https://adapted-nutrition.com/products/keto-k1000-unflavored)
 
 * [Mother Earth Labs - Fulvic 400X](https://motherearthlabs.com/product/fulvic-400x-supplement/)
- 
+
 **Flavored-only**:
 
 * [BioSteel - Hydration mix - Watermelon flavor](https://biosteel.com/collections/hydration-mix-5oz/products/hydration-mix-watermelon-20-servings)
- 
+
 * [Propel Water - Watermelon - Tablet](https://www.propelwater.com/products/electrolyte-hydration/tablet/berry/single-serve-10ct-carton)
 
 * [Pedialyte® - Powder Variety Pack](https://www.pedialyte.com/products/powder-packs/variety-pack)

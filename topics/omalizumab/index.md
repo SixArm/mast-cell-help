@@ -1,7 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 brands: Xolair
-tags: medications
+tags: mast-cell-stabilizers medications
 -->
 
 # Omalizumab

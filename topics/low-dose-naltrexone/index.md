@@ -1,7 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 abbr: LDN
-tags: antiinflammatories medications
+tags: mast-cell-stabilizers antiinflammatories medications
 -->
 
 # Low-dose naltrexone (LDN)

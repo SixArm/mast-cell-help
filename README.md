@@ -64,6 +64,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Histamine breakdown](topics/histamine-breakdown/)
 * [Histamine overload](topics/histamine-overload/)
 * [Histamine liberators](topics/histamine-liberators/)
+* [Histamine and alcohol](topics/histamine-and-alcohol/)
 * [Antihistamines](topics/antihistamines/)
 * [Antihistamines: types](topics/antihistamine-types/)
 * [Antihistamines and mast cell stabilizers](topics/antihistamines-and-mast-cell-stabilizers/)
@@ -117,6 +118,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Qigong](topics/qigong/)
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)
+* [Shuang Huang Lian (SHL)](topics/shuang-huang-lian/)
 * [Nambudripad's Allergy Elimination Technique (NAET)](topics/nambudripads-allergy-elimination-technique/)
 * [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment/)
 
@@ -142,6 +144,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Car triggers - tests](topics/car-triggers-tests/)
 * [Car triggers - treatments](topics/car-triggers-tests/)
 * [Allergens, irritants, toxins](topics/allergens-irritants-toxins/)
+* [Laundry](topics/laundry/)
 * [Air filters](topics/air-filters/)
 * [Water filters](topics/water-filters/)
 * [Activated carbon filters](topics/activated-carbon-filters/)
@@ -250,14 +253,18 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Iron supplements](topics/iron-supplements/)
 * [L-arginine](topics/l-arginine/)
 * [Lecithin](topics/lecithin/)
+* [Lysine supplements](topics/lysine-supplements/)
 * [Magnesium supplements](topics/magnesium-supplements/)
 * [Magnesium glycinate](topics/magnesium-glycinate/)
 * [Potassium supplements](topics/potassium-supplements/)
+* [Proline supplements](topics/proline-supplements/)
 * [Serrapeptase](topics/serrapeptase/)
 * [Siberian pine nut oil](topics/siberian-pine-nut-oil/)
 * [Sodium supplements](topics/sodium-supplements/)
 * [Tiger milk mushroom](topics/tiger-milk-mushroom/)
 * [Turmeric](topics/turmeric/)
+* [Valine supplements](topics/valine-supplements/)
+* [Zeolite supplements](topics/zeolite-supplements/)
 * [Zinc](topics/zinc/)
 
 ### [Prebiotic supplements](topics/prebiotic-supplements/)
@@ -299,6 +306,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ginger](topics/ginger/)
 * [Ginseng](topics/ginseng/)
 * [Holy basil](topics/holy-basil/)
+* [Honeysuckle (Lonicera japonica)](topics/honeysuckle/)
 * [Khellin](topics/khellin/)
 * [Mastic gum](topics/mastic-gum/)
 * [Meadowsweet](topics/meadowsweet/)
@@ -399,11 +407,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Dysbiosis](topics/dysbiosis/)
 
+### [Eczema](topics/eczema/)
+
 ### [Ehlers-Danlos syndrome](topics/ehlers-danlos-syndrome/)
 
 ### [Endometriosis](topics/endometriosis/)
 
 ### [Endosalpingiosis](topics/endosalpingiosis/)
+
+### [Epipharyngitis](topics/epipharyngitis/)
 
 ### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis/)
 
@@ -418,6 +430,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Histamine psychosis](topics/histamine-psychosis/)
 
 ### [Hypertension](topics/hypertension/)
+
+### [Inflammatory bowel disease (IBD)](topics/inflammatory-bowel-disease/)
 
 ### [Kawasaki disease](topics/kawasaki-disease/)
 
@@ -448,6 +462,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Mold exposure](topics/mold-exposure/)
 
+### [Monoclonal gammopathy of unknown significance](topics/monoclonal-gammopathy-of-unknown-significance/)
+
 ### [Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)](topics/multiple-antibiotic-resistant-coagulase-negative-staphylococci/)
 
 ### [Multiple Chemical Sensitivity (MCS)](topics/multiple-chemical-sensitivity/)
@@ -476,6 +492,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans/)
 
+### [Transient receptor potential (TRP) disorders versus mast cell disorders](topics/transient-receptor-potential-disorders-versus-mast-cell-disorders/)
+
 ### [Toxin exposure](topics/toxin-exposure/)
 
 ## Components
@@ -483,6 +501,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [α-melanocyte stimulating hormone (α-MSH)](topics/α-melanocyte-stimulating-hormone/)
 
 ### [Aryl hydrocarbon receptors (AhR)](topics/aryl-hydrocarbon-receptors/)
+
+### [Cytokines](topics/cytokines/)
 
 ### [Complement C3 protein](topics/complement-c3-protein/)
 
@@ -503,13 +523,13 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Health intake](topics/health-intake/)
   
-### [Adrenal insufficiency](topics/adrenal-insufficiency/)
+### [Adrenal insufficiency](topics/adrenal-insufficiency/) (a.k.a. Addison's disease)
 
 ### [Adrenaline dumping](topics/adrenaline-dumping/)
 
 * [Adrenaline dump versus histamine dump](topics/adrenaline-dump-versus-histamine-dump/)
 
-### [Bradycardia](topics/bradycardia/)
+### [Bradycardia](topics/bradycardia/) (a.k.a. slow heart rate)
 
 ### [Brain fog](topics/brain-fog/)
 
@@ -541,14 +561,17 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [24-hour urine test](topics/24-hour-urine-test/)
   * [2,3 Dinor-11Beta-Prostaglandin F2 Alpha, 24-hour urine test](topics/2-3-dinor-11beta-prostaglandin-f2-alpha-24-hour-urine-test/)
 * [Allergy testing](topics/allergy-testing/)
+* [Anemia panel](topics/anemia-panel/)
 * [Anti-IgE IgG test](topics/anti-ige-igg-test/)
 * [Antineutrophil cytoplasmic antibodies (ANCA) test](topics/antineutrophil-cytoplasmic-antibodies-test/)
+* [Basic Metabolic Panel (BMP)](topics/basic-metabolic-panel/)
 * [Bone marrow biopsy](topics/bone-marrow-biopsy/)
 * [Complement C3 + C4 test](topics/complement-c3-c4-blood-test/)
 * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
 * [Complement AH50 blood test](topics/complement-ah50-blood-test/)
 * [Complement CH50 blood test](topics/complement-ch50-blood-test/)
 * [Complete blood count (CBC)](topics/complete-blood-count/)
+* [Comprehensive Metabolic Panel (CMP)](topics/comprehensive-metabolic-panel/)
 * [Electrolyte blood serum test](topics/electrolyte-blood-serum-test/)
 * [Esophageal pH test](topics/esophageal-ph-test/)
 * [Genetic Environmental Illness (GENIE) test](topics/genetic-environmental-illness-test/)
@@ -558,6 +581,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Histamine testing](topics/histamine-testing/)
 * [Histone antibodies test](topics/histone-antibodies-test/)
 * [ISAC allergy blood test](topics/isac-allergy-blood-test/)
+* [Lipid panel](topics/lipid-panel/)
 * [Microbiome testing](topics/microbiome-testing/)
 * [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
 * [Mediator Release Test (MRT)](topics/mediator-release-test/)
@@ -567,10 +591,29 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Prostaglandin D2 (PGD2) test](topics/prostaglandin-d2-test/)
 * [Serum tryptase test](topics/serum-tryptase-test/)
 * [Stomach acid test](topics/stomach-acid-test/)
+* [Thyroid antibodies panel (TAP)](thyroid-antibodies-panel/)
 * [Total iron-binding capacity test](topics/total-iron-binding-capacity-test/)
 * [Treatment as test](topics/treatment-as-test/) (a.k.a. test of treatment)
 * [Visual contrast sensitivity (VCS) test](topics/visual-contrast-sensitivity-test/)
 * [Western blot test](topics/western-blot-test/) (a.k.a. immunoblot)
+
+TODO:
+
+* FT3
+* FT4
+* HB A1C
+* Vitamin D
+* Vitamin B12
+* TSH (3rd IS)
+* ESR- Sed Rate
+* C-reactive protein
+* CBC With DIFF & PLT
+* Tryptase
+* Zinc, Plasma or Serum
+* Hereditary angioedema (HAE)
+* KIT (D816V) Digital PCR
+* IgE test 
+* IgA / IgM / IgG (not allergy specific as that test is a scam)
 
 ### [Diagnostics companies]
 
@@ -594,6 +637,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 * [Environmental Relative Moldiness Index (ERMI)](topics/environmental-relative-moldiness-index/)
 * [Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)](topics/health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2/)
+
+### [Oxidative stress](topics/oxidative-stress/)
 
 ### [Supraventricular tachycardia](topics/supraventricular-tachycardia/)
 
@@ -671,6 +716,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Ibuprofin](topics/ibuprofin/)
 * [Naproxen](topics/naproxen/)
 * [Non-steroidal anti-inflammatory drugs (NSAIDs)](topics/non-steroidal-anti-inflammatory-drugs/)
+  * [Celecoxib](topics/celecoxib/) (brand name: Celebrex)
 * [Disease-modifying antirheumatic drugs (DMARDs)](topics/disease-modifying-antirheumatic-drugs/)
 
 ### [Asthma medications](topics/asthma-medications/)
@@ -713,14 +759,25 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Corticosteroids](topics/corticosteroids/)
 
 * [Fludrocortisone](topics/fludrocortisone/)
+* [Fluticasone](topics/fluticasone/)
+* [Hydrocortisone](topics/hydrocortisone/)
+* [Nasal coriticosteroids](topics/nasal-corticosteroids/)  
+  * Fluticasone propionate nasal spray 
+  * Budesonide 
+  * Mometasone
+  * Triamcinolone
 
 ### [Cromolyn sodium](topics/cromolyn-sodium/) (brand name: Gastrocrom)
 
 * [Cromolyn sodium timing](topics/sodium-cromolyn-timing/)
 
+### [Cytoreductive therapy](topics/cytoreductive-therapy/)
+
 ### [Cusack protocol](topics/cusack-protocol/)
 
 ### [Decongestants](topics/decongestants/)
+
+### [Epipharyngeal abrasive therapy (EAT)](topics/epipharyngeal-abrasive-therapy/)
 
 ### [Famotidine](topics/famotidine/) (brand name: Pepcid)
 
@@ -729,6 +786,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name: Plaquenil)
 
 ### [Immunotherapy](topics/immunotherapy/)
+
+* [Intralymphatic immunotherapy (ILIT)](topics/intralymphatic-immunotherapy/)
+* [Subcutaneous immunotherapy (SCIT)](topics/subcutaneous-immunotherapy/)
+* [Sublingual immunotherapy (SCIT)](topics/sublingual-immunotherapy/)
 
 ### [Leukotriene inhibitors](topics/leukotriene-inhibitors/)
 
@@ -746,19 +807,33 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [KIT-D816X](topics/kit-d816x/)
 * [MTHFR gene](topics/mthfr-gene/)
 
+### [Mast cell stabilizers](topics/mast-cell-stabilizers/)
+
+* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
+* [Pentosan](topics/pentosan/) (brand name: ??)
+* [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone/)
+* [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
+* [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
+* [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
+
 ### [Medical marajuana](topics/medical-marijuana/)
 
 ### [Mineralocorticoids](topics/mineralocorticoids/)
 
 ### [Luteolin](topics/luteolin/)
 
+### [Painkillers](topics/painkillers/)
+
 ### [Palmitoylethanolamide (PEA)](topics/palmitoylethanolamide/)
 
-### [Proton pump inhibitors](topics/proton-pump-inhibitors/)
+### [Proton pump inhibitors (PPIs)](topics/proton-pump-inhibitors/)
 
 * [Omeprazole](topics/omeprazole/) (brand name: Prilosec)
+* [Pantoprazole](topics/pantoprazole/) (brand name: Protonix)
 
 ### [Regenerative injection technique (RIT)](topics/regenerative-injection-technique)
+
+### [Sedatives](topics/sedatives/)
 
 ### [Skin adhesives](topics/skin-adhesives/)
 

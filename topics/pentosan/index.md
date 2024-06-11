@@ -1,6 +1,6 @@
 <!--
 source: gpt-40
-tags: mast-cell-stabilizers
+tags: mast-cell-stabilizers medications
 -->
 
 # Pentosan

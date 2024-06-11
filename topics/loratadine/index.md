@@ -1,5 +1,7 @@
 <!--
 source: gpt-3 + jph editing
+brands: Claratin
+treats: hay fever (allergic rhinitis), hives (urticaria), sneezing, runny nose, itching, watery eyes
 tags: antihistamines medications
 -->
 

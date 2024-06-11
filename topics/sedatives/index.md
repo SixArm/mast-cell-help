@@ -1,6 +1,11 @@
-# Sedatives
+<!--
+source: gpt-40
+subclasses: benzodiazepines, non-benzodiazepines, barbiturates
+treats: anxiety, insomnia
+tags: medications
+-->
 
-TODO
+# Sedatives
 
 Sedatives are medications used to induce calmness, reduce anxiety, and promote sleep. They work by depressing the central nervous system (CNS), leading to a state of relaxation or sedation. Sedatives are commonly prescribed for anxiety disorders, insomnia, and as premedication before medical procedures to alleviate anxiety and induce anesthesia.
 

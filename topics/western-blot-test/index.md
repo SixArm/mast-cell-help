@@ -1,7 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 aka: immunoblot, immunoblotting
-aka: immunoblotting
+tags: tests
 -->
 
 # Western blot test

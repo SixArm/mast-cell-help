@@ -1,8 +1,8 @@
-# Anti-IL-5 monoclonal antibodies
+# Anti-interleukin-5 monoclonal antibodies
 
 TODO
 
-Anti-IL-5 monoclonal antibodies are a class of biologic drugs designed to treat severe eosinophilic asthma and other eosinophil-associated conditions by targeting interleukin-5 (IL-5), a cytokine crucial for the growth, activation, and survival of eosinophils. Eosinophils are a type of white blood cell that plays a key role in inflammatory processes and allergic reactions.
+Anti-interleukin-5 monoclonal antibodies are a class of biologic drugs designed to treat severe eosinophilic asthma and other eosinophil-associated conditions by targeting interleukin-5 (IL-5), a cytokine crucial for the growth, activation, and survival of eosinophils. Eosinophils are a type of white blood cell that plays a key role in inflammatory processes and allergic reactions.
 
 One of the prominent anti-IL-5 monoclonal antibodies is mepolizumab, marketed under the brand name Nucala. Mepolizumab binds to IL-5, preventing it from interacting with its receptor on the surface of eosinophils. This action reduces the number of eosinophils in the blood and tissues, thereby decreasing inflammation and preventing asthma exacerbations.
 

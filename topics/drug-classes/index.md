@@ -1,21 +1,13 @@
 # Drug Classes
 
-[H1-receptor antagonist](../h1-receptor-antagonist/)
-[H2-receptor antagonist](../h2-receptor-antagonist/)
-[Proton pump inhibitor (PPI)](../proton-pump-inhibitor/)
-[Leukotriene receptor antagonist](../leukotriene-receptor-antagonist/)
-[Mast cell stabilizer](../) 	Cromolyn sodium (four times a day maximum daily dose 40 mg/kg/day)	Gastrointestinal symptoms
-Histamine-related symptoms (i.e., flushing, pruritis)
-Non-steroidal anti-inflammatory drug (NSAID) 	Aspirin (variable dosing)	Histamine-related symptoms (i.e., flushing, pruritis)
-Anti-IgE
-monoclonal
-antibody 	Omalizumab (150–300 mg administered subcutaneously every 2–4 weeks)	Histamine-related symptoms (i.e., flushing, pruritis, recurrent anaphylaxis) not responsive to conservative measures
-Immediate administration for anaphylaxis 	Epinephrine (0.3–0.5 mg intramuscularly every 5–15 min in the lateral thigh)	Anaphylaxis
-Cytoreductive therapy 	Interferon-α (IFN-α)
+TODO: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540348/
 
-    (Starting dose of 3 million units subcutaneously three times weekly can be increased to 3–5 million units up to 5 times weekly)
-
-
-Cladribine (2-CdA)
-
-    (5 mg/m2/day or 0.14 mg/kg/day as a 2-h infusion for 5 days. Up to 6 cycles every 4–8 weeks)
+* [H1-receptor antagonists](../h1-receptor-antagonists/)
+* [H2-receptor antagonists](../h2-receptor-antagonists/)
+* [Proton pump inhibitors (PPIs)](../proton-pump-inhibitors/)
+* [Leukotriene receptor antagonists](../leukotriene-receptor-antagonists/)
+* [Mast cell stabilizers](../mast-cell-stabilizers/)
+* [Non-steroidal anti-inflammatory drugs (NSAIDs)](../non-steroidal-anti-inflammatory-drugs/)
+* [Anti-IgE monoclonal antibodies](../anti-ige-monoclonal-antibodies/)
+* [Anaphylaxis](../adrenaline-auto-injector/)
+* [Cytoreductive therapy](../cytoreductive-therapy/)

@@ -1,7 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 abbr: PPI
-tags: treatments medications
+tags: proton-pump-inhibitors treatments medications
 -->
 
 # Proton pump inhibitors (PPIs)

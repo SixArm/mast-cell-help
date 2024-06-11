@@ -1,7 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 brands: Zyrtec
-tags: antihistamines
+tags: antihistamines mast-cell-stabilizers medications
 -->
 
 # Cetirizine

@@ -17,9 +17,20 @@ don’t recommend Cipro if you may be hyper flexible or have EDS because it is
 contraindicated for people with EDS. And many people who have MCAS also have EDS
 even if it hasn’t been diagnosed yet. 
 
-So , first - I would wait for a culture and sensitivity and second I would ask
-if there are other options. I had urgent care visits that diagnosed UTI 3 times
-and was prescribed antibiotics only to get called back to say there was no
+There is a big difference between a urine dip and a urine culture. I have had a
+dip come back positive, and the culture come back negative. That is usually due
+to either natural flora or contamination of the sample being present but not an
+actual infection.
+
+Also, it is the urine culture is what they use to test which antibiotics will
+work for your specific infection. That’s why it is called a culture &
+sensitivity. First they see what specific organisms grow - and then they test to
+see which antibiotics the culture is sensitive to - or which antibiotics kill
+the infection.
+
+So, first, I would wait for a culture and sensitivity and second I would ask if
+there are other options. I had urgent care visits that diagnosed UTI 3 times and
+was prescribed antibiotics only to get called back to say there was no
 infection. 
 
 The information about MCAS flares causing interstitial cystitis that
@@ -39,4 +50,4 @@ if it is at the beginning of an infection and trying to make an inhospitable
 environment for bacteria AND treating it as an MCAS flare. Hopefully one of
 those may help you not need the antibiotics. Again, it’s your body. You know
 what you are feeling. But I would at the very least ask for a different
-antibiotic that is not in the fluoroquinolones family. Best wishes.
+antibiotic that is not in the fluoroquinolones family.

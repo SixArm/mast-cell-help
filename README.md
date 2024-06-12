@@ -120,6 +120,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Tai Chi](topics/tai-chi/)
 * [Tui Na](topics/tui-na/)
 * [Shuang Huang Lian (SHL)](topics/shuang-huang-lian/)
+* [National Acupuncture Detoxification Association (NADA) protocol](topics/national-acupuncture-detoxification-association-protocol/)
 * [Nambudripad's Allergy Elimination Technique (NAET)](topics/nambudripads-allergy-elimination-technique/)
 * [Soliman Auricular Allergy Treatment (SAAT)](topics/soliman-auricular-allergy-treatment/)
 
@@ -988,6 +989,7 @@ If you're going to take antibiotics, try to avoid these:
 
 ### Organizations
 
+* [National Acupuncture Detoxification Association (NADA)](topics/national-acupuncture-detoxification-association/)
 * [National Institute for Health and Care Excellence (NICE)](topics/national-institute-for-health-and-care-excellence/)
 * [SIGHI Medication Manual - Table of Contents](topics/sighi-medication-manual-table-of-contents/)
 * [SIGHI list of incompatible active substances in medicaments](topics/sighi-list-of-incompatible-active-substances-in-medicaments/)

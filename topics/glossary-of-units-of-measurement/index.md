@@ -25,15 +25,15 @@ tags: glossary
 
 **Some common prefixes**:
 
-* **n**: nano means 1/1000000000 a.k.a. $10^{-9}$
+* **n**: nano means 1/1000000000 aka $10^{-9}$
 
-* **μ**: micro means 1/1000000 a.k.a. $10^{-6}$
+* **μ**: micro means 1/1000000 aka $10^{-6}$
 
-* **m**: milli means 1/1000 a.k.a. $10^{-3}$
+* **m**: milli means 1/1000 aka $10^{-3}$
 
-* **k**: kilo means 1000 a.k.a. $10^{3}$
+* **k**: kilo means 1000 aka $10^{3}$
 
-* **M**: mega means 1000000 a.k.a. $10^{6}$
+* **M**: mega means 1000000 aka $10^{6}$
 
 * **G**: giga means 1000000000 a.k.a $10^{9}$
 

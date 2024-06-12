@@ -12,3 +12,9 @@ One of proline's most notable functions is its involvement in the synthesis of c
 Proline is crucial for joint and cartilage health, contributing to the maintenance and repair of these tissues. This makes it particularly beneficial for individuals with joint pain or those recovering from injuries. Supplementing with proline can help enhance mobility and reduce discomfort associated with joint issues.
 
 Additionally, proline supports cardiovascular health by maintaining the structural integrity of blood vessels. It plays a role in preventing the hardening of arteries, thereby reducing the risk of cardiovascular diseases. Proline also assists in the breakdown of proteins for energy, contributing to overall metabolic health.
+
+**See**:
+
+* [Lysine-proline-valine (KPV) supplements](../lysine-proline-valine-supplements/)
+* [Lysine supplements](../lysine-supplements/)
+* [Valine supplements](../valine-supplements/)

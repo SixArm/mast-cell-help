@@ -30,8 +30,8 @@ tags: glossary
 * **qh**: every hour
 * **q2d**: every 2 days
 * **q2h**: every 2 hours
-* **qod**: every other day a.k.a. alternating days
-* **qoh**: every other hour a.k.a. alternating hours
+* **qod**: every other day aka alternating days
+* **qoh**: every other hour aka alternating hours
 
 **How many times**:
 

@@ -12,3 +12,9 @@ Valine is crucial for muscle protein synthesis, which is the process of building
 Beyond its benefits for muscle health, valine also plays a role in maintaining proper nitrogen balance in the body. This balance is vital for various physiological processes, including the synthesis of other essential compounds and the regulation of metabolic functions.
 
 Moreover, valine can serve as an energy source during prolonged physical exertion, helping to prevent muscle fatigue and sustain endurance. This makes it particularly beneficial for endurance athletes who require sustained energy over extended periods.
+
+**See**:
+
+* [Lysine-proline-valine (KPV) supplements](../lysine-proline-valine-supplements/)
+* [Lysine supplements](../lysine-supplements/)
+* [Proline supplements](../proline-supplements/)

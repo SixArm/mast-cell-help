@@ -5,9 +5,9 @@ tags: allergies
 
 # Allergy load
 
-The term "allergy load" (a.k.a. "total allergen load") refers to the cumulative
+The term "allergy load" (aka "total allergen load") refers to the cumulative
 exposure to allergens that an individual experiences in their environment. When
-the allergy load exceeds a person's capacity (a.k.a. "total allergen
+the allergy load exceeds a person's capacity (aka "total allergen
 threshold"), the the person can have allergic reactions, exacerbation of
 allergic symptoms, or even development of new allergies.
 

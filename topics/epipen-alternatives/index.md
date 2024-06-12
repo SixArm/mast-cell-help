@@ -7,7 +7,7 @@ tags: alternatives treatments
 
 [Source](https://www.drugs.com/article/epipen-cost-alternatives.html)
 
-Adrenaline a.k.a. epinephrine is the first-line treatment for anaphylaxis. EpiPen is the brand name of an adrenaline auto-injector made by Viatris/Mylan.
+Adrenaline aka epinephrine is the first-line treatment for anaphylaxis. EpiPen is the brand name of an adrenaline auto-injector made by Viatris/Mylan.
 
 One brand name EpiPen costs roughly $300 USD for people who are paying cash. Some patients may be eligible for EpiPen patient assistance or authorized generic discounts or co-pay coupon cards through the Viatris website. If you are paying cash, look for an online coupon which might save you hundreds
 

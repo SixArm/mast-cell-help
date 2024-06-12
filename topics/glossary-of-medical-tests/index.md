@@ -45,7 +45,7 @@ tags: glossary
 
 * **WBC**: white blood cell
 
-* **LDL**: low-density lipoprotein (a.k.a. bad cholesterol)
+* **LDL**: low-density lipoprotein (aka bad cholesterol)
 
-* **HDL**: high-density lipoprotein (a.k.a. good cholesterol)
+* **HDL**: high-density lipoprotein (aka good cholesterol)
 

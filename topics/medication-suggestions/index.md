@@ -59,5 +59,5 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Regenerative medicine for fluoroquinolone poisoning (cipro)
 * [Serrapeptase](../serrapeptase/)
 * [Stinging nettle](../stinging-nettle/)
-* Ursodoxicoltaurine a.k.a. TUDCA (tauroursodeoxycholic acid)
+* Ursodoxicoltaurine aka TUDCA (tauroursodeoxycholic acid)
 * Vitamins: especially [vitamin B12 (cobalamin)](../vitamin-b12-cobalamin/), [vitamin C (ascorbic acid)](../vitamin-c-ascorbic-acid/) (3 votes), [vitamin D (calciferol)](../vitamin-d-calciferol/) (2 votes)

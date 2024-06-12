@@ -1,5 +1,6 @@
 <!--
 source: gpt-3 + jph editing
+subs: 
 tags: conditions
 -->
 
@@ -18,3 +19,10 @@ Dysbiosis refers to an imbalance or disruption in the normal microbial community
 * **Consequences of Dysbiosis**: Dysbiosis can contribute to digestive problems, harm immune functions, increase systemic inflammation, and affect metabolic disorders.
 
 * **Management and Treatment**: Dietary changes, prebiotics (substances that promote the growth of beneficial bacteria), probiotics (beneficial bacteria supplements). In some cases, fecal microbiota transplantation (FMT) can restore a healthy microbiota.
+
+**See**:
+
+* [Small intestinal bacterial overgrowth (SIBO)](../small-intestinal-bacterial-overgrowth/)
+* [Large intestinal bacterial overgrowth (LIBO)](../large-intestinal-bacterial-overgrowth/)
+* [Small intestinal fungal overgrowth (SIFO)](../small-intestinal-fungal-overgrowth/)
+* [Intestinal methanogen overgrowth (IMO)](../intestinal-methanogen-overgrowth/)

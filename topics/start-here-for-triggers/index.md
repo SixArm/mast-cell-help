@@ -13,7 +13,7 @@ Triggers refers to whatever causes your symptoms. Some triggers are hard to find
 
 * **Chemicals**: such as sodium lauryl sulphate, parabens, phthalates, synthetic fragrances, synthetic colors, synthetic materials, dyes, triclosan, propylene glycol, fragrances, makeup, shampoo, soap, cleaners, fabric treatments, pesticides, herbicides, insecticides, bug sprays, paints, solvents, varnishes, volatile organic compounds (VOCs), formaldehyde, outgasses, plastics, latex, fuels, metals.
 
-* **Medications**: such as penicillin, sulfa drugs, aspirin, ibuprofen, naproxen, non-steroidal anti-inflammatory drugs (NSAIDs), insulin, iodine, birth control, hormone replacement therapy, seizure medications, x-ray contrast dyes, additives,  preservatives, colors, flavors, tablet binders especially dextrose a.k.a. corn sugar.
+* **Medications**: such as penicillin, sulfa drugs, aspirin, ibuprofen, naproxen, non-steroidal anti-inflammatory drugs (NSAIDs), insulin, iodine, birth control, hormone replacement therapy, seizure medications, x-ray contrast dyes, additives,  preservatives, colors, flavors, tablet binders especially dextrose aka corn sugar.
 
 * **Sensations**: such as overheating, overexertion, overtiredness, overwork, temperature changes, air pressure changes, weather changes, vibrations, sounds, smells, stress, fear, anxiety, frustration, electromagnetic fields (EMFs).
 

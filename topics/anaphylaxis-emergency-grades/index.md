@@ -27,7 +27,7 @@ TODO: UPDATE
 
 * Moderate cardiovascular examples: moderate bradycardia/tachycardia (low heart rate or high heart rate), moderate hypotension/hypertension (low blood pressure or high blood pressure).
 
-* Moderate respiratory examples: moderate hypoxia (SaO2 92-95%), bronchospasm, cough, wheezing, stridor a.k.a. high-pitch sound due to constricted airways, moderate dyspnea (labored breathing, or sensation of running out of air).
+* Moderate respiratory examples: moderate hypoxia (SaO2 92-95%), bronchospasm, cough, wheezing, stridor aka high-pitch sound due to constricted airways, moderate dyspnea (labored breathing, or sensation of running out of air).
 
 * Moderate neurological examples: moderate confusion, dizziness, anxiety, brain fog, presyncope (feeling you might faint).
 
@@ -37,7 +37,7 @@ TODO: UPDATE
 
 * Severe respiratory examples: hypoxia (SaO2 < 92%), objective dyspnea, pain or disfunction of accessory muscles of respiration.
 
-**Grade 4 - arrest a.k.a. "code blue"**
+**Grade 4 - arrest aka "code blue"**
 
 * Cardiovascular arrest
 

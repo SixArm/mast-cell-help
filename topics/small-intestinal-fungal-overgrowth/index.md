@@ -1,3 +1,11 @@
+<!--
+source: gpt-40
+symptoms: bloating, gas, abdominal pain, diarrhea, malabsorption of nutrients, steatorrhea, nausea
+sibs: small-intestinal-bacterial-overgrowth, large-intestinal-bacterial-overgrowth, small-intestinal-fungal-overgrowth, intestinal-methanogen-overgrowth
+related: irritable bowel syndrome (IBS), celiac disease
+tags: dysbiosis conditions bacteria gastrointestinal
+-->
+
 # Small intestinal fungal overgrowth (SIFO)
 
 Small intestinal fungal overgrowth (SIFO) is a condition where there is an excessive growth of fungi, particularly Candida species, in the small intestine. Although less commonly recognized than [small intestinal bacterial overgrowth (SIBO)](../small-intestinal-bacterial-overgrowth/), SIFO can lead to significant gastrointestinal distress and symptoms.

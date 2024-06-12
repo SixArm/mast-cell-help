@@ -1,6 +1,7 @@
 <!--
 source: gpt-40
-tags: supplements
+sibs: lysine-proline-valine-supplements, lysine supplements, proline supplements, valine supplements
+tags: supplements amino-acids
 -->
 
 # Lysine supplements
@@ -12,3 +13,9 @@ Lysine is involved in protein synthesis, which is crucial for muscle growth, tis
 Lysine is also known for its role in collagen formation, which is vital for maintaining healthy skin, cartilage, and connective tissues. By supporting collagen production, lysine helps improve skin elasticity and wound healing, making it a valuable supplement for skin health.
 
 Lysine has been studied for its potential to support the immune system. It is believed to help in the production of antibodies and enzymes that combat viruses and bacteria, potentially reducing the frequency and severity of infections such as cold sores caused by the herpes simplex virus.
+
+**See**:
+
+* [Lysine-proline-valine (KPV) supplements](../lysine-proline-valine-supplements/)
+* [Proline supplements](../proline-supplements/)
+* [Valine supplements](../valine-supplements/)

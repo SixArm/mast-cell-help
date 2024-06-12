@@ -1,5 +1,67 @@
 # TODO
 
+hypertension (high blood pressure)
+angina (chest pain)
+heart failure
+arrhythmia (irregular heartbeat)
+leaky gut 
+
+4-7-8 breathing
+
+Safe waters: 1. Have you tried mountain valley spring water in the green glass bottle? I know that doesn’t help you right now, but it’s my only safe water. 2. I have recently tried the sparkling water from Trader Joe’s and I think whole food sells it.  It’s a white label and I’ll go look for the name. They have still water too but I haven’t seen that option often Gerolsteiner Is the brand, in glass bottle only
+
+neuroendocrine tumor. asked about MENS
+
+
+I'm not sure I understand. Are you saying that your recent tests show elevated , and also protein in your urine, but the doctor didn't give an explanation/diagnosis and also didn't schedule a followup this week
+
+Ken Cova: So far antihistamines haven't done much for me either, although I have yet to try some of them. I have seen a good response to a number of the supplements that target the condition: Quercitin, Luteolin, Neuroprotek by Mirica, also to aspirin.
+
+Natalia Barzani:
+I travelled from Sweden to the UK, London
+I've been seeing prof Simmonds, prof Khullar and prof Birchall. 
+For MCAS and EDS prof Khullar is excellent and diagnosed me. 
+For EDS prof Simmonds most definitely her. 
+If your sister needs PT I'd recommend Julie Griffis American PT, via Telehealth.
+ I'm going to continue PT for life as it has done so much for me. Julie is excellent.
+
+
+xymozyme
+betaine HCI
+
+Long Covid (LC), 
+Chronic Fatigue Syndrome (CFS), 
+Postural Orthostatic Tachycardia Syndrome (POTS), 
+Mast Cell Activation Syndrome (MCAS), 
+Small Intestine Bacterial Overgrowth (SIBO), and 
+Ehlers-Danlos Syndrome (EDS) are all loosely connected, 
+some poorly defined, some with overlapping symptoms. 
+
+The female preponderance, the prominence of fatigue and chronic inflammation,
+and methylenetetrahydrofolate reductase (MTHFR) abnormalities may connect them
+all. Indeed differential methylation may lie at the root. Two - EDS and MTHFR -
+are genetic. But epigenetic factors may ultimately determine their phenotypic
+expression. Oxidative stress, overloaded mitochondria, an antioxidant and
+nutrient shortfall, and suboptimal gut microbiome appear to be the primary
+determinants. A deep dive into [folate metabolism] and [methionine metabolism]
+is undertaken in an attempt to connect these syndromes. The active forms of
+vitamin D and vitamins B2,3,6,9,12 are shown to be biochemically integral to
+optimal methylation and control of the epigenome. Their status largely
+determines the symptoms of abnormal MTHFR in all its phenotypes. The wider
+implications for aging, cancer, cardiovascular disease, neurodegenerative
+disease, and autoimmune disease are briefly explored.
+
+hot flashes
+night sweats
+mood swings
+
+conditions:
+nutcracker
+may thurner
+pelvic congestion syndrome
+sibo
+neurogenic mals
+
 colorless Benadryl
 
 adrenal fatigue / cortisol deficiency

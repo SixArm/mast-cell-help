@@ -1,12 +1,12 @@
 <!--
 source: gpt-3 + jph editing
-aka: cardiovascular system
+aka: circulatory system
 tags: body-systems
 -->
 
-# Circulatory system
+# Cardiovascular system
 
-The circulatory system, also known as the cardiovascular system, is a vital organ system in the human body responsible for the transportation of blood, oxygen, nutrients, hormones, and waste products to and from cells throughout the body.
+The cardiovascular system, also known as the circulatory system, is a vital organ system in the human body responsible for the transportation of blood, oxygen, nutrients, hormones, and waste products to and from cells throughout the body.
 
 **Key points**:
 

@@ -21,10 +21,6 @@ If you have more time, look for labels that say "free and clear" "hypoallergenic
 
 * [Enjo](https://www.enjo.com)
 
-* [Method](https://methodproducts.com)
-
-* [Mrs. Meyer’s](https://www.mrsmeyers.com/)
-
 * [Nature’s Miracle](https://www.naturesmiracle.com/)
 
 * [Norwex](https://www.norwex.com/)
@@ -32,3 +28,13 @@ If you have more time, look for labels that say "free and clear" "hypoallergenic
 * [Purex](https://www.purex.com/)
 
 * [Seventh Generation](https://www.seventhgeneration.com/)
+
+<!-- 
+
+Reject:
+
+* [Method](https://methodproducts.com)
+
+* [Mrs. Meyer’s](https://www.mrsmeyers.com/)
+
+-->

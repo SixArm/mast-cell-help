@@ -34,4 +34,4 @@ Other therapies:
 * [IV antifungals](../iv-antifungals/)
 * [IV Steroids](../iv-steroids/)
 * [Vitamin infusions](../vitamin-infusions)
-* [Radicava](../radicava/)
+* [Edaravone](../edaravone/) (brand name: Radicava)

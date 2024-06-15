@@ -1,5 +1,9 @@
+<!--
+source: jph
+tags: how-to help families
+-->
 
-# How to help a person having a flare
+# How to help a person with a flare
 
 Here are some things that you can try, to help a person who's having flare because of a mast cell activation syndrome.
 

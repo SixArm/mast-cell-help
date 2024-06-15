@@ -1,7 +1,8 @@
 <!--
 source: gpt-40
-aka: lactose intolerance
-aka: dairy intolerance
+aka: lactose intolerance, dairy intolerance
+tags: dairy lactose sensitivities
+-->
 
 # Dairy sensitivity
 

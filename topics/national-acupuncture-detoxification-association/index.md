@@ -1,3 +1,10 @@
+<!--
+source: gpt-40
+abbr: NADA
+aka: acupuncture detoxification
+tags: organizations
+-->
+
 # National Acupuncture Detoxification Association (NADA)
 
 https://acudetox.com/

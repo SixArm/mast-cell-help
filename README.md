@@ -715,19 +715,25 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Antibiotic medications](topics/antibiotic-medications/)
 
-If you're going to take antibiotics, try to avoid these:
-
-* rifaximin
-
-* metronidazole
-
-* Fluoroquinolones
-
+* Penecillins
+* Cephalosporins
+* Fluoroquinolones - try to avoid these
   * [Ciprofloxacin](topics/ciprofloxacin/) (brand name: Cipro)
   * [Gemifloxacin](topics/gemifloxacin/) (brand name: Factive)
   * [Levofloxacin](topics/levofloxacin/) (brand name: Levaquin)
   * [Moxifloxacin](topics/moxifloxacin/) (brand name: Avelox)
   * [Ofloxacin](topics/ofloxacin/) (brand name: Floxin)
+* Aminoglycosides
+* Monobactams
+* Carabapenems
+* Macrolides
+* Others
+
+TODO:
+
+* rifaximin
+* metronidazole
+
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 

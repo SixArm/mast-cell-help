@@ -1,14 +1,13 @@
 <!--
-source:
-abbr:
-tags:
+source: gpt-40
+brands: Lexapro, Cipralex
+treats: depression, anxiety
+tags: selective-serotonin-reuptake-inhibitors
 -->
 
 # Escitalopram
 
-TODO
-
-Escitalopram is a selective serotonin reuptake inhibitor (SSRI) commonly prescribed for the treatment of depression and anxiety disorders. It is the active S-enantiomer of citalopram, which means it is a more refined version, targeting serotonin reuptake more selectively. This specificity often results in fewer side effects and improved efficacy.
+Escitalopram is a selective serotonin reuptake inhibitor (SSRI) commonly prescribed for the treatment of depression and anxiety disorders. It is the active S-enantiomer of citalopram, which means it is a more refined version, targeting serotonin reuptake more selectively. This specificity often results in fewer side effects and improved efficacy. Brand names: Lexapro, Cipralex.
 
 Escitalopram works by increasing the levels of serotonin, a neurotransmitter associated with mood regulation, in the brain. It achieves this by inhibiting the reuptake of serotonin into presynaptic neurons, making more serotonin available to bind to the postsynaptic receptors. This mechanism helps alleviate symptoms of depression and anxiety by enhancing mood and emotional stability.
 

@@ -6,6 +6,15 @@ heart failure
 arrhythmia (irregular heartbeat)
 leaky gut 
 
+treatments for HAE:
+ C1-inhibitor replacement therapy
+ androgens
+ antifibrinolytics
+ C1-inhibitor concentrates
+ bradykinin receptor antagonists
+ kallikrein inhibitors
+ 
+
 4-7-8 breathing
 
 Safe waters: 1. Have you tried mountain valley spring water in the green glass bottle? I know that doesn’t help you right now, but it’s my only safe water. 2. I have recently tried the sparkling water from Trader Joe’s and I think whole food sells it.  It’s a white label and I’ll go look for the name. They have still water too but I haven’t seen that option often Gerolsteiner Is the brand, in glass bottle only

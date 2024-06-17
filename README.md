@@ -256,6 +256,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Colostrum](topics/colostrum/)
 * [Copper](topics/copper/)
 * [Curcumin](topics/curcumin/)
+* [D-mannose](topics/d-mannose/)
 * [Forskolin](topics/forskolin/)
 * [Iodine supplements](topics/iodine-supplements/)
 * [Iron supplements](topics/iron-supplements/)
@@ -441,6 +442,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Hashimoto's thyroiditis](topics/hashimotos-thyroiditis/)
 
+### [Hereditary angioedema (HAE)](topics/hereditary-angioedema/)
+
 ### [Histamine psychosis](topics/histamine-psychosis/)
 
 ### [Hypertension](topics/hypertension/)
@@ -505,6 +508,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Scar tissue adhesions](topics/scar-tissue-adhesions/)
 
 ### [Sjögren's syndrome](topics/sjogrens-syndrome/)
+
+### [Systemic lupus erythematosus (SLE)](topics/systemic-lupus-erythematosus/)
 
 ### [Telangiectasia Macularis Eruptiva Perstans (TMEP)](topics/telangiectasia-macularis-eruptiva-perstans/)
 
@@ -597,11 +602,15 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   * [Comprehensive Metabolic Panel (CMP)](topics/comprehensive-metabolic-panel/)
   * [Lipid panel](topics/lipid-panel/)
 * [Antineutrophil cytoplasmic antibodies (ANCA) test](topics/antineutrophil-cytoplasmic-antibodies-test/)
+* [Biopsy testing](topics/TODO)
+  * GI biopsy CD25 stain test
+  * GI biopsy CD117 stain test
 * [Bone marrow biopsy](topics/bone-marrow-biopsy/)
 * [Breath testing](topics/breath-testing/)
   * [Hydrogen breath test](topics/hydrogen-breath-test/)
   * [Urea breath test](topics/urea-breath-test/)
 * [C-reactive protein test](topics/c-reactive-protein-test/)
+* [Chromogranin A (CgA) test](topics/chromogranin-a-test/)
 * [Complement system testing](topics/complement-system-testing/)
   * [Complement C3 + C4 test](topics/complement-c3-c4-blood-test/)
   * [Complement C4-A blood test](topics/complement-c4-a-blood-test/)
@@ -643,6 +652,10 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [HBAG stool test for Helicobacter pylori](topics/hbag-stool-test-for-helicobacter-pylori/)
 * [Heart rate variability monitor](topics/heart-rate-variability-monitor/)
 * [Hemoglobin A1c (HbA1c) test](topics/hemoglobin-a1c-test/)
+* [Hormone testing](topics/TODO)
+  * Estrogen test
+  * Progesterone test
+  * Testosterone test
 * [Histamine serum test](topics/histamine-serum-test/)
 * [Immunoglobulins blood test](topics/immunoglobulins-blood-test/)
   * Immunoglobin A (IgA) antibodies test
@@ -712,6 +725,16 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Auvi-Q](topics/auvi-q/) (adrenaline/epinephrine auto-injector)
 * [Symjepi](topics/symjepi/) (adrenaline/epinephrine syringe)
 * [Epinephrine Injection, USP Auto-Injector](topics/epinephrine-injection-usp-auto-injector/)
+
+### [Anti-anxiety medications](topics/anti-anxiety-medications)
+
+* Benzodiazepines
+  * [Alprazolam](topics/alprazolam/) (brand name: Xanax)
+  * Diazepam
+  * Lorazepam
+* Selective serotonin reuptake inhibitors (SSRIs)
+* Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+* buspirone.
 
 ### [Antibiotic medications](topics/antibiotic-medications/)
 
@@ -787,6 +810,10 @@ TODO:
 
 #### [Serotonin and norepinephrine reuptake inhibitors (SNRIs)](topics/serotonin-and-norepinephrine-reuptake-inhibitors/)
 
+* Desvenlafaxine (Pristiq)
+* Duloxetine (Cymbalta) — also approved to treat anxiety and certain types of chronic pain
+* Levomilnacipran (Fetzima)
+* Venlafaxine (Effexor XR) — also approved to treat certain anxiety disorders and panic disorder
 
 ### [Anti-inflammatory medications](topics/antiinflammatory-medications/)
 
@@ -975,6 +1002,10 @@ TODO:
 
 
 ## Components & Processes
+
+### [Bilirubin](topics/bilirubin/)
+
+### [Anti-IgE monoclonal antibodies](topics/anti-ige-monoclonal-antibodies/)
 
 ### [Histone acetylation](topics/histone-acetylation/)
 

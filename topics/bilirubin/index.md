@@ -1,12 +1,9 @@
 <!--
-source:
-abbr:
-tags:
+source: gpt-40
+tags: bruises yellow catabolic
 -->
 
-# bilirubin
-
-TODO
+# Bilirubin
 
 Bilirubin is a yellow compound that occurs in the normal catabolic pathway of breaking down red blood cells. It is primarily known as the substance responsible for the yellow color of bruises, urine, and jaundice. Bilirubin is produced when heme, a component of hemoglobin in red blood cells, is broken down. This process takes place in the spleen and liver.
 

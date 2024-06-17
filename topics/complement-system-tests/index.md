@@ -1,3 +1,0 @@
-# Complement system tests
-
-TODO

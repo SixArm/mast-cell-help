@@ -36,3 +36,15 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+
+## SST
+
+We prefer using SST to deploy. Make sure you have the SST CLI installed.
+
+```run
+sst init
+```
+
+This will detect that you are in a SvelteKit project and create a file `sst.config.ts` in the root.
+

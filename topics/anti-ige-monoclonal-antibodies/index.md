@@ -7,7 +7,6 @@ tags: monoclonal antibodies
 -->
 
 # Anti-IgE monoclonal antibodies
-TODO
 
 Anti-IgE monoclonal antibodies are a class of biologic medications designed to treat allergic conditions and asthma by targeting and neutralizing immunoglobulin E (IgE), a key antibody involved in allergic responses. These medications work by binding to free IgE in the bloodstream, preventing it from attaching to receptors on mast cells and basophils, which are responsible for releasing histamines and other chemicals that cause allergic symptoms.
 

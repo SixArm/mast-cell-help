@@ -1,6 +1,6 @@
 <!--
 source: gpt-3 + jph editing
-tags: treatments chemicals tests
+tags: treatments chemicals tests antifungals
 -->
 
 # Methylene blue

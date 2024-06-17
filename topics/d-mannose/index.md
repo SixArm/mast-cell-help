@@ -1,6 +1,9 @@
-# D-mannose
+<!--
+source: gpt-40
+tags: sugars uti antibacterials supplements
+-->
 
-TODO
+# D-mannose
 
 D-mannose is a naturally occurring simple sugar related to glucose, commonly found in fruits such as cranberries, apples, and peaches. It has gained popularity as a dietary supplement primarily for the prevention and treatment of urinary tract infections (UTIs), particularly those caused by Escherichia coli (E. coli) bacteria.
 

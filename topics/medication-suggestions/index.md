@@ -16,28 +16,28 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Bacillus rhamnosus
 * [Bromelain](../bromelain/) (4 votes)
 * Camu camu & flax oil & honey & throat works
-* [Cetirizine](../cetirizine/) (brand name: Zyrtec) (5 votes)
+* [Cetirizine](../cetirizine/) (brand name Zyrtec) (5 votes)
 * Corlanor for POTS
-* [Cromolyn sodium](../cromolyn-sodium/) (brand name: Gastrocrom) via oral solution (8 votes), via nasal spray (3 votes), via nebulizer
+* [Cromolyn sodium](../cromolyn-sodium/) (brand name Gastrocrom) via oral solution (8 votes), via nasal spray (3 votes), via nebulizer
 * Cyclosporine
 * DHist (quercetin Blend)
 * [Diamine oxidase supplements](../diamine-oxidase-supplements/)(9 votes)
 * Digestive enzymes (3 votes) (such as brand Enzymedica)
-* [Diphenhydramine](../diphenhydramine/) (brand name: Benadryl) (3 votes), or via intramuscular injection
-* [Famotidine](../famotidine/) (brand name: Pepcid) (7 votes)
-* [Fexofenadine](../fexofenadine/) (brand name: Allegra)
+* [Diphenhydramine](../diphenhydramine/) (brand name Benadryl) (3 votes), or via intramuscular injection
+* [Famotidine](../famotidine/) (brand name Pepcid) (7 votes)
+* [Fexofenadine](../fexofenadine/) (brand name Allegra)
 * [Ginger](../ginger/)
-* [Guaifenesin](../guaifenesin/) (brand name: Mucinex)
+* [Guaifenesin](../guaifenesin/) (brand name Mucinex)
 * Herbs, herbal remedies, herbal teas
-* [Hydroxychloroquine](../hydroxychloroquine/) (brand name: Plaquenil)
-* [Hydroxyzine](../hydroxyzine/) (brand names: Atarax, Vistaril) (3) as needed, or when in a flare
+* [Hydroxychloroquine](../hydroxychloroquine/) (brand name Plaquenil)
+* [Hydroxyzine](../hydroxyzine/) (brand names Atarax, Vistaril) (3) as needed, or when in a flare
 * Imatinib
 * IVIG
 * Ketoralac
-* [Ketotifen](../ketotifen/) (brand name: Zaditor) (6 votes)
-* [Levocetirizine](../levocetirizine/) (brand name: Xyzal) (3 votes)
+* [Ketotifen](../ketotifen/) (brand name Zaditor) (6 votes)
+* [Levocetirizine](../levocetirizine/) (brand name Xyzal) (3 votes)
 * Lion's mane
-* [Loratadine](../loratadine/) (brand name: Claritin)
+* [Loratadine](../loratadine/) (brand name Claritin)
 * [Low-dose naltrexone (LDN)](../low-dose-naltrexone/) (12 votes)
 * [Low-histamine diet](../low-histamine-diet/) (3 votes)
 * Lysine
@@ -49,9 +49,9 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Methyl folate
 * Methylated folic acid
 * Metoprolol and Valium, for seizures/jerks that follow a POTS/TILT event
-* * [Montelukast](../montelukast/) (brand name: Singulair) (4 votes)
+* * [Montelukast](../montelukast/) (brand name Singulair) (4 votes)
 * [N-acetyl cysteine (NAC)](../n-acetyl-cysteine/)
-* [Omalizumab](../omalizumab/) (brand name: Xolair) (10 votes) or by injection (3 votes)
+* [Omalizumab](../omalizumab/) (brand name Xolair) (10 votes) or by injection (3 votes)
 * PEA from Qi Supplements
 * Progesterone birth control called Slynd
 * [Quercetin](../quercetin/) (6 votes)

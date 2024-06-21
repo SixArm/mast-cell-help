@@ -6,7 +6,7 @@ tags: antibiotics
 
 # Ciprofloxacin
 
-Ciprofloxacin (brand name: Cipro) is a broad-spectrum antibiotic in the fluoroquinolone class, widely used to treat a variety of bacterial infections. It is effective against numerous gram-negative and some gram-positive bacteria, making it suitable for treating respiratory tract infections, urinary tract infections, gastrointestinal infections, skin infections, and certain types of bacterial diarrhea, including that caused by Escherichia coli and Salmonella.
+Ciprofloxacin (brand name Cipro) is a broad-spectrum antibiotic in the fluoroquinolone class, widely used to treat a variety of bacterial infections. It is effective against numerous gram-negative and some gram-positive bacteria, making it suitable for treating respiratory tract infections, urinary tract infections, gastrointestinal infections, skin infections, and certain types of bacterial diarrhea, including that caused by Escherichia coli and Salmonella.
 
 Ciprofloxacin works by inhibiting bacterial DNA gyrase and topoisomerase IV, enzymes crucial for DNA replication, transcription, repair, and recombination. By disrupting these processes, ciprofloxacin prevents bacterial cell division and leads to cell death. This mechanism of action makes it a powerful tool against bacteria that are resistant to other antibiotics.
 

@@ -29,9 +29,9 @@ with mast cell stabilizer effects:
 
 - [azelastine](../azelastine/) (brand names Astepro, Astelin)
 
-- [olopatadine](../olopatadine/) (brand names: Patanase, Pataday, Pazeo)
+- [olopatadine](../olopatadine/) (brand names Patanase, Pataday, Pazeo)
 
-- [alcaftadine](../alcaftadine/) (brand name: Lastacaft)
+- [alcaftadine](../alcaftadine/) (brand name Lastacaft)
 
 If you're trying to convince your doctor that you may have a mast cell disorder,
 rather than solely allergies, then you may want to consider trying a "test of

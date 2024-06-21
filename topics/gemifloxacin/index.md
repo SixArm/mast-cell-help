@@ -6,7 +6,7 @@ tags: antibiotics
 
 # Gemifloxacin
 
-Gemifloxacin (brand name: Factive) is a broad-spectrum antibiotic in the fluoroquinolone class, used primarily to treat respiratory tract infections such as acute bacterial exacerbations of chronic bronchitis and mild-to-moderate pneumonia. It is effective against a range of gram-positive and gram-negative bacteria, making it versatile in combating bacterial infections.
+Gemifloxacin (brand name Factive) is a broad-spectrum antibiotic in the fluoroquinolone class, used primarily to treat respiratory tract infections such as acute bacterial exacerbations of chronic bronchitis and mild-to-moderate pneumonia. It is effective against a range of gram-positive and gram-negative bacteria, making it versatile in combating bacterial infections.
 
 Gemifloxacin works by inhibiting bacterial DNA gyrase and topoisomerase IV, essential enzymes for DNA replication, transcription, repair, and recombination. This inhibition disrupts bacterial cell division and leads to cell death, effectively clearing the infection.
 

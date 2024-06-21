@@ -4,15 +4,15 @@ TODO
 
 For [asthma](../asthma/) that is moderate to severe:
 
-* [Omalizumab](../omalizumab/) (brand name: Xolair) - [anti-IgE monoclonal antibodies](../anti-ige-monoclonal-antibodies)
-* [Reslizumab](../reslizumab/) (brand name: Cinqair) - [anti-interleukin-5 monoclonal antibodies](../anti-interleukin-5-monoclonal-antibodies)
-* [Mepolizumab](../mepolizumab/) (brand name: Nucala) - [anti-interleukin-5 monoclonal antibodies](../anti-interleukin-5-monoclonal-antibodies)
-* [Benralizumab](../benralizumab/) (brand name: Fasenra) - [anti-interleukin-5 monoclonal antibodies](../anti-ige-monoclonal-antibodies)
+* [Omalizumab](../omalizumab/) (brand name Xolair) - [anti-IgE monoclonal antibodies](../anti-ige-monoclonal-antibodies)
+* [Reslizumab](../reslizumab/) (brand name Cinqair) - [anti-interleukin-5 monoclonal antibodies](../anti-interleukin-5-monoclonal-antibodies)
+* [Mepolizumab](../mepolizumab/) (brand name Nucala) - [anti-interleukin-5 monoclonal antibodies](../anti-interleukin-5-monoclonal-antibodies)
+* [Benralizumab](../benralizumab/) (brand name Fasenra) - [anti-interleukin-5 monoclonal antibodies](../anti-ige-monoclonal-antibodies)
 
 For [chronic urticaria](../chronic-urticaria/) and [eczema](../eczema/):
 
-* [Omalizumab](../omalizumab/) (brand name: Xolair) - [anti-IgE monoclonal antibodies](../anti-ige-monoclonal-antibodies)
-* [Dupilumab](../dupilumab/) (brand name: Dupixent) - [anti-interleukin-4 monoclonal antibodies](../anti-interleukin-4-monoclonal-antibodies) + anti-interleukin-13 monoclonal antibodies](anti-interleukin-13-monoclonal-antibodies)
+* [Omalizumab](../omalizumab/) (brand name Xolair) - [anti-IgE monoclonal antibodies](../anti-ige-monoclonal-antibodies)
+* [Dupilumab](../dupilumab/) (brand name Dupixent) - [anti-interleukin-4 monoclonal antibodies](../anti-interleukin-4-monoclonal-antibodies) + anti-interleukin-13 monoclonal antibodies](anti-interleukin-13-monoclonal-antibodies)
 
 Other [biologics](../biologics/):
 
@@ -34,4 +34,4 @@ Other therapies:
 * [IV antifungals](../iv-antifungals/)
 * [IV Steroids](../iv-steroids/)
 * [Vitamin infusions](../vitamin-infusions)
-* [Edaravone](../edaravone/) (brand name: Radicava)
+* [Edaravone](../edaravone/) (brand name Radicava)

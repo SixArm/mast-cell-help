@@ -730,7 +730,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Adrenaline](topics/adrenaline/)
 
-### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand names: EpiPen, Auvi-Q, Symjepi)
+### [Adrenaline auto-injector](topics/adrenaline-auto-injector/) (brand names EpiPen, Auvi-Q, Symjepi)
 
 * [Adrenaline auto-injector instructions](topics/adrenaline-auto-injector-instructions/)
 * [EpiPen alternatives](topics/epipen-alternatives/)
@@ -741,7 +741,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Anti-anxiety medications](topics/anti-anxiety-medications)
 
 * Benzodiazepines
-  * [Alprazolam](topics/alprazolam/) (brand name: Xanax)
+  * [Alprazolam](topics/alprazolam/) (brand name Xanax)
   * Diazepam
   * Lorazepam
 * Selective serotonin reuptake inhibitors (SSRIs)
@@ -753,11 +753,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * Penecillins
 * Cephalosporins
 * Fluoroquinolones - try to avoid these
-  * [Ciprofloxacin](topics/ciprofloxacin/) (brand name: Cipro)
-  * [Gemifloxacin](topics/gemifloxacin/) (brand name: Factive)
-  * [Levofloxacin](topics/levofloxacin/) (brand name: Levaquin)
-  * [Moxifloxacin](topics/moxifloxacin/) (brand name: Avelox)
-  * [Ofloxacin](topics/ofloxacin/) (brand name: Floxin)
+  * [Ciprofloxacin](topics/ciprofloxacin/) (brand name Cipro)
+  * [Gemifloxacin](topics/gemifloxacin/) (brand name Factive)
+  * [Levofloxacin](topics/levofloxacin/) (brand name Levaquin)
+  * [Moxifloxacin](topics/moxifloxacin/) (brand name Avelox)
+  * [Ofloxacin](topics/ofloxacin/) (brand name Floxin)
 * Aminoglycosides
 * Monobactams
 * Carabapenems
@@ -765,7 +765,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * Others
 
 * [Bactroban, Edetate Disodium, Gentamicin (BEG) nasal spray](topics/bactroban-edetate-disodium-gentamicin-nasal-spray/)
-  * [Mupirocin](topics/mupirocin/) (brand name: Bactroban)
+  * [Mupirocin](topics/mupirocin/) (brand name Bactroban)
   * [Edetate disodium])(topics/edetate-disodium/)
   * gentamicin
 
@@ -777,29 +777,43 @@ TODO:
 
 ### [Antihistamine medications](topics/antihistamine-medications/)
 
-* [Alcaftadine](topics/alcaftadine/) (brand name: Lastacaft)
-* [Azelastine](topics/azelastine/) (brand name: Astelin)
-* [Bilastine](topics/bilastine/) (brand name: Blexten)
-* [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
-* [Chlorpheniramine](topics/chlorpheniramine/) (brand name: Chlor-Trimeton)
-* [Cimetidine](topics/cimetidine/) (brand name: Tagamet HB)
-* [Cyclizine](topics/cyclizine/) (brand names: Emoquil, Marzine, Valoid)
-* [Clemastine](topics/clemastine/) (brand name: Tavist)
-* [Cyproheptadine](topics/cyproheptadine/) (brand name: Periactin)
-* [Desloratadine](topics/desloratadine/) (brand name: Clarinex)
-* [Diphenhydramine](topics/diphenhydramine/) (brand name: Benadryl)
-* [Epinastine](topics/epinastine/) (brand names: Alesion, Elestat, Purivist)
-* [Fexofenadine](topics/fexofenadine/) (brand name: Allegra)
-* [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
-* [Hydroxyzine](topics/hydroxyzine/) (brand names: Atarax, Vistaril)
-* [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
-* [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
-* [Loratadine](topics/loratadine/) (brand name: Claritin)
-* [Olopatadine](topics/olopatadine/) (brand names: Patanase, Pataday, Pazeo)
-* [Promethazine](topics/promethazine/) (brand name: Phenergan)
-* [Prednisone](topics/prednisone/) (brand name: Rayos)
-* [Ranitidine](topics/ranitidine/) (brand name: Zantac)
-
+* [First-generation antihistamines](topics/first-generation-antihistamines/)
+  * alimemazine (trimeprazine)
+  * brompheniramine (brand name Dimetane)
+  * carbinoxamine (brand name Clistin)
+  * chlorphenamine
+  * clemastine (Tavist)
+  * dexchlorpheniramine
+  * [Diphenhydramine](topics/diphenhydramine/) (brand name Benadryl)
+  * doxylamine (brand name Unisom)
+  * [Hydroxyzine](topics/hydroxyzine/) (brand names Atarax, Vistaril)
+  * pheniramine
+  * promethazine (brand name Phenergan)
+  * triprolidine
+  * triprolidine (Triafed) 
+* [Second-generation antihistamines](topics/second-generation-antihistamines/)
+  * [Alcaftadine](topics/alcaftadine/) (brand name Lastacaft)
+  * [Azelastine](topics/azelastine/) (brand name Astelin)
+  * [Bilastine](topics/bilastine/) (brand name Blexten)
+  * [Cetirizine](topics/cetirizine/) (brand name Zyrtec)
+  * [Chlorpheniramine](topics/chlorpheniramine/) (brand name Chlor-Trimeton)
+  * [Cimetidine](topics/cimetidine/) (brand name Tagamet HB)
+  * [Cyclizine](topics/cyclizine/) (brand names Emoquil, Marzine, Valoid)
+  * [Clemastine](topics/clemastine/) (brand name Tavist)
+  * [Cyproheptadine](topics/cyproheptadine/) (brand name Periactin)
+  * [Epinastine](topics/epinastine/) (brand names Alesion, Elestat, Purivist)
+  * [Histamine N-methyltransferase (HNMT)](topics/histamine-n-methyltransferase/)
+  * [Ketotifen](topics/ketotifen/) (brand name Zaditor)
+  * [Levocetirizine](topics/levocetirizine/) (brand name Xyzal)
+  * [Loratadine](topics/loratadine/) (brand name Claritin)
+  * [Olopatadine](topics/olopatadine/) (brand names Patanase, Pataday, Pazeo)
+  * [Promethazine](topics/promethazine/) (brand name Phenergan)
+  * [Prednisone](topics/prednisone/) (brand name Rayos)
+  * [Ranitidine](topics/ranitidine/) (brand name Zantac)
+* [Third-generation antihistamines](topics/third-generation-antihistamines/)
+  * [Desloratadine](topics/desloratadine/) (brand name Clarinex)
+  * [Fexofenadine](topics/fexofenadine/) (brand name Allegra)
+  
 ### [Antifungal medications](topics/antifungal-medications/)
 
 * [Fluconazole](topics/fluconazole/)
@@ -808,7 +822,7 @@ TODO:
 
 ### [Anti-IgE therapy](topics/anti-ige-therapy/)
 
-* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
+* [Omalizumab](topics/omalizumab/) (brand name Xolair)
 
 ### [Antidepressant medications](topics/antidepressant-medications/)
 
@@ -821,9 +835,9 @@ TODO:
 
 #### [Selective serotonin reuptake inhibitors (SSRIs)](topics/selective-serotonin-reuptake-inhibitors/)
 
-* [Fluoxetine](topics/fluoxetine/) (brand name: Prozac)
-* [Sertraline](topics/sertraline/) (brand name: Zoloft)
-* [Escitalopram](topics/escitalopram/) (brand name: Lexapro)
+* [Fluoxetine](topics/fluoxetine/) (brand name Prozac)
+* [Sertraline](topics/sertraline/) (brand name Zoloft)
+* [Escitalopram](topics/escitalopram/) (brand name Lexapro)
 
 #### [Serotonin and norepinephrine reuptake inhibitors (SNRIs)](topics/serotonin-and-norepinephrine-reuptake-inhibitors/)
 
@@ -839,23 +853,23 @@ TODO:
 * [Ibuprofin](topics/ibuprofin/)
 * [Naproxen](topics/naproxen/)
 * [Non-steroidal anti-inflammatory drugs (NSAIDs)](topics/non-steroidal-anti-inflammatory-drugs/)
-  * [Celecoxib](topics/celecoxib/) (brand name: Celebrex)
+  * [Celecoxib](topics/celecoxib/) (brand name Celebrex)
 * [Disease-modifying antirheumatic drugs (DMARDs)](topics/disease-modifying-antirheumatic-drugs/)
 
 ### [Asthma medications](topics/asthma-medications/)
 
-* [Albuterol sulfate](topics/albuterol-sulfate/) (brand names: ProAir, Proventil, Ventolinr)
-* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
-* [Guaifenesin](topics/guaifenesin/) (brand name: Mucinex)
+* [Albuterol sulfate](topics/albuterol-sulfate/) (brand names ProAir, Proventil, Ventolinr)
+* [Omalizumab](topics/omalizumab/) (brand name Xolair)
+* [Guaifenesin](topics/guaifenesin/) (brand name Mucinex)
 
 ### [Beta blockers](topics/beta-blockers/)
 
 ### [Bile acid sequestrants](topics/bile-acid-sequestrants/)
 
 * [Cholestyramine, Colesevelam, Colestipol)](topics/cholestyramine-colesevelam-colestipol/)
-* [Cholestyramine](topics/cholestyramine/) (brand name: Questran)
-* [Colesevelam](topics/colesevelam/) (brand name: Welchol)
-* [Colestipol](topics/colestipol/) (brand name: Colestid)
+* [Cholestyramine](topics/cholestyramine/) (brand name Questran)
+* [Colesevelam](topics/colesevelam/) (brand name Welchol)
+* [Colestipol](topics/colestipol/) (brand name Colestid)
 * [Activated charcoal](topics/activated-charcoal/)
 * [Bentonite clay](topics/bentonite-clay/)
 
@@ -900,9 +914,9 @@ TODO:
 
 ### [Epipharyngeal abrasive therapy (EAT)](topics/epipharyngeal-abrasive-therapy/)
 
-### [Famotidine](topics/famotidine/) (brand name: Pepcid)
+### [Famotidine](topics/famotidine/) (brand name Pepcid)
 
-### [Guanfacine](topics/guanfacine/) (brand names: Tenex, Intuniv)
+### [Guanfacine](topics/guanfacine/) (brand names Tenex, Intuniv)
 
 ### [Hormones](topics/hormones/)
 
@@ -914,7 +928,7 @@ TODO:
 * [Bioidentical hormones](topics/bioidentical-hormones/)
 * [Hormone replacement therapy (HRT)](topics/hormone-replacement-therapy/)
 
-### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name: Plaquenil)
+### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name Plaquenil)
 
 ### [Immunotherapy](topics/immunotherapy/)
 
@@ -924,7 +938,7 @@ TODO:
 
 ### [Leukotriene inhibitors](topics/leukotriene-inhibitors/)
 
-* [Montelukast](topics/montelukast/) (brand name: Singulair)
+* [Montelukast](topics/montelukast/) (brand name Singulair)
 
 ### [Levetiracetam](topics/levetiracetam/)
 
@@ -940,14 +954,14 @@ TODO:
 
 ### [Mast cell stabilizers](topics/mast-cell-stabilizers/)
 
-* [Omalizumab](topics/omalizumab/) (brand name: Xolair)
-* [Cromolyn sodium](topics/cromolyn-sodium/) (brand name: Gastrocrom)
+* [Omalizumab](topics/omalizumab/) (brand name Xolair)
+* [Cromolyn sodium](topics/cromolyn-sodium/) (brand name Gastrocrom)
   * [Cromolyn sodium timing](topics/sodium-cromolyn-timing/)
-* [Pentosan](topics/pentosan/) (brand name: ??)
+* [Pentosan](topics/pentosan/) (brand name ??)
 * [Low-dose naltrexone (LDN)](topics/low-dose-naltrexone/)
-* [Ketotifen](topics/ketotifen/) (brand name: Zaditor)
-* [Cetirizine](topics/cetirizine/) (brand name: Zyrtec)
-* [Levocetirizine](topics/levocetirizine/) (brand name: Xyzal)
+* [Ketotifen](topics/ketotifen/) (brand name Zaditor)
+* [Cetirizine](topics/cetirizine/) (brand name Zyrtec)
+* [Levocetirizine](topics/levocetirizine/) (brand name Xyzal)
 
 ### [Medical marajuana](topics/medical-marijuana/)
 
@@ -959,12 +973,12 @@ TODO:
 
 ### [Palmitoylethanolamide (PEA)](topics/palmitoylethanolamide/)
 
-### [Pregabalin](topics/pregabalin/) (brand name: )
+### [Pregabalin](topics/pregabalin/) (brand name )
 
 ### [Proton pump inhibitors (PPIs)](topics/proton-pump-inhibitors/)
 
-* [Omeprazole](topics/omeprazole/) (brand name: Prilosec)
-* [Pantoprazole](topics/pantoprazole/) (brand name: Protonix)
+* [Omeprazole](topics/omeprazole/) (brand name Prilosec)
+* [Pantoprazole](topics/pantoprazole/) (brand name Protonix)
 
 ### [Regenerative injection technique (RIT)](topics/regenerative-injection-technique)
 
@@ -974,7 +988,7 @@ TODO:
 
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
 
-* [Imatinib](topics/imatinib/) (brand name: Glivec)
+* [Imatinib](topics/imatinib/) (brand name Glivec)
 
 ### [Excipients](topics/excipients/)
 

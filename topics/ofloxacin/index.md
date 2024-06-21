@@ -6,7 +6,7 @@ tags: antibiotics
 
 # Ofloxacin
 
-Ofloxacin (brand name: Floxin) is a broad-spectrum antibiotic from the fluoroquinolone class, widely used to treat various bacterial infections. It is effective against a range of gram-negative and gram-positive bacteria, making it suitable for treating respiratory tract infections, urinary tract infections, skin infections, and sexually transmitted infections such as gonorrhea. Ofloxacin works by inhibiting bacterial DNA gyrase and topoisomerase IV, enzymes essential for DNA replication, transcription, repair, and recombination. This inhibition prevents bacterial cell division, leading to cell death.
+Ofloxacin (brand name Floxin) is a broad-spectrum antibiotic from the fluoroquinolone class, widely used to treat various bacterial infections. It is effective against a range of gram-negative and gram-positive bacteria, making it suitable for treating respiratory tract infections, urinary tract infections, skin infections, and sexually transmitted infections such as gonorrhea. Ofloxacin works by inhibiting bacterial DNA gyrase and topoisomerase IV, enzymes essential for DNA replication, transcription, repair, and recombination. This inhibition prevents bacterial cell division, leading to cell death.
 
 Ofloxacin is available in multiple forms, including tablets, eye drops, and ear drops, providing flexibility in administration based on the infection's location and severity. The typical dosage and duration of treatment depend on the specific infection and patient factors, such as renal function.
 

@@ -2,7 +2,7 @@
 
 TODO
 
-Edaravone (brand name: Radicava) is a medication used to treat amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord. ALS leads to the gradual loss of muscle control, resulting in severe disability and, eventually, death. Edaravone is one of the few treatments available that can slow the progression of this debilitating condition.
+Edaravone (brand name Radicava) is a medication used to treat amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord. ALS leads to the gradual loss of muscle control, resulting in severe disability and, eventually, death. Edaravone is one of the few treatments available that can slow the progression of this debilitating condition.
 
 Edaravone works by scavenging free radicals and reducing oxidative stress, which is believed to play a critical role in the neuronal damage seen in ALS. By mitigating oxidative stress, edaravone helps protect nerve cells from further damage, potentially preserving motor function for a longer period.
 

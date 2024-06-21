@@ -7,6 +7,8 @@ tags: shop
 
 Suncreen recommendations by mast cell patients, and especially including face sunscreens. Generally prefer hypoallergenic ingredients, free of artificial colors, scents, and additives. Be sure to check ingredients lists. Be aware that in some countries, the same brand name can have different ingredients.
 
+* [PRIIA](https://www.priia.com) - [UN-Tinted Mineral SPF40+Primer](https://www.priia.com/shop/un-tinted-mineral-spf40-primer/)
+
 * [Sun Bum](https://www.sunbum.com/) - [Mineral SPF 30 Sunscreen Face Lotion - Fragrance-free](https://www.sunbum.com/products/mineral-spf-30-sunscreen-face-lotion)
 
 * [Vanicream](https://www.vanicream.com/) - [Facial Moisturizer Broad Spectrum SPF 30](https://www.vanicream.com/product/facial-moisturizer-with-spf)
@@ -32,3 +34,5 @@ Suncreen recommendations by mast cell patients, and especially including face su
 * [Colorscience](https://colorescienceuk.com/) - [Sunforgettable Total Protection Face Shield SPF 50 in Classic](https://colorescienceuk.com/collections/fragrance-free-sunscreen/products/sunforgettable-total-protection-face-shield-spf-50)
 
 * [Pat Collins](https://patcollins.com.au/) - [Sun Cream with Zinc](https://patcollins.com.au/Shop/All/Sun-Cream-with-Zinc.html)
+
+* [Aveeno](https://www.aveeno.com/) - [Baby Continuous Protection® - Sensitive Skin Lotion Zinc Oxide Sunscreen](https://www.aveeno.com/products/baby-continuous-protection-sensitive-skin-zinc-oxide-sunscreen-spf-50)

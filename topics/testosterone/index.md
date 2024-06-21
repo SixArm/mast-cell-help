@@ -1,12 +1,10 @@
 <!--
-source: ?
+source: gpt-40
 siblings: estrogen, progesterone, testosterone
 tags: hormones
 -->
 
 # Testosterone
-
-TODO
 
 Testosterone is a vital steroid hormone predominantly produced in the testes in men and in smaller amounts in the ovaries and adrenal glands in women. It plays a crucial role in the development of male reproductive tissues, including the testes and prostate, and promotes secondary sexual characteristics such as increased muscle and bone mass, deepening of the voice, and growth of body hair.
 

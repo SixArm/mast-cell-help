@@ -1,5 +1,7 @@
 # C-reactive protein test
 
+TODO
+
 The C-reactive protein (CRP) test is a blood test used to measure the level of CRP, a protein produced by the liver in response to inflammation. Elevated CRP levels can indicate inflammation in the body, which may be due to a variety of conditions, including infections, chronic diseases, and autoimmune disorders.
 
 CRP is an acute-phase reactant, meaning its levels rise quickly in response to inflammation or infection. This makes the CRP test useful in detecting acute inflammatory conditions such as bacterial infections, including sepsis, and inflammatory diseases like rheumatoid arthritis and inflammatory bowel disease. It can also help monitor the effectiveness of treatment for these conditions.

@@ -59,3 +59,37 @@ TODO:
 * Vanicream products, they have a few different things like shampoo, conditioner, soaps, sunscreen I believe. Dye free, fragrance free, masking fragrance free, formaldehyde free.
 
 * Ecoslay products organic for curls
+
+* Doctor Bronner's
+
+* Pacifica shampoo and conditioner with coconut oil.
+
+* Viori unscented shampoo bar
+
+* Kitsch bars 
+
+* Attitude Living 2-in-1 baby shampoo - EWG VERIFIED™ I ATTITUDE
+
+* Dr. Eddies. It's all natural and sold by Walmart.
+
+* Routine Wellness fragrance free.
+
+* Honest! 
+
+* HASK SENSITIVE CARE Shampoo + Conditioner Set Fragrance Free, Vegan, Color Safe, Gluten-Free, Sulfate-Free, Paraben-Free, Cruelty-Free - 1 Shampoo 
+
+* Ethique shampoo and conditioner bars
+
+* Dr Jacob's
+
+* Apple cider vinegar and egg yoke
+
+* Earthling co Unscented shampoo and conditioner bars from the 
+
+* Lush - all natural stuff
+
+* Briogeo be gentle be kind
+
+* Desert Essence from iherb
+
+* SEEN Shampoo, Fragrance Free - Non-Comedogenic & Sulfate-Free Hair Shampoo- Dermatologist-Developed - Safe for Sensitive, Eczema & Acne Prone Skin

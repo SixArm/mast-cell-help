@@ -1,13 +1,11 @@
 <!--
-source: ?
+source: gpt-40
 aka: oestrogen
 siblings: estrogen, progesterone, testosterone
 tags: hormones
 -->
 
 # Estrogen
-
-TODO
 
 Estrogen is a group of steroid hormones that play a crucial role in the development and functioning of both female and male reproductive systems, although it is primarily associated with female physiology. The three main types of estrogen are estradiol, estrone, and estriol, with estradiol being the most potent and prevalent during the reproductive years.
 

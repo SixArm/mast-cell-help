@@ -15,49 +15,34 @@ Waterproof makeup may contain petroleum products that bother the eyes..
 
 * [PRIIA](https://www.priia.com) (Acne-Safe Non-Comedogenic Non-Acnegenic Gluten-Free Vegan)
 
-* [Pacifica Beauty](https://www.pacificabeauty.com/) (Vegan)
+* [Seint](https://www.seintofficial.com) - [Eyeshadow](https://www.seintofficial.com/en/shop/retail/116/eyeshadow) & [Lip & Cheek](https://www.seintofficial.com/en/shop/retail/353/lip-cheek)
 
-* [Bésame Cosmetics](https://besamecosmetics.com/)
+* [100% Pure](https://www.100percentpure.com) - [Fruit Dyed Makeup](https://www.100percentpure.com/collections/fruit-dyed-makeup)
 
-* [bareMinerals](https://www.bareminerals.com/)
+* [Pacifica Beauty](https://www.pacificabeauty.com) - Vegan
 
-* [Clinique](https://www.clinique.com/)
+* [Bésame Cosmetics](https://besamecosmetics.com)
 
-* MAC has a line of extra hypoallergenic makeup that I use. It’s the only one that. I can.
+* [Rare Beauty](https://www.rarebeauty.com) -  Vegan & Cruelty Free Makeup
 
-* 100% pure
+* [bareMinerals](https://www.bareminerals.com) - [BAREPRO® 24HR Wear Skin-Perfecting Matte Liquid Foundation Mineral SPF 20](https://www.bareminerals.com/products/barepro-24hr-wear-skin-perfecting-matte-liquid-foundation-mineral-spf-20?variant=40725932474453
 
-* Ere Prez
+* [bareMinerals](https://www.bareminerals.com) - [LASHTOPIA® Mega Volume Mineral-Based Mascara](https://www.bareminerals.com/products/lashtopia-mega-volume-mineral-based-mascara?variant=40493846560853) - 
 
-* Eye of Horus.
+* [Clinique](https://www.clinique.com)
 
-* Sient makeup and even the sparkly eyeshadow I am ok with.
+* [Ere Perez](https://ereperez.com) - Skincare and makeup with powerful botanicals and superfoods
 
-* Aromaleigh is the only one I don't react to. It's bismuth free and comes in a bazillion colors.
-Customer service is topnotch, I've been using since 2008..ish?
-Plus she's indie and I like that.
+* [Eye of Horus](https://www.eyeofhoruscosmetics.com)
 
-* Maybelline fit me: eye liner, shadow, and mascara, blush
+* [Aromaleigh Cosmetics](https://www.aromaleighcosmetics.com) - Handcrafted Indie Beauty
 
-* Thrive causemetics, a natural brand.
+* [Maybelline] - [Fit Me Matte + Poreless Foundation](https://www.maybelline.co.uk/all-products/face-makeup/foundation/fit-me-matte-poreless-foundation) (and eye liner, shadow, mascara, blush)
 
-* Lashtopia mascara from Bare Minerals. 
+* [Thrive Causemetics](https://thrivecausemetics.com/) (Vegan)
 
-* Mineral Fusion
+* [Mineral Fusion](https://www.mineralfusion.com/)
 
-* I order from IPSY. Products are samples and they are vegan
+* [NARS](https://www.narscosmetics.com/)
 
-
-ulta 
-nars
-Ilia
-Rare beauty
-matte Bare minerals foundation without an issue
-Seint for eye shadow & blush
-
-
-
-I can't do aloe now, which limits a lot more of their products than it used to (so I love their shampoos and conditioners but can't do them anymore), but I better tolerate Pacifica's eye shadow than most other brands: 
-Pacifica®: Skincare, Vegan Makeup, Beauty Products & More
-PACIFICABEAUTY.COM
-
+* [Ilia Beauty](https://iliabeauty.com/)

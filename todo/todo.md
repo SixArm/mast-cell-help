@@ -14,6 +14,7 @@ treatments for HAE:
  bradykinin receptor antagonists
  kallikrein inhibitors
  
+vestibular physical therapy for my motion sickness & BPPV 
 
 4-7-8 breathing
 

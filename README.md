@@ -764,6 +764,11 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * Macrolides
 * Others
 
+* [Bactroban, Edetate Disodium, Gentamicin (BEG) nasal spray](topics/bactroban-edetate-disodium-gentamicin-nasal-spray/)
+  * [Mupirocin](topics/mupirocin/) (brand name: Bactroban)
+  * [Edetate disodium])(topics/edetate-disodium/)
+  * gentamicin
+
 TODO:
 
 * rifaximin

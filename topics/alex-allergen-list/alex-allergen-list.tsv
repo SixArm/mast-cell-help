@@ -1,0 +1,362 @@
+Category	Component Extract	Allergen-code	Common name	Scientific name	Component	Biochemical designation
+Grass pollen	E	g17	Bahia grass	Paspalum notatum
+Grass pollen	E	g2	Bermuda grass	Cynodon dactylon
+Grass pollen	C	g216	Bermuda grass	Cynodon dactylon	rCyn d 1	Beta-Expansin
+Grass pollen	E	g7	Common reed	Phragmites communis
+Grass pollen	C	g100	Perennial ryegrass	Lolium perenne	rLol p 1	Beta-Expansin
+Grass pollen	E	g12	Rye	Secale cereale
+Grass pollen	C	g205	Timothy	Phleum pratense	rPhl p 1	Beta-Expansin
+Grass pollen	C	g206	Timothy	Phleum pratense	rPhl p 2	Expansin
+Grass pollen	C	g215	Timothy	Phleum pratense	rPhl p 5.0101   grass Group 5/6
+Grass pollen	C	g209	Timothy	Phleum pratense	rPhl p 6	grass Group 5/6
+Grass pollen	C	g210	Timothy	Phleum pratense	rPhl p 7	Polcalcin
+Grass pollen	C	g212	Timothy	Phleum pratense	rPhl p 12	Profilin
+Tree pollen	E	t19	Acacia	Acacia mimosa
+Tree pollen	C	t100	Alder	Alnus glutinosa	rAln g 1	PR-10
+Tree pollen	C	t101	Alder	Alnus glutinosa	rAln g 4	Polcalcin
+Tree pollen	C	t226	Arizona cypress Cupressus arizonica nCup a 1 Pectate Lyase
+Tree pollen	E	t25	Ash	Fraxinus excelsior
+Tree pollen	C	t103	Ash	Fraxinus excelsior	rFra e 1	Ole e 1-Family
+Tree pollen	C	t300	Beech	Fagus sylvatica	rFag s 1	PR-10
+Tree pollen	E	t14	Cottonwood	Populus nigra
+Tree pollen	E	t222	Cypress	Cupressus sempervirens
+Tree pollen	C	t105	Date palm	Phoenix dactylifera	rPho d 2	Profilin
+Tree pollen	E	t8	Elm	Ulmus campestris
+Tree pollen	E	t4	Hazel	Corylus avellana
+Tree pollen	C	t102	Hazel	Corylus avellana	rCor a 1.0103	PR-10
+Tree pollen	C	t241	London plane tree	Platanus acerifolia	rPla a 1	Plant Invertase inhibitor
+Tree pollen	C	t301	London plane tree	Platanus acerifolia	nPla a 2	Polygalacturonase
+Tree pollen	C	t302	London plane tree	Platanus acerifolia	rPla a 3	nsLTP
+Tree pollen	E	t63	Mountain cedar	Juniperus ashei
+Tree pollen	E	t71	Mulberry tree	Morus rubra
+Tree pollen	C	t224	Olive	Olea Europaea	nOle e 1	Ole e 1-Family
+Tree pollen	C	t240	Olive	Olea Europaea	rOle e 9	1,3 β Glucanase
+Tree pollen	E	t305	Paper mulberry	Broussonetia papyrifera	Bro p
+Tree pollen	C	t215	Silver birch	Betula verrucosa	rBet v 1	PR-10
+Tree pollen	C	t216	Silver birch	Betula verrucosa	rBet v 2	Profilin
+Tree pollen	C	t225	Silver birch	Betula verrucosa	rBet v 6	Isoflavone Reductase
+Tree pollen	C	t303	Sugi	Cryptomeria japonica	rCry j 1	Pectate Lyase
+Tree pollen	E	t304	Tree of heaven	Ailanthus altissima
+Tree pollen	E	t10	Walnut	Juglans regia
+Weed pollen	C	w301	Annual mercury	Mercurialis annua	rMer a 1	Profilin
+Weed pollen	E	w300	Hemp (CBD)	Cannabis sativa
+Weed pollen	C	w302	Hemp	Cannabis sativa	rCan s 3	nsLTP
+Weed pollen	E	w10	Lamb's quarter	Chenopodium album
+Weed pollen	C	w100	Lamb's quarter	Chenopodium album	rChe a 1	Ole e 1-Family
+Weed pollen	E	w6	Mugwort	Artemisia vulgaris
+Weed pollen	C	w231	Mugwort	Artemisia vulgaris	rArt v 1.0101	Plant Defensin
+Weed pollen	C	w233	Mugwort Artemisia vulgaris	rArt v 3.0201	nsLTP
+Weed pollen	E	w20	Nettle	Urtica dioica
+Weed pollen	E	w14	Pigweed	Amaranthus retroflexus
+Weed pollen	E	w1	Ragweed	Ambrosia artemisiifolia
+Weed pollen	C	w230	Ragweed	Ambrosia artemisiifolia	rAmb a 1	Pectate Lyase
+Weed pollen	C	w300	Ragweed	Ambrosia artemisiifolia	rAmb a 4	Plant Defensin
+Weed pollen	E	w9	Ribwort	Plantago lanceolata
+Weed pollen	C	w234	Ribwort	Plantago lanceolata	rPla l 1	Ole e 1-Family
+Weed pollen	E	w11	Russian thistle	Salsola kali
+Weed pollen	C	w232	Russian thistle	Salsola kali	rSal k 1	Pectin Methylesterase
+Weed pollen	E	w21	Wall pellitory	Parietaria judaica
+Weed pollen	C	w211	Wall pellitory	Parietaria judaica	rPar j 2	nsLTP
+Dander & Epithelia	C	e94	Cat	Felis domesticus rFel d 1 Uteroglobin
+Dander & Epithelia	C	e220	Cat	Felis domesticus nFel d 2 Serum Albumin
+Dander & Epithelia	C	e228	Cat	Felis domesticus rFel d 4 Lipocalin
+Dander & Epithelia	C	e300	Cat	Felis domesticus rFel d 7 Lipocalin
+Dander & Epithelia	C	e100	Cattle	Bos domesticus rBos d 2 Lipocalin
+Dander & Epithelia	C	e301	Djungarian hamster	Phodopus sungorus rPhod s 1 Lipocalin
+Dander & Epithelia	C	e101	Dog	Canis familiaris	rCan f 1 Lipocalin
+Dander & Epithelia	C	e102	Dog	Canis familiaris	rCan f 2 Lipocalin
+Dander & Epithelia	C	e221	Dog	Canis familiaris	nCan f 3 Serum Albumin
+Dander & Epithelia	C	e302	Dog	Canis familiaris	rCan f 4 Lipocalin
+Dander & Epithelia	E	e308	Dog	 male urine (incl. Can f 5) Canis familiaris
+Dander & Epithelia	C	e303	Dog	Canis familiaris	rCan f 6 Lipocalin
+Dander & Epithelia	C	e304	Dog	Canis familiaris	rCan f Fel d 1 like Fel d 1 like
+Dander & Epithelia	E	e80	Goat	Capra hircus
+Dander & Epithelia	C	e305	Guinea pig	Cavia porcellus rCav p 1 Lipocalin
+Dander & Epithelia	C	e227	Horse	Equus caballus rEqu c 1 Lipocalin
+Dander & Epithelia	C	e306	Horse	Equus caballus nEqu c 3 Serum Albumin
+Dander & Epithelia	C	e307	Horse	Equus caballus rEqu c 4 Latherin
+Dander & Epithelia	C	e103	Mouse	Mus musculus rMus m 1 Lipocalin
+Dander & Epithelia	E	e83	Pig	Sus domesticus
+Dander & Epithelia	C	e309	Rabbit	Oryctolagus cuniculus rOry c 1 Lipocalin
+Dander & Epithelia	C	e310	Rabbit	Oryctolagus cuniculus rOry c 2 Lipocalin
+Dander & Epithelia	C	e311	Rabbit	Oryctolagus cuniculus rOry c 3 Secretoglobin
+Dander & Epithelia	E	e73	Rat	Rattus norvegicus
+Dander & Epithelia	E	e81	Sheep	Ovis aries
+Mites & Cockroaches	E	d70	Acarus siro	Acarus siro
+Mites & Cockroaches	E	i206	American cockroach	Periplaneta americana
+Mites & Cockroaches	C	i300	American cockroach	Periplaneta americana rPer a 7 Tropomyosin
+Mites & Cockroaches	C	d100	American house dust mite	Dermatophagoides farinae rDer f 1 Cysteine Protease
+Mites & Cockroaches	C	d101	American house dust mite	Dermatophagoides farinae rDer f 2 NPC2 Family
+Mites & Cockroaches	C	d300	Blomia tropicalis	Blomia tropicalis rBlo t 5 Mite, Group 5
+Mites & Cockroaches	C	d301	Blomia tropicalis	Blomia tropicalis rBlo t 10 Tropomyosin
+Mites & Cockroaches	C	d302	Blomia tropicalis	Blomia tropicalis rBlo t 21 unknown
+Mites & Cockroaches	C	d202	European house dust mite	Dermatophagoides pteronyssinus	rDer p 1 Cysteine Protease
+Mites & Cockroaches	C	d203	European house dust mite	Dermatophagoides pteronyssinus	rDer p 2 NPC2 Family
+Mites & Cockroaches	C	d103	European house dust mite	Dermatophagoides pteronyssinus	rDer p 5 unknown
+Mites & Cockroaches	C	d104	European house dust mite	Dermatophagoides pteronyssinus	rDer p 7 Mite Group 7
+Mites & Cockroaches	C	d205	European house dust mite	Dermatophagoides pteronyssinus	rDer p 10 Tropomyosin
+Mites & Cockroaches	C	d102	European house dust mite	Dermatophagoides pteronyssinus	rDer p 11 Myosin, heavy chain
+Mites & Cockroaches	C	d303	European house dust mite	Dermatophagoides pteronyssinus	rDer p 20 Arginine Kinase
+Mites & Cockroaches	C	d304	European house dust mite	Dermatophagoides pteronyssinus	rDer p 21 unknown
+Mites & Cockroaches	C	d209	European house dust mite	Dermatophagoides pteronyssinus	rDer p 23 Peritrophin-like protein domain
+Mites & Cockroaches	C	i100	German cockroach	Blattella germanica	rBla g 1	Cockroach group 1
+Mites & Cockroaches	C	i101	German cockroach	Blattella germanica	rBla g 2	Aspartyl protease
+Mites & Cockroaches	C	i102	German cockroach	Blattella germanica	rBla g 4	Calycin
+Mites & Cockroaches	C	i103	German cockroach	Blattella germanica	rBla g 5	Glutathione S-transferase
+Mites & Cockroaches	C	i301	German cockroach	Blattella germanica	rBla g 9	Arginine Kinase
+Mites & Cockroaches	C	d105	Glycyphagus domesticus	Glycyphagus domesticus rGly d 2 NPC2 Family
+Mites & Cockroaches	C	d305	Lepidoglyphus destructor	Lepidoglyphus destructor rLep d 2 NPC2 Family
+Mites & Cockroaches	E	d72	Tyrophagus putrescentiae	Tyrophagus putrescentiae
+Mites & Cockroaches	C	d306	Tyrophagus putrescentiae	Tyrophagus putrescentiae rTyr p 2 NPC2 Family
+
+
+MOULDS & YEASTS
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+C m229 Alternaria alternata Alternaria alternata rAlt a 1 Alt a 1-Family
+C m230 Alternaria alternata Alternaria alternata rAlt a 6 Enolase
+C m218 Aspergillus
+fumigatus Aspergillus fumigatus rAsp f 1 Mitogillin Family
+C m220 Aspergillus
+fumigatus Aspergillus fumigatus rAsp f 3 Peroxisomal Protein
+C m221 Aspergillus
+fumigatus Aspergillus fumigatus rAsp f 4 unknown
+C m222 Aspergillus
+fumigatus Aspergillus fumigatus rAsp f 6 Mn Superoxide-Dismutase
+E m2 Cladosporium
+herbarum Cladosporium herbarum
+C m100 Cladosporium
+herbarum Cladosporium herbarum rCla h 8 Short Chain Dehydrogenase
+C y2 Malassezia
+sympodialis Malassezia sympodialis rMala s 5 unknown
+C y3 Malassezia
+sympodialis Malassezia sympodialis rMala s 6 Cyclophilin
+C y5 Malassezia
+sympodialis Malassezia sympodialis rMala s 11 Mn Superoxid-Dismutase
+E m1 Penicillium
+chrysogenum Penicillium chrysogenum
+
+INSECT VENOMS
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+E i3 Common wasp venom Vespula vulgaris
+C i211 Common wasp venom Vespula vulgaris rVes v 1 Phospholipase A1
+C i209 Common wasp venom Vespula vulgaris rVes v 5 Antigen 5
+E i70 Fire ant venom Solenopsis richteri
+& Solenopsis invicta Sol spp.
+E i1 Honey bee venom Apis mellifera
+C i208 Honey bee venom Apis mellifera nApi m 1 Phospholipase A2
+C i217 Honey bee venom Apis mellifera rApi m 10 Icarapin Variant 2
+E i25 Long-headed
+wasp venom Dolichovespula spp.
+E i4 Paper wasp venom Pol d
+C i210 Paper wasp venom Polistes dominulus rPol d 5 Antigen 5
+
+CEREALS & SEEDS
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+E f6 Barley Hordeum vulgare
+E f11 Buckwheat Fagopyrum esculentum
+C f508 Buckwheat Fagopyrum esculentum nFag e 2 2S Albumin
+E f8 Corn, cereal Zea mays
+C f523 Corn, cereal Zea mays rZea m 14 nsLTP
+E f5 Cultivated rye Secale cereale
+E f305 Fenugreek seed Trigonella foenum-graecum
+E f55 Millet Panicum miliaceum
+E f7 Oat Avena sativa
+E f224 Poppy seed Papaver somniferum
+C f516 Poppy seed Papaver somniferum nPap s 2S
+Albumin 2S Albumin
+E f226 Pumpkin seed Cucurbita pepo
+E f347 Quinoa Chenopodium quinoa
+E f9 Rice Oryza sativa
+E f10 Sesame Sesamum indicum
+C f518 Sesame Sesamum indicum nSes i 1 2S Albumin
+E f124 Spelt Triticum spelta
+E k84 Sunflower seed Helianthus annuus
+C f542 Wheat Triticum aestivum rTri a 14 nsLTP
+K f543 Wheat Triticum aestivum rTri a 19 Omega-5-Gliadin
+K f544 Wheat Triticum aestivum nTri a aA_TI Alpha-Amylase Trypsin-Inhibitor
+
+EGG & MILK
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+E f506 Camel's milk Camelus dromedarius
+E f2 Cow's milk Bos domesticus
+C f76 Cow's milk Bos domesticus nBos d 4 α-Lactalbumin
+C f77 Cow's milk Bos domesticus nBos d 5 β-Lactoglobulin
+C f78 Cow's milk Bos domesticus nBos d 8 Casein
+E f1 Egg white Gallus domesticus
+C f233 Egg white Gallus domesticus nGal d 1 Ovomucoid
+C f232 Egg white Gallus domesticus nGal d 2 Ovalbumin
+C f323 Egg white Gallus domesticus nGal d 3 Ovotransferrin
+C k208 Egg white Gallus domesticus nGal d 4 Lysozyme C
+E f75 Egg yolk Gallus domesticus
+C f510 Egg yolk Gallus domesticus nGal d 5 Serum Albumin
+E f300 Goat's milk Capra hircus
+E f286 Mare's milk Equus caballus
+E f325 Sheep's milk Ovis aries
+
+Fruits	C	f434	Apple	Malus domestica	rMal d 1 PR-10
+Fruits	C	f514	Apple	Malus domestica	nMal d 2 TLP
+Fruits	C	f435	Apple	Malus domestica	rMal d 3 nsLTP
+Fruits	E	f96	Avocado	Persea americana
+Fruits	E	f92	Banana	Musa acuminata
+Fruits	E	f288	Blueberry	Vaccinium myrtillus
+Fruits	E	f242	Cherry	Prunus spp.
+Fruits	E	f328	Fig	Ficus carica
+Fruits	C	f521	Grape	Vitis vinifera	rVit v 1 nsLTP
+Fruits	C	f500	Kiwi	Actinidia deliciosa	nAct d 1 Cysteine Protease
+Fruits	C	f503	Kiwi	Actinidia deliciosa	nAct d 2 TLP
+Fruits	C	f501	Kiwi	Actinidia deliciosa	nAct d 5 Kiwellin
+Fruits	C	f502	Kiwi	Actinidia deliciosa	nAct d 10 nsLTP
+Fruits	E	f91	Mango	Mangifera indica
+Fruits	C	f528	Muskmelon	Cucumis melo	rCuc m 2 Profilin
+Fruits	E	f33	Orange	Citrus sinensis
+Fruits	E	f293	Papaya	Carica papaya
+Fruits	C	f420	Peach	Prunus persica	Pru p 3 nsLTP
+Fruits	E	f94	Pear	Pyrus communis
+Fruits	C-Mix	f44	Strawberry	Fragaria ananassa	rFra a 1 + rFra a 3 PR-10+LTP
+
+LEGUMES & NUTS
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+E f20 Almond Prunus dulcis
+E f18 Brazil nut Bertholletia excelsa
+C f354 Brazil nut Bertholletia excelsa rBer e 1 2S Albumin
+E f202 Cashew Anacardium occidentale
+C f550 Cashew Anacardium occidentale rAna o 2 11S Globulin
+C f443 Cashew Anacardium occidentale rAna o 3 2S Albumin
+E f309 Chickpea Cicer arietinus
+E f315 Green bean Phaseolus vulgaris
+C f428 Hazelnut Corylus avellana rCor a 1.0401 PR-10
+C f425 Hazelnut Corylus avellana rCor a 8 nsLTP
+C f440 Hazelnut Corylus avellana nCor a 9 11S Globulin
+C f522 Hazelnut Corylus avellana nCor a 11 7/8S Globulin
+C f439 Hazelnut Corylus avellana rCor a 14 2S Albumin
+E f235 Lentil Lens culinaris
+E f335 Lupine seed Lupinus albus
+E f345 Macadamia Macadamia integrifolia
+C f513 Macadamia Macadamia integrifolia nMac i 2S
+Albumin 2S Albumin
+E f12 Pea Pisum sativum
+C f422 Peanut Arachis hypogaea nAra h 1 7/8S Globulin
+C f423 Peanut Arachis hypogaea rAra h 2 2S Albumin
+C f424 Peanut Arachis hypogaea nAra h 3 11S Globulin
+C f447 Peanut Arachis hypogaea rAra h 6 2S Albumin
+C f352 Peanut Arachis hypogaea rAra h 8 PR-10
+C f427 Peanut Arachis hypogaea rAra h 9 nsLTP
+C f803 Peanut Arachis hypogaea rAra h 15 Oleosin
+E f201 Pecan Carya illinoensis
+C f531 Pistachio Pistacia vera rPis v 1 2S Albumin
+C f532 Pistachio Pistacia vera nPis v 2 11S Globulin subunit
+C f533 Pistachio Pistacia vera nPis v 3 7/8S Globulin
+C f353 Soy Glycine max rGly m 4 PR-10
+C f431 Soy Glycine max rGly m 5 7/8S Globulin
+C f432 Soy Glycine max nGly m 6 11S Globulin
+C f511 Soy Glycine max nGly m 8 2S Albumin
+C f441 Walnut Juglans regia nJug r 1 2S Albumin
+C f512 Walnut Juglans regia nJug r 2 7/8S Globulin
+C f539 Walnut Juglans regia rJug r 3 nsLTP
+C f540 Walnut Juglans regia nJug r 4 11S Globulin
+C f541 Walnut Juglans regia nJug r 6 7/8S Globulin
+
+MEAT
+Component
+Extract
+Allergen-
+code Common name Scientific name Component Biochemical
+designation
+E f27 Beef Bos domesticus
+C e204 Beef Bos domesticus nBos d 6 Serum Albumin
+E f83 Chicken Gallus domesticus
+E f321 Horse Equus caballus
+E f526 House cricket Acheta domesticus
+E f88 Lamb Ovis aries
+E f527 Mealworm Tenebrio molitor
+E f553 Migratory locust Locusta migratoria
+E f26 Pig Sus domesticus
+C f530 Pig Sus domesticus rSus d 1 Serum Albumin
+E f213 Rabbit Oryctolagus spp.
+E f284 Turkey Meleagris gallopavo
+
+Seafood	C	p10	Anisakis simplex	Anisakis simplex	rAni s 1 Kunitz Serine Protease Inhibitor
+Seafood	C	p11	Anisakis simplex	Anisakis simplex	rAni s 3 Tropomyosin
+Seafood	E	f3	Atlantic cod	Gadus morhua
+Seafood	C	f509	Atlantic cod	Gadus morhua	nGad m 1 β-Parvalbumin
+Seafood	C-Mix	f805	Atlantic cod	Gadus morhua nGad m 2&3 β-Enolase&Aldolase
+Seafood	E	f205	Atlantic herring	Clupea harengus
+Seafood	C	f525	Atlantic herring	Clupea harengus	rClu h 1 β-Parvalbumin
+Seafood	E	f206	Atlantic mackerel	Scomber scombrus
+Seafood	C	f551	Atlantic mackerel	Scomber scombrus	rSco s 1 β-Parvalbumin
+Seafood	C	f517	Black tiger shrimp	Penaeus monodon	rPen m 1	Tropomyosin
+Seafood	C	f545	Black tiger shrimp	Penaeus monodon	rPen m 2	Arginine Kinase
+Seafood	C	f552	Black tiger shrimp	Penaeus monodon	rPen m 3	Myosin light chain
+Seafood	C	f524	Black tiger shrimp	Penaeus monodon	rPen m 4	Sarcoplasmic Calcium Binding Protein
+Seafood	C	f529	Brown shrimp	Crangon crangon	rCra c 6 Troponin C
+Seafood	C	f355	Carp	Cyprinus carpio	rCyp c 1 β-Parvalbumin
+Seafood	E	f37	Common mussel	Mytilus edulis
+Seafood	E	f23	Crab	Chionoecetes spp.
+Seafood	E	f80	Lobster	Homarus gammarus
+Seafood	E	f515	Northern prawn	Pandalus borealis
+Seafood	E	f290	Oyster	Ostrea edulis
+Seafood	E	f41	Salmon	Salmo salar
+Seafood	E	f534	Salmon	Salmo salar	rSal s 1 β-Parvalbumin
+Seafood	E	f338	Scallop	Pecten spp.
+Seafood	E	f24	Shrimp mix	Litopaenaeus setiferus, Farfantepenaeus aztecus, Farfantepenaeus dourarum
+Seafood	E	f258	Squid	Loligo spp.
+Seafood	C	f537	Swordfish	Xiphias gladius rXip g 1 β-Parvalbumin
+Seafood	E	f535	Thornback ray	Raja clavata
+Seafood	C	f536	Thornback ray	Raja clavata rRaj c Parvalbumin α-Parvalbumin
+Seafood	E	f40	Tuna	Thunnus albacares
+Seafood	C	f538	Tuna	Thunnus albacares Thu a 1 β-Parvalbumin
+Seafood	E	f207	Venus clam	Ruditapes spp
+Spices	E	f271	Anise	Pimpinella anisum
+Spices	E	f265	Caraway	Carum carvi
+Spices	E	f89	Mustard	Brassica / Sinapis spp.
+Spices	C	f519	Mustard	Brassica / Sinapis spp.	rSin a 1 2S Albumin
+Spices	E	f283	Oregan	Origanum vulgare
+Spices	E	f218	Paprika	Capsicum annuum
+Spices	E	f86	Parsley	Petroselinum crispum
+Vegetables	E	f31	Carrot	Daucus carota
+Vegetables	C	f507	Carrot	Daucus carota	rDau c 1 PR-10
+Vegetables	C	f417	Celery	Apium graveolens	rApi g 1 PR-10
+Vegetables	C	f504	Celery	Apium graveolens	rApi g 2 nsLTP
+Vegetables	C	f505	Celery	Apium graveolens	rApi g 6 nsLTP
+Vegetables	E	f47	Garlic	Allium sativum
+Vegetables	E	f48	Onion	Allium cepa
+Vegetables	E	f35	Potato	Solanum tuberosum
+Vegetables	E	f25	Tomato	Solanum lycopersicum
+Vegetables	C	f520	Tomato	Solanum lycopersicum	rSola l 6 nsLTP
+Other	E	f45	Baker's yeast	Saccharomyces cerevisiae
+Other	C	o214	Hom s lactoferrin	rHom s LF CCD
+Other	C	k215	Latex	Hevea brasiliensis	rHev b 1 Rubber elongation factor
+Other	C	k217	Latex	Hevea brasiliensis	rHev b 3 small rubber particle protein
+Other	C	k218	Latex	Hevea brasiliensis	rHev b 5 unknown
+Other	C	k220	Latex	Hevea brasiliensis	rHev b 6.02 Pro-Hevein
+Other	C	k221	Latex	Hevea brasiliensis	rHev b 8 Profilin
+Other	C	k224	Latex	Hevea brasiliensis	rHev b 11 Class 1 Chitinase
+Other	C	o100	Pigeon tick	Argas reflexus	rArg r 1 Lipocalin
+Other	E	k81	Weeping fig	Ficus benjamina
+Other	C	RUO-e800	Golden hamster	Mesocricetus auratus	rMes a 1 Lipocalin
+Other	C	RUO-f800	Hazelnut	Corylus avellana	rCor a 12 Oleosin
+Other	C	RUO-t227	Olive Olea	Europaea	rOle e 7 nsLTP
+Other	C	RUO-f801	Peach	Prunus persica	rPru p 7 Gibberellin-regulated protein
+Other	C	RUO-f804	Pistachio	Pistacia vera	rPis v 4 Mn Superoxid-Dismutase
+
+

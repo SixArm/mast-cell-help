@@ -1,11 +1,12 @@
 <!--
 source: gpt-3 + jph editing
+aka: Allium sativum
 tags: herbals
 -->
 
-# Garlic
+# Garlic (Allium sativum)
 
-Garlic has been used for its medicinal properties for centuries, and it contains various bioactive compounds that are believed to contribute to its health benefits. Key components are allicin, sulfides, saponins, and flavonoids.
+Garlic (Allium sativum) has been used for its medicinal properties for centuries, and it contains various bioactive compounds that are believed to contribute to its health benefits. Key components are allicin, sulfides, saponins, and flavonoids.
 
 Garlic supplements are dietary supplements that contain concentrated forms of garlic extract, usually derived from Allium sativum, the common garlic plant. These supplements typically come in the form of capsules, tablets, softgels, or liquid extracts.
 

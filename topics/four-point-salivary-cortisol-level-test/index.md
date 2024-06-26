@@ -11,4 +11,4 @@ Cortisol is a crucial hormone produced by the adrenal glands, playing a vital ro
 
 The test is non-invasive and can be conveniently performed at home. Patients use a saliva collection kit to gather samples at the specified times, then send these samples to a laboratory for analysis. The results provide a comprehensive overview of cortisol secretion patterns, allowing healthcare providers to identify abnormal rhythms that may contribute to health problems.
 
-For instance, a flattened cortisol curve might suggest adrenal fatigue or dysfunction, often associated with chronic stress or burnout. Conversely, elevated cortisol levels throughout the day could indicate hypercortisolism or Cushing's syndrome. 
+For instance, a flattened cortisol curve might suggest adrenal fatigue or dysfunction, often associated with chronic stress or burnout. Conversely, elevated cortisol levels throughout the day could indicate hypercortisolism or Cushing's syndrome.

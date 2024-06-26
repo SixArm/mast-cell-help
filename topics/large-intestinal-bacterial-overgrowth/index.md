@@ -1,6 +1,6 @@
 <!--
 source: gpt-40
-symptoms: 
+symptoms:
 sibs: small-intestinal-bacterial-overgrowth, large-intestinal-bacterial-overgrowth, small-intestinal-fungal-overgrowth, intestinal-methanogen-overgrowth
 tags: dysbiosis conditions bacteria gastrointestinal
 -->

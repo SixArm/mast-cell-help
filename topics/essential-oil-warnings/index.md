@@ -5,7 +5,7 @@ TODO
 By Linda Izinthe House
 
 Essential oils aren't nearly as safe as we've been made to believe. When EOs and/or products made with EOs are used in the shower/bath/laundry/etc., keep in mind that there are many different brand new chemicals being created once the chemical compounds in the EOs mix with other things, especially camphene that's found in most EOs - when it mixes with chlorine, found in most water supplies, it then creates toxaphene, which is a banned "forever" pesticide. That's for sure not a non-toxic option.
-  
+ 
 Also when EOs are oxidized, you then create several toxins like the benzene, formaldehyde, toluene, etc. that folks adamantly say they don't want to be around when they ditch the synthetically fragranced products, not realizing they aren't actually avoiding those (and many other) toxins by using EOs as an alternative. Again, most definitely NOT non-toxic.
 
 The heavily marketed concept of purity indicates there's just a single pure chemical found in the bottle. Mega-companies, small companies, or individuals wildcrafting their own are not adding the 200+ chemicals present in each bottle, these chemicals are what's being naturally extracted from the plants, no matter who makes them. All of this info, along with much more research, can be found in the research-based book, Essentially Deadly: The Unspoken Dangers of Essential Oils, by April Graham.

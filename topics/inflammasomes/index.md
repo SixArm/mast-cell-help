@@ -1,9 +1,9 @@
 <!--
 source: gpt-40
-tags: proteins components 
+tags: proteins components
 -->
 
-# Inflammasomes 
+# Inflammasomes
 
 Inflammasomes are multiprotein complexes within the cytoplasm of immune cells that play a critical role in the innate immune response by promoting inflammation. These complexes are primarily formed in response to pathogenic microorganisms and stress signals, leading to the activation of pro-inflammatory cytokines.
 

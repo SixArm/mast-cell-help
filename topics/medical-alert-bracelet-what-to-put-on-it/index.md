@@ -14,7 +14,7 @@ Here are examples of what to put on it:
 2. Your emergency contact name and phone. Use international format. For example "Call Bob Brown +1-212-555-5555".
 
 3. Any critical treatments. Use simple language that a bystander can understand. For example "Use EpiPen in my purse" or "Severe peanut allergy" or "Need nitroglycerin".
-  
+ 
 Keep in mind the goal of the medical alert bracelet isn't to explain everything; the goal is to give a bystander a way to help you get emergency services.
 
 Register your phone number at the nearest hospitals and with the nearest emergency services, so they can look you up by your phone number. If you need help doing this, ask your local police department for help.

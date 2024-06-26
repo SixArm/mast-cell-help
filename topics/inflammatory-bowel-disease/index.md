@@ -13,7 +13,7 @@ Crohn's disease can affect any part of the GI tract from the mouth to the anus, 
 
 Ulcerative colitis, on the other hand, is limited to the colon and rectum, causing continuous inflammation of the innermost lining of the colon. Symptoms typically include bloody diarrhea, abdominal cramping, and an urgent need to defecate. Long-term inflammation in ulcerative colitis can increase the risk of colon cancer.
 
-The exact cause of IBD is unknown, but it is believed to result from a combination of genetic, environmental, and immune system factors. The immune system mistakenly attacks the GI tract, causing chronic inflammation. 
+The exact cause of IBD is unknown, but it is believed to result from a combination of genetic, environmental, and immune system factors. The immune system mistakenly attacks the GI tract, causing chronic inflammation.
 
 Treatment for IBD focuses on reducing inflammation, managing symptoms, and maintaining remission. This often involves a combination of medications such as anti-inflammatory drugs, immune system suppressors, and biologics. In severe cases, surgical intervention may be necessary to remove damaged portions of the GI tract.
 

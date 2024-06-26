@@ -3,7 +3,7 @@ source: gpt-40
 tags: components
 -->
 
-# Receptors 
+# Receptors
 
 Receptors are specialized protein molecules located on the surface of or within
 cells, serving as crucial components for cellular communication and signal

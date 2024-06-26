@@ -1,6 +1,6 @@
 <!--
 source: gpt-3 + jph editing
-subs: 
+subs:
 tags: conditions
 -->
 

@@ -18,7 +18,7 @@ Here are some things that you can try, to help a person who's having flare becau
   emergency medications ready, such as an adrenaline/epinephrine injector or
   shot. The medication helps the symptoms, and also helps the person understand
   they have what they need to recover.
-   
+  
 * Reduce stimulation. Lower any loud noises, bright lights, and hot
   temperatures. Send any children or pets out of the room. If the person's hands
   are moving or grasping, give something to hold like little stuffed animals.
@@ -27,7 +27,7 @@ Here are some things that you can try, to help a person who's having flare becau
   adrenaline/epinephrine injector/shot, then take the person to urgent care or
   an emergency department for supervision. Get yourself 100% comfortable doing
   this because the more relaxed and calm you are about it, the better it is for
-  the person having the reaction. 
+  the person having the reaction.
 
 Each person is individual, so ideally ask the person ahead of time what they
 want, and ideally practice what they want to happen ahead of time too.

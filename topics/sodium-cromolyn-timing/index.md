@@ -15,9 +15,9 @@ Sodium cromolyn generally takes 2-6 weeks to ramp up. Some people only see good 
 
 Oral dosing is from 100-200mg 2-4 times per day.
 
-Nebulized dosing is from 10-20mg 2-4 times per day. 
+Nebulized dosing is from 10-20mg 2-4 times per day.
 
-Start small. 
+Start small.
 
 Example 1 is best for timing: start with a 1/4 dose 4 times per day for a week, then 1/2 dose 4 times per day for a week, then full dose 4 times per day ongoing.
 

@@ -4,7 +4,7 @@ interactions: mast-cell-activation-syndrome alcohol
 tags: interactions
 -->
 
-# MCAS and alcohol 
+# MCAS and alcohol
 
 Many MCAS patients have reactions to alcohol, such as liquor, wine, beer. Here are some quotations from people.
 

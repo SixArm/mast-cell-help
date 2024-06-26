@@ -3,9 +3,9 @@ source: gpt-3 + jph editing
 tags: antifungals
 -->
 
-# Antifungal medications
+# Antifungal medicines
 
-Antifungal medications are drugs used to treat fungal infections. Fungal infections can affect various parts of the body, including the skin, nails, hair, and internal organs. Antifungal medications work by targeting specific aspects of fungal cell structures or functions.
+Antifungal medicines treat fungal infections. Fungal infections can affect various parts of the body, including the skin, nails, hair, and internal organs. Antifungal drugs work by targeting specific aspects of fungal cell structures or functions.
 
 **Common classes**:
 

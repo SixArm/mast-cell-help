@@ -1,7 +1,7 @@
 <!--
 source: gpt-40
 aka: atopic dermatitis
-tags: skin conditions 
+tags: skin conditions
 -->
 
 # Eczema

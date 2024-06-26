@@ -29,7 +29,7 @@ If you have more time, look for labels that say "free and clear" "hypoallergenic
 
 * [Seventh Generation](https://www.seventhgeneration.com/)
 
-<!-- 
+<!--
 
 Reject:
 

@@ -27,7 +27,7 @@ Waterproof makeup may contain petroleum products that bother the eyes..
 
 * [bareMinerals](https://www.bareminerals.com) - [BAREPRO® 24HR Wear Skin-Perfecting Matte Liquid Foundation Mineral SPF 20](https://www.bareminerals.com/products/barepro-24hr-wear-skin-perfecting-matte-liquid-foundation-mineral-spf-20?variant=40725932474453
 
-* [bareMinerals](https://www.bareminerals.com) - [LASHTOPIA® Mega Volume Mineral-Based Mascara](https://www.bareminerals.com/products/lashtopia-mega-volume-mineral-based-mascara?variant=40493846560853) - 
+* [bareMinerals](https://www.bareminerals.com) - [LASHTOPIA® Mega Volume Mineral-Based Mascara](https://www.bareminerals.com/products/lashtopia-mega-volume-mineral-based-mascara?variant=40493846560853) -
 
 * [Clinique](https://www.clinique.com)
 

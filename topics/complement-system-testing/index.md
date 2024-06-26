@@ -9,7 +9,7 @@ Complement system testing involves assessing the functionality and levels of pro
 
 There are several types of complement tests, including total complement activity (CH50 or CH100), which measures the overall activity of the complement system, and individual complement component tests (such as C3 and C4), which measure the levels of specific complement proteins. Low levels or dysfunctional complement proteins can indicate an immune deficiency or an autoimmune condition, such as [systemic lupus erythematosus (SLE)](../systemic-lupus-erythematosus/), where the body’s immune system mistakenly attacks its own tissues.
 
-Complement testing is particularly important in diagnosing hereditary angioedema (HAE), a condition caused by a deficiency of C1-inhibitor, a protein that regulates the complement system. Patients with HAE experience recurrent episodes of severe swelling. 
+Complement testing is particularly important in diagnosing hereditary angioedema (HAE), a condition caused by a deficiency of C1-inhibitor, a protein that regulates the complement system. Patients with HAE experience recurrent episodes of severe swelling.
 
 Interpretation of complement test results requires a comprehensive clinical evaluation, considering patient history and other diagnostic tests. Elevated complement levels may be seen in acute inflammatory conditions, while decreased levels can indicate chronic autoimmune diseases or genetic deficiencies. Complement system testing is a critical tool for diagnosing and managing various immune-related disorders, providing insight into the underlying mechanisms of these diseases.
 

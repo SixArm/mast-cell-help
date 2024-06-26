@@ -4,7 +4,7 @@ TODO
 
 Today my new ear-nose-throat doctor found the nasal infection I have had for
 nearly five years. Before this I saw five other doctors who all said I had no
-infection and refused to treat me. 
+infection and refused to treat me.
 
 At first this doctor couldn't find the infection, but they believed me. They
 told me to use a cream in my nose. Unfortunately the infection was in the very
@@ -16,20 +16,20 @@ Realizing fully that I was right propelled me to find the energy again to
 research. I found a stanford study that said most is harbored in the
 Sphenoethmoidal recess. I am an anatomist so this was about where I have been
 clawing at through my mouth for a year. So I told the dr to look exactly there
-and he found puss still remaining after 10 days of antibiotics. 
+and he found puss still remaining after 10 days of antibiotics.
 
 This is as good as my face has been for five years so I know its been there the
-whole time. I am doing more antibiotics now and an antibiotic sinus rinse. 
+whole time. I am doing more antibiotics now and an antibiotic sinus rinse.
 
 Since starting the first round of oral antibiotics my mcas and allergies are in
 remission. I now realized that MCAS has been a gift. My mast cells have been
 preventing the infection from spreading, keeping me alive until someone would
-treat me. The mast cells are my saviors not my enemies. 
+treat me. The mast cells are my saviors not my enemies.
 
 I still for sure have MCAS because I've had flairs for many years, but my MCAS
 was mild and not chronic until this infection happened. And now I am medicated
 so I think without an infection and medications I have a great shot at full
-remission. 
+remission.
 
 For the first time in 25 years I am not reacting to grass. I gardened this
 weekend for the first time in my life. Its pretty fun when it doesnt make you
@@ -39,7 +39,7 @@ of hope.
 
 Before surgery I would request that they scope every area. Be specific and say
 "middle meatus" and "superior meatus" and "sphenoethmoid recess". Then you’ll
-know the doctor looked in all corners of the nasal passage. 
+know the doctor looked in all corners of the nasal passage.
 
 Have you gotten a ct scan lately? Is there any fluid? Even if half full in
 people like us it could be a chronic sinus infection. The surgery ents who dont
@@ -63,7 +63,7 @@ slowly fill up the sinuses in this position. Wait 2 minutes.
 
 Then I plug my nose with my fingers and turn over onto my belly kind of
 shimmying off the bed til my head hits the floor and unplug- that gets into the
-sinuses in our forehead. Wait 2 minutes. 
+sinuses in our forehead. Wait 2 minutes.
 
 This technique is not for everyone but it sure does get everywhere into the
 sinus cavities. I keep a towel right by too and when I come back up I just let

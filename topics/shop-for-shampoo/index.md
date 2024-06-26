@@ -66,7 +66,7 @@ TODO:
 
 * Viori unscented shampoo bar
 
-* Kitsch bars 
+* Kitsch bars
 
 * Attitude Living 2-in-1 baby shampoo - EWG VERIFIED™ I ATTITUDE
 
@@ -74,9 +74,9 @@ TODO:
 
 * Routine Wellness fragrance free.
 
-* Honest! 
+* Honest!
 
-* HASK SENSITIVE CARE Shampoo + Conditioner Set Fragrance Free, Vegan, Color Safe, Gluten-Free, Sulfate-Free, Paraben-Free, Cruelty-Free - 1 Shampoo 
+* HASK SENSITIVE CARE Shampoo + Conditioner Set Fragrance Free, Vegan, Color Safe, Gluten-Free, Sulfate-Free, Paraben-Free, Cruelty-Free - 1 Shampoo
 
 * Ethique shampoo and conditioner bars
 
@@ -84,7 +84,7 @@ TODO:
 
 * Apple cider vinegar and egg yoke
 
-* Earthling co Unscented shampoo and conditioner bars from the 
+* Earthling co Unscented shampoo and conditioner bars from the
 
 * Lush - all natural stuff
 

@@ -1,6 +1,6 @@
 <!--
 source: gpt-40
-tags: proteins monoclonals blood myeloma 
+tags: proteins monoclonals blood myeloma
 -->
 
 # Monoclonal gammopathy of unknown significance (MGUS)

@@ -4,7 +4,7 @@ treats: allergic reactions, eczema, psoriasis, rheumatoid arthritis, adrenal ins
 tags: corticosteroids anti-inflammatories
 -->
 
-# Hydrocortisone 
+# Hydrocortisone
 
 Hydrocortisone is a corticosteroid medication widely used to reduce inflammation and suppress the immune system. It mimics the action of cortisol, a hormone produced by the adrenal glands, and is used to treat a variety of conditions, including allergic reactions, eczema, psoriasis, rheumatoid arthritis, and adrenal insufficiency. Hydrocortisone can be administered in several forms, including topical creams, oral tablets, and injections, depending on the condition being treated.
 

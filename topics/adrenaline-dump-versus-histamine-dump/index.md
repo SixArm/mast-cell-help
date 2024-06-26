@@ -8,7 +8,7 @@ tags: symptoms differentials
 An adrenaline dump feels like one or more of these:
 
 * you feel speedy, like energetic, fight or flight
- 
+
 * mental sharpness, clarity, accuracy
 
 * easy to breathe, because of airways opening up

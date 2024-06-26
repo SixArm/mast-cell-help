@@ -11,10 +11,10 @@ Cytokines are a broad category of small proteins that are vital for cell signali
 Cytokines include various subtypes, such as:
 
 * [Interleukins](../interleukins/) are involved in stimulating immune cell growth and differentiation.
-  
+ 
 * [Interferons](../interferons/) have antiviral properties and help modulate the immune response.
-  
-* [Tumor necrosis factors (TNFs)](../tumor-necrosis-factors/) mediators of inflammation and can induce apoptosis (programmed cell death) 
+ 
+* [Tumor necrosis factors (TNFs)](../tumor-necrosis-factors/) mediators of inflammation and can induce apoptosis (programmed cell death)
 
 * [Growth factors](../growth-factors/)
 

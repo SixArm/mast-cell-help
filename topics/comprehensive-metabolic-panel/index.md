@@ -7,7 +7,7 @@ tags: metabolic-panels blood-tests tests
 
 # Comprehensive Metabolic Panel (CMP)
 
-A Comprehensive Metabolic Panel (CMP) is an expanded version of the [Basic Metabolic Panel (BMP)](../basic-metabolic-panel/) that provides a broader assessment of an individual's metabolic state and organ function. The CMP includes 14 specific tests for liver and kidney function, electrolyte and fluid balance, and metabolic state. It is widely used in clinical practice to monitor patients with chronic conditions, evaluate organ function, and diagnose a variety of diseases. 
+A Comprehensive Metabolic Panel (CMP) is an expanded version of the [Basic Metabolic Panel (BMP)](../basic-metabolic-panel/) that provides a broader assessment of an individual's metabolic state and organ function. The CMP includes 14 specific tests for liver and kidney function, electrolyte and fluid balance, and metabolic state. It is widely used in clinical practice to monitor patients with chronic conditions, evaluate organ function, and diagnose a variety of diseases.
 
 The CMP consists of the eight tests found in the BMP—glucose, calcium, sodium, potassium, carbon dioxide (bicarbonate), chloride, blood urea nitrogen (BUN), and creatinine—plus six additional tests: albumin, total protein, alkaline phosphatase (ALP), alanine aminotransferase (ALT), aspartate aminotransferase (AST), and bilirubin.
 

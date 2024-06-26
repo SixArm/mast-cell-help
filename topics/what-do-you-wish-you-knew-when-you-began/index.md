@@ -2,7 +2,7 @@
 
 TODO
 
-Most doctors don’t know diddly squat about this disease. 
+Most doctors don’t know diddly squat about this disease.
 
 Diligently figure out what your triggers are by listening to your body and being
 disciplined to avoid what it doesn't like. Otherwise this will just drag on and

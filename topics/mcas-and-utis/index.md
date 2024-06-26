@@ -10,12 +10,12 @@ Source: Facebook group comment
 Some with MCAS can have symptoms of a UTI with no bacteria in the urine. If that
 is the case, no antibiotics would be needed, but rather increase antihistamines
 because an MCAS flare can cause interstitial cystitis which can mimic symptoms
-of a UTI. 
+of a UTI.
 
 Did you have a positive culture with culture and sensitivity? If so, I still
 don’t recommend Cipro if you may be hyper flexible or have EDS because it is
 contraindicated for people with EDS. And many people who have MCAS also have EDS
-even if it hasn’t been diagnosed yet. 
+even if it hasn’t been diagnosed yet.
 
 There is a big difference between a urine dip and a urine culture. I have had a
 dip come back positive, and the culture come back negative. That is usually due
@@ -31,7 +31,7 @@ the infection.
 So, first, I would wait for a culture and sensitivity and second I would ask if
 there are other options. I had urgent care visits that diagnosed UTI 3 times and
 was prescribed antibiotics only to get called back to say there was no
-infection. 
+infection.
 
 The information about MCAS flares causing interstitial cystitis that
 mimicked UTI’s came from a MCAS informed urologist that I was referred to. He is

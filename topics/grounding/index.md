@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 aka: earthing
 tags: stress-relievers energy-work
 -->

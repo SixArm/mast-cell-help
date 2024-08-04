@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: synthetic hormones (as paragraphs) (less than 220 words)
+source: GPT-4o: synthetic hormones (as paragraphs) (less than 220 words)
 sups: hormone-replacement-therapy
 sibs: bioidentical-hormones
 subs: estrogen, progesterone, testosterone, levothyroxine, corticosteroids, prednisone

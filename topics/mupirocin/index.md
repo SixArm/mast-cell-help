@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: Staphylococcus aureus, Streptococcus pyogenes, impetigo, folliculitis
 brands: Bactroban
 tags: topical antibiotics

@@ -17,4 +17,4 @@ Mast Cell Activation Syndrome (MCAS) and allergies are both immune system dysreg
 
 * **Symptoms**: MCAS can cause many symptoms, from slow allergy-like reactions to fast anaphylactoid shock, and can be unpredictable and vary from person to person. An allergy causes a specific allergic reaction.
 
-* **Treatment**: MCAS treatment emphasizes mast cell stabilizers, leukotriene inhibitors, and limbic system recovery, along with addressing probable causes such as toxins or infections. Allergy treatment emphasizes allergen avoidance, medications to relieve symptoms (antihistamines, corticosteroids, bronchodilators) and immunotherapy (allergy shots or allergy drops).
+* **Treatment**: MCAS treatment emphasizes mast cell stabilizers, leukotriene inhibitors, and limbic system recovery, along with addressing probable causes such as toxins or infections. Allergy treatment emphasizes allergen avoidance, medications to relieve symptoms (such as antihistamines, corticosteroids, bronchodilators) and immunotherapy (such as allergy shots or allergy drops).

@@ -1,6 +1,6 @@
 <!--
-source: gpt-40
-siblings: first-generation-antihistamines, second-generation-antihistamines, third-generation-antihistamines
+source: GPT-4o
+sibs: first-generation-antihistamines, second-generation-antihistamines, third-generation-antihistamines
 tags: antihistamines
 -->
 

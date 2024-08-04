@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: AH50
 aka: alternative pathway hemolytic assay
 aka: alternative pathway hemolytic 50% lysis test for complement system

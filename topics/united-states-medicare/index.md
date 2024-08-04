@@ -1,7 +1,7 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: LTD
-siblings: long-term-disability, united-states-medicare, united-states-social-security-disability-insurance
+sibs: long-term-disability, united-states-medicare, united-states-social-security-disability-insurance
 tags: disabilities insurance governmental employment
 -->
 

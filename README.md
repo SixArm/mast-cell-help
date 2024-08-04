@@ -51,6 +51,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Dietary modifications](topics/mast-cell-activation-syndrome-dietary-modifications/)
 * [Supportive measures](topics/mast-cell-activation-syndrome-supportive-measures/)
 * [How to help a person having a flare](topics/how-to-help-a-person-with-a-flare/)
+* [Deny, Attack, Reverse Victim/Offender for mast cell activation syndrome](topics/deny-attack-reverse-victim-offender-for-mast-cell-activation-syndrome/)
 
 ### [Mast cell activation syndrome (MCAS) differential diagnoses](topics/mast-cell-activation-syndrome-differential-diagnoses/)
 
@@ -206,6 +207,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Carnivore diet](topics/carnivore-diet/)
 * [FAILSAFE diet (aka RPAH diet)](topics/failsafe-diet/)
 * [Autoimmune Protocol (AIP) diet](topics/autoimmune-protocol-diet/)
+* [Reduced Excitatory Inflammatory Diet (REID)](topics/reduced-excitatory-inflammatory-diet/)
 * [Gut and Psychology Syndrome (GAPS) diet](topics/gut-and-psychology-syndrome-diet/)
 * [Swiss Interest Group Histamine Intolerance (SIGHI) diet](topics/swiss-interest-group-histamine-intolerance-diet/)
 * [Whole food plant-based (WFPB) diet](topics/whole-food-plant-based-diet/)
@@ -270,6 +272,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Magnesium glycinate](topics/magnesium-glycinate/)
 * [Potassium supplements](topics/potassium-supplements/)
 * [Proline supplements](topics/proline-supplements/)
+* [Pyrroloquinoline quinone supplements](topics/pyrroloquinoline-quinone-supplements/)
 * [Serrapeptase](topics/serrapeptase/)
 * [Siberian pine nut oil](topics/siberian-pine-nut-oil/)
 * [Sodium supplements](topics/sodium-supplements/)
@@ -322,6 +325,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Cinnamon](topics/cinnamon/)
 * Coconut oil
 * [Echinacea](topics/echinacea/)
+* [Ergot alkaloids](topics/ergot-alkaloids/)
 * [Garlic (Allium sativum)](topics/garlic/) 
 * [Ginger](topics/ginger/)
 * [Ginseng](topics/ginseng/)
@@ -374,6 +378,8 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Diagnosis](topics/histamine-intolerance-diagnosis/)
 * [Severity](topics/histamine-intolerance-severity/)
 * [Treatments](topics/histamine-intolerance-treatments/)
+
+### [Aldosteronism](topics/aldosteronism/)
 
 ### [Allergies](topics/allergies/)
 
@@ -560,16 +566,23 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 
 ### [Cytokines](topics/cytokines/)
 
+* [Interleukins](topics/interleukins/)
+
 ### [Complement C3 protein](topics/complement-c3-protein/)
 
 ### [Lysine-proline-valine (KPV)](topics/lysine-proline-valine/)
 
-### [Immunoglobulin E (IgE)](topics/immunoglobulin-e/)
+### [Immunoglobulins](topics/immunoglobulins/)
 
-### [Immunoglobulin G (IgG)](topics/immunoglobulin-g/)
+* [Immunoglobulin A (IgA)](topics/immunoglobulin-a/)
+* [Immunoglobulin D (IgD)](topics/immunoglobulin-d/)
+* [Immunoglobulin E (IgE)](topics/immunoglobulin-e/)
+* [Immunoglobulin G (IgG)](topics/immunoglobulin-g/)
+* [Immunoglobulin M (IgM)](topics/immunoglobulin-m/)
 
 ### [Neurotransmitters](topics/neurotransmitters/)
 
+* [Glutamate](topics/glutamate/)
 * [Gamma-aminobutyric acid (GABA)](topics/gamma-aminobutyric-acid/)
 * [Dopamine](topics/dopamine/)
 * [Serotonin](topics/serotonin/)
@@ -655,7 +668,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   * [Histone antibodies test](topics/histone-antibodies-test/)
   * [ISAC allergy blood test](topics/isac-allergy-blood-test/)
 * [Blood testing](topics/blood-testing/)
-  * [Blood panels](topics/blood-panels)
+  * [Blood panel](topics/blood-panel)
   * [Anemia panel](topics/anemia-panel/)
   * [Basic Metabolic Panel (BMP)](topics/basic-metabolic-panel/)
   * [Comprehensive Metabolic Panel (CMP)](topics/comprehensive-metabolic-panel/)
@@ -718,6 +731,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   * [Hereditary angioedema (HAE) test](topics/hereditary-angioedema-test/)
   * [KIT (D816V) Digital PCR test](topics/kit-d816v-digital-prc-test/)
   * [MTHFR gene test](topics/mthfr-gene-test/)
+  * [Pharmacogenetic testing](topics/pharmacogenetic-testing/)
 * [HBAG stool test for Helicobacter pylori](topics/hbag-stool-test-for-helicobacter-pylori/)
 * [Heart rate variability monitor](topics/heart-rate-variability-monitor/)
 * [Hemoglobin A1c (HbA1c) test](topics/hemoglobin-a1c-test/)
@@ -729,9 +743,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
   * Follicle-stimulating hormone (FSH) test
 * [Histamine serum test](topics/histamine-serum-test/)
 * [Immunoglobulins blood test](topics/immunoglobulins-blood-test/)
-  * Immunoglobin A (IgA) antibodies test
-  * Immunoglobin M (IgM) antibodies test
-  * Immunoglobin G (IgG) antibodies tests
+  * Immunoglobulin A (IgA) antibodies test
+  * Immunoglobulin M (IgM) antibodies test
+  * Immunoglobulin G (IgG) antibodies tests
 * [Microbiome testing](topics/microbiome-testing/)
 * [Mast cell tryptase stimulation test](topics/mast-cell-tryptase-stimulation-test/)
 * [Mediator Release Test (MRT)](topics/mediator-release-test/)
@@ -751,6 +765,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Tryptase serum test](topics/tryptase-serum-test/)
 * [Urine testing](topics/urine-testing/)
   * [24-hour urine test](topics/24-hour-urine-test/)
+  * [24-hour urine test stop list](topics/24-hour-urine-test-stop-list/)
   * [2,3 Dinor-11Beta-Prostaglandin F2 Alpha, 24-hour urine test](topics/2-3-dinor-11beta-prostaglandin-f2-alpha-24-hour-urine-test/)
   * pH
   * Volume
@@ -991,6 +1006,12 @@ TODO:
 
 ### [Decongestants](topics/decongestants/)
 
+### [Diuretics](topics/diuretics/)
+
+* Thiazide diuretics
+* Loop diuretics
+* Potassium-sparing diuretics
+
 ### [Epipharyngeal abrasive therapy (EAT)](topics/epipharyngeal-abrasive-therapy/)
 
 ### [Famotidine](topics/famotidine/) (brand name Pepcid)
@@ -1001,11 +1022,18 @@ TODO:
 
 * [Insulin](topics/insulin/)
 * [Thyroxine](topics/thyroxine/)
-* [Estrogen](topics/estrogen/)
-* [Progesterone](topics/progesterone/)
-* [Testosterone](topics/testosterone/)
-* [Bioidentical hormones](topics/bioidentical-hormones/)
+* [Growth hormone (GH)](topics/growth-hormone/)
+* [Prolactin](topics/prolactin/)
+* [Reproductive system hormones](topics/reproductive-system-hormones/)
+  * [Estrogen](topics/estrogen/)
+  * [Progesterone](topics/progesterone/)
+  * [Testosterone](topics/testosterone/)
+  * [Luteinizing hormone (LH)](topics/luteinizing-hormone/)
+  * [Follicle-stimulating hormone (FSH)](topics/follicle-stimulating-hormone/)
+  * [Dehydroepiandrosterone (DHEA)](topics/dehydroepiandrosterone/)
 * [Hormone replacement therapy (HRT)](topics/hormone-replacement-therapy/)
+  * [Synthetic hormones](topics/synthetic-hormones/)
+  * [Bioidentical hormones](topics/bioidentical-hormones/)
 
 ### [Hydroxychloroquine](topics/hydroxychloroquine/) (brand name Plaquenil)
 
@@ -1067,7 +1095,8 @@ TODO:
 
 ### [Tyrosine kinase inhibitors](topics/tyrosine-kinase-inhibitors/)
 
-* [Imatinib](topics/imatinib/) (brand name Glivec)
+* [Imatinib](topics/imatinib/) (brand name Gleevec)
+* [Imatinib instructions](topics/imatinib-instructions/)
 
 ### [Excipients](topics/excipients/)
 
@@ -1076,7 +1105,7 @@ TODO:
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 
-## Body systems
+## Human body systems
 
 ### [Cardiovascular system](topics/cardiovascular-system/)
 
@@ -1110,14 +1139,6 @@ TODO:
 
 ### [Urinary system](topics/urinary-system/)
 
-### [Reproductive system hormones](topics/reproductive-system-hormones/)
-
-* [Estrogen](topics/estrogen/)
-* [Progesterone](topics/progesterone/)
-* [Testosterone](topics/testosterone/)
-* [Luteinizing hormone (LH)](topics/luteinizing-hormone/)
-* [Follicle-stimulating hormone (FSH)](topics/follicle-stimulating-hormone/)
-
 ## Components & Processes
 
 ### [Bilirubin](topics/bilirubin/)
@@ -1134,6 +1155,8 @@ TODO:
 * [Methionine metabolism](topics/methionine-metabolism/) (aka methionine cycle)
 
 ### [Microbiota](topics/microbiota/)
+
+### [Pituitary gland](topics/pituitary-gland/)
 
 ### [Prostaglandins](topics/prostaglandins/)
 
@@ -1179,12 +1202,18 @@ TODO:
 * [Doctor predictions](topics/doctor-predictions/)
 * [Who knows better?](topics/who-knows-better/)
 * [Mast cell activation syndrome - misdiagnosis](topics/mast-cell-activation-syndrome-misdiagnosis/)
+* [DARVO MCAS quotations](topics/darvo-mcas-questions/)
 * [Vibrations quotations](topics/vibrations-quotations/)
+* [MRI reactions](topics/mri-reactions/)
+* [Breat implant/explant quotations](topics/breast-implant-explant-quotations/)
 * [MCAS + alprazolam + lorazepam (personal story)](topics/mcas-alprazolam-lorazepam-personal-story/)
- 
+* [MCAS + Lyme disease (personal story](topics/mcas-lyme-disease-personal-story/)
+* [Regimins (personal stories)](topics/regimens-personal-stories/)
+
 ### [Shop](topics/shop/)
 
 * [Food & drinks](topics/shop-for-food-and-drinks/)
+* [Drinks](topics/shop-for-drinks/)
 * [Nutrition shakes](topics/shop-for-nutrition-shakes/)
 * [Protein powder](topics/shop-for-protein-powder/)
 * [Snacks](topics/shop-for-snacks/)
@@ -1229,7 +1258,7 @@ TODO:
 * [Medication examples](topics/medication-examples/)
 * [Accelerator-free protective gloves](topics/accelerator-free-protective-gloves/)
 * [Water damage mold list](topics/water-damage-mold-list/)
-
+  
 ### [Electronic health records (EHR)]
 
 * [Health Insurance Portability and Accountability Act (HIPAA)](topics/health-insurance-portability-and-accountability-act/)

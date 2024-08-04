@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 aka: intranasal steroids (INS)
 examples: fluticasone, budesonide, mometasone, triamcinolone
 treats: nasal congestion, runny nose, sneezing, itching

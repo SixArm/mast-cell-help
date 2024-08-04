@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: NSAID
 treats: pain, inflammation, fever
 tags: anti-inflammatories medications

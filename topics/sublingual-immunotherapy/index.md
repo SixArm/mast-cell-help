@@ -1,8 +1,8 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: SLIT
 aka: allergy drops
-siblings: intralymphatic-immunotherapy, subcutaneous-immunotherapy
+sibs: intralymphatic-immunotherapy, subcutaneous-immunotherapy
 tags: immunotherapies
 -->
 

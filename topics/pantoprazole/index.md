@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats:  gastroesophageal reflux disease (GERD), Zollinger-Ellison syndrome, erosive esophagitis
 brands: Protonix
 tags: proton-pump-inhibitors treatments medications

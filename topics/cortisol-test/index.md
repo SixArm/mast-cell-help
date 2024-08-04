@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 subs: late-night-salivary-cortisol-level-test, four-point-salivary-cortisol-level-test
 tags: cortisol tests
 -->

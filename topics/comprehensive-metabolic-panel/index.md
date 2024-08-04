@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: CMP
 subsets: basic-metabolic-panel
 tags: metabolic-panels blood-tests tests

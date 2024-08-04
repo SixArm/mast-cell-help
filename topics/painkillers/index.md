@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 aka: analgesics
 subclasses: non-steroidal-anti-inflammatory-drugs, acetaminophen, paracetamol, opioids
 treats: pain

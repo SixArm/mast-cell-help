@@ -1,6 +1,6 @@
 <!--
-source: gpt-40: sage (medicinal) (as paragraphs) (less than 220 words)
-siblings: parsley, sage, rosemary, thyme
+source: GPT-4o: sage (medicinal) (as paragraphs) (less than 220 words)
+sibs: parsley, sage, rosemary, thyme
 tags: herbals
 -->
 

@@ -1,6 +1,9 @@
-# Interleukins
+<!--
+source: GPT-4o: interleukins (as paragraphs) (less than 220 words)
+tags: herbals
+-->
 
-TODO
+# Interleukins
 
 Interleukins are a group of cytokines, which are small proteins crucial for cell signaling in the immune system. They play significant roles in regulating inflammation, immune responses, and hematopoiesis (the formation of blood cells). Initially identified as molecules that mediate communication between white blood cells, interleukins have since been found to affect a wide range of cell types and processes throughout the body.
 

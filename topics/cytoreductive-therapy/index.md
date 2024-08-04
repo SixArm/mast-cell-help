@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: cancer, tumors, chronic myeloid leukemia (CML)
 tags: surgery chemotherapy radiotherapy immunotherapy
 -->

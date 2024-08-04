@@ -1,6 +1,6 @@
 <!--
-source: gpt-40
-siblings: alpha-blockers, beta-blockers
+source: GPT-4o
+sibs: alpha-blockers, beta-blockers
 tags: medicines
 -->
 

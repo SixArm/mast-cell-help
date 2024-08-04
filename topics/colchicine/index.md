@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: gout, inflammation, familial Mediterranean fever (FMF), pericarditis
 tags: anti-inflammatories medications
 -->

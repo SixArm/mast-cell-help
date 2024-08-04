@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 aka: beta-adrenergic blocking agents
 treats: cardiovascular, hypertension, angina, heart failure, arrhythmias
 tags: medications

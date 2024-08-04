@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: pain, inflammation, fever, arthritis, tendinitis, bursitis, menstrual cramps, musculoskeletal disorders
 tags: non-steroidal-anti-inflammatory-drugs medications
 -->

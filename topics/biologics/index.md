@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: rheumatoid arthritis, psoriasis, inflammatory bowel disease
 tags: biologics medications
 -->

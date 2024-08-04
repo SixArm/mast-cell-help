@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 brands: Tenex (immediate-release), Intuniv (extended-release)
 treats: attention-deficit-hyperactivity-disorder hypertension
 tags: medication

@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 brands: Prozac
 treats: depression, anxiety
 tags: selective-serotonin-reuptake-inhibitors

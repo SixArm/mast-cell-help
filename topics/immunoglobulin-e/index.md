@@ -1,6 +1,7 @@
 <!--
 source: gpt-3 + jph editing
 abbr: IgE
+sibs: immunoglobulin-a, immunoglobulin-d, immunoglobulin-e, immunoglobulin-g, immunoglobulin-m
 tags: immunoglobulins antibodies components
 -->
 

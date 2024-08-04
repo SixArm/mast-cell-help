@@ -1,8 +1,8 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: ILIT
 aka: allergy rush
-siblings: subcutaneous-immunotherapy, sublingual-immunotherapy
+sibs: subcutaneous-immunotherapy, sublingual-immunotherapy
 tags: immunotherapies
 -->
 

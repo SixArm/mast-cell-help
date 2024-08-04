@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: HRT
 sibs: bioidentical-hormone-therapy
 subs: estrogen, progesterone, testosterone

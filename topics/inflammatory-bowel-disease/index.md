@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: IBD
 variants: Crohn's disease, ulcerative colitis
 tags: gastrointestinal inflammation conditions

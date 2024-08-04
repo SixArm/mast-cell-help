@@ -30,3 +30,7 @@ tags: quotations
 "The only thing that helps my flares now are handfuls of benzos which overall is not a solution."
 
 "I am currently praying for something to take me out the pain is so bad."
+
+"I don't want to live anymore. My life is just misery and agony. Painful infected boil that won't heal, tachycardia, terrible insomnia, chronic infections with throat problems that cause breathing issues, moldy and allergenic home environment and many more awful things I deal with no hope of ever getting better. Wishing to die in my sleep today."
+
+"Bodies are not designed to withstand reacting like we do. I have been stuck in anaphylaxis for a year on so many meds that it makes doctors panic. My renal artery aneurysm is going to blow one of these times during a spike if the EpiPen doesn’t completely stop working first and take me out. Yet MCAS will not be listed anywhere related to my cause of death. It is listed all over my medical records with supportive lab work and genetics, but it will not be considered because too many doctors still think I’m a hypochondriac."

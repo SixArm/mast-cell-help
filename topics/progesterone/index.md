@@ -1,6 +1,6 @@
 <!--
 source: ?
-siblings: estrogen, progesterone, testosterone
+sibs: estrogen, progesterone, testosterone
 tags: hormones
 -->
 

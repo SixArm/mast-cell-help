@@ -1,7 +1,7 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: LTD
-siblings: short-term-disability-insurance, long-term-disability-insurance
+sibs: short-term-disability-insurance, long-term-disability-insurance
 tags: disabilities insurance
 -->
 

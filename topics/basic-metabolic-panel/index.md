@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: BMP
 supersets: comprehensive-metabolic-panel
 tags: metabolic-panels blood-tests tests

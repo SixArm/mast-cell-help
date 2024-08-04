@@ -1,6 +1,6 @@
 <!--
 source: healinghistamine.com
-siblings: ginger-herbal-infusion, moringa-herbal-infusion, parsley-herbal-infusion
+sibs: ginger-herbal-infusion, moringa-herbal-infusion, parsley-herbal-infusion
 tags: teas herbal-infusions
 -->
 

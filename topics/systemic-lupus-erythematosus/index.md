@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: SLE
 aka: lupus
 tags: autoimmune-disorder flares

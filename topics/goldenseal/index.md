@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: goldenseal (medicinal) (as paragraphs) (less than 220 words)
+source: GPT-4o: goldenseal (medicinal) (as paragraphs) (less than 220 words)
 tags: herbals
 -->
 

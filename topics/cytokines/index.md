@@ -1,5 +1,5 @@
 <!--
-source: gpt-40 + jph editing
+source: GPT-4o + jph editing
 subtypes: interleukins, interferons, tumor-necrosis-factors, growth-factors
 tags: proteins components
 -->

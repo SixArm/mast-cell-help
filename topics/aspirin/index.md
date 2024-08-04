@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 aka: acetylsalicylic acid
 treats: pain, inflammation, fever
 tags: non-steroidal-anti-inflammatory-drugs medications

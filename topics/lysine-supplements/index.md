@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 sibs: lysine-proline-valine-supplements, lysine supplements, proline supplements, valine supplements
 tags: supplements amino-acids
 -->

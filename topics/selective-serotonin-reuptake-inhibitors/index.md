@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: SSRI
 treats: depression, anxiety
 tags: selective-serotonin-reuptake-inhibitors anti-depressants medications

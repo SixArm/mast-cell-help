@@ -1,7 +1,7 @@
 <!--
-source: gpt-40: immunoglobulin M (IgM) (as paragraphs) (less than 220 words)
+source: GPT-4o: immunoglobulin M (IgM) (as paragraphs) (less than 220 words)
 abbr: IgM
-siblings: immunoglobulin-a, immunoglobulin-d, immunoglobulin-e, immunoglobulin-g, immunoglobulin-m
+sibs: immunoglobulin-a, immunoglobulin-d, immunoglobulin-e, immunoglobulin-g, immunoglobulin-m
 tags: immunoglobulins antibodies components
 -->
 

@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: immunoglobulins (as paragraphs) (less than 220 words)
+source: GPT-4o: immunoglobulins (as paragraphs) (less than 220 words)
 tags: imnmune-system
 -->
 

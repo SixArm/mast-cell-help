@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 variants: fluticasone propionate, fluticasone furoate
 treats: allergic rhinitis, asthma, skin inflammation, eczema, psoriasis
 tags: corticosteroids

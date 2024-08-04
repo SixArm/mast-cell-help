@@ -1,7 +1,7 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: TSH 3rd IS
-siblings: free-thyroxine-test, free-triiodothyronine-test, thyroid-stimulating-hormone-3rd-is-test
+sibs: free-thyroxine-test, free-triiodothyronine-test, thyroid-stimulating-hormone-3rd-is-test
 tags: thyroid tests
 -->
 

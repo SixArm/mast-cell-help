@@ -1,7 +1,9 @@
 <!--
-source: gpt-40
-subs: estrogen, progesterone, testosterone
-tags: hormones
+source: GPT-4o
+sups: hormone-replacement-therapy
+sibs: synthetic-hormones
+subs: estrogen, progesterone, testosterone, levothyroxine, corticosteroids, prednisone
+tags: hormones, steroids
 -->
 
 # Bioidentical hormones

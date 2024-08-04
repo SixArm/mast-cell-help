@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: KPV
 aka: KPV tripeptide
 tags: lysine proline valine peptides supplements

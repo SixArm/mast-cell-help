@@ -1,6 +1,6 @@
 <!--
-source: gpt-40
-siblings: estrogen, progesterone, testosterone
+source: GPT-4o
+sibs: estrogen, progesterone, testosterone
 tags: hormones
 -->
 

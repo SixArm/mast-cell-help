@@ -1,8 +1,8 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: SCIT
 aka: allergy shots
-siblings: intralymphatic-immunotherapy, sublingual-immunotherapy
+sibs: intralymphatic-immunotherapy, sublingual-immunotherapy
 tags: immunotherapies
 -->
 

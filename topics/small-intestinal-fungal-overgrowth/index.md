@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 symptoms: bloating, gas, abdominal pain, diarrhea, malabsorption of nutrients, steatorrhea, nausea
 sibs: small-intestinal-bacterial-overgrowth, large-intestinal-bacterial-overgrowth, small-intestinal-fungal-overgrowth, intestinal-methanogen-overgrowth
 related: irritable bowel syndrome (IBS), celiac disease

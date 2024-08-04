@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 members: high-affinity IgE receptor (FcεRI), toll-like receptors (TLRs), G-protein-coupled receptors (GPCRs)
 tags: receptors
 -->

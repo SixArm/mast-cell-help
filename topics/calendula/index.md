@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: calendula (medicinal) (as paragraphs) (less than 220 words)
+source: GPT-4o: calendula (medicinal) (as paragraphs) (less than 220 words)
 tags: herbals
 -->
 

@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: Reduced Excitatory Inflammatory Diet (REID) (as paragraphs) (less than 220 words)
+source: GPT-4o: Reduced Excitatory Inflammatory Diet (REID) (as paragraphs) (less than 220 words)
 aka: REID
 tags: diets inflammation
 -->

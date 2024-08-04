@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: allergic reactions, eczema, psoriasis, rheumatoid arthritis, adrenal insufficiency
 tags: corticosteroids anti-inflammatories
 -->

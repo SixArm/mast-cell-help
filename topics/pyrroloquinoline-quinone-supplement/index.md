@@ -1,4 +1,0 @@
-# Pyrroloquinoline quinone supplement
-
-TODO
-

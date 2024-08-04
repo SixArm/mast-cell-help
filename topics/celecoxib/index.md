@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 tags: anti-inflammtories non-steroidal-anti-inflammatory-drugs cox-2-inhibitors
 -->
 

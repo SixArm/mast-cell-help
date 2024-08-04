@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 subs: insulin, thyroxine, cortisol, estrogen, progesterone, testosterone, bioidentical-hormones
 tags: hormones
 -->

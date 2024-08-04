@@ -1,6 +1,6 @@
 <!--
-source: gpt-40
-siblings: blood-testing, saliva-testing, urine-testing
+source: GPT-4o
+sibs: blood-testing, saliva-testing, urine-testing
 tags: tests
 -->
 

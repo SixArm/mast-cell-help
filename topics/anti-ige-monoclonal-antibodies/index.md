@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: Anti-IgE
 examples: omalizumab
 treats: allergies, asthma

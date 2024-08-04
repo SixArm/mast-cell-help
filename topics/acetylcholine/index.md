@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 sibs: gamma-aminobutyric-acid, dopamine, serotonin, acetylcholine
 tags: neurotransmitters
 -->

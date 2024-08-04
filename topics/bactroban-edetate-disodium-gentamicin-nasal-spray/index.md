@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 treats: MARCoNS
 subs: mupirocin (brand name Bactroban), edetate-disodium, gentamicin
 tags: antibiotics nasal-sprays

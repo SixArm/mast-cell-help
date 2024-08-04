@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: aloe vera (medicinal) (as paragraphs) (less than 220 words)
+source: GPT-4o: aloe vera (medicinal) (as paragraphs) (less than 220 words)
 tags: herbals
 -->
 

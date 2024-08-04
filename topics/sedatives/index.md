@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 subclasses: benzodiazepines, non-benzodiazepines, barbiturates
 treats: anxiety, insomnia
 tags: medications

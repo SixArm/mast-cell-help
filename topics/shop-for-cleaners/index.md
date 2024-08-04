@@ -29,6 +29,24 @@ If you have more time, look for labels that say "free and clear" "hypoallergenic
 
 * [Seventh Generation](https://www.seventhgeneration.com/)
 
+TODO:
+
+* I use a high-powered Bissell steam cleaner for everything but the toilet bowl.￼The one I use is not a carpet cleaner - look online and find one that suits your needs. Mine cleans everything except wood and fabrics. I clean floors, walls, sinks, appliances, and everything else in between
+
+* Dawn power wash
+
+* Thieves oil and lemon
+
+* Vinegar and water
+
+* I use Shaklee cleaner and thieves cleaner without issues. 
+
+* Dr Bronners unscented
+
+* Young Living Thieves Cleaner
+
+* Diluted peroxide in a spray bottle, no odor.
+
 <!--
 
 Reject:

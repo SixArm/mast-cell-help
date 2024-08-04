@@ -1,5 +1,5 @@
 <!--
-source: gpt-40: beard lichens (medicinal) (as paragraphs) (less than 220 words)
+source: GPT-4o: beard lichens (medicinal) (as paragraphs) (less than 220 words)
 aka: old man's beard
 tags: herbals
 -->

@@ -1,5 +1,5 @@
 <!--
-source: gpt-40
+source: GPT-4o
 abbr: NCGS
 aka: non-celiac gluten sensitivity (NCGS)
 

@@ -1,6 +1,6 @@
 <!--
-source: gpt-40
-siblings: fluconazole, itraconazole, methylene-blue
+source: GPT-4o
+sibs: fluconazole, itraconazole, methylene-blue
 tags: antifungals azoles
 -->
 

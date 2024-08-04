@@ -19,6 +19,8 @@ TODO
 
 * Any caffeine-free zero-sugar soda, ideally additive-free, preservative-free, dye-free
 
+* Dr. Pepper seems to work well for many people
+
 **More**:
 
 * Some coffees, some teas, mostly caffeine-free.
@@ -35,7 +37,7 @@ TODO
 
 * Folgers Sensitive coffee
 
-* I tolerate different teas, coffee in small amounts. Wine only French or Italian and nothing over a rose but again small amounts.
+* Wine only French or Italian and nothing over a rose but again small amounts.
 
 * Ginger water
 

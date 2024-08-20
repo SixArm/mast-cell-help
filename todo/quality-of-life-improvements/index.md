@@ -14,7 +14,7 @@ Circadian biology and sunlight for therapy.
 
 **Medications**:
 
-Xolair. Ozempic. Cromolyn sodium: I do 4 times per day, 1 teaspoon per time, and went from going to the bathroom 15 times a day to 5; do not take other meds at the same time as cromolyn; wait at least 30 minutes.
+Xolair. Ozempic. Cromolyn: I do 4 times per day, 1 teaspoon per time, and went from going to the bathroom 15 times a day to 5; do not take other meds at the same time as cromolyn; wait at least 30 minutes.
 
 Ketotifen 2 times per day.
 

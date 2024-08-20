@@ -10,7 +10,7 @@ hospital for IV hydration therapy.
 I was put on 0.9% normal saline IV, was given IV diphenhydramine 50 mg and I got
 120 mg of methylprednisolone. This was given around the clock while my system
 settled down and it was at that point that a specialist in immunology stepped in
-and ordered cromolyn sodium, famotidine and fexofenadine.
+and ordered cromolyn, famotidine and fexofenadine.
 
 I was in the hospital for a total of two weeks on all of these medications while
 I was transitioned to the compounded meds so that they knew I could tolerate

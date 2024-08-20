@@ -9,7 +9,7 @@ Pharmacists can help. Ask them about this page.
 
 **[Famotidine](../famotidine/)**: Take each morning. This medication belongs to a class of drugs known as second-generation histamine-2 (H2) blockers. If you can't find it, then consider any medication from the same class. Brand name Pepcid.
 
-**[Levocetirizine](../levocetirizine/)**:  Take each evening. This medication belongs to a class of drugs known as second-generation histamine-1 (H1) blockers. If you can't find it, then consider any medication rom the same class. Brand name Xyzal.
+**[Levocetirizine](../levocetirizine/)**:  Take each evening. This medication belongs to a class of drugs known as second-generation histamine-1 (H1) blockers. If you can't find it, then consider any medication from the same class. Brand name Xyzal.
 
 **[Diphenhydramine](../diphenhydramine/)**: Take to rescue strong symptoms. This medication class of drugs known as first-generation antihistamines. It has side effects such as drowsiness and should not be taken long term. Some brands contain artificial colors, and these may trigger people, so ask your pharmacist about colorless versions. Brand name Benadryl.
 

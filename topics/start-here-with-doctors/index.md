@@ -48,7 +48,7 @@ Doctors can help. Ask them about this page.
 [biotoxin treatments](../biotoxin-treatments/),
 [bronchodilators](../bronchodilators/),
 [corticosteroids](../corticosteroids/),
-[cromolyn sodium](../cromolyn-sodium/),
+[cromolyn](../cromolyn/),
 [leukotriene inhibitors](../leukotriene-inhibitors/),
 [low-dose naltrexone (LDN)](../low-dose-naltrexone/),
 [Myers' Cocktail](../myers-cocktail/),

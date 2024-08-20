@@ -13,7 +13,7 @@ Shower triggers come in four major types:
 
 3. Postural triggers: some people react to standing up in a shower, especially if the person also has [Postural Orthostatic Tachycardia Syndrome (POTS)](../postural-orthostatic-tachycardia-syndrome/).
 
-4. Heat triggers: some people react to heat increases, especially in the shower where the heat affects the skin and also the airway.
+4. Temperature triggers: some people react to temperature changes, either hot or cold, especially because the water can cause skin symptoms and the air can cause breathing symptoms.
 
 To figure out what's happening:
 
@@ -23,4 +23,4 @@ To figure out what's happening:
 
 3. Try taking a shower while sitting. This helps discover postural triggers.
 
-4. Try taking a cool shower. This helps discover heat triggers.
+4. Try taking a shower with a mild temperature. This helps discover heat/cold triggers.

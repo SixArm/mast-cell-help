@@ -36,7 +36,7 @@ Phosphatidylcholine.
 
 [Low dose naltroxeone](../low-dose-naltrexone/)
 
-[Cromlyn sodium](../cromolyn-sodium/) in an over-the-counter nasal spray.
+[Cromlyn sodium](../cromolyn/) in an over-the-counter nasal spray.
 
 ADHD medications, such as Strattera.
 

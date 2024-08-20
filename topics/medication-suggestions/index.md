@@ -18,7 +18,7 @@ Medication types that can help make big improvements, thanks to suggestions by p
 * Camu camu & flax oil & honey & throat works
 * [Cetirizine](../cetirizine/) (brand name Zyrtec) (5 votes)
 * Corlanor for POTS
-* [Cromolyn sodium](../cromolyn-sodium/) (brand name Gastrocrom) via oral solution (8 votes), via nasal spray (3 votes), via nebulizer
+* [Cromolyn](../cromolyn/) (brand name Gastrocrom) via oral solution (8 votes), via nasal spray (3 votes), via nebulizer
 * Cyclosporine
 * DHist (quercetin Blend)
 * [Diamine oxidase supplements](../diamine-oxidase-supplements/)(9 votes)

@@ -5,7 +5,7 @@ tags: shop
 
 # Shop for sunscreen
 
-Suncreen recommendations by mast cell patients, and especially including face sunscreens. Generally prefer hypoallergenic ingredients, free of artificial colors, scents, and additives. Be sure to check ingredients lists. Be aware that in some countries, the same brand name can have different ingredients. Also try UV-protective clothing.
+Sunscreen recommendations by mast cell patients, and especially including face sunscreens. Generally prefer hypoallergenic ingredients, free of artificial colors, scents, and additives. Be sure to check ingredients lists. Be aware that in some countries, the same brand name can have different ingredients. Also try UV-protective clothing.
 
 * [PRIIA](https://www.priia.com) - [UN-Tinted Mineral SPF40+Primer](https://www.priia.com/shop/un-tinted-mineral-spf40-primer/)
 

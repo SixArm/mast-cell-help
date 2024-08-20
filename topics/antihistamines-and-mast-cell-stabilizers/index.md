@@ -44,7 +44,7 @@ Other mast cell stabilizers include
 [vitamin C](../vitamin-c-ascorbic-acid/),
 [diamine oxidase](../diamine-oxidase/),
 [quercetin](../quercetin/),
-[cromolyn sodium](../cromolyn-sodium/),
+[cromolyn](../cromolyn/),
 [omalizumab](../omalizumab/),
 [hydroxychloroquine](../hydroxychloroquine/),
 [medical marijuana](../medical-marijuana/).

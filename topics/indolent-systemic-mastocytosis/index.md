@@ -18,6 +18,6 @@ Indolent Systemic Mastocytosis (ISM) is a rare and chronic medical condition cha
 
 * **Triggers**: Various factors or triggers, such as physical exertion, stress, temperature changes, or certain foods, can activate mast cells in individuals with ISM.
 
-* **Treatment**: This may include the use of [antihistamines](../antihistamines/), medications to stabilize mast cells (e.g., cromolyn sodium/), and the avoidance of known triggers. In some cases, [corticosteroids](../corticosteroids/) or other medications may be prescribed to manage severe symptoms.
+* **Treatment**: This may include the use of [antihistamines](../antihistamines/), medications to stabilize mast cells (e.g., cromolyn/), and the avoidance of known triggers. In some cases, [corticosteroids](../corticosteroids/) or other medications may be prescribed to manage severe symptoms.
 
 * **Prognosis**: ISM generally follows an indolent (slow-growing) course. It does not typically progress to a more aggressive form.

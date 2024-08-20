@@ -11,7 +11,7 @@ The word "traditional" can mean traditional indigenous treatments throughout his
 
 * Traditional Chinese practices can use medicine such as [acupuncture](../acupuncture/) and derivatives such as [Soliman Auricular Allergy Treatment](../soliman-auricular-allergy-treatment/).
 
-* Traditional Egyptian practices can use herbs such as [khellin](../khellin/) and derivatives such as [cromolyn sodium](../cromolyn-sodium/).
+* Traditional Egyptian practices can use herbs such as [khellin](../khellin/) and derivatives such as [cromolyn](../cromolyn/).
 
 * Traditional Inuit practices can use a [carnivore diet](../carnivore-diet/) plentiful in fish oils and derivatives such as [omega-3](../omega-3/).
 

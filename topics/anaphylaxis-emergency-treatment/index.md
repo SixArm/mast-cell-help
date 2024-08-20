@@ -15,7 +15,7 @@ tags: treatments
 
 4. Administer [corticosteroids](../corticosteroids) because these may prevent prolonged anaphylaxis treatment.
 
-5. Treat H1 reactions (skin and respiratory: mucous overproduction, [asthma](../asthma/), throat tightening, skin itching). Stop asthma attack: [albuterol sulfate](../albuterol-sulfate/), cromolyn sodium nebulized and/or inhaled. Stop cough: cough drops. Clean up mucus: [guaifenesin](../guaifenesin/).
+5. Treat H1 reactions (skin and respiratory: mucous overproduction, [asthma](../asthma/), throat tightening, skin itching). Stop asthma attack: [albuterol sulfate](../albuterol-sulfate/), cromolyn nebulized and/or inhaled. Stop cough: cough drops. Clean up mucus: [guaifenesin](../guaifenesin/).
 
 6. Treat H2 reactions (GI and cardiac: sudden diarrhea, gas, bloating, vomiting, nausea, low blood pressure, heart palpitations, difficulty breathing, feels like you may pass out): Stop H2 reaction: [activated charcoal](../activated-charcoal), [cholestyramine (brand name Questran)](../cholestyramine/), bland food to soak up the irritant and prevent new reactions. Nausea: sea bands. Cardiac symptoms including low blood pressure: [electrolytes](../electrolytes/) and fluids, lay down, assess severity.
 

@@ -17,7 +17,6 @@ Oral dosing is from 100-200mg 2-4 times per day. A common brand uses a 5 mL ampu
 
 Nebulized dosing is from 10-20mg 2-4 times per day.
 
-
 Start small. 
 
 Example 1 is best for timing: start with a 1/4 dose 4 times per day for a week, then 1/2 dose 4 times per day for a week, then full dose 4 times per day ongoing. If you open an ampule, and only use some of dose, you cannot preserve the rest because it won't keep; you must dispose of the rest.
@@ -28,4 +27,4 @@ Many people experience symptoms when starting the medication that may last 3-4 d
 
 Do not take sodium cromolyn together with anything else other than water. I.e. do not take sodium cromolyn at the same time as any other ingested medications or supplements, or foods or drinks other than water. This is because anything other than water will deactivate sodium cromolyn, according to manufacturers' directions.
 
-Cromolyn sodium plasma half-life is about 80 minutes. For example, suppose your medication is working at full potency at 7:00 a.m. 80 minutes later is 1/2 potency. 80 minutes later is 1/4 potency. 80 minutes later is 1/8 potency. This rapid decrease is why many people plan to take sodium cromolyn multiple times per day.
+Cromolyn plasma half-life is about 80 minutes. For example, suppose your medication is working at full potency at 7:00 a.m. 80 minutes later is 1/2 potency. 80 minutes later is 1/4 potency. 80 minutes later is 1/8 potency. This rapid decrease is why many people plan to take sodium cromolyn multiple times per day.

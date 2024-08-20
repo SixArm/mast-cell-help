@@ -8,10 +8,11 @@ tags: shop
 Makeup recommended by mast cell people. Try to read ingredients lists carefully.
 Smaller brands typically tend to be better for those with allergies. Seek
 hypoallergenic, gluten free, dye free, fragrance free, bismuth free, and vegan.
+
 Avoid parabans, petroleums, sulphates such as sodium laurel sulfate,
 citrus-related ingredients such as citric acid, preservatives such as
 formaldehyde, or other additives such as colors or scents or preservatives.
-Waterproof makeup may contain petroleum products that bother the eyes..
+Waterproof makeup may contain petroleum products that bother the eyes.
 
 * [PRIIA](https://www.priia.com) (Acne-Safe Non-Comedogenic Non-Acnegenic Gluten-Free Vegan)
 

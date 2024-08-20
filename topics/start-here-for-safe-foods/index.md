@@ -34,8 +34,8 @@ Safe foods can be different per person, and can change over time.
 
 **Tips**:
 
-* **Maximize quality**: Seek organic, locally-grown, GMO-free.
+* **Maximize quality**: Seek organic, locally-grown, factory-free, GMO-free.
 
-* **Minimize triggers**: Such as additives, biocides, and cross contaminations.
+* **Maximize purity**: Seek food without additives, biocides, cross contaminations.
 
-* **Minimize delays**: Buy fresh or flash-frozen. Cook and eat ASAP. No leftovers.
+* **Maximize freshness**: Buy same-day fresh or flash-frozen. Eat ASAP. No leftovers.

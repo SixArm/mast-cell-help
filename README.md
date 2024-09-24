@@ -34,6 +34,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [Where are mast cells?](topics/where-are-mast-cells/)
 * [What doctors and providers can help?](topics/what-doctors-and-providers-can-help/)
 * [How to find a doctor or provider?](topics/how-to-find-a-doctor-or-provider/)
+* [Mast cell mediators and effects](topics/mast-cell-mediators-and-effects/)
 * [Support groups](topics/support-groups/)
 * [Facebook groups](topics/facebook-groups/)
 
@@ -477,7 +478,9 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 ### [Eosinophilic esophagitis (EoE)](topics/eosinophilic-esophagitis/)
 
 * [Eosinophilic esophagitis (EoE) causes](topics/eosinophilic-esophagitis-causes/)
-  
+
+### [Erythromelalgia](topics/erythromelalgia/)
+
 ### [Ferroptosis](topics/ferroptosis/)
 
 ### [Gastroesophageal Reflux Disease (GERD)](topics/gastroesophageal-reflux-disease/)

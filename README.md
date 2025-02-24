@@ -161,7 +161,7 @@ Mast Cell Help: this guide is for mast cell information about health symptoms, d
 * [GreenGuard certification](topics/greenguard-certification/)
 * [Ventilation](topics/ventilation/)
 
-### [Stress Management](topics/stress-management/)
+### [Stress management](topics/stress-management/)
 
 * [Meditation](topics/meditation/)
 * [Progressive Muscle Relaxation (PMR)](topics/progressive-muscle-relaxation/)
@@ -1111,7 +1111,7 @@ TODO:
 <img src="/assets/images/pexels/pexels-puwadon-sangngern-5340280/1920x960.jpg" alt="heart" style="width: 100%;"/>
 
 
-## Human body systems
+## [Human body systems](topics/human-body-systems/)
 
 ### [Cardiovascular system](topics/cardiovascular-system/)
 

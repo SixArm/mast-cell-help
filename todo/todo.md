@@ -1002,3 +1002,2027 @@ Repair:
 
 8. Coenzyme Q10 - the single most powerful heart antioxidant.; take 100-300+ mg daily.
 
+
+###
+
+Hi! Austin air is top of the line for what you need it for. They are very pricey but worth it. Under normal conditions you should only have to replace the filter every 5 years. If you need to replace it sooner they give you a huge discount(I replace mine often bc I live in an apartment building). You also qualify for a scratch and dent filter yearly. Just pay shipping. The scratch and dent ones are ones that were returned for whatever reason but are brand new. If you receive it and it doesn’t work or something is wrong with it they will send you a new one. You can also find discounts online for Austin. I emailed the company and straight up asked them for a discount and told them I just can’t afford full price and provided my medical conditions and they gave me a discount. It’s a very very good company. They have also done studies on them at John Hopkins and are also medical grade purifiers. I’ll always stand by them. They do have a quiz on their website to determine what kind you need. They have also done so much for the community. This isn’t sponsored but it sounds like it is at this point LOL another good one would be an air doctor. Anything besides those two will not really help with what WE need them for.
+https://austinair.com/about/
+https://airdoctorpro.com
+
+
+Dual (true) HEPA filters, a carbon filter that isn't a "sock" material, and then a first stage pre-filter. I like Honeywell, though not the price. Their customer service is quite fantastic, their warranty is lengthy and covers a great deal (not filters), and their air purifier filter systems are robust to say the least. You can also get some with an advanced filter or add-on if there's a lot of smoke or scents in the home that need to be captured that aren't quite being caught with regular filtration.
+The InSight models like HPA5300B have an outer filter foamy kinda deal to catch large particles like hair, dust bunnies, etc, an activated carbon pre-filter, and typically a dual setup HEPA filter behind that. I also like the display panel they have. I can read mine quite easily even during the day when it's bright or darken it when it's night time and it displays green - yellow - red based on VOCs / corresponding air quality.
+
+
+###
+
+# Medical Management of Mast Cell Disorders.
+Drug Class	Medication and Dosing	Primary Indication and Comments
+H1-receptor
+antagonist 	Long-acting:
+
+    Fexofenadine (60–180 mg orally once or twice/day)
+    Cetrizine (5–10 mg orally once or twice/daily)
+    Loratidine (10 mg orally once daily)
+
+
+Short-acting:
+
+    Diphenhydramine (25–50 mg orally or parenterally every 6-8-h as needed)
+    Hydroxyzine (25 mg orally every 6-h as needed)
+
+	Histamine-related symptoms (i.e., flushing, pruritis)
+H2-receptor
+antagonist 	Ranitidine (150 mg orally, twice/day)
+Famotidine (10 mg orally twice/day)	Gastrointestinal symptoms
+Proton-Pump
+Inhibitor (PPI) 	Omeprazole (20–40 mg orally daily
+Pantoprazole (20–40 mg orally daily)	Gastrointestinal symptoms
+Leukotriene
+receptor antagonist 	Montelukast (10 mg orally daily
+Zafirlukast (20 mg orally daily)	Histamine-related symptoms (i.e., flushing, pruritis)
+Mast cell stabilizer 	Cromolyn sodium (four times a day maximum daily dose 40 mg/kg/day)	Gastrointestinal symptoms
+Histamine-related symptoms (i.e., flushing, pruritis)
+Non-steroidal anti-inflammatory drug (NSAID) 	Aspirin (variable dosing)	Histamine-related symptoms (i.e., flushing, pruritis)
+Anti-IgE
+monoclonal
+antibody 	Omalizumab (150–300 mg administered subcutaneously every 2–4 weeks)	Histamine-related symptoms (i.e., flushing, pruritis, recurrent anaphylaxis) not responsive to conservative measures
+Immediate administration for anaphylaxis 	Epinephrine (0.3–0.5 mg intramuscularly every 5–15 min in the lateral thigh)	Anaphylaxis
+Cytoreductive therapy 	Interferon-α (IFN-α)
+
+    (Starting dose of 3 million units subcutaneously three times weekly can be increased to 3–5 million units up to 5 times weekly)
+
+
+Cladribine (2-CdA)
+
+    (5 mg/m2/day or 0.14 mg/kg/day as a 2-h infusion for 5 days. Up to 6 cycles every 4–8 weeks)
+
+	IFN-α: often co-administer with prednisone to improve tolerability
+Flu-like syndrome
+2-CdA: myelosuppression and lymphopenia common. Prophylaxis for Pneumocystis jirovecii infection needed
+Open in a separate window
+
+Abbreviations: mg, milligrams; PO, per oral; BID, twice daily; PRN, as needed; QID, four times daily; kg, kilograms; SQ, subcutaneous; IM, intramuscular; MU, million units.
+
+###
+
+I do, but mine is mild. I eat all of the "normal" stuff within my very restrictive diet haha. A speech pathologist gave me some advice during my barium swallow test. She said when you have dysphagia, food moves more slowly down the esophagus, so you have to coax it down by chewing slowly and thoroughly. You should be drinking water throughout eating your entire meal to help it go down. She said to take your time and that it should be taking you 20 - 25 mins to finish a meal, not 10 or less (guilty as charged). And she also suggested if you have to take pills that you take only 3 - 5 total with water and then you have to have something more dense to get them down and lubricate your esophagus. It should be something pureed like applesauce, mashed potatoes, yogurt, etc. She also said it's important you sit up very straight and don't lay down for at least an hour after eating. I'm not sure if any of this will help you or not, but I wanted to pass it along in case it does.
+
+###
+
+Severe dehydration can cause a decrease in blood volume which results in a decrease in blood pressure. When blood volume is decreased, the heart has to beat faster to try to continue to deliver oxygen to your organs. 
+
+The medical term for a heart rate over 100 beats a minute is tachycardia (tak-ih-KAHR-dee-uh). 
+
+The medical term for a heartbeat problem such as a skipped beat, extra beat, or irregular beat, as a heart palpitation.
+
+If you are experiencing tachycardia or heart palpitations, then you should stop what you are doing, rest in a cool location, and drink some water. Wait until your heart resumes a normal rhythm.
+
+For many people, mild dehydration can be easily recovered from at home with rest in a cool place and increasing fluids and electrolytes. Sports drinks and over-the-counter oral rehydration solutions, like Pedialyte, can help return the body back to its necessary fluid and electrolyte levels. More severe cases of dehydration need to be treated by emergency personnel in a hospital setting with intravenous (IV) fluid.
+
+
+Symptoms of an electrolyte imbalance may include agitation, dry mouth, thirst, restlessness, confusion, cognition difficulties, muscle weakness, muscle spasms, numbness, tingling, fatigue, heart palpitations.
+
+(Sources: Reid Health, Healthline)
+
+An electrolyte panel is a blood test that measures the levels of seven electrolytes in your blood. Certain conditions, including dehydration, cardiovascular disease and kidney disease, can cause electrolyte levels to become too high or low, which is is an electrolyte imbalance.
+
+An electrolyte panel checks the levels of multiple minerals in your blood. Sodium controls fluid levels and aids nerve and muscle function. Potassium supports heart, nerve and muscle function, as well as metabolism. Calcium supports your musculoskeletal system (bones and muscles), nervous system and circulatory system. Chloride helps maintain healthy blood pressure and body fluid levels. Magnesium aids nerve and muscle function and promotes the growth of bones and teeth (skeletal system). Phosphate develops healthy teeth and bones and aids nerve and muscle function. Bicarbonate maintains a healthy balance of acids and basic alkaline compounds in blood (acid-base balance), and also moves carbon dioxide through your bloodstream.
+
+###
+
+BROAD AirPro Mask,Wearable Air Purifiers,Rechargeable Reusable Air Purifying Respirator with a HEPA Filter,for Work Protection,Running, Outdoor Sports(White) 
+
+https://icanbreathe.com/products/icb-honeycomb-mask-with-classic-coconut-activated-carbon-filter
+
+###
+
+
+Couple things.
+- I suggest not using adrenaline and epinephrine interchangeably as many don’t know they’re the same thing, unless you premise with this info
+- “Epi and epi fast”. Don’t wait for full-blown anaphylaxis. By then it could be too late.
+- Don’t assume because you had a mild reaction to something that it will always be mild. It could actually be the thing that triggers a full-blown reaction next exposure.
+- Always call 911. You need to go the ED for observation/treatment. Don’t assume one or two shots of epi will resolve it all. You may need more epi, and/or steroids, and/or other treatments.
+- List your allergens with your pharmacist to ensure you’re not receiving an Rx that contains something you’re allergic to. (Think Symbicort v. Advair/Wixela; if you have a dairy allergy, the last thing you need is Advair as it contains dairy).
+- Carry a clearly marked medication pack with all your meds, like epi/Albuterol/antihistamine being a protocol for some, and in that pack clearly printed instructions on how to treat you (action plan from your MD, or create your own if MD doesn’t do this for you) - always will “call 911” - and your list of emergency contacts.
+
+##
+
+5. Began a low mold diet and added a seed therapy regimen while I waited on my appointment with new doctor - THIS SINGLE HANDEDLY STOPPED MY MCAS FLARES!!! 
+
+
+###
+
+Top 10 worst triggers ranked: Stress, Heat, Scents, Corn, Gluten, Citrus, Dairy, Mold, Sun, Hormones.
+
+Adhesives
+Alcohol
+Animals
+Antibiotics
+Banana
+Beans that are undercooked
+Bell peppers
+Bread
+Bug bites or venoms
+Caffeine
+Canned meat
+Carbohydrates
+Cats
+Cheese
+Chemical odors / smells = 2 votes
+Chemicals = 4 votes
+Chlorine in water
+Chocolate = 3 votes
+Cigarette smoke
+Citrus / Citric acid = 5 votes
+Cleaners
+Coconut
+Coffee = 2 votes
+Coffee
+Cold weather
+Colognes
+Corn = 7 votes
+Crying
+Dairy = 2 votes
+Dairy
+Dehydration
+Detergents
+Dogs
+Dust
+Eggs
+Essential oils
+Estrogen = 3 votes
+Exercise = 8 votes
+Fermented foods
+Folic acid
+Fragrances = 2 votes
+Fruits = 2 votes
+Garlic = 2 votes
+Gluten = 8 votes
+Grains
+Grapes
+Grass
+Grease-fried food smells
+Green peppers
+Heat = 14 votes
+Pollen
+Friction
+Stress
+Humidity = 2 votes
+Infection
+Ivory soap
+Latex = 2 votes
+Latex
+Leftovers from the fridge (not the freezer)
+Legumes
+Lights
+Lilies
+Medication = 2 votes
+Mold = 8 votes
+Monosodium glutamate
+Mosquito bites
+Hormones / period / ovulation = 7 votes
+Nightshade veggies
+Nightshades
+Noises
+Nuts
+Onions
+Palm oil
+Patchouli oil
+Peanuts / peanut oil = 2 votes
+Peppermint
+Peppers
+Perfume = 4 votes
+Pollen = 3 votes
+Potatoes
+Red dye 40
+Rosemary
+Salicylates
+Secondhand smoke
+Smells / scents = 6 votes
+Soy = 2 votes
+Strawberries
+Stress = 29 votes
+Sugar = 2 votes
+Sunlight = 4 votes
+Tapioca
+Tide laundry soap
+Tomatoes = 2 votes
+Vegetables
+VOCs = 2 votes
+Weather / barometric pressure = 2 votes
+Yeast
+
+###
+
+When a provider uses a term like "root cause", ask their opinion of root cause analysis with CAST.
+
+- Good looks like them knowing CAST and using it for you. CAST is Causal Analysis based on System Theory, and it is what professional use for multiple root causes that interact with each other and the holistic system. CAST is a very strong tool for MCAS.
+
+- Bad looks like: "I've never used CAST" or the oversimplification "one root cause can cause many symptoms, or many root causes can cause one condition". 
+
+When a provider uses a term like "all the best tests", ask which allergy tests they use often.
+
+- Good looks like: starting with ISAC molecular blood testing and staying on your meds.
+
+- Bad looks like: starting with any test that would need you to go off your meds.
+
+When a provider uses the term "functional medicine", ask their opinion of traditional medicine.
+
+- Good looks like: favoring trying traditional Chinese medicine with acupuncture and SAAT, traditional Egyptian medicine such as khellin and cromolyn, traditional Inuit medicine such fish oil and omega-3, etc.
+
+- Bad looks like: anything that talks down at traditional medicine, rather than trying it to help you get better.
+
+When a provider uses a term like "detailed intake" or "full history", ask them to put in writing that your data is solely for the provider's eyes only for one-on-one treament, and never for the provider's vendors for advertising, marketing, promotion, aggregation, or anonomization.
+
+- Good looks like: the provider puts it in writing. It's fine if the provider can clarify that your data needs to go to/from your other direct providers and your direct insurance company for claims; this is fine. If your provider is in the U.S. and uses Epic, that's a fine choice.
+
+- Bad looks like: any hemming and hawing; any requests to have you sign disclosures or consent forms or advertising/marketing/promotion permissions; anything that has you sign up for a web portal that has any agreement that shows you terms and conditions to sign that says "advertising" or "marketing" or "promotion" or "aggregation" or "anonymization". If your provider uses SimplePractice or Elevate Health then veto.
+
+
+
+###
+
+^(\* |\d+\. |)(.*?): 
+$1**$2**: 
+
+HAE: Heriditary Angiodema
+
+Brittany Lea Wornell
+Magnesium glycerinate
+Reishi mushrooms
+Passionflower, lemon balm, Ashwagandha, valerian, skull cap, holy basil all adaptogens for stress resilience, and calming nerves.
+Do up one herb per day to see the effects in 8 oz of water for tea infusion. And see how it makes you feel. Valerian is more sedative so take at night. All the others are great for during the day imo! Also will say as well acupuncture, acupressure mats, Pilates, breathing excercises, diet changes (follow blood type and then mix in Mcas boundaries) and you will see a lot of great changes!  Ashwagandha is not recommended if you have thyroid issues or cardiac issues
+
+methyprednisalone
+
+###
+
+PMDD is classified as a Mood Disorder within the DSM-5 and is characterised by affective symptoms, including irritability, depression, anxiety, and suicidality which arise in the luteal phase of the menstrual cycle and resolve soon after the onset of menses.
+
+"There is increasing evidence to suggest that brain inflammation could play a key role in the aetiology of psychiatric illness. Could inflammation be a cause of the premenstrual syndromes PMS and PMDD?" By Emma Bannister
+
+https://journals.sagepub.com/doi/10.1177/2053369119875386
+
+###
+
+ immunity modulators like reishi or turkey tail mushrooms.
+
+###
+
+
+What is your favorite high protein breakfast? 
+Im starting to think i might need to start my day off with chicken 😞 or a protein shake. 
+I cant eat eggs, or have pb or banana regularly.
+Laura Grace
+Following. I’m in the same boat. I can’t get enough protein no matter what I do. Eggs give me problems too. I like when I have homemade GF chicken noodle soup in the freezer that I can heat up for breakfast. A nice warm breakfast feels good in my belly. I might learn to like chicken and mashed potatoes for breakfast too.
+
+    8w
+
+    Reply
+
+Genyii Moonchild
+chicken breast (air fryer), grits, hemps seeds, olive oil butter, gluten/dairy free protein waffles
+
+    8w
+
+    Reply
+
+Lauren Steinmann
+I do beef, chicken, or homemade chili for breakfast because I can’t do eggs, wheat, gluten, oats, and so many other things 🙈.
+It’s actually a great way to start the day.
+
+    7w
+
+    Reply
+
+Lauren Steinmann
+I meal prep and freeze so my mornings are quick. I just pull what I want from my freezer each morning, warm it up, and enjoy. My mornings are too crazy to try and cook that from scratch each day.
+
+    7w
+
+    Reply
+
+Tiffany Hudson
+Lauren Steinmann how did you learn if you could do oats or not? I'm nervous to try that one.
+
+    7w
+
+    Reply
+
+
+Tami Antoine
+You don't have to eat traditional breakfast foods! I usually have steamed veggies with hummus
+
+    7w
+
+    Reply
+
+Amy G Ja
+Chia pudding (I make homemade almond milk, you could make any milk you tolerate, add chia seeds and a pinch of honey or pure maple syrup and vanilla - can add cinnamon if you want)
+
+    7w
+
+    Reply
+
+Dorea Reeser
+I make a protein smoothie for breakfast every day!
+
+    7w
+
+    Reply
+
+Tami Schneider
+Breakfast wraps? Turkey or sausage with hashbrown, cheese, veggies (spinach, onions, tomato if you can tollerate)
+
+    7w
+
+    Reply
+
+Kelly Greene
+Premier protein shake, I can’t eat first thing but I take 9000 pills and can’t do it on an empty stomach.
+
+    7w
+
+    Reply
+
+KerriAnne Coleman
+Greek yogurt and pour in a packet of dry oatmeal
+
+    7w
+
+    Reply
+
+Jessica LaFountain
+I did a rotation diet and had straight fish or chicken for breakfast, it’s how I found out I couldn’t have beef or pork, I’m alpha gal I found out 10-15 yrs later when it was an actual diagnosis
+
+    7w
+
+    Reply
+
+Brittany Waselenchuk
+I do a fruit smoothie with protein powder that doesn't contain whey/lactose.
+But I have yet to pin point if I have adverse reactions to any foods.
+
+    7w
+
+    Reply
+    Edited
+
+Gianna Morales
+I have a lot of chicken sandwiches and chicken soup for breakfast. Or today I'm about to have chicken and pasta for breakfast. (ok this stuff is usually my second breakfast. I usually have toast or plain cereal for first breakfast)
+
+    7w
+
+    Reply
+
+Carla Salzman
+I have a protein shake every morning
+
+    7w
+
+    Reply
+
+Nelly Wilde
+I prefer eggs with sausage (not the preformed kind) or uncured bacon. Every now and then I add a slice of gluten free bread.
+
+    7w
+
+    Reply
+
+Janeah Weaver
+Chia pudding in GF oat milk.
+
+    7w
+
+    Reply
+
+Kelly Lyell Bender
+Protein shake is a great way to start the day! Easy to digest, that’s for sure!
+
+    7w
+
+    Reply
+
+Kimberly Castaldo Green
+Danielle maybe some protein ideas?
+
+    7w
+
+    Reply
+
+Heather Anne
+I eat a honey chicken apple sausage and homemade rice cereal.
+
+    7w
+
+    Reply
+
+Jennifer Finch McEwen
+Same
+
+    7w
+
+    Reply
+
+Lisa Kahn
+Homemade sweet potato pancakes, egg yolks, fresh pork sausage from my local butcher.
+
+    7w
+
+    Reply
+
+Leslie Brocchinimd
+chicken and veggies
+
+    7w
+
+    Reply
+
+Monica Morberg
+Dr. Bruce Hoffman’s smoothie recipe with 2 raw egg yolks, beef isolate protein powder, and medicinal oils to name a few ingredients. I aim for a piece of meat with each meal as well.
+
+    7w
+
+    Reply
+
+Henna Haaveilija
+I eat beef every day for my first meal around 6am, with lots of butter. 🙂 Keeps me sustained easily until 2-3pm when I eat my second meal of the day.
+
+    7w
+
+    Reply
+
+Alexandra Marti Wilinski
+Emily Getschow 😍
+
+    7w
+
+    Reply
+
+Charlie Davis
+I drink orgain organic protein shake every morning 30 min after my metagenics quercetin. I'm not sure how much protein it has off the top of my head though
+
+    7w
+
+    Reply
+
+Rosie Thomas
+I usually make a protein shake with added vegetables
+
+    7w
+
+    Reply
+
+Krista Thacker
+I love a chia pudding yogurt made with forger cashew yogurt and some coconut milk. Mix and let it sit in a mason jar over night in the fridge. In the morning scoop into a bowl and I like to add berries, toasted coconut chips, purely Elizabeth organic gf granola and a little honey. It keeps me full from about 6 am to noon. You could even add a plant based protein powder into the mix in the morning if you would like extra protein as well.
+
+    7w
+
+    Reply
+    Edited
+
+Janie Rourke
+I use a protein shake every morning
+
+    7w
+
+    Reply
+
+Maddie CookusAuthor
+@everyone there are so many great responses. Im going to make this into a little cheat sheet so I can keep it for easy access. If you want a copy just like this comment
+
+    7w
+
+    Reply
+
+Jennifer McJenkins Strother
+Best Clean Protein I have found. http://equipfoods.com/THRIVEWELL
+Equip Foods - Supplements Made from 100% Real Foods
+EQUIPFOODS.COM
+Equip Foods - Supplements Made from 100% Real Foods
+Equip Foods - Supplements Made from 100% Real Foods
+
+    7w
+
+    Reply
+
+Kori Lee
+Every morning I have a lamb burger. I like to fry one side crisp for flavor that lamb offers.
+
+###
+
+Sofija Reston
+Yes. It’s like a horrible panic attack where I think I’m going to die. But you should go and check it out to make sure everything is ok.
+
+    5h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston I went last time & they did an EKG and said I was fine. So 😢 really shitty ER around here none of them knew MCAS or histamine issues & just a bunch of narcissistic assholes at that place.
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis can you follow up with your doctor to get bloodwork and a chest x-ray done and perhaps an echocardiogram?
+I had gone to one ER and they did an EKG and said there was nothing wrong. About a month and a half later I woke up thinking I had a gallbladder attack and went to another ER. It turned out to be blood clots in my lungs. So keep advocating.
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston oh my goodness. I know they looked at my lungs and did an ekg !
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston so that would’ve shown right??
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis did they do a chest x-ray?
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston I will look into seeing if she can order me an echocardiogram to get done somewhere. I know they screened my lungs at least, idk any technical terms for what they did tho..
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston what blood work would I specifically request? Sorry for all the comments lol
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston just an ekg & then they did an xray for my lungs ! They had a machine far away and had me take off my bra and necklace and took a few pics or whatever so I guess that’s a chest xray ? 👀 😅
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis if they did a chest x-ray then yes it would show up as mine did. But they also confirmed it with the CT scan. My bloodwork came back, and they said that my blood was thick. There are many risk factors such as smoking, birth control, long car rides or long flights, hereditary, so if you knew anybody in your family that had a stroke or heart attack.
+I don’t want to you, but it’s good to get all the bases covered. I do have CPTSD from a trauma and so I will take a sedative if my anxiety gets too high because I’m no longer on oestrogen birth control and I had genetic testing that was negative since my mom had clotted multiple times
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis yes that would be an x-ray, which would show if there was any blockages. And your blood pressure and pulse rate are OK?
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston my bottom number blood pressure was high that specific day. But I been taking supplements and stuff my dr suggested and yesterday it was amazing 118/76 when it was being 99-100 as the bottom number
+
+    4h
+
+    Reply
+    Edited
+
+Courtney DavisAuthor
+My BP has been higher since all this going on, I think mold toxicity , but hopefully it stays better . I had good BP yesterday at the dr and had chest pain after cuz I picked up some new vitamins .
+Then today I got sick of doing plain chicken over and over so I tried it in a cassava wrap for first time with a little lettuce and plant based ranch then within like 45 mins had the chest pain
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+I do know I’m severely deficient in vitamin D so I went and got an injection today as well as vitamin B12 🤞
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis
+Yeah, 120/80 is generally the optimal blood pressure. And heart rate around 80 bpm but it all depends on your activity status to like high exercise 3 to 4 times a week and my resting heart rate is in the 70s and my blood pressure last time was like 111/70 something . When I was admitted, I did have elevated numbers. There is also a correlation with anxiety and perimenopause. So I’m not sure if you’re at the age yet, but a lot of women are saying that they have these random anxiety attacks and you can start perimenopause in your 30s.
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston I do have PMDD & I’m 26 , had my son at 21 and had PMDD since; and idk if mold or a virus triggered a histamine intolerance for me but my saliva analysis said mold, Lyme, heavy metals, and EBV and my body just struggling cause it’s too much. Oh and parasites of course xD uggghhh lol. But that’s how I came to learn abt all this. So I’m doing all I can for now , but my liver results didn’t look the best my dr said it’s just struggling to detox and I need to try Chinese skullcap , whatever that is 😅 it’s so overwhelming. I just want to enjoy life again I don’t want to let this overtake me. I don’t handle stress well 💀
+
+    4h
+
+    Reply
+    Edited
+
+Courtney DavisAuthor
+Sofija Reston but I get panic attacks sometime, but this pain is unreal and like nothing I’ve ever felt before . I truly don’t think that’s what it is.. I just have no idea what is going on..
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis oh yeah, it totally sucks. I started with rashes and all these other symptoms back in 2020. And I don’t know if it was caused by the chemicals I was exposed to at work because I worked in a clothing store and we were receive clothes from all over the world and they’re sprayed with chemicals and of course we weren’t wearing masks then. or I could’ve been from a virus. I am pretty sure my old house has mould in it because the basement has that musty smell. I did get allergy testing done and I’m allergic to ragweed citric acid, unconfirmed latex and unconfirmed nickel. So I’ve had to cut out so many foods, but since I’ve done that the hives have gone. I can cut out wheat and oats and chocolate about two months ago and I’ve lost 10 pounds but I still have some swelling in my face and neck. But again the hives have gone and I only used of sensitive bar soap to wash with and even used to wash my hair with. I am carnivore diet, which has been pretty easy to follow although I still have corn and once in a while, brussels sprouts or rice
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis where is the pain located? Is it like on the right side or the left side underneath the rib? It could be your liver that’s causing the pain. there is also a tendon that can get pulled in the chest area and I forget what it’s called but it can make you feel like you’re having a heart attack
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston love that for you!! 🤍🤍 it’s so crazy this is so unknown and not well enough researched . So thankful for this group cuz I felt SO ALONE before finding this place! Doing low histamine helped a lot with my symptoms ! But sucks cuz idk what’s safe to eat and keep just eating chicken and beef merlot over and over 😢
+
+    4h
+
+    Reply
+
+Sofija Reston
+Courtney Davis yeah, I get a lump in my neck when I eat some thing that I react to. I made bacon the other day and it was fine, I can only eat egg whites the yolks seem to bother me, but I add cheese to it. I did find a recipe for rice bread that I’m going to try to make because even gluten-free bread has potato starch or tapioca starch and that’s connected to latex. I was so happy when I found rice and quinoa pasta I had a bowl of it, and then I started itching, because quinoa is connected to wheat.
+Again prior to 2020 I did not have these food sensitivities. The only thing I was allergic to was tomatoes and I could eat them. I didn’t get any rashes I would occasionally get heartburn so I hear you when you are frustrated.
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston omg thanks for that info, how do you find out what foods are connected to latex.?? It’s possible I have a latex allergy.
+But yeah my whole world flipped upside down cuz I’ve went my whole life NO ALLERGIES 😭 now I feel like I’m allergic to being alive . 😂😅 now I’m avoiding wheat , gluten, dairy, tomatoes etc 😭 this crap sucks lol
+
+    4h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston so glad you told me that cause my dr just suggested quinoa and I keep seeing recipes with it 🤔
+
+    4h
+
+    Reply
+
+Beth Munday
+Courtney Davis cardiac enzymes should be done to rule out a heart attack.
+
+    3h
+
+    Reply
+
+Sofija Reston
+Courtney Davis the cross reactive protein found in certain foods like bananas, avocados, coconut, peaches, kiwi, strawberry, cherries, wheat, dandelion. There are certain sites that have more of a list and you basically just have to try thing and then see if you get a reaction from it. If I eat bananas, I will get a sore tongue and if I eat avocados I get a pounding headache in the back of my head. The wheat was causing me to have belly bloat and I would get diarrhea.
+And the sad thing is, is that allergies can develop at any time, so you may have not had anything and then some stressed your body out and you developed allergies. Like citric acid is in so many pops and foods and shampoos. It’s actually made from a mold That I’m allergic to and if I have it, it makes my eyelid twitch or my muscle in my leg twitch. It’s so weird. so maybe have a food diary and try to see what your reacting to. I can’t drink out of those stainless steel tumblers because they have a nickel content and that will aggravate my eczema on my fingers.
+
+    3h
+
+    Reply
+
+Courtney DavisAuthor
+Sofija Reston omg I get the leg and eye twitching tooooo! & I been eating figs GF with citric acid in it 😭 so could be it !!! Ugh you’re so helpful! Thank you so much! 🥰 that sucks abt coconut 😔
+
+    3h
+
+    Reply
+
+Kinsie Watson
+Been having that recently and definitely scary as well as feels like my throat is going closed continuously feeling like I need to swallow
+
+    5h
+
+    Reply
+
+Grace E Laine
+Yes, I get that too. Swear I’m dying… it’s hard, not just on the body but the mind. I hope you find relief soon💜
+
+    5h
+
+    Reply
+
+Courtney DavisAuthor
+It was after I ate & I just had the deepest pain in my chest I hate waiting for it to pass. & then it happened yesterday when I took new vitamins . Ughhh it’s so hard knowing what’s real and what’s not and the last thing you want to do is going to the ER for them to keep talking to u like ur just anxious
+
+Yes, main cause in the beginning that constantly sent me to the ER. I carry an at home portable EKG with me now to ease my mind & anxiety when it happens. Pepcid helps relieve it.
+
+For me it’s just a deep aching pain idek how to explain it ! Maybe a tightening feeling it just fkn HURTS 😅
+
+Yes, it can change for me. Sometimes it's deep aching, almost like gas build up. Heavy, burning sometimes. Pressure. Sharpness can come & go too. In the beginning it felt like an elephant sitting on my chest.
+
+Yes my 13 year old daughter during the start of an episode (rash, itching, breathing trouble) her pulse rate changes - has gone down to 40s (dizzy and nauseous and lightheaded) and up to 160. When it’s 120-160 her chest hurts for several hours after that.
+
+Yes it does suck! I actually went to the hospital once thinking i was having a heart attack! Nope. Had the stress test. Nothing wrong. Just my mast cells causing the heart to go wonky. 
+
+##
+
+Binders
+
+I’ve been using bentonite clay. I started with 1/64 tsp and surprisingly didn’t react to it, so I’m hoping to increase slightly.
+
+Ultra Binder from Quicksilver
+Cary Baez yes it’s expensive but I didn’t get any constipation or symptoms from it. I used it for mold and MCAS. I recommend getting the “Push Catch” system that also includes the Liver Sauce which is great stuff. I bought this set 3 times
+Carboxy
+Zeolite and fulvic humic acid.
+
+###
+
+Safe foods..?
+
+Blueberries. Meats. Oats. Pear. Coffee in moderation. Beef protein powder. Chia seeds.
+
+Water, certain chicken brands, fresh turkey, sweet potatoes, gala apples, rice, carrots and 
+
+Organic baby food pouches- sweet potato and apple or apple sauce pouches, I keep these and rice packets from Aldi so no additives, in the car too . Gas stations have microwaves . Drinks I make ginger tea and nestle water doesn’t bother me
+
+Beef, bone broth, cooked kale, salt, coke zero.
+
+To eat: anything my made good foods (top 8 friendly brand).
+
+To drink: Polar seltzer or kids liquid IV.
+
+Water, browned ground beef, green beans, chia seeds.
+
+My son only drinks water, whole food not from concentrate grape and apple juice, he eats chicken, pork, some fish if he is willing, turkey burger, sometimes ground beef, no meats with additives ect.. vegies not much these days and limited fruits as well. No citrus fruits forsure
+
+Water. Blueberries, cucumbers, carrots, sweet potatoes, organic oat/puffed rice granola cereal with cashew milk, cottage cheese. If I get up early enough, I drink my mushroom coffee, but I’m going to have to give up the caffeine. This flare is causing the worst heartburn, so anything acidic has to go.
+We did go to a Mexican restaurant over the weekend and had chicken tacos w arugula and fermented onion salad and split a guava beer. I was prepared for the worst, but I had only a mild headache later in the evening. I think it was okay because everything was fresh. But I eat so little now that I was stuffed. Just one taco next time.
+
+Joel Parker Henderson
+Herbalife V Plant-Based Protein Shake works wonders for me. Ingredients: Organic Pea Protein, Organic Natural Flavor, Organic Coconut Milk, Capros® Organic Amla Fruit Extract, Sea Salt, Organic Pumpkin Seed Protein, Organic Cinnamon, Organic Chia Seed Protein, Organic Monk Fruit Extract, Organic Millet Sprouts, Organic Quinoa Sprouts, and Organic Amaranth Sprouts.
+
+###
+I highly recommend EMDR (trauma therapy) I had to get my mental health under control so I wouldn't flare with my MCAS so much. Panic shows us that we are maladaptively trying to cope with stress. I had PTSD and di
+
+I take l-theanine twice a day
+It calms me a lot
+
+What worked for me: CBT, antidepressant, clonazapam just for a bit until you stabilize and no longer need it. I am so sorry, anxiety is living hell.
+
+
+echinacea
+turmeric
+
+bioidentical hormones
+
+Omalizumab (brand Xolair) inhibits the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells and basophils. Reduction in surface bound IgE on FcεRI-bearing cells limits the degree of release of mediators of the allergic response. 
+
+ leukotriene inhibitors
+
+ azithromycin, prednisone, nystatin for a sinus infection and PANS/PANDAS
+
+You need to be checked for HATS and if that’s negative check for the KIT gene mutation or both tests at the same time ideally. That will point you in the direction of either you have HATS causing the high tryptase or if your kit gene mutation comes back positive, you need to start working with a hematologic oncologist on testing for systemic mastocytosis/MCAS. This will be a process there’s no quick answer on this. Just take it step by step.
+
+dental treatment & dry mouth
+
+potassium
+sodium
+magnesium
+iron
+zinc
+iodine
+
+adrenaline
+
+Soliman Auricular Allergy Treatment (SAAT)
+
+[Tui Na](../tui-na/
+[Qigong](../qigong/)
+[Tai Chi](../tai-chi/)
+
+[calcium](../calcium/)
+[magnesium](../magnesium)
+[iron](../iron/)
+[zinc](../zinc/)
+
+Avenin is a protein in oats, representing a minor fraction of the grain's total protein content. While it is structurally similar to gluten, it ...
+
+Biopsy of skin or other lesions for mastocytosis & other mast cell disorders: I've been told that CD (cluster of differentiation) tests are useful as is a KIT test: CD 25, 117, and KIT816V.  
+
+Apple wax coating "Apeel". Try organic Gala and regular Opal apples. 
+
+sorbitol intolerance
+
+they do look for specific markers in the urine and blood that does indicate mcas when they are elevated, such as N-methelhistamines, prostoglandins, leukotrienes, plasma histamine and other markers such as esr etc, i have the whole list and tests that my mast cell specialists gave me/ran on me, but this is off the top of my head, also dr Afrin also has books that explain them. When these all coinside it is indictive that the patient has mcas-that is the specific and proper testing made for mcas
+
+
+* **Tui Na:** Tui Na is a form of Chinese therapeutic massage that involves various manual techniques to stimulate acupressure points, promote energy flow, and alleviate musculoskeletal issues.
+
+* **Qigong and Tai Chi:** These are mind-body practices that involve specific postures, movements, and deep breathing to enhance physical health and mental health. They are often used for stress reduction.
+
+* **Moxibustion:** Moxibustion involves the burning of the herb mugwort near acupuncture points to stimulate energy flow and promote healing.
+
+recommended daily intakes (RDIs)
+dietary reference intakes (DRIs)
+
+nonsteroidal-anti-inflammatory-drugs (NSAIDs)
+Over the counter (OTC)
+hives
+medical history
+physical examination
+diagnostic tests
+biotoxins
+herbal medicine
+disease-modifying antirheumatic drugs (DMARDs)
+allergic rhinitis (hay fever)
+tryptase
+Borrelia
+Bartonella
+Babesia
+
+Bio-identical Hormone Replacement Therapy (BHRT)
+
+* Clemastine (brand name Tavist)
+* Promethazine (brand name Phenergan)
+* Fexofenadine (brand name Allegra)
+* Desloratadine (brand name Clarinex)
+* Levocetirizine (Xyzal)
+* Desloratadine (Clarinex)
+* Bilastine (Blexten)
+* Azelastine (Astelin)
+* Olopatadine (Patanase)
+* Cyproheptadine (Periactin)
+
+ Nucala (mepolizumab)? How did you qualify? A doctor brought it up to me but id only heard of xolair and dupixent for us
+
+ diatomaceous earth
+
+ https://youtu.be/QKPC6rq5TOk?feature=shared
+
+  Leukotriene E4?
+
+Enterohepatic cycling
+
+Brittle Cornea Syndrome (BCS) - The Ehlers Danlos Society
+BCS is a genetic connective tissue disorder that causes the cornea to be thin, fragile, and prone to rupture. BCS also causes blue sclerae and joint hypermobility.
+
+My dr has me on Astepro and nasalcrom for allergy meds. And also taking supplements OrthoMune, riboflavin, and vitamin c.
+
+Ask your immunologist to check you for KIT mutation.
+
+ Hereditary Angioedema (HAE)
+
+csid/sucrose intolerance , casein intolerance heat intolerance
+
+SAAT (acupuncture)
+
+I have this and it's PMDD. the only thing that drastically changed all my symptoms is to continuously take birth control pills and only give myself my period 3 times a yr. I don't want to have to be on birth control but my quality of life is better
+
+low histamine, flash frozen bison from NorthStar Bison (they ship to US and Canada)! I
+
+Did they test you for HLA DR panel?
+
+i take genexa liquid diphenhydramine for a flare
+
+chronic spontaneous urticaria
+
+When hives pop up, you can try a non-drowsy oral antihistamine like cetirizine, fexofenadine, or loratadine. At night, you might use a sedating antihistamine like cyproheptadine, diphenhydramine, doxepin, or hydroxyzine.
+
+Gaviscon advance helps. You can only get it on Amazon. They don’t sell it in the US. My ENT doc turned me on to it. Allergist said it’s hives in my throat.
+
+that's a good thought. I have tried multiple times to get him any kind of advance imaging (DTI, SWI, fMRI, PET scan, SPECT scan)
+
+I am interested in hearing more about Mestinon being the culprit. I have spent the last year plus losing my reflexes and now have no reflexes or function in my legs. Mestinon was brought up as a potential link but was not where they landed.
+
+FAILSAFE RPAH diet
+
+###
+
+I have a severe adhesive allergy (blisters, chemical burns, permanent scarring) and have a central line (tunneled catheter) that's had to have medical adhesive dressings on it 24/7 for the last 3 years. For the sake of my fingers I don't want to type it all out but if you can't watch the video, just let me know and I will do so. To summarize, my 3 tips included: the names of several hypoallergenic, special adhesive products you can order, but in the case of heart monitors, either ask for pediatric heart monitor stickies if they have them (not everywhere does) or any they offer for sensitive skin, or follow suggestions #2 and #3 which were to use barrier products (SkinPrep, Cavilon Barrier Cream, etc) and to pre-treat with cromolyn sodium and/or benadryl and/or flonase. Or ideally a combination, as each are separate - cromolyn sodium is a mast cell stabilizer, benadryl is an antihistamine, and flonase is a steroid which is a potent antiinflammatory and mast cell stabilizer, be sure to use the liquid forms not the creams which will make the pads not stick properly and not register signals properly, apply them on the skin first and let it air dry before putting on the adhesive pads. Additionally, I recommend asking for copious extra pads so that you can change them out more frequently if needed to reapply benadryl and handle skin reactions. Hope some of this helps and let me know if you can't watch the video.
+5
+
+
+ ###
+
+ Here is a list of the MCAS symptoms that are most commonly seen in the patients within the practices of Drs. Lawrence Afrin and Tania Dempsey. (Both have treated hundreds of MCAS patients and are experts in this area.) They have organized the list by organ system to enable this initial step.
+Not a bad idea to print it out and highlight whatever applies. MCAS is notorious for producing symptom patterns that change over time, so be sure to include any applicable symptoms that appeared in the past but have since resolved.
+https://www.drtaniadempsey.com/.../clinical...
+For additional information on MCAS, you'll find that most any article or interview on the subject by either of the above two doctors can be helpful. (Trying to educate yourself using random search engine results tends to backfire because there is a considerable amount of misinformation out there. If you first explore what's available from Drs. Afrin and Dempsey you'll gradually learn to recognize the difference.)
+Here is an introductory overview that Dr. A wrote that can be helpful for new patients and their families:
+https://www.drtaniadempsey.com/.../mast-cell-activation...
+In this interview conducted by the journalist Aaron Goodman, Dr. A delves more into several aspects of MCAS that are mentioned in the above article:
+https://www.chemicalsensitivitypodcast.org/1970633/11295557
+
+###
+
+ There is an enzyme, Diamine Oxidase (DAO), that breaks down histamines in the body that some humans genetically make little to none of. Yes, there is supplementation for it, but many forget most humans have been designed to make it themselves. This is only one root cause for histamine intolerance, and there are many root causes.
+Add that Mast cells can explode and give us an overabundance of histamines that cannot be processed fast enough.
+There is also a term called histaminosis, which is a very true, and I have personally dealt with it.
+These concepts are usually enough for me to teach said non-believers about the truth of histamines.
+The education system is significantly behind, and these groups of like afflicted people are far ahead on the newest data on their conditions; we are the awareness spreaders, and we are part of the latest education. 
+
+
+
+### air-filters Air filters
+/Users/jph/git/sixarm/mast-cell-help/topics/volatile-organic-compounds/index.md
+
+### allergies Allergies
+/Users/jph/git/sixarm/mast-cell-help/topics/elimination-diet-for-conditions/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cells-united-by-amber-walker/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/allergy-types/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/the-4-phase-histamine-reset-plan-by-becky-campbell/index.md
+
+### allergy-testing Allergy testing
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma-diagnosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma/index.md
+
+### anaphylaxis Anaphylaxis
+/Users/jph/git/sixarm/mast-cell-help/topics/allergies/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-symptoms/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-emergency-treatment/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/hypotension-causes/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-diagnosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/hypertryptasemia/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-emergency-room/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-treatments/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-emergency-grades/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-symptoms/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/anaphylaxis-severity/index.md
+
+### antifungal-medications Antifungal medications
+/Users/jph/git/sixarm/mast-cell-help/topics/shoemaker-biotoxin-illness-protocol/index.md
+
+### antihistamines Antihistamines
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-medications/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/antihistamine-types/index.md
+
+
+### asthma Asthma
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/ketotifen/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/cromolyn-sodium/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/allergy-types/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-disorders-by-anne-maitland/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/corticosteroids/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/gastroesophageal-reflux-disease/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/bronchospasm/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/authors-of-selected-papers/index.md
+
+### bartonella Bartonella
+/Users/jph/git/sixarm/mast-cell-help/topics/bartonellosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/lyme-disease-with-borrelia-bartonella-babesia/index.md
+
+### bartonellosis Bartonellosis
+/Users/jph/git/sixarm/mast-cell-help/topics/bartonella/index.md
+
+### bronchodilators Bronchodilators
+/Users/jph/git/sixarm/mast-cell-help/topics/bronchospasm-treatment/index.md
+
+### bronchospasm-treatment Bronchospasm treatment
+/Users/jph/git/sixarm/mast-cell-help/topics/bronchospasm-treatments/index.md
+
+### calcium Calcium
+/Users/jph/git/sixarm/mast-cell-help/topics/electrolytes/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/calcium-d-glucarate/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/vitamin-c-low-histamine-forms/index.md
+
+### copper Copper
+
+### corticosteroids Corticosteroids
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma-medications/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/bronchospasm-treatments/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma-treatments/index.md
+
+### diamine-oxidase Diamine oxidase
+/Users/jph/git/sixarm/mast-cell-help/topics/diamine-oxidase-supplements/index.md
+
+### dietary-supplements-considerations Dietary supplements: considerations
+
+### dietary-supplements Dietary supplements
+/Users/jph/git/sixarm/mast-cell-help/topics/turmeric/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/dietary-supplements-considerations/index.md
+
+### dysautonomia Dysautonomia
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/management-of-mast-cell-activation-syndrome-by-david-saperstein/index.md
+
+### dysbiosis Dysbiosis
+/Users/jph/git/sixarm/mast-cell-help/topics/microbiota/index.md
+
+### ehlers-danlos-syndrome Ehlers-Danlos syndrome (EDS)
+
+### electrolyte-imbalance Electrolyte imbalance
+
+### electrolytes Electrolytes
+
+### elemental-diet Elemental diet
+
+### elimination-diet-foods-to-avoid Elimination diet: foods to avoid
+
+### elimination-diet-foods-to-choose Elimination diet: foods to choose
+
+### elimination-diet-for-conditions Elimination diet for conditions
+
+### elimination-diet Elimination diet
+/Users/jph/git/sixarm/mast-cell-help/topics/elimination-diet-foods-to-avoid/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/elimination-diet-foods-to-choose/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/elimination-diet-for-conditions/index.md
+
+### endometriosis Endometriosis
+/Users/jph/git/sixarm/mast-cell-help/topics/endosalpingiosis/index.md
+
+### genetic-mutation Genetic mutation
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-genetics/index.md
+
+### glutathione Glutathione
+/Users/jph/git/sixarm/mast-cell-help/topics/ferroptosis/index.md
+
+### graded-exercise-therapy Graded Exercise Therapy (GET)
+
+### gupta-brain-retraining Gupta Brain Retraining
+
+### gut-and-psychology-syndrome-diet Gut and Psychology Syndrome (GAPS) diet
+
+### gut-brain-connection Gut-brain connection
+
+### health-effects-roster-of-type-specific-formers-of-mycotoxins-and-inflammagens-2 Health Effects Roster of Type-Specific Formers of Mycotoxins and Inflammagens - 2nd Version (HERTSMI-2)
+
+### heparin Heparin
+/Users/jph/git/sixarm/mast-cell-help/topics/what-are-mast-cells/index.md
+
+### hereditary-alpha-tryptasemia Hereditary Alpha-Tryptasemia (HαT)
+
+### histamine-intolerance-diagnosis Histamine intolerance: diagnosis
+
+### histamine-intolerance-dietary-triggers Histamine intolerance: dietary triggers
+
+### histamine-intolerance-severity Histamine intolerance: severity
+
+### histamine-intolerance-symptoms Histamine intolerance: symptoms
+
+### histamine-intolerance-treatments Histamine intolerance: treatments
+
+### histamine-intolerance Histamine intolerance (HI)
+
+### histamine-n-methyltransferase Histamine N-methyltransferase (HNMT)
+
+### histamine-testing Histamine testing
+
+### histamine Histamine
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-diagnosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/diamine-oxidase/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/living-with-heds-mcas-and-a-low-histamine-diet-by-kate-robinson/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/facebook-groups/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/food-triggers/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-dietary-triggers/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-n-methyltransferase/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-versus-histamine-intolerance/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-symptoms/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-dietary-modifications/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/books/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/videos/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/what-are-mast-cells/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/glossary-of-medical-conditions/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-treatments/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/the-4-phase-histamine-reset-plan-by-becky-campbell/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/diamine-oxidase-supplements/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-severity/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-testing/index.md
+
+### household-triggers Household triggers
+
+### how-to-find-a-doctor-or-provider How to find a doctor or provider?
+
+### hypertryptasemia Hypertryptasemia
+
+### hypoallergenic-products Hypoallergenic products
+
+### hypotension-causes Hypotension causes
+
+### hypotension Hypotension
+/Users/jph/git/sixarm/mast-cell-help/topics/hypotension-causes/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/presyncope/index.md
+
+### inflammation Inflammation
+/Users/jph/git/sixarm/mast-cell-help/topics/cytokine-storm/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/neuroinflammation/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/c-reactive-protein/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/omega-3/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/interleukin-6/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/what-are-mast-cells/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/gastroesophageal-reflux-disease/index.md
+
+### limbic-system Limbic system
+/Users/jph/git/sixarm/mast-cell-help/topics/limbic-system-impairment/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/limbic-system-retraining/index.md
+
+
+### lyme-disease-with-borrelia-bartonella-babesia Lyme disease with Borrelia, Bartonella, Babesia
+
+### lyme-disease Lyme disease
+/Users/jph/git/sixarm/mast-cell-help/topics/mcas-how-to-regain-control/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/chronic-inflammatory-response-syndrome/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cells-united-by-amber-walker/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/toxic-by-neil-nathan/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/lyme-disease-with-borrelia-bartonella-babesia/index.md
+
+### lymph-node Lymph node
+/Users/jph/git/sixarm/mast-cell-help/topics/lymph/index.md
+
+### lymph Lymph
+/Users/jph/git/sixarm/mast-cell-help/topics/lymphatic-system/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/white-blood-cell/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/lymph-node/index.md
+
+### lymphatic-system Lymphatic system
+
+### lysine-proline-valine Lysine-proline-valine (KPV)
+
+### macronutrients-and-micronutrients Macronutrients and micronutrients
+
+### magnesium-glycinate Magnesium glycinate
+
+### mast-cell-activation-syndrome-diagnosis-consensus-2-criteria Mast Cell Activation Syndrome (MCAS): diagnosis consensus-2 criteria
+
+### mast-cell-activation-syndrome-diagnosis-via-clinical-evaluation Mast Cell Activation Syndrome (MCAS): diagnosis via clinical evaluation
+
+### mast-cell-activation-syndrome-diagnosis-via-laboratory-tests Mast Cell Activation Syndrome (MCAS): diagnosis via laboratory tests
+
+### mastocytosis Mastocytosis
+/Users/jph/git/sixarm/mast-cell-help/topics/cutaneous-mastocytosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/indolent-systemic-mastocytosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/facebook-groups/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/systemic-mastocytosis-with-associated-hematologic-neoplasm/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/support-groups/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-genetics/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/systemic-mastocytosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/glossary-of-medical-conditions/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/how-to-find-a-doctor-or-provider/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/authors-of-selected-papers/index.md
+
+### mcas-how-to-regain-control MCAS: How to Regain Control
+
+### meditation Meditation
+/Users/jph/git/sixarm/mast-cell-help/topics/vagus-nerve-reset/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/alternative-therapies/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/self-soothing/index.md
+
+### microbiota Microbiota
+/Users/jph/git/sixarm/mast-cell-help/topics/dysbiosis/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/gut-brain-connection/index.md
+
+### mold-exposure Mold exposure
+/Users/jph/git/sixarm/mast-cell-help/topics/mold-exposure-diagnostics/index.md
+
+### multiple-antibiotic-resistant-coagulase-negative-staphylococci Multiple Antibiotic Resistant Coagulase Negative Staphylococci (MARCoNS)
+
+### neuroinflammation Neuroinflammation
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+
+### never-bet-against-occam-by-lawrence-afrin Never Bet Against Occam - By Lawrence Afrin
+/Users/jph/git/sixarm/mast-cell-help/topics/books/index.md
+
+### nicotinamide-adenine-dinucleotide-intravenous-therapy Nicotinamide adenine dinucleotide (NAD+) intravenous (IV) therapy
+
+### nutrition-testing Nutrition testing
+
+### nutritional-shakes Nutritional shakes
+
+### omalizumab Omalizumab (brand name Xolair)
+
+### omega-3 Omega-3
+/Users/jph/git/sixarm/mast-cell-help/topics/dietary-supplements/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/nutrition-testing/index.md
+
+### people People
+/Users/jph/git/sixarm/mast-cell-help/topics/brain-fog/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/sick-building-syndrome/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/introduction/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/asthma-symptoms/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/antiphospholipid-syndrome/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/ketogenic-diet/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-severity/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/ehlers-danlos-syndrome/index.md
+
+### platelet Platelet
+/Users/jph/git/sixarm/mast-cell-help/topics/circulatory-system/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/blood-cells/index.md
+
+### probiotic-supplements Probiotic supplements
+/Users/jph/git/sixarm/mast-cell-help/topics/histamine-intolerance-treatments/index.md
+
+### progressive-muscle-relaxation Progressive Muscle Relaxation (PMR)
+
+### prostaglandin-d2-test Prostaglandin D2 (PGD2) test
+
+### quercetin Quercetin
+/Users/jph/git/sixarm/mast-cell-help/topics/alternative-therapies/index.md
+
+### red-blood-cell Red blood cell (RBC)
+
+### rheumatoid-arthritis Rheumatoid arthritis (RA)
+
+### scar-tissue-adhesions Scar tissue adhesions
+
+### self-soothing Self-soothing
+
+### serum-tryptase-test Serum tryptase test
+
+### shine-protocol SHINE protocol
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-conference-presentations/index.md
+
+### the-4-phase-histamine-reset-plan-by-becky-campbell The 4-Phase Histamine Reset Plan - By Becky Campbell
+/Users/jph/git/sixarm/mast-cell-help/topics/books/index.md
+
+### the-trifecta-passport-by-amber-walker The Trifecta Passport – By Amber Walker
+/Users/jph/git/sixarm/mast-cell-help/topics/books/index.md
+
+### toxic-by-neil-nathan Toxic - By  Neil Nathan
+
+### tryptase Tryptase
+/Users/jph/git/sixarm/mast-cell-help/topics/hypertryptasemia/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/serum-tryptase-test/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-genetics/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-tryptase-stimulation-test/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/hereditary-alpha-tryptasemia/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/mast-cell-activation-syndrome-diagnosis-via-laboratory-tests/index.md
+
+### turmeric Turmeric
+/Users/jph/git/sixarm/mast-cell-help/topics/antimicrobial-herbs/index.md
+
+### understanding-histamine-intolerance-and-mast-cell-activation-by-mariska-wild-scholten Understanding Histamine Intolerance & Mast Cell Activation - By Mariska Wild-Scholten
+/Users/jph/git/sixarm/mast-cell-help/topics/books/index.md
+
+### understanding-mast-cell-activation-disorders-by-niaid Understanding Mast Cell Activation Disorders - By NIAID
+/Users/jph/git/sixarm/mast-cell-help/topics/videos/index.md
+
+### vagus-nerve-reset Vagus nerve reset
+
+### vasoactive-intestinal-peptide Vasoactive Intestinal Peptide (VIP)
+
+### ventilation Ventilation
+/Users/jph/git/sixarm/mast-cell-help/topics/air-filters/index.md
+
+### videos Videos
+### vitamin-c Vitamin C
+/Users/jph/git/sixarm/mast-cell-help/topics/vitamin-c-low-histamine-forms/index.md
+/Users/jph/git/sixarm/mast-cell-help/topics/alternative-therapies/index.md
+
+### vitamin-d Vitamin D
+/Users/jph/git/sixarm/mast-cell-help/topics/nutrition-testing/index.md
+
+###
+
+Michelle Denise 
+
+No sugar, all processed foods, gluten and dairy. Sugar was the hardest. I craved it so bad for a week. But after a week I didn’t crave it and 
+
+Sweet potatoes tasted like dessert with just butter and salt.
+I have a few safe foods that I have no reaction to and I’m introducing more one at a time.
+
+**Safe foods:**
+
+* Gluten-Free Oatmeal.
+
+* Egg yolks. Ideally organic and free-range.
+
+* Boiled Chicken. No artificial hormones. Ideally organic and free-range.
+
+* Boiled Salmon. No artificial hormones. Ideally wild-caught, either same-day or flash-frozen.
+
+* Basmati Rice and Jasmine Rice. Ideally organic and GMO-free.
+
+* Sweet potatoes.
+
+* Popcorn. No microwave bags. No artificial colors/flavors. Ideally organic and GMO-free.
+
+* Cucumbers.
+
+* Honeycrisp Apples.
+
+**For all foods:**
+
+* Seek foods that are organic, or locally-grown, or GMO-free.
+
+* Minimize factory farming. For meat, prefer free range and/or grass-fed.
+
+* Minimize processing delays. Buy and cook the same day, or buy pre-frozen.
+
+* Eliminate leftovers. This is because some foods develop some triggers over some time.
+
+* Eliminate artificial colors, artificial flavors, artifical hormones.
+
+* Eliminate chemical pesticides, chemical herbicides, chemical fungicides.
+
+
+
+
+
+
+I have cromolyn 3 times a day before meals
+Morning meds: 2 Zyrtec, 2 Pepcid, 250mg quercetin
+Lunch: 250mg quercetin
+Night: 1 Zyrtec, 1 ketotifin, 2 Pepcid, 500mg quercitin. 1 210mg magnesium
+
+###
+
+Auto-Brewery Syndrome
+
+Dye-free Benadryl
+
+Compounded medications
+
+cetrizine gel capsules
+
+
+###
+
+# Mast Cell Activation Syndrome (MCAS) or Histamine Intolerance (HI)
+
+THE 12-STEP SHOEMAKER PROTOCOL OVERVIEW
+https://www.survivingmold.com/legal-resources/12-step-protocol-overview
+
+https://masterymedical.com/cirs-mold-services-2/
+
+### Good ###
+
+Always:
+
+* Breathe slower
+* Drink water
+* Drink hot herbal tea
+* Gargle warm salt water
+* Chamomile tea
+* Bacillus coagulans - histamine-lowering strain of probiotics, and also can help reduce oxalates.
+
+Daily supplements:
+
+* Multivitamin
+* Diamine oxidase
+* Glucosamine
+* Omega-3
+* Vitamin C
+
+Bedtime calm-feeling elixir:
+
+* Boil 2 cups water, and a clean banana with skin, for 10 minutes
+* Add 1/2 teaspoon cinnamon
+* Add 1/4 teaspoon cardamom
+
+Good for brain:
+
+* chili peppers
+* ginko supplements
+* omega-3 supplements
+* beets
+
+Omega-3 supplement:
+
+* 1000-2000 mg daily (NTE 1000mg at a time. Ideally 1000mg in morning and 1000mg in evening.)
+
+Liver-supporting foods:
+
+* bitter greens
+* dandelion
+* milk thistle
+* berries
+* beetroot
+* ginseng
+
+Cut back on amylose, a carbohydrate found in mainly in starchy foods that grow underground like potatoes, sweet potatoes, peanuts, carrots, cereal grains. This lowers MMP-9 levels. This is an aspect of the Shoemaker protocol.
+
+Good foods for me:
+
+* cruciferous vegetables
+* 100% coconut milk
+* fatty fish
+
+Recipe for Mast Cell Activation Syndrome or Histamine Intolerance:
+
+1. Heat up olive oil in a large pot.
+2. Add a couple of onions and cook until translucent.
+3. Then add chunks of meat (about 2 lbs), browning slightly on all sides.
+4. Add low histamine low oxalate vegetables and herbs (parsnips, leeks, oregano, parsley, rosemary, sage, thyme).
+5. Cover with water and bring to a boil. Allow to continue boiling for 10-20 minutes.
+
+
+Cruciferous vegetables such as:
+
+* broccoli
+* cabbage
+* cauliflower
+* kale
+* garden cress
+* bok choy
+* Brussels sprouts
+* mustard plant
+* collard greens
+
+Other vegetables:
+
+* horseradish
+* kale  
+* radishes
+* rutabaga
+* turnips
+* wasabi
+
+Bitter vegetables such as:
+
+* arugula
+* endive
+* dandelion leaves
+* watercress
+
+Fermenteds:
+
+* Raw sauerkraut
+* Kimchi
+* Coconut milk yogurt
+* Almond milk yogurt
+
+Prebiotics:
+
+* Green banana flour
+* Onions
+* Garlic
+* Tigernuts
+
+Polyphenols:
+
+* Blueberries
+* Blackberries
+* Raspberries
+* Extra virgin olive oil
+* Purple sweet potato
+
+Antifungals:
+
+* Coconut oil
+* Garlic
+* Basil, oregano, thyme
+* Ceylon cinnamon
+* Turmeric
+* Raw honey
+
+### Bad  ###
+
+* Grains
+* Red meat
+* Red milk i.e. milk from red meat animals
+* Dried fruits
+* Conventional coffee
+* Wine and beer
+* Nuts and seeds
+* Chocolate
+* Most spices
+* Black tea
+* Puero tea
+* Fermented dairy products, such as cheese (especially aged), yogurt, sour cream, buttermilk, and kefir
+* Fermented vegetables, such as sauerkraut and kimchi
+* Fermented soy products such as tempeh, miso, soy sauce, and natto
+* Fermented grains, such as sourdough bread
+* Pickles
+* Pickled veggies
+* Kombucha
+* Cured or fermented meats, such as sausages, salami, and fermented ham
+* Wine
+* Beer
+* Alcohol
+* Champagne
+* Tomato
+* Tomato ketchup
+* Eggplant
+* Spinach
+* Frozen, salted, or canned fish, such as sardines and tuna
+* Vinegar
+* Apple cider vinegar
+
+Grains:
+
+* Wheat
+* Barley
+* Oats
+* Rye
+* Corn
+* Rice
+* Sorghum
+* Triticale
+
+High histamine foods include:
+
+* Wine
+* Beer 
+* Avocado
+* Nuts
+* Milk
+* Soybeans
+* Mushrooms
+* Chocolate
+* Shellfish
+* Eggs
+* Oily fish
+* Strawberries
+* Pineapple
+
+
+Foods that trigger histamine release in the body:
+
+Several foods can also trigger histamine release in your body, such as:
+
+* alcohol
+* bananas
+* tomatoes
+* wheat germ
+* beans
+* papaya
+* chocolate
+* citrus fruits
+* nuts, specifically walnuts, cashews, and peanuts
+* food dyes and other additives
+* fish
+* pork
+
+* bone broth
+* collagen and gelatin - because it is high in the amino acid hydroxyproline, which can get converted to oxalates in your body, particularly if you are deficient in vitamin B6.
+* moringa - because it is high in oxalates, even though it is often recommended as an anti-inflammatory superfood.
+* celery juice - because it’s very high oxalate, and many kinds are also high in pesticide residues.
+
+* black tea and green tea - because high in oxalates.
+* kombucha
+* carrageenan (additive)
+* xanthan gum (additive)
+
+Corn products - because corn is a high lectin food, and can trigger mast cells, and tends to be high in pesticides, and tends to harbor mold and mold toxins, and is cross-reactant with wheat, and is difficult to digest.
+
+* corn
+* corn starch
+* corn meal
+* corn syrup
+* corn chips
+* corn tortillas
+* popcorn
+* glucose (from corn)
+* dextrose
+* cow milk and milk products - because they are full of lectins.
+
+
+##
+
+mold
+pollen
+pet dander
+dust mites
+foods
+grasses
+chemicals
+milk
+
+* indoor allergens
+  * dust mites
+  * molds
+  * cockroach dander
+  * cat dander
+  * dog dander
+* outdoor allergens
+  * pollens of trees
+  * weeds
+  * grasses
+* foods 
+  * milk
+  * egg
+  * soya
+  * nuts (peanuts, cashew nut, walnut, almond, pistachio)
+  * fish
+  * seafood
+  
+
+## Mycotoxin
+
+A. flavipes
+A. fumigatus
+A. niger
+A. ochraceus
+A. parasiticus
+A. sydowii
+A. versicolor
+A. viridictum
+Acremonium sp.
+Alternaria
+Aspergillus flavus
+Aureobasidium
+Chaetomium
+Cladosporium
+Cunninghamella
+Cylindrocarpon
+Dendrodochium
+Exophiala
+F. cerealis
+F. clumonrum
+F. equiseti
+F. graminearum
+F. incarnatum
+F. moniliforme
+F. solani
+F. verticillioides
+Fusarium avenaceum
+M. verrucaria
+Myrothecium roridum
+P. nordicum
+P. stoloniferum 
+P. verrucosum
+Penicillium carbonarius
+Phoma sp.
+Rhodotorula
+S. chartarum
+Scopulariopsis
+Stachybotrys
+Trichoderma viride
+Ulocaldium
+Verticillium
+
+ 
+###
+
+# Systemic mastocytosis (SM)
+
+Systemic mastocytosis (SM) is a clonal mast cell neoplasm associated with the uncontrolled proliferation and activation of abnormal mast cells.2,3
+
+https://www.suspectsm.com/test-for-kit-d816v
+https://oncology.labcorp.com/blueprintsm
+
+## Subtypes
+
+Non-advanced SM:
+
+* Indolent SM (ISM)
+
+* Smoldering SM (SSM)
+
+Advanced SM:
+
+* Agressive SM (ASM)
+
+* Mast cell leukemia (MCL)
+
+* SM with associated (SM-AHN)
+
+
+eosinophilic esophogitis
+liza perel 310-720-3748
+
+antinutrient
+
+oxalate
+ChatGPT
+
+Oxalate, or oxalic acid, is a naturally occurring compound found in many plants and in the human body. It is an organic acid that is present in various foods and is also produced as a metabolic byproduct. Oxalate plays a role in several physiological processes but is primarily known for its association with kidney stones and certain dietary considerations. Here are some key points about oxalate:
+
+    Dietary Sources: Oxalate is found in a wide range of foods, including leafy greens (such as spinach and Swiss chard), beets, nuts, seeds, chocolate, and certain fruits and vegetables. It can also be found in tea and coffee. The levels of oxalate in foods can vary, with some items having significantly higher concentrations than others.
+
+    Kidney Stones: Oxalate is a key component of many kidney stones, particularly calcium oxalate stones. When there is an excess of oxalate in the urine, it can combine with calcium to form crystals, which can lead to the development of kidney stones. People who are prone to kidney stones are often advised to limit their dietary oxalate intake.
+
+    Oxalate Metabolism: The human body can both produce oxalate and obtain it from dietary sources. The metabolism of oxalate is complex, and various factors can influence how the body handles it, including genetics and the presence of certain bacteria in the gut.
+
+    Health Implications: While oxalate is generally not harmful to most people and is a part of many healthy foods, high levels of dietary oxalate may be problematic for those at risk of developing kidney stones. Certain medical conditions, such as hyperoxaluria, can lead to elevated levels of oxalate in the urine, increasing the risk of stone formation.
+
+    Cooking and Preparation: Cooking and other food preparation methods can affect the oxalate content of foods. Boiling vegetables can reduce their oxalate content as it leaches into the cooking water. However, some oxalate remains in the food, so complete elimination is not possible.
+
+    Individual Variation: People vary in their sensitivity to dietary oxalate. Some individuals may be more susceptible to kidney stone formation, while others can consume high-oxalate foods without issue. It's important for those with a history of kidney stones or other concerns related to oxalate to work with healthcare providers and dietitians to manage their dietary choices.
+
+In summary, oxalate is a natural compound found in various foods and is involved in the formation of kidney stones in some individuals. While dietary oxalate is not a concern for most people, those at risk of kidney stones should be mindful of their oxalate intake and consult with healthcare professionals for guidance on managing their diet.
+User
+oxalate and mast cells
+ChatGPT
+
+Oxalate is a natural compound found in various foods, as mentioned in the previous response, and it has the potential to interact with mast cells in the body. Mast cells are a type of immune cell that plays a role in allergic reactions and inflammation. When mast cells are activated, they can release various substances, including histamine and other inflammatory mediators, which can lead to allergy symptoms and other immune responses.
+
+In some individuals, dietary oxalate intake can lead to mast cell activation and the release of histamine, resulting in symptoms such as hives, itching, flushing, abdominal pain, and gastrointestinal disturbances. This is more likely to occur in people who have a condition called mast cell activation syndrome (MCAS) or other mast cell disorders, where mast cells are overly sensitive and easily triggered by various stimuli, including dietary factors.
+
+It's important to note that not everyone with a mast cell disorder will react to dietary oxalate, and the extent of the reaction can vary from person to person. Some individuals may need to limit their oxalate intake to manage their symptoms, while others may not experience significant issues with oxalate-rich foods.
+
+People with mast cell disorders often work closely with healthcare providers, such as allergists and immunologists, to develop individualized dietary plans and treatment strategies to manage their condition. These plans may include avoiding or limiting foods high in oxalate or other potential triggers, as well as the use of medications to control mast cell activation and its associated symptoms.
+
+If you suspect that dietary oxalate is affecting your mast cell disorder or experiencing symptoms that may be related to mast cell activation, it's important to consult with a healthcare professional who specializes in these conditions. They can provide guidance and perform necessary evaluations to help you manage your specific situation.
+User
+eosinophil
+ChatGPT
+
+Eosinophils are a type of white blood cell, specifically a type of granulocyte, that plays a role in the immune system and is involved in the body's response to various infections, allergens, and certain inflammatory conditions. Eosinophils are characterized by the presence of granules in their cytoplasm, which contain substances that are released during their activation.
+
+Here are some key points about eosinophils:
+
+    Function: Eosinophils play a role in the immune response against parasites, particularly helminths (worm-like parasites). They are also involved in the allergic response, such as in allergic rhinitis, asthma, and eczema. Eosinophils are attracted to sites of inflammation and infection and contribute to the immune response by releasing chemical mediators, such as histamines, leukotrienes, and cytokines.
+
+    Regulation of Inflammation: Eosinophils help regulate the body's inflammatory responses. While they are typically associated with allergies and asthma, they can also be found in other inflammatory conditions, such as eosinophilic esophagitis and some autoimmune diseases.
+
+    Normal Levels: Eosinophils are present in the bloodstream, but their numbers are relatively low under normal conditions. The typical range for eosinophils in a complete blood count (CBC) is around 0 to 500 cells per microliter of blood.
+
+    High Eosinophil Count: An increase in the number of eosinophils in the blood, known as eosinophilia, can be a sign of various medical conditions. These may include allergies, parasitic infections, asthma, eosinophilic esophagitis, and some types of leukemia or other blood disorders.
+
+    Diagnostic Value: Measuring eosinophil levels through a blood test can be valuable for diagnosing and monitoring certain diseases and conditions. High eosinophil levels might indicate the need for further evaluation to determine the underlying cause.
+
+    Treatment: Management of elevated eosinophil counts often depends on the underlying condition. For allergic reactions, antihistamines, corticosteroids, and other medications may be used to reduce eosinophil activation and the associated symptoms.
+
+    Mast Cells: Eosinophils are sometimes associated with mast cells, another type of immune cell that releases histamines and other substances during allergic responses and inflammatory reactions. Both eosinophils and mast cells can contribute to the symptoms of allergic diseases.
+
+Eosinophils are a critical component of the immune system and help the body fight off infections and respond to various stimuli. Elevated eosinophil levels can indicate an underlying health issue and may require further investigation by a healthcare provider to determine the appropriate treatment and management.
+
+###
+
+User
+central sensitisation syndrome
+ChatGPT
+
+Central Sensitization Syndrome (CSS) is a term used to describe a condition in which the central nervous system becomes hypersensitive, leading to an amplified and prolonged perception of pain and other sensory stimuli. It is a neurological phenomenon that is thought to underlie the development and maintenance of chronic pain conditions and other symptoms.
+
+Key points about Central Sensitization Syndrome (CSS) include:
+
+    Mechanism: CSS is characterized by changes in the way the central nervous system processes sensory input, particularly pain signals. It results from increased responsiveness of neurons in the central nervous system (the brain and spinal cord) to various stimuli. This heightened sensitivity can lead to the experience of pain even in response to non-painful or mildly painful stimuli.
+
+    Common Symptoms: CSS is often associated with chronic pain conditions, such as fibromyalgia, chronic fatigue syndrome (myalgic encephalomyelitis), irritable bowel syndrome (IBS), and certain types of headaches. Patients with CSS may also experience fatigue, sleep disturbances, cognitive difficulties (sometimes referred to as "fibro fog"), and emotional symptoms like anxiety and depression.
+
+    Diagnosis: Diagnosing CSS can be challenging because it is a complex and multifaceted condition. Healthcare providers often rely on clinical evaluation, patient-reported symptoms, and the exclusion of other underlying medical conditions to make a diagnosis. There are no specific tests or imaging studies to confirm CSS.
+
+    Triggers: CSS can be triggered or exacerbated by various factors, including physical trauma, surgery, infections, psychological stress, and genetic predisposition.
+
+    Treatment: The management of CSS often involves a multimodal approach. This may include medications to address pain and associated symptoms, physical therapy, cognitive-behavioral therapy, relaxation techniques, and lifestyle modifications. Reducing stress and improving sleep quality can be particularly important in managing CSS.
+
+    Education: Patients with CSS can benefit from education about their condition to better understand the mechanisms behind their symptoms. Knowing that the pain and sensitivities are related to central nervous system changes can be empowering and help patients participate in their treatment and self-care.
+
+    Prognosis: CSS is considered a chronic condition, and management focuses on symptom relief and improving the patient's quality of life. While CSS symptoms can be persistent, many individuals experience improvements with appropriate care and lifestyle adjustments.
+
+It's important for individuals experiencing chronic pain or other symptoms associated with CSS to seek evaluation and treatment from healthcare providers, including pain specialists, neurologists, or rheumatologists. A comprehensive approach to managing CSS often includes both medical and non-medical interventions to address the physical, emotional, and cognitive aspects of the condition.
+User
+Prolotherapy
+ChatGPT
+
+Prolotherapy, short for "proliferative therapy," is a medical treatment used to stimulate the body's natural healing processes and promote tissue repair in cases of chronic musculoskeletal pain and certain joint-related conditions. It is also known as regenerative injection therapy. Prolotherapy involves the injection of an irritant solution into damaged or weakened ligaments, tendons, or joints to initiate a localized inflammatory response, leading to tissue repair and strengthening.
+
+Key points about prolotherapy include:
+
+    Mechanism: Prolotherapy works on the principle that introducing a mildly irritating substance, often a dextrose (sugar water) solution, into an injured or weakened area can stimulate inflammation and healing. The inflammatory response is thought to trigger the body's natural repair mechanisms, leading to the production of new collagen and tissue strengthening.
+
+    Conditions Treated: Prolotherapy is typically used for conditions such as chronic low back pain, osteoarthritis, tendinitis, ligament sprains, and joint instability. It may be considered when conventional treatments, like physical therapy or pain medications, have not provided sufficient relief.
+
+    Procedure: During a prolotherapy session, a healthcare provider injects the solution directly into the affected ligaments, tendons, or joint spaces. The number of sessions required depends on the condition and the individual's response to treatment. Multiple sessions are usually needed to achieve the desired results.
+
+    Safety: Prolotherapy is generally considered safe when administered by trained healthcare professionals. Potential side effects may include temporary pain, swelling, or stiffness at the injection site. Serious complications are rare but can occur.
+
+    Efficacy: The effectiveness of prolotherapy is a subject of ongoing research and debate. Some studies suggest that it may provide pain relief and functional improvement in certain cases, while others question its long-term benefits.
+
+    Patient Selection: Prolotherapy is not suitable for everyone, and its use should be determined on a case-by-case basis. A healthcare provider will assess whether the individual is a suitable candidate based on their specific condition and medical history.
+
+    Complementary or Alternative Treatment: Prolotherapy is considered a complementary or alternative therapy and may be used in conjunction with other treatments for musculoskeletal pain. Patients are often advised to consider lifestyle modifications, exercise, and physical therapy in addition to prolotherapy.
+
+It's essential for individuals considering prolotherapy to have a thorough discussion with a qualified healthcare provider who can evaluate their specific condition and discuss the potential benefits, risks, and alternatives. While some patients report significant pain relief and improved function with prolotherapy, its effectiveness can vary, and the decision to pursue this treatment should be based on an informed and individualized assessment.
+User
+cerebrolysin
+ChatGPT
+
+Cerebrolysin is a medication and neuropeptide preparation that is used to treat various neurological and neurodegenerative disorders. It is derived from pig brain tissue and contains a mixture of peptides, amino acids, and other biologically active substances. Cerebrolysin is believed to have neurotrophic and neuroprotective properties, which means it may support the growth and health of nerve cells in the brain.
+
+Key points about Cerebrolysin include:
+
+    Neurological Conditions: Cerebrolysin is primarily used in the treatment of various neurological disorders and conditions, including Alzheimer's disease, vascular dementia, stroke, traumatic brain injury, and cognitive impairment. It is not a cure for these conditions but is used to alleviate symptoms and potentially slow disease progression.
+
+    Mechanism of Action: The exact mechanism of Cerebrolysin's action is not fully understood, but it is thought to promote neuroplasticity, enhance brain cell survival, and protect neurons from damage. It may also have anti-inflammatory and antioxidant effects.
+
+    Administration: Cerebrolysin is typically administered by injection into a vein (intravenous) or into a muscle (intramuscular). Treatment regimens may vary depending on the condition being treated and the healthcare provider's recommendations.
+
+    Research and Efficacy: The use of Cerebrolysin is a subject of ongoing research, and its effectiveness remains a topic of debate. Some clinical studies have suggested potential benefits in improving cognitive function and quality of life in certain patient populations, while others have not found significant benefits.
+
+    Safety and Side Effects: Cerebrolysin is generally well-tolerated, but side effects may include mild gastrointestinal symptoms, headache, or flu-like symptoms. Serious adverse reactions are rare, but allergic reactions can occur.
+
+    Availability: Cerebrolysin is available in some countries but may not be approved or widely used in others. It is important to consult with a healthcare provider to determine whether it is a suitable treatment option and whether it is available in a particular region.
+
+    Consultation: Individuals considering Cerebrolysin should consult with a healthcare provider, ideally a neurologist or specialist in the relevant neurological condition. The decision to use Cerebrolysin should be based on a thorough evaluation and discussion of potential risks and benefits.
+
+Cerebrolysin is not considered a first-line treatment for neurological conditions, and its use may be explored when other conventional treatments have not provided sufficient relief or when healthcare providers believe it may complement existing therapies. The choice to use Cerebrolysin should be based on individual patient needs and careful consideration of the available evidence.
+User
+cognitive behavioral therapy
+ChatGPT
+
+Cognitive Behavioral Therapy (CBT) is a widely practiced and evidence-based form of psychotherapy that focuses on helping individuals identify and change patterns of thinking and behavior that contribute to their psychological distress, emotional difficulties, and maladaptive behaviors. CBT is based on the premise that our thoughts, feelings, and behaviors are interconnected, and changing negative thought patterns can lead to improved emotional well-being and more constructive actions.
+
+Key points about Cognitive Behavioral Therapy (CBT) include:
+
+    Core Principles: CBT is rooted in several core principles, including the idea that our thoughts influence our emotions and behaviors, and that by recognizing and challenging unhelpful thought patterns, individuals can learn to manage and cope with their psychological issues more effectively.
+
+    Collaborative Approach: CBT is often delivered in a collaborative therapeutic relationship between the therapist and the client. The therapist helps the client identify and understand their thought patterns and behaviors and assists in developing new, healthier cognitive and behavioral strategies.
+
+    Identifying Cognitive Distortions: CBT helps individuals recognize and challenge cognitive distortions, which are irrational or negative thinking patterns. These distortions can include catastrophizing, black-and-white thinking, and overgeneralization, among others.
+
+    Goal-Oriented: CBT is typically a goal-oriented therapy. Clients work with their therapist to establish specific, achievable goals and learn skills and strategies to achieve those goals.
+
+    Time-Limited: CBT is often considered a time-limited therapy, meaning it is focused on achieving specific goals in a relatively short period, typically 12-16 weeks. However, the number of sessions may vary depending on individual needs and the nature of the issues being addressed.
+
+    Versatile: CBT is used to treat a wide range of psychological and emotional issues, including depression, anxiety disorders, post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), eating disorders, and substance use disorders, among others.
+
+    Evidence-Based: CBT is well-supported by scientific research and is considered one of the most effective psychotherapeutic approaches for various mental health conditions. It has been extensively studied and validated through clinical trials.
+
+    Self-Help and Homework: Clients in CBT often engage in homework assignments and practice exercises outside of therapy sessions to reinforce the skills they learn during treatment.
+
+    Adaptations: CBT has been adapted and modified for different populations and settings, including children and adolescents, couples, and group therapy.
+
+    Combining with Medication: In some cases, CBT may be used in conjunction with medication, particularly in the treatment of conditions like depression or anxiety disorders. This combination approach is known as "CBT combined with pharmacotherapy."
+
+Cognitive Behavioral Therapy is a highly structured and practical approach to addressing psychological difficulties. It equips individuals with the tools and strategies they need to challenge and change negative thought patterns and behaviors, leading to improved emotional well-being and better coping skills. If you are considering CBT, it's important to seek a qualified mental health professional who is trained in this therapeutic approach.
+User
+Chronic Inflammatory Response Syndrome (CIRS) 
+ChatGPT
+
+Chronic Inflammatory Response Syndrome (CIRS) is a complex and controversial medical condition characterized by a heightened inflammatory response to environmental triggers, such as mold, certain toxins, and other biotoxins. CIRS is most often associated with exposure to water-damaged buildings or environments contaminated with mold, and it is believed to result from a genetic predisposition that leads to an abnormal immune response to these environmental factors.
+
+Key points about Chronic Inflammatory Response Syndrome (CIRS) include:
+
+    Environmental Triggers: CIRS typically occurs in individuals who have been exposed to specific environmental triggers, such as mycotoxins produced by molds like Stachybotrys chartarum. Other potential triggers include bacteria, endotoxins, and volatile organic compounds from water-damaged buildings.
+
+    Symptoms: CIRS is characterized by a wide range of symptoms that can vary from person to person but often include fatigue, cognitive difficulties (often referred to as "brain fog"), respiratory issues, musculoskeletal pain, headaches, gastrointestinal symptoms, and mood disturbances.
+
+    Mechanism: It is thought that individuals with CIRS have a genetic predisposition that leads to an abnormal immune response when exposed to certain biotoxins. This immune dysregulation can lead to chronic inflammation and the range of associated symptoms.
+
+    Diagnosis: The diagnosis of CIRS can be challenging, as there is no specific laboratory test that can definitively confirm the condition. Diagnosis typically involves a combination of clinical evaluation, patient history, and the presence of specific symptoms in response to biotoxin exposure. Some practitioners use the Shoemaker protocol, which includes a panel of blood tests, to aid in diagnosis.
+
+    Controversy: CIRS is a subject of controversy within the medical community. While some healthcare providers and patients advocate for its recognition and treatment, others argue that the condition is not well-defined, and there is insufficient scientific evidence to support it as a distinct medical entity.
+
+    Treatment: Treatment for CIRS often involves removing the individual from the environment with biotoxin exposure, addressing any mold or biotoxin sources, and symptom management. Therapies may include antifungal medications, binders to help remove toxins, and lifestyle modifications. Some individuals also receive immune modulators or anti-inflammatory treatments.
+
+    Individual Variation: CIRS can manifest differently from person to person, and not all individuals exposed to biotoxins will develop this syndrome. Genetic factors and the nature and duration of exposure play a role in who is affected.
+
+It's important to note that the diagnosis and management of CIRS can be complex and are not universally accepted within the medical community. Individuals who believe they may have CIRS should consult with healthcare providers who are experienced in evaluating and treating environmental illness and related conditions. Healthcare professionals should consider a comprehensive approach to address both environmental triggers and the management of symptoms, working closely with their patients.
+
+Systemic Inflammatory Response Syndrome
+ChatGPT
+
+Systemic Inflammatory Response Syndrome (SIRS) is a medical condition characterized by a systemic, widespread inflammatory response in the body. It is a response to various forms of severe insults or injuries, such as infections, trauma, burns, major surgeries, or other critical illnesses. SIRS is not a disease itself but rather a clinical syndrome with specific criteria used to assess the body's inflammatory response.
+
+Key points about Systemic Inflammatory Response Syndrome (SIRS) include:
+
+    Diagnostic Criteria: SIRS is diagnosed based on the presence of specific clinical criteria, which include abnormalities in vital signs and laboratory values. The criteria include abnormalities in at least two of the following four categories:
+        Abnormal body temperature: Fever (a high body temperature) or hypothermia (a low body temperature).
+        Elevated heart rate (tachycardia) or a significant increase in heart rate in response to stress.
+        Rapid breathing (tachypnea) or an elevated respiratory rate.
+        Abnormal white blood cell count, which can manifest as an elevated white blood cell count (leukocytosis) or a low white blood cell count (leukopenia).
+
+    Causes: SIRS is typically triggered by severe infections (sepsis), trauma, burns, major surgery, or other critical illnesses. In these conditions, the body's immune response becomes dysregulated, leading to excessive inflammation that can affect multiple organ systems.
+
+    Complications: If not promptly recognized and treated, SIRS can progress to severe sepsis or septic shock, which are life-threatening conditions. Organ dysfunction and failure can occur in the advanced stages of SIRS.
+
+    Treatment: The treatment of SIRS primarily involves addressing the underlying cause. In cases of infection, antibiotics are often prescribed. Supportive care, such as maintaining adequate oxygen levels, fluid resuscitation, and monitoring of vital signs, is essential to manage SIRS.
+
+    Prognosis: The prognosis for SIRS varies depending on the underlying condition, the timing of treatment, and the patient's overall health. Early recognition and intervention are key to improving outcomes.
+
+    Clinical Assessment: Healthcare providers use various clinical assessments and tools to evaluate SIRS and its severity. Scoring systems like the Sequential Organ Failure Assessment (SOFA) and the quick SOFA (qSOFA) are used to determine the likelihood of severe outcomes in patients with SIRS.
+
+    Infection and Non-Infectious Causes: While SIRS is most commonly associated with infections, it can also occur in response to non-infectious causes, such as severe trauma or burns. In these cases, the body's inflammatory response can be triggered by tissue damage.
+
+    Research and Advances: There is ongoing research to better understand the pathophysiology of SIRS and to develop more effective treatments. Timely diagnosis and intervention continue to be the focus of efforts to improve outcomes for individuals with SIRS.
+
+SIRS is a critical condition that requires prompt medical attention and intervention. Healthcare providers use a combination of clinical criteria, laboratory tests, and imaging studies to diagnose and manage SIRS. The primary goal of treatment is to address the underlying cause and provide supportive care to stabilize the patient's condition.
+
+###
+
+
+MosaicDX: IgG Food MAP with Candida + Yeast
+https://mosaicdx.com/test/igg-food-map/
+
+MosaicDX: IgE Inhalant Allergy Test
+https://mosaicdx.com/test/ige-inhalant-allergy-test/
+
+MosaicDX: IgE Mold Allergy Test
+https://mosaicdx.com/test/ige-mold-allergy-test/
+
+SmartPractice: T.R.U.E. TEST patch test
+https://www.smartpractice.com/shop/category?id=508222
+
+###
+
+cerebrolysin
+methylcobalamine (powdered)
+
+###
+
+ including smoldering SM and BM mastocytosis (BMM), and updated criteria for MCAS and other condi-
+tions involving MC. CD30 expression in MC now qualifies as a minor SM criterion, and BMM is now defined by SM criteria, absence
+of skin lesions and absence of B- and C-findings. A basal serum tryptase level exceeding 20 ng/mL remains a minor SM criterion,
+with recognition that hereditary alpha-tryptasemia and various myeloid neoplasms may also cause elevations in tryptase. Our updated
+proposal will support diagnostic evaluations and prognostication in daily practice and the conduct of clinical trials in MC disorders.
+
+###
+
+high grade squamous cell carcinoma p16 negative
+
+###
+
+
+1 Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria
+
+2 Ludwig Boltzmann Institute for Hematology and Oncology, Medical University of
+Vienna, Austria
+
+3
+4
+Division of Allergy, Department of Dermatology, University Hospital Basel and
+University of Basel, Switzerland
+5
+Department of Biomedicine, University Hospital Basel and University of Basel,
+Switzerland
+6
+Instituto de Estudios de Mastocitosis de Castilla La Mancha (CLMast) and
+CIBERONC, Hospital Virgen del Valle, Toledo, Spain
+7
+Department of Dermatology and Allergy Biederstein, Technical University of
+Munich, Germany
+8
+Imagine Institute Université de Paris, Sorbonne, Institut national de la santé et de
+la recherche médicale U1163, Centre national de référence des mastocytoses,
+Hôpital Necker, Assistance publique hôpitaux de Paris, France
+9
+Department of Allergology, Medical University of Gdansk, Poland
+10
+Department of Hematology and Oncology, University Hospital Mannheim,
+Germany
+11
+Translational Allergic Immunopathology Unit, Laboratory of Allergic Diseases,
+NIAID, NIH, Bethesda, Maryland, USA
+12
+Mast Cell Biology Section, Laboratory of Allergic Diseases, NIAID, NIH,
+Bethesda, Maryland, USA
+13
+Department of Allergology, University Medical Center Groningen and GRIAC
+Research Institute, University of Groningen, The Netherlands
+14
+Division of Allergic Diseases, Mayo Clinic, Rochester, Minnesota, USA
+15 Department of Pathology, University of Utah, Salt Lake City, Utah, USA
+
+
+16 Department of Laboratory Medicine, Medical University of Vienna, Austria and
+Ihr Labor, Medical Diagnostic Laboratories, Vienna, Austria
+17 Division of Hematology, Oncology and Cell Therapy, Department of Medicine,
+The Coleman Foundation Blood and Marrow Transplant Center at Rush
+University Medical Center, Chicago, Illinois, USA
+18 Allergy Unit, Verona University Hospital, Verona, Italy
+19 Institute of Pathology, Paracelsus Medical University Salzburg, Austria
+20 Department of Medicine Solna & Mastocytosis Centre, Karolinska Institute and
+Karolinska University Hospital, Stockholm, Sweden
+21 Dermatological Allergology, Department of Dermatology and Allergy, Charité-
+Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin,
+Humboldt - Universität zu Berlin, and Berlin Institute of Health, Germany
+22 Department of Dermatology and Allergy Centre, Odense University Hospital,
+Odense, Denmark
+23 Division of Haematology, Department of Internal Medicine, University of Istanbul,
+Turkey
+24 Section of Hematology, Multidisciplinary Outpatients Clinics for Mastocytosis,
+Department of Medicine, University Hospital of Verona, Italy
+25 Department of Dermatology, Venereology and Allergology, Medical University of
+Gdansk, Poland
+26 Invicta Fertility and Reproductive Center, Molecular Laboratory, Sopot, Poland
+27 MLL Munich Leukemia Laboratory, Munich, Germany
+28 Division of Allergy and Immunology, Department of Medicine, Brigham and
+Women’s Hospital, Harvard Medical School, Boston, Massachusetts, USA
+29 Department of Clinical Haematology, Guys and St Thomas’ NHS Hospitals,
+London, United Kingdom
+30 Servicio Central de Citometria, Centro de Investigacion del Cancer (IBMCC;
+CSIC/USAL) Instituto Biosanitario de Salamanca (IBSAL) and Department of
+Medicine, University of Salamanca, Spain
+
+31 Division of Allergy and Clinical Immunology, University of Salerno, Italy
+32 Department of Haematology, University Medical Center Groningen, University of
+Groningen, The Netherlands
+33 Department of Pathology and the Sean N. Parker Center for Allergy and Asthma
+Research, Stanford University School of Medicine, Stanford, California, USA
+34 Division of Rheumatology, Allergy & Immunology, Department of Internal
+Medicine, Virginia Commonwealth University (VCU), Richmond, Virginia, USA
+35 Stanford Cancer Institute/Stanford University School of Medicine/Stanford
+Cancer Institute, Stanford, California, USA
+36 Department of Hematological Biology, Pitié-Salpêtrière Hospital, Pierre et Marie
+Curie University (UPMC), Paris, France
+37 Institute of Pathology, Ludwig-Maximilians-University, Munich, Germany
+
+###
+
+I was diagnosed with hEDS (Hypermobile Ehlers-Danlos Syndrome). With this rare genetic disorder: 1 out of every 15 people that have hEDS, also develop Cranialcervical Instability (CCI). Those that have CCI and hEDS, unfortunately always also have MCAS. I also have POTS which is very common. I used to have Idiopathic Intercranial Hypertension, another common comorbidity, but it has since been resolved suddenly and unexpectedly.
+
+I have systematic mastocytosis I take sodium cromolyn and mix it with water, lots of zertec (generic works too) and montelkaust to help with breathing and head pains. Try getting your doctors to do blood test, bone density test, bone marrow test, and a 48 hour urine test. After that you should know if you have a mast cell disorder. Stay strong guys we will be ok 😊
+
+I have MCAS but not EDsyndrome...it’s taken 20 years (after having a ruptured appendix and peritonitis in ‘98) to get CLOSE to a diagnosis....thankful for my RNP who looked at my blotchy purple legs and heard my complaints of burning sensations with extreme fatigue...SHE figured out that it was MAST cell related and she put me on Montelukast, and within 2 days my never ending rash/hives (that I had been living with for months at a time) 2 days...and it disappeared completely!
+
+Check out also for low dopamine in the brain. If you are a Highly Sensitive Person, you already have lower dopamine than others. Where there is low dopamine, there's more activation in mast cells. Treated with dopamine agonist (if you have low dopamine), antihistamines (H1, H2), vitamin D, (a small amount) injection of adrenaline under the skin of your belly. Occasional cortisone. Some also benefit from IV saline infusion, MCAS comes with dysautonomia. (You can also have EDS, if hypermobility is present)
+
+I know there are specific criteria for diagnosing SM and MCAS. But what about Hereditary Alpha Tryptasemia as a genetic cause for MCAS? I was diagnosed with HATS earlier this year by my geneticist, in addition to my hEDS & POTS. The allergy/immunology specialist I saw told me that a lifetime’s worth (53 years) of symptoms, disability and invasive medical interventions due to anaphylaxis, immune deficiency, severe gastroparesis chronic migraine, seizures, anxiety, ADHD and chronic pain syndromes etc. don’t qualify as MCAS? My medical records are packed with blood tests, elevated tryptase levels and other objective findings to support that the extra ALPHA tryptase genes is involved.
+
